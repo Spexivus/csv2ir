@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VOLUME ^
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 07 00 00 00
+#
+name: VOLUME V
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 0b 00 00 00

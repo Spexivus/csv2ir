@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+#
+name: BASS SHAPE - CINEMA
+type: parsed
+protocol: Aiwa
+address: 50 50 00 00
+command: 02 00 00 00
+#
+name: BASS SHAPE - REF.
+type: parsed
+protocol: Aiwa
+address: 50 50 00 00
+command: 03 00 00 00
+#
+name: BASS LEVEL +4
+type: parsed
+protocol: Aiwa
+address: 50 50 00 00
+command: 04 00 00 00
+#
+name: BASS LEVEL +6
+type: parsed
+protocol: Aiwa
+address: 50 50 00 00
+command: 07 00 00 00
+#
+name: BASS LEVEL -4
+type: parsed
+protocol: Aiwa
+address: 50 50 00 00
+command: 08 00 00 00
+#
+name: BASS LEVEL -6
+type: parsed
+protocol: Aiwa
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: BASS LEVEL +2
+type: parsed
+protocol: Aiwa
+address: 50 50 00 00
+command: 0f 00 00 00
+#
+name: BASS LEVEL -2
+type: parsed
+protocol: Aiwa
+address: 50 50 00 00
+command: 11 00 00 00
+#
+name: BASS LEVEL 0
+type: parsed
+protocol: Aiwa
+address: 50 50 00 00
+command: 13 00 00 00
+#
+name: TREBLE - CUT
+type: parsed
+protocol: Aiwa
+address: 50 50 00 00
+command: 1e 00 00 00
+#
+name: TREBLE - BOOST
+type: parsed
+protocol: Aiwa
+address: 50 50 00 00
+command: 1f 00 00 00

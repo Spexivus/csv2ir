@@ -1,0 +1,494 @@
+Filetype: IR signals file
+Version: 1
+#
+name: DISPLAY
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 00 00 00 00
+#
+name: DISPLAY B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 00 00 00 00
+#
+name: DISPLAY A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 00 00 00 00
+#
+name: POWER
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 01 00 00 00
+#
+name: POWER B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 01 00 00 00
+#
+name: POWER A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 01 00 00 00
+#
+name: CD
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 02 00 00 00
+#
+name: CD B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 02 00 00 00
+#
+name: CD A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 02 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 03 00 00 00
+#
+name: TUNER B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 03 00 00 00
+#
+name: TUNER A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 03 00 00 00
+#
+name: VIDEO
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 04 00 00 00
+#
+name: VIDEO B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 04 00 00 00
+#
+name: VIDEO 1 A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 04 00 00 00
+#
+name: VIDEO 1 B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 04 00 00 00
+#
+name: PHONO
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 08 00 00 00
+#
+name: PHONO B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 08 00 00 00
+#
+name: PHONO A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 08 00 00 00
+#
+name: AUX 1
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 09 00 00 00
+#
+name: AUX 1 B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 09 00 00 00
+#
+name: AUX 1 A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 09 00 00 00
+#
+name: AUX 2
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 0a 00 00 00
+#
+name: AUX 2 B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 0a 00 00 00
+#
+name: AUX 2 A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 0a 00 00 00
+#
+name: MONITOR A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 0b 00 00 00
+#
+name: MONITOR B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 0b 00 00 00
+#
+name: GAIN A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 0c 00 00 00
+#
+name: GAIN B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 0c 00 00 00
+#
+name: VOL UP
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 0f 00 00 00
+#
+name: VOL UP B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 0f 00 00 00
+#
+name: VOLUME + A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 0f 00 00 00
+#
+name: VOLUME + B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 0f 00 00 00
+#
+name: BAL L
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 11 00 00 00
+#
+name: BAL L B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 11 00 00 00
+#
+name: BALANCE LEFT A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 11 00 00 00
+#
+name: BALANCE LEFT B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 11 00 00 00
+#
+name: BAL R
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 13 00 00 00
+#
+name: BAL R B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 13 00 00 00
+#
+name: BALANCE RIGHT A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 13 00 00 00
+#
+name: BALANCE RIGHT B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 13 00 00 00
+#
+name: VOL DN
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 15 00 00 00
+#
+name: VOL DN B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 15 00 00 00
+#
+name: VOLUME - A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 15 00 00 00
+#
+name: VOLUME - B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 15 00 00 00
+#
+name: BAL/SE
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 17 00 00 00
+#
+name: BAL/SE B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 17 00 00 00
+#
+name: BAL/SE A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 17 00 00 00
+#
+name: HOURS
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 18 00 00 00
+#
+name: HOURS B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 18 00 00 00
+#
+name: HOURS A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 18 00 00 00
+#
+name: PROC
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 19 00 00 00
+#
+name: PROC B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 19 00 00 00
+#
+name: PROC A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 19 00 00 00
+#
+name: INVERT
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 1a 00 00 00
+#
+name: INVERT B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 1a 00 00 00
+#
+name: INVERT A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 1a 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 1b 00 00 00
+#
+name: MUTE B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 1b 00 00 00
+#
+name: MUTE A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 1b 00 00 00
+#
+name: MONO
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 1c 00 00 00
+#
+name: MONO B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 1c 00 00 00
+#
+name: STEREO/MONO A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 1c 00 00 00
+#
+name: STEREO/MONO B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 1c 00 00 00
+#
+name: POWER OFF A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 20 00 00 00
+#
+name: POWER OFF B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 20 00 00 00
+#
+name: POWER ON A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 21 00 00 00
+#
+name: POWER ON B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 21 00 00 00
+#
+name: MUTE OFF A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 22 00 00 00
+#
+name: MUTE OFF B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 22 00 00 00
+#
+name: MUTE ON A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 23 00 00 00
+#
+name: MUTE ON B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 23 00 00 00
+#
+name: MONIT OFF A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 24 00 00 00
+#
+name: MONIT OFF B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 24 00 00 00
+#
+name: MONITOR ON A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 25 00 00 00
+#
+name: MONITOR ON B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 25 00 00 00
+#
+name: LO GAIN A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 28 00 00 00
+#
+name: LO GAIN B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 28 00 00 00
+#
+name: MED GAIN A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 29 00 00 00
+#
+name: MED GAIN B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 29 00 00 00
+#
+name: HI GAIN A
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 2a 00 00 00
+#
+name: HI GAIN B
+type: parsed
+protocol: RC5
+address: 07 07 00 00
+command: 2a 00 00 00

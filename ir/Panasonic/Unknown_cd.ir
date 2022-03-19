@@ -1,0 +1,110 @@
+Filetype: IR signals file
+Version: 1
+#
+name: STOP/CLEAR
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 80 00 00 00
+#
+name: KEY_AGAIN
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 81 00 00 00
+#
+name: KEY_BACK
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 84 00 00 00
+#
+name: KEY_FORWARD
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 85 00 00 00
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 87 00 00 00
+#
+name: MEMORY
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 8b 00 00 00
+#
+name: KEY_TAPE
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: ac 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: b0 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: b1 00 00 00
+#
+name: XBS
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: b5 00 00 00
+#
+name: KEY_CD
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: b6 00 00 00
+#
+name: BAND
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: b8 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: bf 00 00 00
+#
+name: FM_MODE
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: e4 00 00 00
+#
+name: TUNER_CH_UP
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: e7 00 00 00
+#
+name: TUNER_CH_DOWN
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: e8 00 00 00
+#
+name: TUNER+
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: e9 00 00 00
+#
+name: TUNER-
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: ea 00 00 00

@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+#
+name: EQ SLOPE
+type: parsed
+protocol: Sony12
+address: 12 12 00 00
+command: 0d 00 00 00
+#
+name: EQ CHANNEL
+type: parsed
+protocol: Sony12
+address: 12 12 00 00
+command: 0f 00 00 00
+#
+name: EQ BAND
+type: parsed
+protocol: Sony12
+address: 12 12 00 00
+command: 20 00 00 00
+#
+name: EQ
+type: parsed
+protocol: Sony12
+address: 12 12 00 00
+command: 2c 00 00 00
+#
+name: EQ FLAT
+type: parsed
+protocol: Sony12
+address: 12 12 00 00
+command: 3f 00 00 00
+#
+name: TEST TONE
+type: parsed
+protocol: Sony12
+address: 12 12 00 00
+command: 4a 00 00 00
+#
+name: REAR VOL +
+type: parsed
+protocol: Sony12
+address: 12 12 00 00
+command: 4e 00 00 00
+#
+name: REAR VOL -
+type: parsed
+protocol: Sony12
+address: 12 12 00 00
+command: 4f 00 00 00
+#
+name: CENTER VOL +
+type: parsed
+protocol: Sony12
+address: 12 12 00 00
+command: 54 00 00 00
+#
+name: CENTER VOL -
+type: parsed
+protocol: Sony12
+address: 12 12 00 00
+command: 55 00 00 00
+#
+name: PRESET / USER
+type: parsed
+protocol: Sony12
+address: 12 12 00 00
+command: 7e 00 00 00

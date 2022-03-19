@@ -1,0 +1,320 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SPEAKERS 2-3-5
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 00 00 00 00
+#
+name: MUTE ZONE #1
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 01 00 00 00
+#
+name: VOLUME - ZONE #1
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 02 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 02 00 00 00
+#
+name: VOLUME + ZONE #1
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 03 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 03 00 00 00
+#
+name: FM/AM ZONE #1
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 06 00 00 00
+#
+name: SURROUND -
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0a 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0a 00 00 00
+#
+name: SURROUND +
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0b 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0b 00 00 00
+#
+name: VCR INPUT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0d 00 00 00
+#
+name: TV INPUT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0e 00 00 00
+#
+name: AUX INPUT ZONE #1
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0f 00 00 00
+#
+name: DVD STOP
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 1a 00 00 00
+#
+name: DVD CURSOR DOWN
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 20 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 20 00 00 00
+#
+name: FM/AM ZONE #2
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 20 00 00 00
+#
+name: DVD EXIT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 30 00 00 00
+#
+name: DVD 0
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 40 00 00 00
+#
+name: DVD 1
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 41 00 00 00
+#
+name: FM PRESET 1
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 41 00 00 00
+#
+name: DVD 2
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 42 00 00 00
+#
+name: FM PRESET 2
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 42 00 00 00
+#
+name: DVD 3
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 43 00 00 00
+#
+name: FM PRESET 3
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 43 00 00 00
+#
+name: DVD 4
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 44 00 00 00
+#
+name: FM PRESET 4
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 44 00 00 00
+#
+name: DVD 5
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 45 00 00 00
+#
+name: DVD 6
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 46 00 00 00
+#
+name: DVD 7
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 47 00 00 00
+#
+name: DVD 8
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 48 00 00 00
+#
+name: DVD 9
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 49 00 00 00
+#
+name: ON /OFF
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 4c 00 00 00
+#
+name: MUTE ALL ZONE #1&2
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 4d 00 00 00
+#
+name: CD/DVD
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 53 00 00 00
+#
+name: DVD PLAY
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 55 00 00 00
+#
+name: DVD PAUSE
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 56 00 00 00
+#
+name: DVD SKIP <<
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 57 00 00 00
+#
+name: DVD SKIP >>
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 58 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 58 00 00 00
+#
+name: SHUFFLE
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 5c 00 00 00
+#
+name: DVD CURSOR RIGHT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 60 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 60 00 00 00
+#
+name: SETTINGS
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 80 00 00 00
+#
+name: DVD MENU
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 90 00 00 00
+#
+name: DVD REPEAT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 9d 00 00 00
+#
+name: DVD CURSOR LEFT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: a0 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: a0 00 00 00
+#
+name: DVD CURSOR UP
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: c0 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: c0 00 00 00
+#
+name: DVD GUIDE
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: d0 00 00 00
+#
+name: DVD ENTER
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: e0 00 00 00

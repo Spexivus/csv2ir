@@ -1,0 +1,362 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_STOP
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 03 00 00 00
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 04 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 06 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 07 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 0b 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 0c 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 0d 00 00 00
+#
+name: MENU/TEXT
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 13 00 00 00
+#
+name: SEARCHFWD
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 14 00 00 00
+#
+name: KEY_GREEN
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 15 00 00 00
+#
+name: AUDIO-MONITOR
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 17 00 00 00
+#
+name: CURSORLEFT
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 18 00 00 00
+#
+name: CURSORRIGHT
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 19 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 1e 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 21 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 22 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 23 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 24 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 25 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 26 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 27 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 28 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 29 00 00 00
+#
+name: SP/LP
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 31 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 33 00 00 00
+#
+name: VPS/CHANNEL
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 34 00 00 00
+#
+name: KEY_DELETE
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 36 00 00 00
+#
+name: PROGR
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 37 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 38 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 39 00 00 00
+#
+name: TARGET
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 3b 00 00 00
+#
+name: KEY_SELECT
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 3c 00 00 00
+#
+name: D/W/MEMORY
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 3e 00 00 00
+#
+name: RINGRIGHTPROG
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 80 00 00 00
+#
+name: RINGLEFTPROG
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 84 00 00 00
+#
+name: INDEX
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 91 00 00 00
+#
+name: SETMARKE
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 93 00 00 00
+#
+name: ERASEMARK
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 94 00 00 00
+#
+name: SEEK-INTERVAL/-EMPTY
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 96 00 00 00
+#
+name: SEEKMARK
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: 97 00 00 00
+#
+name: JOGTAPE-1
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: af 00 00 00
+#
+name: RINGTAPE-6
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: b1 00 00 00
+#
+name: RINGTAPE-5
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: b2 00 00 00
+#
+name: RINGTAPE-4
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: b3 00 00 00
+#
+name: RINGTAPE-3
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: b4 00 00 00
+#
+name: RINGTAPE-2
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: b5 00 00 00
+#
+name: RINGTAPE-1
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: b6 00 00 00
+#
+name: RINGTAPE+1
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: b9 00 00 00
+#
+name: RINGTAPE+2
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: ba 00 00 00
+#
+name: RINGTAPE+3
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: bb 00 00 00
+#
+name: RINGTAPE+4
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: bc 00 00 00
+#
+name: RINGTAPE+5
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: bd 00 00 00
+#
+name: RINGTAPE+6
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: be 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: cc 00 00 00
+#
+name: SEARCHBWD
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: d5 00 00 00
+#
+name: JOGTAPE-3
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: d8 00 00 00
+#
+name: JOGTAPE-2
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: d9 00 00 00
+#
+name: JOGTAPE+2
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: da 00 00 00
+#
+name: JOGTAPE+3
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: db 00 00 00
+#
+name: JOGTAPE+1
+type: parsed
+protocol: JVC{2}
+address: 43 43 00 00
+command: ed 00 00 00

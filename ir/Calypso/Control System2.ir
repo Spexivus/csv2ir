@@ -1,0 +1,290 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CT 018
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 00 00 00 00
+#
+name: CT 019
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 01 00 00 00
+#
+name: CT 020
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 02 00 00 00
+#
+name: CT 021
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 03 00 00 00
+#
+name: CT 022
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 04 00 00 00
+#
+name: CT 023
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 05 00 00 00
+#
+name: CT 024
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 06 00 00 00
+#
+name: CT 025
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 07 00 00 00
+#
+name: CT 026
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 08 00 00 00
+#
+name: CT 029
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 0d 00 00 00
+#
+name: CT 011
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 0f 00 00 00
+#
+name: CT 002
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 12 00 00 00
+#
+name: CT 003
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 13 00 00 00
+#
+name: CT 001
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 15 00 00 00
+#
+name: CT 004
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 1c 00 00 00
+#
+name: CT 033
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 1d 00 00 00
+#
+name: CT 010
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: CT 017
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: CT 027
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 27 00 00 00
+#
+name: CT 038
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 28 00 00 00
+#
+name: CT 028
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 2c 00 00 00
+#
+name: CT 037
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 30 00 00 00
+#
+name: CT 032
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 31 00 00 00
+#
+name: CT 005
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 32 00 00 00
+#
+name: CT 008
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 33 00 00 00
+#
+name: CT 009
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 34 00 00 00
+#
+name: CT 034
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 35 00 00 00
+#
+name: CT 081
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 36 00 00 00
+#
+name: CT 006
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 38 00 00 00
+#
+name: CT 007
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 39 00 00 00
+#
+name: CT 042
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 3d 00 00 00
+#
+name: CT 041
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 3e 00 00 00
+#
+name: CT 040
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: CT 043
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 40 00 00 00
+#
+name: CT 044
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 41 00 00 00
+#
+name: CT 045
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 42 00 00 00
+#
+name: CT 046
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 43 00 00 00
+#
+name: CT 047
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 44 00 00 00
+#
+name: CT 035
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 4a 00 00 00
+#
+name: CT 031
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 4b 00 00 00
+#
+name: CT 030
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 4c 00 00 00
+#
+name: CT 039
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 5f 00 00 00
+#
+name: CT 036
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 6f 00 00 00
+#
+name: CT 014
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 79 00 00 00
+#
+name: CT 015
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 7a 00 00 00
+#
+name: CT 012
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 7b 00 00 00
+#
+name: CT 013
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 7c 00 00 00
+#
+name: CT 016
+type: parsed
+protocol: Sony12
+address: 11 11 00 00
+command: 7d 00 00 00

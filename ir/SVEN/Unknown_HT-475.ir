@@ -1,0 +1,80 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SPK+
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 00 00 00 00
+#
+name: SPK-
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 04 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 08 00 00 00
+#
+name: SPK
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 0c 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 0d 00 00 00
+#
+name: S.BASS
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 10 00 00 00
+#
+name: EQ+
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 11 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 14 00 00 00
+#
+name: EQ-
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 15 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 18 00 00 00
+#
+name: EQ
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 19 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 1c 00 00 00
+#
+name: KEY_MODE
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 1d 00 00 00

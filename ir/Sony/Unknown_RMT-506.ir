@@ -1,0 +1,44 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_STOP
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 18 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 19 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 1a 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 1b 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 1c 00 00 00
+#
+name: KEY_SLOW
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 23 00 00 00
+#
+name: Data_Screen
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 5a 00 00 00

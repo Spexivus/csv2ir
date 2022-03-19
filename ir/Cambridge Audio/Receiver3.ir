@@ -1,0 +1,212 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SPK-SETUP
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 01 00 00 00
+#
+name: PL II NEO
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 02 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 03 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 04 00 00 00
+#
+name: PFEIL LINKS
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 06 00 00 00
+#
+name: TEST TONE
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 07 00 00 00
+#
+name: DSP-MODE
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 09 00 00 00
+#
+name: BASS / TREBLE
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 0a 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 0c 00 00 00
+#
+name: CH-SELECT
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 0d 00 00 00
+#
+name: STEREO/MONO
+type: parsed
+protocol: NECext
+address: c0 00 00 00
+command: 0e 00 00 00
+#
+name: 6.1 DIRECT
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 0f 00 00 00
+#
+name: OSD ON/OFF
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 11 00 00 00
+#
+name: SUB ON/OFF
+type: parsed
+protocol: NECext
+address: c0 00 00 00
+command: 12 00 00 00
+#
+name: DYNAMIC
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 13 00 00 00
+#
+name: STUMM
+type: parsed
+protocol: NECext
+address: c0 00 00 00
+command: 14 00 00 00
+#
+name: PFEIL RECHTS
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 15 00 00 00
+#
+name: PTY
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 16 00 00 00
+#
+name: DD EX DTS ES
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 17 00 00 00
+#
+name: STEREO
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 1a 00 00 00
+#
+name: APS
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 1b 00 00 00
+#
+name: TUNER AM/FM
+type: parsed
+protocol: NECext
+address: c0 00 00 00
+command: 1c 00 00 00
+#
+name: STORE
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 1d 00 00 00
+#
+name: MODE
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 1e 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 1f 00 00 00
+#
+name: LFE TRIM
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 20 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 21 00 00 00
+#
+name: DVD
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 22 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 23 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 24 00 00 00
+#
+name: VIDEO 3
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 25 00 00 00
+#
+name: TAPE MD/CDR
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 26 00 00 00
+#
+name: CD/AUX
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: 27 00 00 00
+#
+name: INPUT MODE
+type: parsed
+protocol: NECext
+address: c0 00 00 00
+command: 60 00 00 00
+#
+name: DELAY
+type: parsed
+protocol: NEC
+address: c0 00 00 00
+command: a0 00 00 00

@@ -1,0 +1,470 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ARROW LEFT
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 08 00 00 00
+#
+name: ARROW LEFT B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 08 00 00 00
+#
+name: DEL
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 0a 00 00 00
+#
+name: DEL B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 0a 00 00 00
+#
+name: OK
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 0d 00 00 00
+#
+name: OK B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 0d 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: VOLUME - B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: TV
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 26 00 00 00
+#
+name: TV B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 26 00 00 00
+#
+name: REC
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 29 00 00 00
+#
+name: REC B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 29 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 2d 00 00 00
+#
+name: VOLUME + B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 2d 00 00 00
+#
+name: EPG
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 3d 00 00 00
+#
+name: EPG B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 3d 00 00 00
+#
+name: ?
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 88 00 00 00
+#
+name: ? B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 88 00 00 00
+#
+name: B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 8c 00 00 00
+#
+name: B B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 8c 00 00 00
+#
+name: C
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 99 00 00 00
+#
+name: C B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 99 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 9e 00 00 00
+#
+name: CHANNEL + B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 9e 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 9f 00 00 00
+#
+name: CHANNEL - B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: 9f 00 00 00
+#
+name: UP
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: a8 00 00 00
+#
+name: UP B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: a8 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: a9 00 00 00
+#
+name: DOWN B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: a9 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: aa 00 00 00
+#
+name: LEFT B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: aa 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: ab 00 00 00
+#
+name: RIGHT B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: ab 00 00 00
+#
+name: PIP
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: b7 00 00 00
+#
+name: PIP B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: b7 00 00 00
+#
+name: A
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d0 00 00 00
+#
+name: A B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d0 00 00 00
+#
+name: P
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d1 00 00 00
+#
+name: P B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d1 00 00 00
+#
+name: POWER
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d2 00 00 00
+#
+name: POWER B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d2 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d3 00 00 00
+#
+name: PAUSE B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d3 00 00 00
+#
+name: STOP
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d4 00 00 00
+#
+name: STOP B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d4 00 00 00
+#
+name: REW
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d5 00 00 00
+#
+name: REW B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d5 00 00 00
+#
+name: FF
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d6 00 00 00
+#
+name: FF B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: d6 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: db 00 00 00
+#
+name: SKIP << B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: db 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: dc 00 00 00
+#
+name: SKIP >> B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: dc 00 00 00
+#
+name: STAR
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: e1 00 00 00
+#
+name: STAR B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: e1 00 00 00
+#
+name: 0
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f1 00 00 00
+#
+name: 0 B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f1 00 00 00
+#
+name: 1
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f2 00 00 00
+#
+name: 1B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f2 00 00 00
+#
+name: 2
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f3 00 00 00
+#
+name: 2B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f3 00 00 00
+#
+name: 3
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f4 00 00 00
+#
+name: 3B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f4 00 00 00
+#
+name: 4
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f5 00 00 00
+#
+name: 4B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f5 00 00 00
+#
+name: 5
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f6 00 00 00
+#
+name: 5B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f6 00 00 00
+#
+name: 6
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f7 00 00 00
+#
+name: 6B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f7 00 00 00
+#
+name: 7
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f8 00 00 00
+#
+name: 7B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f8 00 00 00
+#
+name: 8
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f9 00 00 00
+#
+name: 8B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: f9 00 00 00
+#
+name: 9
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: fa 00 00 00
+#
+name: 9 B
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: fa 00 00 00
+#
+name: C/N
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: fc 00 00 00
+#
+name: C/NB
+type: parsed
+protocol: MCE
+address: 11 11 00 00
+command: fc 00 00 00

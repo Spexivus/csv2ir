@@ -1,0 +1,44 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VIDEO A
+type: parsed
+protocol: JVC
+address: 1f 1f 00 00
+command: d1 00 00 00
+#
+name: VIDEO B
+type: parsed
+protocol: JVC
+address: 1f 1f 00 00
+command: d2 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: JVC
+address: 1f 1f 00 00
+command: da 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: JVC
+address: 1f 1f 00 00
+command: dd 00 00 00
+#
+name: AUX B
+type: parsed
+protocol: JVC
+address: 1f 1f 00 00
+command: e0 00 00 00
+#
+name: COMPONENT
+type: parsed
+protocol: JVC
+address: 1f 1f 00 00
+command: e1 00 00 00
+#
+name: AUX A
+type: parsed
+protocol: JVC
+address: 1f 1f 00 00
+command: e2 00 00 00

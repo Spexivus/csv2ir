@@ -1,0 +1,110 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER ON
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 01 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 02 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 08 00 00 00
+#
+name: ASPECT WIDE (TOG)
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 10 00 00 00
+#
+name: ASPECT AUTO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 11 00 00 00
+#
+name: ASPECT NORMAL
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 12 00 00 00
+#
+name: ASPECT WIDE1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 13 00 00 00
+#
+name: ASPECT WIDE2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 14 00 00 00
+#
+name: ASPECT ZOOM1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 15 00 00 00
+#
+name: ASPECT ZOOM2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 16 00 00 00
+#
+name: ADJ LEFT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 20 00 00 00
+#
+name: ADJ RIGHT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 21 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 22 00 00 00
+#
+name: ADJ UP
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 23 00 00 00
+#
+name: ADJ DOWN
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 24 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 26 00 00 00
+#
+name: PICTURE MODE
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 44 00 00 00
+#
+name: PICTURE MEMORY
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 48 00 00 00

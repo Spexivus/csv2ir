@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 1 OPEN
+type: parsed
+protocol: JVC
+address: 51 51 00 00
+command: ae 00 00 00

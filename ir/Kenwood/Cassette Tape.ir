@@ -1,0 +1,140 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PHONO
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 90 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 91 00 00 00
+#
+name: CD
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 92 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 93 00 00 00
+#
+name: TAPE 1
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 94 00 00 00
+#
+name: TAPE 2
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 95 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 96 00 00 00
+#
+name: VOL CONTROL V
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 9a 00 00 00
+#
+name: VOL CONTROL ^
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 9b 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 9c 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 9d 00 00 00
+#
+name: TAPEA R.PLAY <
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: d0 00 00 00
+#
+name: TAPEA PLAY >
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: d1 00 00 00
+#
+name: TAPEA REW <<
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: d2 00 00 00
+#
+name: TAPEA FF >>
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: d3 00 00 00
+#
+name: TAPEA STOP []
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: d5 00 00 00
+#
+name: TAPEB REV PLAY <
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: d8 00 00 00
+#
+name: TAPEB PLAY >
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: d9 00 00 00
+#
+name: TAPEB REW <<
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: da 00 00 00
+#
+name: TAPEB FF >>
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: db 00 00 00
+#
+name: TAPEB PAUSE (ONLY)
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: dc 00 00 00
+#
+name: TAPEB STOP []
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: dd 00 00 00
+#
+name: TAPEB REC (ONLY)
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: de 00 00 00

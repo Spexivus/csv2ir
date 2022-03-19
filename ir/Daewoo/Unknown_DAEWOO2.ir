@@ -1,0 +1,230 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ch0
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 00 00 00 00
+#
+name: ch1
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 01 00 00 00
+#
+name: ch2
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 02 00 00 00
+#
+name: ch3
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 03 00 00 00
+#
+name: ch4
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 04 00 00 00
+#
+name: ch5
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 05 00 00 00
+#
+name: ch6
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 06 00 00 00
+#
+name: ch7
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 07 00 00 00
+#
+name: ch8
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 08 00 00 00
+#
+name: ch9
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 09 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 0d 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 0e 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 0f 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 10 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 11 00 00 00
+#
+name: KEY_O
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 12 00 00 00
+#
+name: KEY_NEXT
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 13 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 15 00 00 00
+#
+name: tv/vcr
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 16 00 00 00
+#
+name: prup
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 17 00 00 00
+#
+name: prdown
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 18 00 00 00
+#
+name: ad
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 19 00 00 00
+#
+name: asel
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 1a 00 00 00
+#
+name: sp/lp
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 1b 00 00 00
+#
+name: svc
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 1c 00 00 00
+#
+name: KEY_A
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 1d 00 00 00
+#
+name: gt30
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 1e 00 00 00
+#
+name: pal/sec
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 1f 00 00 00
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 21 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 22 00 00 00
+#
+name: qs
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 27 00 00 00
+#
+name: KEY_OK
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 29 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 31 00 00 00
+#
+name: indexup
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 33 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 35 00 00 00
+#
+name: av
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 36 00 00 00
+#
+name: sv/v+
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 39 00 00 00
+#
+name: indexdown
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 3f 00 00 00

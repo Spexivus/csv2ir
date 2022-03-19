@@ -1,0 +1,164 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 80 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 81 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 82 00 00 00
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 83 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 84 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 85 00 00 00
+#
+name: select-
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 86 00 00 00
+#
+name: KEY_NEXT
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 87 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 88 00 00 00
+#
+name: random
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 89 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 8a 00 00 00
+#
+name: select+
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 8c 00 00 00
+#
+name: KEY_AGAIN
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 8d 00 00 00
+#
+name: KEY_CANCEL
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 8e 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 90 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 91 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 92 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 93 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 94 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 95 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 96 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 99 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 9a 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 9c 00 00 00
+#
+name: KEY_LIST
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 9d 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 9e 00 00 00
+#
+name: KEY_SEARCH
+type: parsed
+protocol: NEC
+address: 82 82 00 00
+command: 9f 00 00 00

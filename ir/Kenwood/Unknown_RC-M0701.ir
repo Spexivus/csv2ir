@@ -1,0 +1,218 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_0
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 00 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 01 00 00 00
+#
+name: display_mode
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 02 00 00 00
+#
+name: ^2
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 02 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 04 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 05 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 06 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 06 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 07 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 08 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 09 00 00 00
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 0a 00 00 00
+#
+name: +100
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 0b 00 00 00
+#
+name: md_stop
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 11 00 00 00
+#
+name: q.m.clear
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 12 00 00 00
+#
+name: md_move_backward
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 14 00 00 00
+#
+name: md_move_forward
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 15 00 00 00
+#
+name: md_backward
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 16 00 00 00
+#
+name: md_forward
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 17 00 00 00
+#
+name: time_display
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 18 00 00 00
+#
+name: KEY_AGAIN
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 19 00 00 00
+#
+name: Clear_Delete
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 1a 00 00 00
+#
+name: check_space
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 1b 00 00 00
+#
+name: p.mode_priority
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 1f 00 00 00
+#
+name: q.m.check_record
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 50 00 00 00
+#
+name: auto/manual
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 52 00 00 00
+#
+name: o.t.e.
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 53 00 00 00
+#
+name: md_play
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 9a 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: 9d 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: c5 00 00 00
+#
+name: titlesearch
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: c6 00 00 00
+#
+name: sez
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: c7 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: c8 00 00 00
+#
+name: quickmove
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: c9 00 00 00
+#
+name: trackedit
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: ca 00 00 00
+#
+name: title_input
+type: parsed
+protocol: NEC
+address: b6 b6 00 00
+command: dc 00 00 00

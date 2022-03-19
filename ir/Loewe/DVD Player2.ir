@@ -1,0 +1,392 @@
+Filetype: IR signals file
+Version: 1
+#
+name: DVD 0
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 00 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 00 00 00 00
+#
+name: FM 0
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 00 00 00 00
+#
+name: DVD 1
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 01 00 00 00
+#
+name: FM 1
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 01 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 01 00 00 00
+#
+name: DVD 2
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 02 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 02 00 00 00
+#
+name: DVD 3
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 03 00 00 00
+#
+name: DVD 4
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 04 00 00 00
+#
+name: FM 4
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 04 00 00 00
+#
+name: DVD 5
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 05 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 05 00 00 00
+#
+name: FM 5
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 05 00 00 00
+#
+name: DVD 6
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 06 00 00 00
+#
+name: FM 6
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 06 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 06 00 00 00
+#
+name: DVD 7
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 07 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 07 00 00 00
+#
+name: FM 7
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 07 00 00 00
+#
+name: DVD 8
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 08 00 00 00
+#
+name: FM 8
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 08 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 08 00 00 00
+#
+name: DVD 9
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 09 00 00 00
+#
+name: FM 9
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 09 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 09 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 0c 00 00 00
+#
+name: RC1 MUTE
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 0d 00 00 00
+#
+name: FM ON
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 1c 00 00 00
+#
+name: CERTOS ON PLAY
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 21 00 00 00
+#
+name: AUX 3 DIGITAL
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 22 00 00 00
+#
+name: FM 11
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 29 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 29 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 2a 00 00 00
+#
+name: FM SEARCH FF
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 32 00 00 00
+#
+name: FM SEARCH REV
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 33 00 00 00
+#
+name: DVD CURSOR UPP
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 58 00 00 00
+#
+name: FM SKIP FF
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 58 00 00 00
+#
+name: DVD CURSOR NER
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 59 00 00 00
+#
+name: FM SKIP REV
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 59 00 00 00
+#
+name: NSTER
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 5a 00 00 00
+#
+name: VOLYM -.
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 5a 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 5a 00 00 00
+#
+name: GER
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 5b 00 00 00
+#
+name: VOLYM +
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 5b 00 00 00
+#
+name: DVD CURSOR ENTER
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 5c 00 00 00
+#
+name: DVD DISC MENY
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 8e 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 8e 00 00 00
+#
+name: DVD ZOOM
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 90 00 00 00
+#
+name: DVD KAPITEL
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 91 00 00 00
+#
+name: CD REPEAT
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 96 00 00 00
+#
+name: DVD REPEAT
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 99 00 00 00
+#
+name: CD TIME
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 9d 00 00 00
+#
+name: CD TEXT
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: 9f 00 00 00
+#
+name: CD MIX
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: a1 00 00 00
+#
+name: DVD PAUSE
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: c0 00 00 00
+#
+name: DVD SETUP
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: c1 00 00 00
+#
+name: DVD EXIT
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: c2 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: c2 00 00 00
+#
+name: DVD SKIP REV
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: c4 00 00 00
+#
+name: DVD STOP
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: c5 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: c5 00 00 00
+#
+name: DVD PLAY
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: c6 00 00 00
+#
+name: 
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: c6 00 00 00
+#
+name: DVD SKIP FF
+type: parsed
+protocol: Konka
+address: 20 20 00 00
+command: c7 00 00 00

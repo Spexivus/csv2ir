@@ -1,0 +1,104 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PRESET +
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 10 00 00 00
+#
+name: PRESET -
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 11 00 00 00
+#
+name: ABCDE
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 12 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 1f 00 00 00
+#
+name: BANK A
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: e0 00 00 00
+#
+name: BANK B
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: e1 00 00 00
+#
+name: BANK C
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: e2 00 00 00
+#
+name: BANK D
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: e3 00 00 00
+#
+name: BANK E
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: e4 00 00 00
+#
+name: PRESET 1
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: e5 00 00 00
+#
+name: PRESET 2
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: e6 00 00 00
+#
+name: PRESET 3
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: e7 00 00 00
+#
+name: PRESET 4
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: e8 00 00 00
+#
+name: PRESET 5
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: e9 00 00 00
+#
+name: PRESET 6
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: ea 00 00 00
+#
+name: PRESET 7
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: eb 00 00 00
+#
+name: PRESET 8
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: ec 00 00 00

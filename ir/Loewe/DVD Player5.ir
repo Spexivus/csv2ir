@@ -1,0 +1,242 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 30 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 31 00 00 00
+#
+name: T
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 32 00 00 00
+#
+name: T
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 33 00 00 00
+#
+name: PROGRAM +
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 34 00 00 00
+#
+name: PROGRAM -
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 35 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 36 00 00 00
+#
+name: PAUSE REC
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 38 00 00 00
+#
+name: STOPP
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 39 00 00 00
+#
+name: INFO
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 3a 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 3b 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 3c 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 3d 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 3e 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 3f 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 40 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 41 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 42 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 43 00 00 00
+#
+name: 0
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 44 00 00 00
+#
+name: END
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 45 00 00 00
+#
+name: CURSOR UPP
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 47 00 00 00
+#
+name: CURSOR NER
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 48 00 00 00
+#
+name: TITLE / CHAPTER
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 4a 00 00 00
+#
+name: DISC MENU
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 4b 00 00 00
+#
+name: CAMERA
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 4c 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 53 00 00 00
+#
+name: REPEAT A-B
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 55 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 56 00 00 00
+#
+name: CURSOR OK
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 58 00 00 00
+#
+name: NSTER
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 59 00 00 00
+#
+name: GER
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 5a 00 00 00
+#
+name: SET MARKER
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 61 00 00 00
+#
+name: ZOOM
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 64 00 00 00
+#
+name: KNAPP/CARD
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: 69 00 00 00
+#
+name: NGAR
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: b0 00 00 00
+#
+name: REC MENU
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: b7 00 00 00
+#
+name: GUL KNAPP/TITLE
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: ba 00 00 00
+#
+name: D KNAPP/C-SET
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: bb 00 00 00
+#
+name: N KNAPP/SHOWVIEW
+type: parsed
+protocol: NEC
+address: 2d 00 00 00
+command: bc 00 00 00

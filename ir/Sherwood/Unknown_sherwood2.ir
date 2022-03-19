@@ -1,0 +1,290 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CASS_DECK_A
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 00 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 01 00 00 00
+#
+name: PHONO
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 02 00 00 00
+#
+name: KEY_TUNER
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 03 00 00 00
+#
+name: VISUAL
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 04 00 00 00
+#
+name: EQ_USER
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 05 00 00 00
+#
+name: TAPEMONITOR
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 06 00 00 00
+#
+name: REPEAT_AB
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 08 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 09 00 00 00
+#
+name: TV_AUX
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 0a 00 00 00
+#
+name: KEY_CD
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 0b 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 0c 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 0d 00 00 00
+#
+name: EQ_TAPE
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 0e 00 00 00
+#
+name: EQ_PRESET
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 0f 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 10 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 11 00 00 00
+#
+name: HEAVY
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 12 00 00 00
+#
+name: SOFT
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 13 00 00 00
+#
+name: CD_SKIP+
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 14 00 00 00
+#
+name: CD_SKIP-
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 15 00 00 00
+#
+name: VOCAL
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 16 00 00 00
+#
+name: KEY_CLEAR
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 17 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 18 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 19 00 00 00
+#
+name: CASS_REW
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 1a 00 00 00
+#
+name: CASS_FF
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 1b 00 00 00
+#
+name: CD_PLAY
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 1c 00 00 00
+#
+name: DISC
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 1d 00 00 00
+#
+name: CASS_PLAYLEFT
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 1e 00 00 00
+#
+name: CASS_PLAYRIGHT
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 1f 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 40 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 41 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 42 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 43 00 00 00
+#
+name: CAR_ST
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 44 00 00 00
+#
+name: CD_STOP
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 45 00 00 00
+#
+name: CD_PAUSE
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 46 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 47 00 00 00
+#
+name: CASS_RECORD
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 48 00 00 00
+#
+name: RANDOM_PLAY
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 49 00 00 00
+#
+name: REPEAT_1_ALL
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 4a 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 4b 00 00 00
+#
+name: CASS_DECK_B
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 4c 00 00 00
+#
+name: CASS_STOP
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 4d 00 00 00
+#
+name: CASS_PAUSE
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 4e 00 00 00
+#
+name: KEY_SLEEP
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 52 00 00 00
+#
+name: INTRO
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 5e 00 00 00

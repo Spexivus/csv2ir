@@ -1,0 +1,272 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_0
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 03 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 04 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 07 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0e 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0f 00 00 00
+#
+name: ok/select
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: KEY_EXIT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: KEY_LAST
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: tv/vcr_input
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: KEY_FAVORITES
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: a_lock
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 19 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1b 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1f 00 00 00
+#
+name: pnp-swap
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 23 00 00 00
+#
+name: KEY_INFO
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 30 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 31 00 00 00
+#
+name: KEY_HELP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 32 00 00 00
+#
+name: KEY_INFO
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 33 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: c_day+
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: b_day-
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: KEY_PAGEUP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3a 00 00 00
+#
+name: KEY_PAGEDOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3b 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: mydvr
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3d 00 00 00
+#
+name: live
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3e 00 00 00
+#
+name: hdzoom_enter
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 40 00 00 00

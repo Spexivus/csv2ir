@@ -1,0 +1,44 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SURROUND CINEMA
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 95 00 00 00
+#
+name: SURR CINEMA MAIN
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 95 00 00 00
+#
+name: SURR MUSIC MAIN
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 96 00 00 00
+#
+name: SURR GAME MAIN
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 97 00 00 00
+#
+name: NIGHT
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 98 00 00 00
+#
+name: ROOM EQ
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 9d 00 00 00
+#
+name: EQUALIZER
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 9d 00 00 00

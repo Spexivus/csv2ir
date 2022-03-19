@@ -1,0 +1,38 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CD PLAY >
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 02 00 00 00
+#
+name: CD CHAPTER <<
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 04 00 00 00
+#
+name: CD SEARCH <<
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 05 00 00 00
+#
+name: CD SEARCH >>
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 06 00 00 00
+#
+name: CD CHAPTER >>
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 07 00 00 00
+#
+name: CD STOP []
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 56 00 00 00

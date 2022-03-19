@@ -1,0 +1,260 @@
+Filetype: IR signals file
+Version: 1
+#
+name: NUM0
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 90 00 00 00
+#
+name: NUM1
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 91 00 00 00
+#
+name: NUM2
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 92 00 00 00
+#
+name: NUM3
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 93 00 00 00
+#
+name: NUM4
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 94 00 00 00
+#
+name: NUM5
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 95 00 00 00
+#
+name: NUM6
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 96 00 00 00
+#
+name: NUM7
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 97 00 00 00
+#
+name: NUM8
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 98 00 00 00
+#
+name: NUM9
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 99 00 00 00
+#
+name: SYSTEM
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9a 00 00 00
+#
+name: KEY_SETUP
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9b 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9c 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9d 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9e 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9f 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a0 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a1 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a2 00 00 00
+#
+name: KEY_NEXT
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a3 00 00 00
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a4 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a5 00 00 00
+#
+name: SREW
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a6 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a7 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a8 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a9 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: aa 00 00 00
+#
+name: KEY_ANGLE
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: ab 00 00 00
+#
+name: KEY_CLEAR
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: ac 00 00 00
+#
+name: KEY_AUDIO
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: ad 00 00 00
+#
+name: KEY_OPEN
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: ae 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: af 00 00 00
+#
+name: KEY_TITLE
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b0 00 00 00
+#
+name: KEY_ZOOM
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b1 00 00 00
+#
+name: AB
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b3 00 00 00
+#
+name: KEY_3D
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b4 00 00 00
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b5 00 00 00
+#
+name: KEY_AGAIN
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b8 00 00 00
+#
+name: SCART
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: ba 00 00 00
+#
+name: PROG
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: bb 00 00 00
+#
+name: SFFWD
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: bc 00 00 00
+#
+name: KEY_SEARCH
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: be 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: bf 00 00 00

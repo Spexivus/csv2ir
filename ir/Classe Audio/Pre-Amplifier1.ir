@@ -1,0 +1,326 @@
+Filetype: IR signals file
+Version: 1
+#
+name: TAPE MON TG T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 01 00 00 00
+#
+name: TAPE MON TG T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 01 00 00 00
+#
+name: LINE1 T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 02 00 00 00
+#
+name: LINE1 T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 02 00 00 00
+#
+name: LINE2 T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 03 00 00 00
+#
+name: LINE2 T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 03 00 00 00
+#
+name: LINE3 T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 04 00 00 00
+#
+name: LINE3 T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 04 00 00 00
+#
+name: BALANCED 1 T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 05 00 00 00
+#
+name: BALANCED 1 T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 05 00 00 00
+#
+name: INPUT UP T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 0a 00 00 00
+#
+name: INPUT UP T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 0a 00 00 00
+#
+name: INPUT DOWN T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 0b 00 00 00
+#
+name: INPUT DOWN T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 0b 00 00 00
+#
+name: STDBY TOGGLE T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 0c 00 00 00
+#
+name: STDBY TOGGLE T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 0c 00 00 00
+#
+name: INFO T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 0e 00 00 00
+#
+name: INFO T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 0e 00 00 00
+#
+name: DISPLAY T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 0f 00 00 00
+#
+name: DISPLAY T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 0f 00 00 00
+#
+name: PHONO GAINE TG T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 14 00 00 00
+#
+name: PHONO GAINE TG T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 14 00 00 00
+#
+name: BALANCE T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 15 00 00 00
+#
+name: BALANCE T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 15 00 00 00
+#
+name: MENU T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 54 00 00 00
+#
+name: MENU T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 54 00 00 00
+#
+name: HOME T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 55 00 00 00
+#
+name: HOME T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 55 00 00 00
+#
+name: NAVIGATE UP T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 58 00 00 00
+#
+name: NAVIGATE UP T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 58 00 00 00
+#
+name: NAVIGATE DOWN T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 59 00 00 00
+#
+name: NAVIGATE DOWN T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 59 00 00 00
+#
+name: NAVIGATE LEFT T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 5a 00 00 00
+#
+name: NAVIGATE LEFT T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 5a 00 00 00
+#
+name: NAVIGATE RIGHT T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 5b 00 00 00
+#
+name: NAVIGATE RIGHT T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 5b 00 00 00
+#
+name: ENTER T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 5c 00 00 00
+#
+name: ENTER T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 5c 00 00 00
+#
+name: OPERATE T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 96 00 00 00
+#
+name: OPERATE T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 96 00 00 00
+#
+name: STANDBY T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 97 00 00 00
+#
+name: STANDBY T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 97 00 00 00
+#
+name: TAPE MON ON T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 9a 00 00 00
+#
+name: TAPE MON ON T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 9a 00 00 00
+#
+name: TAPE MON OFF T0
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 9b 00 00 00
+#
+name: TAPE MON OFF T1
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: 9b 00 00 00
+#
+name: OUTPUT1 TOGGLE
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: f0 00 00 00
+#
+name: OUTPUT2 TOGGLE
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: f1 00 00 00
+#
+name: OUTPUT3 TOGGLE
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: f2 00 00 00
+#
+name: OUTPUT1 ON
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: f4 00 00 00
+#
+name: OUTPUT1 OFF
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: f5 00 00 00
+#
+name: OUTPUT2 OFF
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: f8 00 00 00
+#
+name: OUTPUT3 ON
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: f9 00 00 00
+#
+name: OUTPUT3 OFF
+type: parsed
+protocol: RC6
+address: 10 10 00 00
+command: fa 00 00 00

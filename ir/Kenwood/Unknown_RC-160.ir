@@ -1,0 +1,302 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ...REW
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 06 00 00 00
+#
+name: ...FWD
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 07 00 00 00
+#
+name: ...DISC
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 08 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 0a 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 0b 00 00 00
+#
+name: .........10
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 0d 00 00 00
+#
+name: .........0
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 80 00 00 00
+#
+name: TUNER/CD_1
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 81 00 00 00
+#
+name: .........2
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 82 00 00 00
+#
+name: .........3
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 83 00 00 00
+#
+name: .........4
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 84 00 00 00
+#
+name: .........5
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 85 00 00 00
+#
+name: .........6
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 86 00 00 00
+#
+name: .........7
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 87 00 00 00
+#
+name: .........8
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 88 00 00 00
+#
+name: .........9
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 89 00 00 00
+#
+name: ......DOWN
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 8c 00 00 00
+#
+name: TUNER_BAND
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 8f 00 00 00
+#
+name: .......TUNER
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 91 00 00 00
+#
+name: SELECT_CD
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 92 00 00 00
+#
+name: .......VIDEO_2
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 93 00 00 00
+#
+name: .......TAPE_A
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 94 00 00 00
+#
+name: .......TAPE_B
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 95 00 00 00
+#
+name: .......VIDEO_1
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 96 00 00 00
+#
+name: ......UP
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 99 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 9a 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 9b 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 9c 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 9d 00 00 00
+#
+name: ......DIRECT
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 9e 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: c6 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: c7 00 00 00
+#
+name: ...STOP
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: c9 00 00 00
+#
+name: CD_PLAY/PAUSE
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: cb 00 00 00
+#
+name: ...SEARCH_REW
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: ce 00 00 00
+#
+name: ...SEARCH_FWD
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: cf 00 00 00
+#
+name: -------REV_PLAY
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: d0 00 00 00
+#
+name: TAPE_A_FWD_PLAY
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: d1 00 00 00
+#
+name: -------REWIND
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: d2 00 00 00
+#
+name: -------FFWD
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: d3 00 00 00
+#
+name: -------PAUSE
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: d4 00 00 00
+#
+name: -------STOP
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: d5 00 00 00
+#
+name: -------RECORD
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: d6 00 00 00
+#
+name: .......REV_PLAY
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: d8 00 00 00
+#
+name: TAPE_B_FWD_PLAY
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: d9 00 00 00
+#
+name: .......REWIND
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: da 00 00 00
+#
+name: .......FFWD
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: db 00 00 00
+#
+name: .......PAUSE
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: dc 00 00 00
+#
+name: .......STOP
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: dd 00 00 00
+#
+name: .......RECORD
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: de 00 00 00

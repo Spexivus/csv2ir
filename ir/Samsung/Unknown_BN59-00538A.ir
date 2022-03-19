@@ -1,0 +1,326 @@
+Filetype: IR signals file
+Version: 1
+#
+name: DUAL
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 00 00 00 00
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 01 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 02 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 04 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 05 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 06 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 07 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 08 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 09 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 0a 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 0b 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 0c 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 0d 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 0e 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 0f 00 00 00
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 10 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 11 00 00 00
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 12 00 00 00
+#
+name: PRE-CH
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 13 00 00 00
+#
+name: KEY_GREEN
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 14 00 00 00
+#
+name: KEY_YELLOW
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 15 00 00 00
+#
+name: KEY_BLUE
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 16 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 1a 00 00 00
+#
+name: KEY_INFO
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 1f 00 00 00
+#
+name: PIP
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 20 00 00 00
+#
+name: KEY_102ND
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 23 00 00 00
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 25 00 00 00
+#
+name: P.MODE
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 28 00 00 00
+#
+name: S.MODE
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 2b 00 00 00
+#
+name: TTX/MIX
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 2c 00 00 00
+#
+name: KEY_EXIT
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 2d 00 00 00
+#
+name: P.SIZE
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 3e 00 00 00
+#
+name: STILL
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 42 00 00 00
+#
+name: TV/DTV
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 43 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 45 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 46 00 00 00
+#
+name: KEY_PLAYPAUSE
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 47 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 48 00 00 00
+#
+name: KEY_INFO
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 4f 00 00 00
+#
+name: UO
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 60 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 61 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 62 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 65 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 68 00 00 00
+#
+name: CH_MGR
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 6b 00 00 00
+#
+name: KEY_RED
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 6c 00 00 00
+#
+name: SRS
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 6e 00 00 00
+#
+name: KEY_VCR
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 7a 00 00 00
+#
+name: CABLE
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 7b 00 00 00
+#
+name: KEY_TV
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 7d 00 00 00
+#
+name: KEY_DVD
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 7e 00 00 00
+#
+name: STB
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 7f 00 00 00
+#
+name: WISELINK
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 8c 00 00 00
+#
+name: D.MENU
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 8e 00 00 00

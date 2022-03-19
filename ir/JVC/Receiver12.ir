@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SURR:EX/ES/PLII
+type: parsed
+protocol: JVC-48
+address: 22 22 00 00
+command: 10 00 00 00
+#
+name: DIMMER
+type: parsed
+protocol: JVC-48
+address: 22 22 00 00
+command: 91 00 00 00

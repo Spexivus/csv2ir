@@ -1,0 +1,380 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER ON
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 02 00 00 00
+#
+name: ON
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 02 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 03 00 00 00
+#
+name: OFF
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 03 00 00 00
+#
+name: MAIN ON
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 06 00 00 00
+#
+name: MAIN OFF
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 07 00 00 00
+#
+name: 1
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 10 00 00 00
+#
+name: 2
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 11 00 00 00
+#
+name: 3
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 12 00 00 00
+#
+name: 4
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 13 00 00 00
+#
+name: 5
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 14 00 00 00
+#
+name: 6
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 15 00 00 00
+#
+name: 7
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 16 00 00 00
+#
+name: 8
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 17 00 00 00
+#
+name: 9
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 18 00 00 00
+#
+name: 0
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 19 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 1b 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 1c 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 1d 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 1e 00 00 00
+#
+name: CURSOR ENTER
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 1f 00 00 00
+#
+name: INPUT PHONO
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 30 00 00 00
+#
+name: PHONO
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 30 00 00 00
+#
+name: INPUT TUNER
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 31 00 00 00
+#
+name: INPUT CD
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 32 00 00 00
+#
+name: CD
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 32 00 00 00
+#
+name: INPUT CD-R
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 33 00 00 00
+#
+name: INPUT IPOD
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 3b 00 00 00
+#
+name: IPOD
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 3b 00 00 00
+#
+name: INPUT DVD/VDP
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 40 00 00 00
+#
+name: DVD/VDP
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 40 00 00 00
+#
+name: INPUT VCR
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 45 00 00 00
+#
+name: INPUT V.AUX
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 49 00 00 00
+#
+name: TUNE +
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 50 00 00 00
+#
+name: TUNING +
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 50 00 00 00
+#
+name: TUNE -
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 51 00 00 00
+#
+name: TUNING -
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 51 00 00 00
+#
+name: CHAN +
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 52 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 52 00 00 00
+#
+name: CHAN -
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 53 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 53 00 00 00
+#
+name: TUNER SHIFT
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 54 00 00 00
+#
+name: SHIFT
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 54 00 00 00
+#
+name: TUNER FM/AM
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 57 00 00 00
+#
+name: FM/AM
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 57 00 00 00
+#
+name: BAND
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 58 00 00 00
+#
+name: TUNER XM RADIO
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 5b 00 00 00
+#
+name: XM RADIO
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 5b 00 00 00
+#
+name: TUNER BAND
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 5c 00 00 00
+#
+name: TUNER MODE
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 5c 00 00 00
+#
+name: TUNE MEMORY
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 60 00 00 00
+#
+name: TUNER MEMORY
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 60 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 76 00 00 00
+#
+name: +10 SEARCH
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 78 00 00 00
+#
+name: +10
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 78 00 00 00
+#
+name: PURE DIRECT
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 103 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 110 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 111 00 00 00
+#
+name: VOLUME MUTE
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 112 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 112 00 00 00
+#
+name: VIDEO SELECT
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 170 00 00 00
+#
+name: STATUS
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 190 00 00 00
+#
+name: DIMMER
+type: parsed
+protocol: Denon-K
+address: 07 07 00 00
+command: 1a0 00 00 00

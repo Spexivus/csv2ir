@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+#
+name: MUTE
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 09 00 00 00
+#
+name: MONO
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 0a 00 00 00
+#
+name: 1
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 0b 00 00 00
+#
+name: MODE
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 0c 00 00 00
+#
+name: 4
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 0d 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 0e 00 00 00
+#
+name: POLARITY
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 18 00 00 00
+#
+name: 6
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 19 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1a 00 00 00
+#
+name: DISPLAY INTENSITY
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1a 00 00 00
+#
+name: 3
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1b 00 00 00
+#
+name: 2
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1c 00 00 00
+#
+name: 5
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1d 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1e 00 00 00

@@ -1,0 +1,164 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SURR PUREDIRECT
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 6a 00 00 00
+#
+name: ZONE 2
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 79 00 00 00
+#
+name: POWER ON ZN 2
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 7b 00 00 00
+#
+name: POWER OFF ZN 2
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 7c 00 00 00
+#
+name: PHONO
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c3 00 00 00
+#
+name: CD
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c4 00 00 00
+#
+name: IPOD
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c4 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c5 00 00 00
+#
+name: DBS
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c8 00 00 00
+#
+name: CABLE TV
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c9 00 00 00
+#
+name: TV
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c9 00 00 00
+#
+name: VDP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: ca 00 00 00
+#
+name: MUSIC SERVER
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: cc 00 00 00
+#
+name: VIDEO AUX
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: cc 00 00 00
+#
+name: VCR 1
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: cd 00 00 00
+#
+name: VCR 2
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: ce 00 00 00
+#
+name: TAPE 1
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: d2 00 00 00
+#
+name: RIGHT ARROW
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: dd 00 00 00
+#
+name: ON SCREEN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: df 00 00 00
+#
+name: SELECT/ENTER
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e0 00 00 00
+#
+name: POWER ON MAIN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e1 00 00 00
+#
+name: POWER OFF MAIN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e2 00 00 00
+#
+name: DVD
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e3 00 00 00
+#
+name: SURR STANDARD
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e4 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f0 00 00 00
+#
+name: VOLUME + MAIN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f1 00 00 00
+#
+name: VOLUME - MAIN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f2 00 00 00

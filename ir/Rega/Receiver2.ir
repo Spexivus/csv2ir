@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+#
+name: FM
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 81 00 00 00
+#
+name: AM
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 82 00 00 00
+#
+name: PRESET -
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: d1 00 00 00
+#
+name: PRESET +
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: d2 00 00 00

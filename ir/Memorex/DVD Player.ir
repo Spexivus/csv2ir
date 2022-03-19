@@ -1,0 +1,176 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 80 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 81 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 82 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 83 00 00 00
+#
+name: SCAN <<
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 88 00 00 00
+#
+name: 0
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 8c 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 8d 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 8f 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 90 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 90 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 91 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 93 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 93 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: c0 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: c1 00 00 00
+#
+name: ANGLE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: c2 00 00 00
+#
+name: AUDIO MODE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: c4 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: c5 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: c6 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: c8 00 00 00
+#
+name: STOP
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: c9 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: cc 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: cd 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: d0 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: d1 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: d2 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: d2 00 00 00
+#
+name: SETUP
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: d3 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: d7 00 00 00

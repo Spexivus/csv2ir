@@ -1,0 +1,134 @@
+Filetype: IR signals file
+Version: 1
+#
+name: >> NEXT TRACK
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 03 00 00 00
+#
+name: NEXT TRACK
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 03 00 00 00
+#
+name: VOL+ VOLUME DOWN
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 07 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 07 00 00 00
+#
+name: << PREV TRACK
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 0b 00 00 00
+#
+name: PREVIOUS TRACK
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 0b 00 00 00
+#
+name: NEXT CHAPTER
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 0c 00 00 00
+#
+name: PREV CHAPTER
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 0d 00 00 00
+#
+name: STOP
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 0e 00 00 00
+#
+name: PLAY/RESUME
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 0f 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 10 00 00 00
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 11 00 00 00
+#
+name: NEXT PLAYLIST
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 14 00 00 00
+#
+name: PREVIOUS PLAYLIST
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 15 00 00 00
+#
+name: SHUFFLE
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 16 00 00 00
+#
+name: VOL- VOLUME UP
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 17 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 18 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 1a 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: NECext
+address: 01 01 00 00
+command: 1b 00 00 00
+#
+name: >II PLAY/PAUSE
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 1f 00 00 00
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 1f 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 1f 00 00 00

@@ -1,0 +1,98 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_RADIO
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 00 00 00 00
+#
+name: am
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 01 00 00 00
+#
+name: t_up
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 03 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 04 00 00 00
+#
+name: t_down
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 05 00 00 00
+#
+name: v_up
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 07 00 00 00
+#
+name: v_down
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 08 00 00 00
+#
+name: muting
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 09 00 00 00
+#
+name: cdp_program
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 0a 00 00 00
+#
+name: cdp_play
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 0b 00 00 00
+#
+name: cdp_memory
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 0c 00 00 00
+#
+name: cdp_stop
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 0d 00 00 00
+#
+name: cdp_fskip
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 0e 00 00 00
+#
+name: cdp_bskip
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 0f 00 00 00
+#
+name: phono
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 11 00 00 00
+#
+name: KEY_TAPE
+type: parsed
+protocol: Aiwa
+address: 48 48 00 00
+command: 12 00 00 00

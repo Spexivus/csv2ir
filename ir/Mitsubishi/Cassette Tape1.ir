@@ -1,0 +1,266 @@
+Filetype: IR signals file
+Version: 1
+#
+name: AUDIO POWER
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 02 00 00 00
+#
+name: VOLUME ^
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 22 00 00 00
+#
+name: VOLUME V
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 2a 00 00 00
+#
+name: FM/AM
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 4c 00 00 00
+#
+name: TAPE 1/2 INPUT
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 4d 00 00 00
+#
+name: TAPE1 1
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 80 00 00 00
+#
+name: TAPE1 9
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 81 00 00 00
+#
+name: TAPE1 MENU
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 82 00 00 00
+#
+name: TAPE1 PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 84 00 00 00
+#
+name: TAPE2 PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 85 00 00 00
+#
+name: TAPE1 FS/+
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 86 00 00 00
+#
+name: TAPE2 FS/+
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 87 00 00 00
+#
+name: TAPE1 2
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 88 00 00 00
+#
+name: TAPE1 0
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 89 00 00 00
+#
+name: TAPE1 ENTER
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 8a 00 00 00
+#
+name: TAPE1 REC
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 8c 00 00 00
+#
+name: TAPE1 RS/-
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 8e 00 00 00
+#
+name: TAPE2 RS/-
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 8f 00 00 00
+#
+name: TAPE1 3
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 90 00 00 00
+#
+name: TAPE1 CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 92 00 00 00
+#
+name: TAPE1 STOP []
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 94 00 00 00
+#
+name: TAPE2 STOP []
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 95 00 00 00
+#
+name: TAPE1 REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 97 00 00 00
+#
+name: TAPE1 4
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 98 00 00 00
+#
+name: TAPE1 PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 9c 00 00 00
+#
+name: TAPE2 PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 9d 00 00 00
+#
+name: TAPE1 5
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: a0 00 00 00
+#
+name: TAPE1 AUDIO ^
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: a2 00 00 00
+#
+name: TAPE1 FF >>
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: a4 00 00 00
+#
+name: TAPE2 FF >>
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: a5 00 00 00
+#
+name: TAPE1 DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: a7 00 00 00
+#
+name: TAPE1 6
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: a8 00 00 00
+#
+name: TAPE1 AUDIO V
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: aa 00 00 00
+#
+name: TAPE1 REW <<
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ac 00 00 00
+#
+name: TAPE2 REW <<
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ad 00 00 00
+#
+name: TAPE1 INTRO
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ae 00 00 00
+#
+name: TAPE2 INTRO
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: af 00 00 00
+#
+name: TAPE1 7
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: b0 00 00 00
+#
+name: TAPE1 ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: b2 00 00 00
+#
+name: TAPE1 PLAY R. <
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: b4 00 00 00
+#
+name: TAPE2 PLAY R. <
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: b5 00 00 00
+#
+name: TAPE1 8
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: b8 00 00 00
+#
+name: TAPE1 ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ba 00 00 00
+#
+name: TAPE1 B
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: bf 00 00 00

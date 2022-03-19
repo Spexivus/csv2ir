@@ -1,0 +1,242 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SKEW
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 09 00 00 00
+#
+name: VIDEO
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 0a 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 0b 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 0c 00 00 00
+#
+name: 3-F
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 0d 00 00 00
+#
+name: 2-T
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 0e 00 00 00
+#
+name: 1-G
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 0f 00 00 00
+#
+name: POLARITY
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 10 00 00 00
+#
+name: SET UP
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 11 00 00 00
+#
+name: TEXT
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 12 00 00 00
+#
+name: CANCEL
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 13 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 14 00 00 00
+#
+name: WEST
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 15 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 16 00 00 00
+#
+name: EAST
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 17 00 00 00
+#
+name: HELP
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 18 00 00 00
+#
+name: NEXT
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 1a 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 1c 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 1e 00 00 00
+#
+name: MESSAGE
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 20 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 25 00 00 00
+#
+name: 0-B
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 26 00 00 00
+#
+name: CALL
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 27 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 28 00 00 00
+#
+name: FREEZE
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 29 00 00 00
+#
+name: SCAN
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 2a 00 00 00
+#
+name: PIP
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 2b 00 00 00
+#
+name: VIEW
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 2c 00 00 00
+#
+name: 9-K
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 2d 00 00 00
+#
+name: 8-R
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 2e 00 00 00
+#
+name: 7-S
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 2f 00 00 00
+#
+name: REVIEW
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 30 00 00 00
+#
+name: TI/BW
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 31 00 00 00
+#
+name: C/KU
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 32 00 00 00
+#
+name: AUX
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 33 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 34 00 00 00
+#
+name: 6-C
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 35 00 00 00
+#
+name: 5-W
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 36 00 00 00
+#
+name: 4-D
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 37 00 00 00
+#
+name: SAT/TV
+type: parsed
+protocol: Denon
+address: 01 01 00 00
+command: 38 00 00 00

@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ALL ADRESSES ON
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: ALL ADRESSES OFF
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 27 00 00 00

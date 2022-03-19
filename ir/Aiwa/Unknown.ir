@@ -1,0 +1,266 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 00 00 00 00
+#
+name: 1
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 02 00 00 00
+#
+name: 3
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 03 00 00 00
+#
+name: 4
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 04 00 00 00
+#
+name: 5
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 05 00 00 00
+#
+name: 6
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 06 00 00 00
+#
+name: 7
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 07 00 00 00
+#
+name: 8
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 08 00 00 00
+#
+name: 9
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 09 00 00 00
+#
+name: 0
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 0a 00 00 00
+#
+name: CH
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 0c 00 00 00
+#
+name: TV/VCR
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 0d 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 0e 00 00 00
+#
+name: COUNTER DISPLAY
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 10 00 00 00
+#
+name: F.FWD >> / >>
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 11 00 00 00
+#
+name: REW << / <<
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 12 00 00 00
+#
+name: -REC/QTR-
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 14 00 00 00
+#
+name: PLAY >
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 15 00 00 00
+#
+name: PAUSE/STILL
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 17 00 00 00
+#
+name: STOP []
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 1a 00 00 00
+#
+name: T-REC
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 1e 00 00 00
+#
+name: CANCEL
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 1f 00 00 00
+#
+name: CHANNEL UP ^
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 40 00 00 00
+#
+name: CHANNEL DOWN V
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 41 00 00 00
+#
+name: TRACKING +
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 46 00 00 00
+#
+name: TRACKING -
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 47 00 00 00
+#
+name: EJECT
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 48 00 00 00
+#
+name: COUNTER RESET
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 4c 00 00 00
+#
+name: INDEX SEARCH
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 4d 00 00 00
+#
+name: TAPE SPEED
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 50 00 00 00
+#
+name: COUNTER MEMORY
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 51 00 00 00
+#
+name: COUNTER CLOCK
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 56 00 00 00
+#
+name: A-TR
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 5c 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 81 00 00 00
+#
+name: CURSOR >
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 83 00 00 00
+#
+name: CURSOR <
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 84 00 00 00
+#
+name: VARIABLE SEARCH >>
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 85 00 00 00
+#
+name: VARIABLE SEARCH <<
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 86 00 00 00
+#
+name: INDEX MARK
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 87 00 00 00
+#
+name: INDEX ERASE
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 88 00 00 00
+#
+name: CURSOR ^
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 8d 00 00 00
+#
+name: CURSOR V
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 8e 00 00 00
+#
+name: SUMMER TIME
+type: parsed
+protocol: Aiwa
+address: 7f 7f 00 00
+command: 90 00 00 00

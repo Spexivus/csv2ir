@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 51 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 52 00 00 00

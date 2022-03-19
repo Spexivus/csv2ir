@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: RECORDER 2 (TAPE)
+type: parsed
+protocol: RC5
+address: 12 12 00 00
+command: 3f 00 00 00

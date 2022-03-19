@@ -1,0 +1,326 @@
+Filetype: IR signals file
+Version: 1
+#
+name: OFF
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 01 00 00 00
+#
+name: ON
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 02 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 03 00 00 00
+#
+name: IN 1
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 05 00 00 00
+#
+name: IN 3
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 06 00 00 00
+#
+name: IN 8
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 07 00 00 00
+#
+name: IN 2
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 09 00 00 00
+#
+name: IN 7
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 0b 00 00 00
+#
+name: IN 4
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 0d 00 00 00
+#
+name: IN 5
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 0f 00 00 00
+#
+name: STA DN
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 17 00 00 00
+#
+name: STA UP
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 18 00 00 00
+#
+name: TUNE DN
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 1b 00 00 00
+#
+name: TUNE UP
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 1c 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 1f 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 20 00 00 00
+#
+name: VOL DN
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 23 00 00 00
+#
+name: VOL UP
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 24 00 00 00
+#
+name: +10
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 29 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 2d 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 2e 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 2f 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 30 00 00 00
+#
+name: SELECT_ENTER
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 30 00 00 00
+#
+name: 1
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 31 00 00 00
+#
+name: 2
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 32 00 00 00
+#
+name: 3
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 33 00 00 00
+#
+name: 4
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 35 00 00 00
+#
+name: 5
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 36 00 00 00
+#
+name: 6
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 37 00 00 00
+#
+name: 7
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 39 00 00 00
+#
+name: 8
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 3a 00 00 00
+#
+name: 9
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 3b 00 00 00
+#
+name: 0
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 3e 00 00 00
+#
+name: ZONE
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 3f 00 00 00
+#
+name: SAVE
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 40 00 00 00
+#
+name: IN 6
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 4a 00 00 00
+#
+name: PSET UP
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 4b 00 00 00
+#
+name: D IN
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 5a 00 00 00
+#
+name: BASS DN
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 65 00 00 00
+#
+name: SOURCE UP
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 66 00 00 00
+#
+name: IN 9
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 6e 00 00 00
+#
+name: AM
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 76 00 00 00
+#
+name: TREB DN
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 79 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 7d 00 00 00
+#
+name: FM
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: 8e 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: a2 00 00 00
+#
+name: SOURCE DN
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: a6 00 00 00
+#
+name: PSET DN
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: c6 00 00 00
+#
+name: LOUD
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: cf 00 00 00
+#
+name: BASS UP
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: e5 00 00 00
+#
+name: M [STM]
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: eb 00 00 00
+#
+name: TREB UP
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: f9 00 00 00
+#
+name: VIDEO +
+type: parsed
+protocol: NECext
+address: db db 00 00
+command: fa 00 00 00

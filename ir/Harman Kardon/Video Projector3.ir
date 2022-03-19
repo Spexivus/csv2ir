@@ -1,0 +1,128 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 01 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 03 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 06 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 09 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 0a 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 0b 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 10 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 11 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 12 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 24 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 25 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 28 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 29 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 2a 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 2b 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 2c 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 2d 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 2e 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 2f 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 30 00 00 00
+#
+name: 
+type: parsed
+protocol: Barco
+address: 1e 1e 00 00
+command: 31 00 00 00

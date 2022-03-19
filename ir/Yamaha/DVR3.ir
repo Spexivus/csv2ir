@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+#
+name: TV POWER
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 02 00 00 00
+#
+name: TV VOL +
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 22 00 00 00
+#
+name: TV VOL -
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 2a 00 00 00
+#
+name: TV INPUT
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 3a 00 00 00

@@ -1,0 +1,290 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_5
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 80 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 81 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 82 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 83 00 00 00
+#
+name: TitleMenu
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 84 00 00 00
+#
+name: KeyLock
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 85 00 00 00
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 86 00 00 00
+#
+name: PBC
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 87 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 88 00 00 00
+#
+name: Slow/R
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 89 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8a 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8b 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8c 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8d 00 00 00
+#
+name: Digest
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8e 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8f 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 90 00 00 00
+#
+name: Display
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 91 00 00 00
+#
+name: KEY_SEARCH
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 92 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 93 00 00 00
+#
+name: KEY_AGAIN
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 94 00 00 00
+#
+name: SkipBackwards
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 95 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 96 00 00 00
+#
+name: Program
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 97 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: c0 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: c1 00 00 00
+#
+name: KEY_ANGLE
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: c2 00 00 00
+#
+name: X_KEY_3D
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: c3 00 00 00
+#
+name: AudioMenu
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: c4 00 00 00
+#
+name: KEY_SLEEP
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: c5 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: c6 00 00 00
+#
+name: KEY_OPEN
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: c7 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: c8 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: c9 00 00 00
+#
+name: SkipForwards
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: ca 00 00 00
+#
+name: Slow/F
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: cb 00 00 00
+#
+name: KEY_CLEAR
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: cc 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: cd 00 00 00
+#
+name: KEY_ZOOM
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: ce 00 00 00
+#
+name: AudioMode
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: cf 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: d0 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: d1 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: d2 00 00 00
+#
+name: KEY_SETUP
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: d3 00 00 00
+#
+name: Repeat/A-B
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: d4 00 00 00
+#
+name: Random
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: d5 00 00 00
+#
+name: Bookmark
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: d6 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: d7 00 00 00

@@ -1,0 +1,224 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SUB
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 01 00 00 00
+#
+name: REAR
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 02 00 00 00
+#
+name: CNTR
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 06 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 07 00 00 00
+#
+name: CURSER DOWN
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 0b 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 0b 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 0b 00 00 00
+#
+name: MENU
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 0c 00 00 00
+#
+name: CURSER RIGHT
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 0d 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 0d 00 00 00
+#
+name: OK
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 0e 00 00 00
+#
+name: CURSER LEFT
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 0f 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 0f 00 00 00
+#
+name: TAPE
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 10 00 00 00
+#
+name: CURSER UP
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 11 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 11 00 00 00
+#
+name: UP
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 11 00 00 00
+#
+name: PREV
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 12 00 00 00
+#
+name: MAIN POWER
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 13 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 13 00 00 00
+#
+name: HTS POWER
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 13 00 00 00
+#
+name: PRE
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 13 00 00 00
+#
+name: S2
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 1d 00 00 00
+#
+name: S3
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 1e 00 00 00
+#
+name: S4
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 1f 00 00 00
+#
+name: S5
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 20 00 00 00
+#
+name: C2
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 22 00 00 00
+#
+name: T1
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 23 00 00 00
+#
+name: T2
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 24 00 00 00
+#
+name: XLR
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 25 00 00 00
+#
+name: RF
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 26 00 00 00
+#
+name: SV2
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 2a 00 00 00
+#
+name: M1
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 33 00 00 00
+#
+name: STEREO
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 35 00 00 00
+#
+name: ST
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 35 00 00 00
+#
+name: PROLOGIC
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 3e 00 00 00
+#
+name: PL
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 3e 00 00 00

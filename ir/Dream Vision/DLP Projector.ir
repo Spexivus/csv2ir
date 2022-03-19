@@ -1,0 +1,248 @@
+Filetype: IR signals file
+Version: 1
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 02 00 00 00
+#
+name: BRITE UP
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 03 00 00 00
+#
+name: BRITE +
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 03 00 00 00
+#
+name: BRITE DOWN
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 07 00 00 00
+#
+name: BRITE -
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 07 00 00 00
+#
+name: FREEZE
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 0e 00 00 00
+#
+name: SOURCE SELECT
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 10 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 10 00 00 00
+#
+name: UP
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 13 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 14 00 00 00
+#
+name: DN
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 14 00 00 00
+#
+name: AUTO TRACKING
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 17 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 17 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 17 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 20 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 21 00 00 00
+#
+name: PRESETS
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 2c 00 00 00
+#
+name: RESET
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 2c 00 00 00
+#
+name: SOURCE1
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 2d 00 00 00
+#
+name: DVI 1
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 2d 00 00 00
+#
+name: SOURCE2
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 2e 00 00 00
+#
+name: RGB 2
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 2e 00 00 00
+#
+name: SOURCE3
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 2f 00 00 00
+#
+name: COMPONENT 3
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 2f 00 00 00
+#
+name: SOURCE4
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 30 00 00 00
+#
+name: SVHS 4
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 30 00 00 00
+#
+name: BLANK
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 31 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 32 00 00 00
+#
+name: AUTO IMAGE
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 33 00 00 00
+#
+name: RESIZE
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 34 00 00 00
+#
+name: OVERSCAN
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 35 00 00 00
+#
+name: CONTRAST UP
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 36 00 00 00
+#
+name: CONTRAST +
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 36 00 00 00
+#
+name: CONTRAST DOWN
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 37 00 00 00
+#
+name: CONTRAST -
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 37 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 39 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 3a 00 00 00
+#
+name: NATIVE
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 3b 00 00 00
+#
+name: 16:9
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 3c 00 00 00
+#
+name: 4:3
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 3d 00 00 00
+#
+name: LETTER BOX
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 3e 00 00 00

@@ -1,0 +1,158 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CD-A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: CD-B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: ON -A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: ON -B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: AM/FM-A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: AM/FM-B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: MUTE-A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 03 00 00 00
+#
+name: MUTE-B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 03 00 00 00
+#
+name: TAPE -A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 04 00 00 00
+#
+name: TAPE -B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 04 00 00 00
+#
+name: AUX-A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: AUX-B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: TUNER -A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: TUNER -B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: PRESET UP -A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 07 00 00 00
+#
+name: PRESET UP -B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 07 00 00 00
+#
+name: PRESET DOWN -A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: PRESET DOWN -B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: SEEK UP -A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: SEEK UP -B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: SEEK DOWN -A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: SEEK DOWN -B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: VOLUME DOWN -A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: VOLUME DOWN -B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: VOLUME UP -A
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: VOLUME UP -B
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0c 00 00 00

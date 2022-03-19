@@ -1,0 +1,614 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PHONO
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 41 00 00 00
+#
+name: CD
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 42 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 43 00 00 00
+#
+name: AUX/VIDEO 1
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 44 00 00 00
+#
+name: AUX/VIDEO 2
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 45 00 00 00
+#
+name: ZONE3 INPUT TUNER
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 48 00 00 00
+#
+name: ZONE3 INPUT PHONO
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 49 00 00 00
+#
+name: ZONE3 INPUT CD
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 4a 00 00 00
+#
+name: MUTING
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 4b 00 00 00
+#
+name: VOL -
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 4c 00 00 00
+#
+name: VOL +
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 4d 00 00 00
+#
+name: ZONE3 INPUT DVD
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 4e 00 00 00
+#
+name: ZONE3 INPUT VDP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 4f 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 50 00 00 00
+#
+name: ZONE3 INPUT TV
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 52 00 00 00
+#
+name: ZONE3 INPUT DBS/SAT
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 53 00 00 00
+#
+name: ZONE3 INPUT VCR1
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 54 00 00 00
+#
+name: ZONE3 INPUT VCR2
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 55 00 00 00
+#
+name: ZONE 1 VCR-3
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 56 00 00 00
+#
+name: MZ-1 VCR-3
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 56 00 00 00
+#
+name: ZONE3 INPUT V.AUX
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 57 00 00 00
+#
+name: ZONE3 INPUT CDR/TAPE
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 5b 00 00 00
+#
+name: ZONE 1 TAPE-2
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 5c 00 00 00
+#
+name: ZONE2 POWER TOGGLE
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 5d 00 00 00
+#
+name: DIRECT DIGITAL
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 60 00 00 00
+#
+name: OPTICAL DIGITAL 1
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 61 00 00 00
+#
+name: DIGITAL 2
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 62 00 00 00
+#
+name: DIGITAL 3
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 63 00 00 00
+#
+name: ZONE3 VOLUME DOWN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 65 00 00 00
+#
+name: ZONE3 VOLUME UP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 66 00 00 00
+#
+name: DAT MONITOR
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 67 00 00 00
+#
+name: SURROUND MODE PURE DIRECT
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 6a 00 00 00
+#
+name: INPUT MODE AUTO
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 73 00 00 00
+#
+name: INPUT MODE PCM
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 74 00 00 00
+#
+name: INPUT MODE DTS
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 75 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 79 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 7a 00 00 00
+#
+name: ZONE2 POWER ON
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 7b 00 00 00
+#
+name: ZONE2 POWER OFF
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 7c 00 00 00
+#
+name: ZONE3 POWER ON
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 7d 00 00 00
+#
+name: ZONE3 POWER OFF
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: 7e 00 00 00
+#
+name: ALL POWER TOGGLE
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c1 00 00 00
+#
+name: FL SPEAKER LEVEL UP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c2 00 00 00
+#
+name: INPUT PHONO
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c3 00 00 00
+#
+name: INPUT CD
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c4 00 00 00
+#
+name: INPUT TUNER / HD RADIO
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c5 00 00 00
+#
+name: INPUT AUX
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c6 00 00 00
+#
+name: FL SPEAKER LEVEL DOWN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c7 00 00 00
+#
+name: INPUT CABLE/SAT/DBS
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c8 00 00 00
+#
+name: INPUT TV/DBS
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: c9 00 00 00
+#
+name: INPUT BDP/HDP/DVP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: ca 00 00 00
+#
+name: FR SPEAKER LEVEL UP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: cb 00 00 00
+#
+name: INPUT V.AUX
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: cc 00 00 00
+#
+name: INPUT GAME/VCR1
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: cd 00 00 00
+#
+name: INPUT MEDIA PLAYER/DVR1/VCR2
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: ce 00 00 00
+#
+name: INPUT DVR2/VCR3
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: cf 00 00 00
+#
+name: FR SPEAKER LEVEL DOWN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: d0 00 00 00
+#
+name: AMP DAT/TAPE MONITOR
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: d1 00 00 00
+#
+name: INPUT CDR/DAT/TAPE
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: d2 00 00 00
+#
+name: INPUT TAPE2
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: d3 00 00 00
+#
+name: CINEMA EQ ON
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: d5 00 00 00
+#
+name: SR SPEAKER LEVEL UP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: d6 00 00 00
+#
+name: SR SPEAKER LEVEL DOWN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: d7 00 00 00
+#
+name: VIDEO SELECT
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: d8 00 00 00
+#
+name: CINEMA EQ OFF
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: d9 00 00 00
+#
+name: AMP VIDEO
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: da 00 00 00
+#
+name: MODE MULTI CHANNEL
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: db 00 00 00
+#
+name: INPUT MODE ANALOG
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: dc 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: dd 00 00 00
+#
+name: STATUS
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: de 00 00 00
+#
+name: INFO / OSD
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: df 00 00 00
+#
+name: ENTER / SELECT
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e0 00 00 00
+#
+name: ALL POWER ON
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e1 00 00 00
+#
+name: ALL POWER OFF
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e2 00 00 00
+#
+name: INPUT DVD
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e3 00 00 00
+#
+name: SURROUND MODE STANDARD (DOLBY/DTS)
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e4 00 00 00
+#
+name: SW SPEAKER LEVEL DOWN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e5 00 00 00
+#
+name: SURROUND MODE DSP SIMULATION
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e6 00 00 00
+#
+name: SB/SBL SPEAKER LEVEL UP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e7 00 00 00
+#
+name: AMP DELAY V
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e8 00 00 00
+#
+name: AMP DELAY ^
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: e9 00 00 00
+#
+name: TEST TONE
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: ea 00 00 00
+#
+name: SB/SBL SPEAKER LEVEL DOWN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: eb 00 00 00
+#
+name: SUBWOOFER LEVEL UP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: ec 00 00 00
+#
+name: SPEAKER
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: ed 00 00 00
+#
+name: SP-A, FRONT
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: ee 00 00 00
+#
+name: SP-B, FRONT
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: ef 00 00 00
+#
+name: MUTING / MUTE TOGGLE
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f0 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f1 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f2 00 00 00
+#
+name: SL SPEAKER LEVEL UP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f3 00 00 00
+#
+name: SL SPEAKER LEVEL DOWN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f4 00 00 00
+#
+name: CENTER SPEAKER LEVEL UP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f5 00 00 00
+#
+name: CENTER SPEAKER LEVEL DOWN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f6 00 00 00
+#
+name: SBR SPEAKER LEVEL UP
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f7 00 00 00
+#
+name: SBR SPEAKER LEVEL DOWN
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f8 00 00 00
+#
+name: TONE CONTROL OFF / DEFEAT ON
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f9 00 00 00
+#
+name: TONE CONTROL ON / DEFEAT OFF
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: fa 00 00 00
+#
+name: SB SPEAKER MATRIX ON
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: fb 00 00 00
+#
+name: SB SPEAKER MATRIX OFF
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: fc 00 00 00
+#
+name: SB SPEAKER OFF
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: fd 00 00 00
+#
+name: AMP K-O
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: fe 00 00 00

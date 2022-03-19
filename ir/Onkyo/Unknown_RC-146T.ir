@@ -1,0 +1,56 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 13 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 15 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 16 00 00 00
+#
+name: Pause-Record
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 1a 00 00 00
+#
+name: Autospace
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 1b 00 00 00
+#
+name: SkipForward
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 1d 00 00 00
+#
+name: Reset
+type: parsed
+protocol: NEC
+address: d2 d2 00 00
+command: 5d 00 00 00

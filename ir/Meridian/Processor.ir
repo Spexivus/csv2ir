@@ -1,0 +1,38 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CURSOR UP
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 50 00 00 00
+#
+name: UP
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 50 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 51 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 55 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 56 00 00 00
+#
+name: DSP
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 5d 00 00 00

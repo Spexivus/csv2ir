@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+#
+name: TAPE 1 PLAY >
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 00 00 00 00
+#
+name: TAPE 1 PLAY REV <
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 01 00 00 00
+#
+name: TAPE 1 STOP []
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 02 00 00 00
+#
+name: TAPE 1 FF >>
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 03 00 00 00
+#
+name: TAPE 1 REW <<
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 04 00 00 00
+#
+name: TAPE 1 BLANK SKIP
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 09 00 00 00
+#
+name: TAPE 1 MPSS
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 0a 00 00 00
+#
+name: TAPE 2 AUTO MUTE
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 0b 00 00 00
+#
+name: TAPE 2 PLAY >
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 10 00 00 00
+#
+name: TAPE 2 PLAY REV <
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 11 00 00 00
+#
+name: TAPE 2 STOP []
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 12 00 00 00
+#
+name: TAPE 2 FF >>
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 13 00 00 00
+#
+name: TAPE 2 REW <<
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 14 00 00 00
+#
+name: TAPE 2 REC/PAUSE 
+type: parsed
+protocol: NEC1
+address: 8a 8a 00 00
+command: 15 00 00 00

@@ -1,0 +1,170 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_RED
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 01 00 00 00
+#
+name: KEY_GREEN
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 02 00 00 00
+#
+name: KEY_BLUE
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 03 00 00 00
+#
+name: red1
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 04 00 00 00
+#
+name: green1
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 05 00 00 00
+#
+name: blue4
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 06 00 00 00
+#
+name: red2
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 07 00 00 00
+#
+name: blue1
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 08 00 00 00
+#
+name: purple1
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 09 00 00 00
+#
+name: orange
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 0a 00 00 00
+#
+name: blue2
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 0b 00 00 00
+#
+name: KEY_CANCEL
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 0c 00 00 00
+#
+name: KEY_YELLOW
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 0d 00 00 00
+#
+name: blue3
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 0e 00 00 00
+#
+name: strobe
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 0f 00 00 00
+#
+name: smooth
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 10 00 00 00
+#
+name: flash
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 11 00 00 00
+#
+name: fade
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 13 00 00 00
+#
+name: off
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 15 00 00 00
+#
+name: purple2
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 17 00 00 00
+#
+name: KEY_SETUP
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 18 00 00 00
+#
+name: white
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 19 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 1a 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 1b 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 1c 00 00 00
+#
+name: purple3
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 1d 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 1e 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 40 40 00 00
+command: 1f 00 00 00

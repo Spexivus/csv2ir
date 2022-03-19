@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 00 00 00 00
+#
+name: TEMP -
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 01 00 00 00
+#
+name: TEMP +
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 02 00 00 00
+#
+name: TIMER SET HOUR
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 03 00 00 00
+#
+name: TIMER START
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 04 00 00 00
+#
+name: TIMER STOP
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 05 00 00 00
+#
+name: TIMER ON/OFF
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 06 00 00 00
+#
+name: COOL
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 07 00 00 00
+#
+name: MONEY SAVER
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 08 00 00 00
+#
+name: FAN ONLY
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 09 00 00 00
+#
+name: FAN SPEED
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 0a 00 00 00

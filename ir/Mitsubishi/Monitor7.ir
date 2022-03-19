@@ -1,0 +1,1040 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VCR 1 (SUN)
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 00 00 00 00
+#
+name: VCR 1
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 00 00 00 00
+#
+name: VCRA 1
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 00 00 00 00
+#
+name: VCR 9
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 01 00 00 00
+#
+name: VCRA 9
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 01 00 00 00
+#
+name: VCR POWER
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 02 00 00 00
+#
+name: VCRA POWER
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 02 00 00 00
+#
+name: VCR PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 04 00 00 00
+#
+name: VCR PLAY
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 04 00 00 00
+#
+name: VCRA PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 04 00 00 00
+#
+name: VIDEO/TV
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 05 00 00 00
+#
+name: VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 05 00 00 00
+#
+name: TV/VCR
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 05 00 00 00
+#
+name: VCRA TV/VCR
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 05 00 00 00
+#
+name: VCRA VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 05 00 00 00
+#
+name: VCR 2 (MON)
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 08 00 00 00
+#
+name: VCR 2
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 08 00 00 00
+#
+name: VCRA 2
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 08 00 00 00
+#
+name: VCR 0
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 09 00 00 00
+#
+name: VCRA 0
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 09 00 00 00
+#
+name: VCR CH ^
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 0a 00 00 00
+#
+name: VCR CHANNEL ^
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 0a 00 00 00
+#
+name: VCR CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 0b 00 00 00
+#
+name: VCRA CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 0b 00 00 00
+#
+name: VCR REC
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 0c 00 00 00
+#
+name: VCRA REC
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 0c 00 00 00
+#
+name: INDEX +
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 0e 00 00 00
+#
+name: VCRA >
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 0e 00 00 00
+#
+name: VCR 3 (TUE)
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 10 00 00 00
+#
+name: VCR 3
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 10 00 00 00
+#
+name: VCRA 3
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 10 00 00 00
+#
+name: VCR CH V
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 12 00 00 00
+#
+name: VCR CHANNEL V
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 12 00 00 00
+#
+name: VCR STOP []
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 14 00 00 00
+#
+name: VCR STOP
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 14 00 00 00
+#
+name: VCRA STOP []
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 14 00 00 00
+#
+name: INDEX -
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 16 00 00 00
+#
+name: VCRA <
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 16 00 00 00
+#
+name: VCR 4 (WED)
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 18 00 00 00
+#
+name: VCR 4
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 18 00 00 00
+#
+name: VCRA 4
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 18 00 00 00
+#
+name: VCR INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 1a 00 00 00
+#
+name: VCR INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 1a 00 00 00
+#
+name: VCR PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 1c 00 00 00
+#
+name: VCRA PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 1c 00 00 00
+#
+name: VCR 5 (THU)
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 20 00 00 00
+#
+name: VCR 5
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 20 00 00 00
+#
+name: VCRA 5
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 20 00 00 00
+#
+name: VCR FF/SRCH >>
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 24 00 00 00
+#
+name: VCR FF/SEARCH >>
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 24 00 00 00
+#
+name: VCRA FF/FWD >>
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 24 00 00 00
+#
+name: VCR Q.V.
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 25 00 00 00
+#
+name: VCR QV
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 25 00 00 00
+#
+name: QV
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 25 00 00 00
+#
+name: VCRA SQV/QV
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 25 00 00 00
+#
+name: VCR DISP
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 27 00 00 00
+#
+name: VCRA INFO
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 27 00 00 00
+#
+name: VCR 6 (FRI)
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 28 00 00 00
+#
+name: VCR 6
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 28 00 00 00
+#
+name: VCRA 6
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 28 00 00 00
+#
+name: VCR REW/SRCH <<
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 2c 00 00 00
+#
+name: VCR REW/SEARCH <<
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 2c 00 00 00
+#
+name: VCRA REW/REV <<
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 2c 00 00 00
+#
+name: VCR OFF-T OTR
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 2f 00 00 00
+#
+name: VCR OFF-T/OTR
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 2f 00 00 00
+#
+name: OFF-T
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 2f 00 00 00
+#
+name: VCRA SLEEP
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 2f 00 00 00
+#
+name: VCR 7 (SAT)
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 30 00 00 00
+#
+name: VCR 7
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 30 00 00 00
+#
+name: VCRA 7
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 30 00 00 00
+#
+name: QUICK PROGRAM
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 33 00 00 00
+#
+name: VCR ENTER
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 35 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 35 00 00 00
+#
+name: VCRA ENTER
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 35 00 00 00
+#
+name: VCR 8 (M-F)
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 38 00 00 00
+#
+name: VCR 8
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 38 00 00 00
+#
+name: VCRA 8
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 38 00 00 00
+#
+name: VCR INPUT
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 3a 00 00 00
+#
+name: VCR INPUT ^
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 3a 00 00 00
+#
+name: VCR INPUT V
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 3a 00 00 00
+#
+name: VCRA INPUT
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 3a 00 00 00
+#
+name: VCR VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 40 00 00 00
+#
+name: VCR VIDEO ^
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 40 00 00 00
+#
+name: VCRA VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 40 00 00 00
+#
+name: VCR ADJ >
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 41 00 00 00
+#
+name: VCR ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 41 00 00 00
+#
+name: ^
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 41 00 00 00
+#
+name: VCRA ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 41 00 00 00
+#
+name: VCR VIDEO V
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 48 00 00 00
+#
+name: VCR ADJ <
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 49 00 00 00
+#
+name: VCR ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 49 00 00 00
+#
+name: V
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 49 00 00 00
+#
+name: VCRA EXCH V
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 49 00 00 00
+#
+name: VCR AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 50 00 00 00
+#
+name: VCR AUDIO ^
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 50 00 00 00
+#
+name: VCRA AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 50 00 00 00
+#
+name: VCR MODE
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 52 00 00 00
+#
+name: VCR MENU
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 52 00 00 00
+#
+name: VCRA MENU
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 52 00 00 00
+#
+name: VCR AUDIO V
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 58 00 00 00
+#
+name: 1
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 80 00 00 00
+#
+name: VCRB 1
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 80 00 00 00
+#
+name: 9
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 81 00 00 00
+#
+name: VCRB 9
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 81 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 82 00 00 00
+#
+name: VCRB POWER
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 82 00 00 00
+#
+name: PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 84 00 00 00
+#
+name: VCRB PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 84 00 00 00
+#
+name: VCRB TV/VCR
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 85 00 00 00
+#
+name: VCRB VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 85 00 00 00
+#
+name: VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 85 00 00 00
+#
+name: 2
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 88 00 00 00
+#
+name: VCRB 2
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 88 00 00 00
+#
+name: 0
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 89 00 00 00
+#
+name: VCRB 0
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 89 00 00 00
+#
+name: CH ^ (SCAN ^)
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 8a 00 00 00
+#
+name: VCRB CHANNEL ^
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 8a 00 00 00
+#
+name: CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 8b 00 00 00
+#
+name: VCRB CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 8b 00 00 00
+#
+name: REC
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 8c 00 00 00
+#
+name: VCRB REC
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 8c 00 00 00
+#
+name: ZERO STOP
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 8d 00 00 00
+#
+name: SLOW +
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 8e 00 00 00
+#
+name: INDEX SRCH +
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 8e 00 00 00
+#
+name: VCRB >
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 8e 00 00 00
+#
+name: 3
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 90 00 00 00
+#
+name: VCRB 3
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 90 00 00 00
+#
+name: CH V (SCAN V)
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 92 00 00 00
+#
+name: VCRB CHANNEL V
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 92 00 00 00
+#
+name: STOP []
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 94 00 00 00
+#
+name: VCRB STOP []
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 94 00 00 00
+#
+name: SLOW -
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 96 00 00 00
+#
+name: INDEX SRCH -
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 96 00 00 00
+#
+name: VCRB <
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 96 00 00 00
+#
+name: 4
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 98 00 00 00
+#
+name: VCRB 4
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 98 00 00 00
+#
+name: PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 9c 00 00 00
+#
+name: VCRB PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: 9c 00 00 00
+#
+name: 5
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: a0 00 00 00
+#
+name: VCRB 5
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: a0 00 00 00
+#
+name: FF/SRCH >>
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: a4 00 00 00
+#
+name: VCRB FF/FWD >>
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: a4 00 00 00
+#
+name: FAST PLAY
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: a5 00 00 00
+#
+name: Q.V.
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: a5 00 00 00
+#
+name: VCRB SQV/QV
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: a5 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: a7 00 00 00
+#
+name: VCRB INFO
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: a7 00 00 00
+#
+name: 6
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: a8 00 00 00
+#
+name: VCRB 6
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: a8 00 00 00
+#
+name: REW/SRCH <<
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: ac 00 00 00
+#
+name: VCRB REW/REV <<
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: ac 00 00 00
+#
+name: OFF-T OTR
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: af 00 00 00
+#
+name: VCRB SLEEP
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: af 00 00 00
+#
+name: 7
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: b0 00 00 00
+#
+name: VCRB 7
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: b0 00 00 00
+#
+name: SLOW >
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: b4 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: b5 00 00 00
+#
+name: VCRB ENTER
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: b5 00 00 00
+#
+name: 8
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: b8 00 00 00
+#
+name: VCRB 8
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: b8 00 00 00
+#
+name: INPUT SELECT
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: ba 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: ba 00 00 00
+#
+name: VCRB INPUT
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: ba 00 00 00
+#
+name: VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: c0 00 00 00
+#
+name: VCRB VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: c0 00 00 00
+#
+name: VCRB ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: c1 00 00 00
+#
+name: VCRB EXCH V
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: c9 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: d0 00 00 00
+#
+name: VCRB AUDIO
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: d0 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: d2 00 00 00
+#
+name: VCRB MENU
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: d2 00 00 00
+#
+name: ADJUST -
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: f3 00 00 00
+#
+name: ADJUST +
+type: parsed
+protocol: Mitsubishi
+address: 57 57 00 00
+command: f4 00 00 00

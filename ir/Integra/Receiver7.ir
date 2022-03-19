@@ -1,0 +1,32 @@
+Filetype: IR signals file
+Version: 1
+#
+name: UNIVERSAL PORT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8a 00 00 00
+#
+name: USB FRONT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9e 00 00 00
+#
+name: USB REAR
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9f 00 00 00
+#
+name: XM
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: da 00 00 00
+#
+name: SIRIUS
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: db 00 00 00

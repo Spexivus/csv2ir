@@ -1,0 +1,242 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER ON
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 01 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 02 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 03 00 00 00
+#
+name: VIDEO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 05 00 00 00
+#
+name: VIDEO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 06 00 00 00
+#
+name: RGB
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 08 00 00 00
+#
+name: RGB2: D-SUB15
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 09 00 00 00
+#
+name: RGB3: 5 BNC
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 0a 00 00 00
+#
+name: S-VIDEO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 0b 00 00 00
+#
+name: COMPONENT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 0c 00 00 00
+#
+name: RGB1: DVI-D
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 0e 00 00 00
+#
+name: SHIFT 1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 10 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 20 00 00 00
+#
+name: SHIFT 2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 20 00 00 00
+#
+name: VOL +
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 20 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 21 00 00 00
+#
+name: VOL -
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 21 00 00 00
+#
+name: SHIFT 3
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 30 00 00 00
+#
+name: ARROW LEFT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 3e 00 00 00
+#
+name: ADJ LEFT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 3e 00 00 00
+#
+name: ARROW RIGHT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 3f 00 00 00
+#
+name: ADJ RIGHT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 3f 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: SHIFT 4
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: ADJ UP
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: ARROW DOWN
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 42 00 00 00
+#
+name: ADJ DOWN
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 42 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 5b 00 00 00
+#
+name: SET
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 5b 00 00 00
+#
+name: WIDE
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 80 00 00 00
+#
+name: ASPECT TOGGLE
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 80 00 00 00
+#
+name: ASPECT AUTO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 81 00 00 00
+#
+name: ASPECT NORMAL
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 82 00 00 00
+#
+name: ASPECT WIDE1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 83 00 00 00
+#
+name: ASPECT WIDE2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 84 00 00 00
+#
+name: ASPECT ZOOM1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 85 00 00 00
+#
+name: ASPECT ZOOM2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 86 00 00 00
+#
+name: LOCK (HIDDEN)
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: e0 00 00 00
+#
+name: MODE (HIDDEN)
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: fa 00 00 00

@@ -1,0 +1,128 @@
+Filetype: IR signals file
+Version: 1
+#
+name: MENU
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 73 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 74 00 00 00
+#
+name: POWER
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 75 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 75 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 77 00 00 00
+#
+name: 0 - DVI 2
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 7c 00 00 00
+#
+name: 1 - COMPOSITE 1
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 7d 00 00 00
+#
+name: 2 - COMPOSITE 2
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 7e 00 00 00
+#
+name: 3 - S-VIDEO 1
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 7f 00 00 00
+#
+name: 4 - S-VIDEO 2
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 80 00 00 00
+#
+name: 5 - COMPONENT 1
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 81 00 00 00
+#
+name: 6 - COMPONENT 2
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 82 00 00 00
+#
+name: 7 - RGB 1
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 83 00 00 00
+#
+name: 8 - RGB 2
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 84 00 00 00
+#
+name: 9 - DVI 1
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 85 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 87 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 8a 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 8b 00 00 00
+#
+name: CURSOR ENTER
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 8c 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 8d 00 00 00
+#
+name: INFO
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 8e 00 00 00

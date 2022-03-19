@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: OFF
+type: parsed
+protocol: RC5
+address: 1e 1e 00 00
+command: 00 00 00 00
+#
+name: ON
+type: parsed
+protocol: RC5
+address: 1e 1e 00 00
+command: 01 00 00 00
+#
+name: SCENE 1
+type: parsed
+protocol: RC5
+address: 1e 1e 00 00
+command: 02 00 00 00
+#
+name: SCENE 2
+type: parsed
+protocol: RC5
+address: 1e 1e 00 00
+command: 03 00 00 00
+#
+name: SCENE 3
+type: parsed
+protocol: RC5
+address: 1e 1e 00 00
+command: 04 00 00 00
+#
+name: SCENE 4
+type: parsed
+protocol: RC5
+address: 1e 1e 00 00
+command: 05 00 00 00
+#
+name: RAISE
+type: parsed
+protocol: RC5
+address: 1e 1e 00 00
+command: 21 00 00 00
+#
+name: LOWER
+type: parsed
+protocol: RC5
+address: 1e 1e 00 00
+command: 22 00 00 00

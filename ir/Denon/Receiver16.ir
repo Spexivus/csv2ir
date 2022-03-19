@@ -1,0 +1,632 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CD REPEAT
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 54 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 54 00 00 00
+#
+name: CD SKIP >>
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 58 00 00 00
+#
+name: SKIP +
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 58 00 00 00
+#
+name: CD >>
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 58 00 00 00
+#
+name: CD-FF
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 58 00 00 00
+#
+name: CD SEARCH >> (>>)
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 58 00 00 00
+#
+name: CD SKIP <<
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 59 00 00 00
+#
+name: SKIP -
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 59 00 00 00
+#
+name: CD <<
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 59 00 00 00
+#
+name: CD-RW
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 59 00 00 00
+#
+name: CD SEARCH << (<<)
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 59 00 00 00
+#
+name: CD SCAN >>
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5a 00 00 00
+#
+name: >>
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5a 00 00 00
+#
+name: FORWARD
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5a 00 00 00
+#
+name: CD >>
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5a 00 00 00
+#
+name: CD-SEARCH+
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5a 00 00 00
+#
+name: CD SCAN FWD >>
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5a 00 00 00
+#
+name: CD SCAN <<
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5b 00 00 00
+#
+name: <<
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5b 00 00 00
+#
+name: REV
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5b 00 00 00
+#
+name: CD <<
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5b 00 00 00
+#
+name: CD-SEACH-
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5b 00 00 00
+#
+name: CD SCAN REV <<
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5b 00 00 00
+#
+name: CD PLAY >
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5c 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5c 00 00 00
+#
+name: CD-PLAY
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5c 00 00 00
+#
+name: CD PAUSE 
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5d 00 00 00
+#
+name: A/B
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5d 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5d 00 00 00
+#
+name: PAUSE A/B
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5d 00 00 00
+#
+name: CD-PAUSE
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5d 00 00 00
+#
+name: CD PAUSE (A/B)
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5d 00 00 00
+#
+name: CD STOP []
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5e 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5e 00 00 00
+#
+name: CD-STOP
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 5e 00 00 00
+#
+name: DISC 1
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 64 00 00 00
+#
+name: DISC 2
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 65 00 00 00
+#
+name: DISC 3
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 66 00 00 00
+#
+name: DISC 4
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 67 00 00 00
+#
+name: DISC 5
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 68 00 00 00
+#
+name: DISC 6
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 69 00 00 00
+#
+name: CD RANDOM
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 6a 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 6a 00 00 00
+#
+name: CD DISC SKIP
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 6b 00 00 00
+#
+name: SKIP -
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 6b 00 00 00
+#
+name: SKIP + REV
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 6b 00 00 00
+#
+name: CD DISC SKIP +
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 6b 00 00 00
+#
+name: CD DISC SKIP + (POW)
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 6b 00 00 00
+#
+name: CD-SKIP DISC+
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 6b 00 00 00
+#
+name: CD DISC SKIP (<)
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 6b 00 00 00
+#
+name: 0
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 81 00 00 00
+#
+name: 1
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 82 00 00 00
+#
+name: 2
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 83 00 00 00
+#
+name: 3
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 84 00 00 00
+#
+name: 4
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 85 00 00 00
+#
+name: 5
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 86 00 00 00
+#
+name: 6
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 87 00 00 00
+#
+name: 7
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 88 00 00 00
+#
+name: 8
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 89 00 00 00
+#
+name: 9
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 8a 00 00 00
+#
+name: +10
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 8c 00 00 00
+#
+name: SUBTITLE
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 8d 00 00 00
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 90 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 91 00 00 00
+#
+name: DVD-MENU
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 91 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 92 00 00 00
+#
+name: DVD-RETURN
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 92 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 98 00 00 00
+#
+name: DVD-FF
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 98 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 99 00 00 00
+#
+name: DVD-RW
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 99 00 00 00
+#
+name: SEARCH >>
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 9a 00 00 00
+#
+name: DVD-SEARCH+
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 9a 00 00 00
+#
+name: SEARCH <<
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 9b 00 00 00
+#
+name: DVD-SEARCH-
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 9b 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 9d 00 00 00
+#
+name: DVD-PAUSE
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: 9d 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: a0 00 00 00
+#
+name: DVD-PLAY
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: a0 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: a1 00 00 00
+#
+name: DVD-STOP
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: a1 00 00 00
+#
+name: DISC 1
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: a4 00 00 00
+#
+name: DISC 2
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: a5 00 00 00
+#
+name: DISC 3
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: a6 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: a7 00 00 00
+#
+name: DVD-DISPLAY
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: a7 00 00 00
+#
+name: DISC 4
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: a8 00 00 00
+#
+name: DISC 5
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: a9 00 00 00
+#
+name: DISC SKIP
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: ab 00 00 00
+#
+name: DVD-DISC SKIP+
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: ab 00 00 00
+#
+name: UP
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: ac 00 00 00
+#
+name: DVD-CURSOR UP
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: ac 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: ad 00 00 00
+#
+name: DVD-CURSOR DOWN
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: ad 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: ae 00 00 00
+#
+name: DVD-CURSOR RIGHT
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: ae 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: af 00 00 00
+#
+name: DVD-CURSOR LEFT
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: af 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: b1 00 00 00
+#
+name: DVD-POWER
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: b1 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: bb 00 00 00
+#
+name: DVD-SELECT
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: bb 00 00 00
+#
+name: DVD-DVD SETUP
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: bc 00 00 00
+#
+name: DVD-TITLE
+type: parsed
+protocol: Denon
+address: 08 08 00 00
+command: bd 00 00 00

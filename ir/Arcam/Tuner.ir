@@ -1,0 +1,116 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PRESET 1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 01 00 00 00
+#
+name: PRESET 2
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 02 00 00 00
+#
+name: PRESET 3
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 03 00 00 00
+#
+name: PRESET 4
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 04 00 00 00
+#
+name: PRESET 5
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 05 00 00 00
+#
+name: PRESET 6
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 06 00 00 00
+#
+name: PRESET 7
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 07 00 00 00
+#
+name: PRESET 8
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 08 00 00 00
+#
+name: PRESET 9
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 09 00 00 00
+#
+name: PRESET/TUNE +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: PRESET/TUNE -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: PRESET/TUNE MODE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 25 00 00 00
+#
+name: PRESET 10
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 6e 00 00 00
+#
+name: PRESET 11
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 6f 00 00 00
+#
+name: PRESET 12
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 70 00 00 00
+#
+name: PRESET 13
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 71 00 00 00
+#
+name: PRESET 14
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 72 00 00 00
+#
+name: PRESET 15
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 73 00 00 00
+#
+name: PRESET 16
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 74 00 00 00

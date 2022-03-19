@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: e2 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: e3 00 00 00

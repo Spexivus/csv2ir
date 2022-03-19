@@ -1,0 +1,236 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 2
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 01 00 00 00
+#
+name: 3
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 02 00 00 00
+#
+name: 4
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 03 00 00 00
+#
+name: 5
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 04 00 00 00
+#
+name: 6
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 05 00 00 00
+#
+name: 7
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 06 00 00 00
+#
+name: 8
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 07 00 00 00
+#
+name: 9
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 08 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 0b 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 0e 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 0f 00 00 00
+#
+name: OPEN CLOSE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 16 00 00 00
+#
+name: DVD MENU
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 1b 00 00 00
+#
+name: PWRON
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 2e 00 00 00
+#
+name: PWR OFF
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 2f 00 00 00
+#
+name: PREV TRACK
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 30 00 00 00
+#
+name: NEXT TRACK
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 31 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 32 00 00 00
+#
+name: SKAN REW
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 33 00 00 00
+#
+name: SKAN FF
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 34 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 38 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 39 00 00 00
+#
+name: STEP REW
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3a 00 00 00
+#
+name: STEP FF
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3b 00 00 00
+#
+name: DISK1
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 40 00 00 00
+#
+name: DISK2
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 41 00 00 00
+#
+name: DISK3
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 42 00 00 00
+#
+name: DISK4
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 43 00 00 00
+#
+name: DISK5
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 44 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 53 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 54 00 00 00
+#
+name: SUBTITTLE ON OFF
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 62 00 00 00
+#
+name: SUBTITTLE CHANGE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 63 00 00 00
+#
+name: AUDIO CHANGE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 64 00 00 00
+#
+name: ANGLE CHANGE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 65 00 00 00
+#
+name: CURSER UP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 79 00 00 00
+#
+name: CURSER DOWN
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 7a 00 00 00
+#
+name: CURSER LEFT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 7b 00 00 00
+#
+name: CURSER RIGHT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 7c 00 00 00

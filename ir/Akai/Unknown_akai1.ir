@@ -1,0 +1,260 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CD_STOP
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 00 00 00 00
+#
+name: INPUT_TUNER
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 01 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 02 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 03 00 00 00
+#
+name: INPUT_TAPE
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 04 00 00 00
+#
+name: CD_PLAY
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 05 00 00 00
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 06 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 08 00 00 00
+#
+name: INPUT_PHONO
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 09 00 00 00
+#
+name: CD_PREV
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 0c 00 00 00
+#
+name: CD_REPEAT
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 0d 00 00 00
+#
+name: AUTOMUTE
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 0e 00 00 00
+#
+name: VOL_MUTE
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 10 00 00 00
+#
+name: INPUT_VCR
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 11 00 00 00
+#
+name: CD_FF
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 14 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 18 00 00 00
+#
+name: INPUT_CD
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 19 00 00 00
+#
+name: TAPE1_PLAY
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 1b 00 00 00
+#
+name: CD_REW
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 1c 00 00 00
+#
+name: CD_PROG
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 1d 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 1e 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 1f 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 40 00 00 00
+#
+name: TAPE2_FF
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 42 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 43 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 44 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 45 00 00 00
+#
+name: TAPE1_FF
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 46 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 4a 00 00 00
+#
+name: SOUNDCHAR_NEXT
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 4c 00 00 00
+#
+name: SOUNDCHAR_PREV
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 4d 00 00 00
+#
+name: CD_RANDOM
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 4f 00 00 00
+#
+name: CD_NEXT
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 52 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 54 00 00 00
+#
+name: TAPE1_REW
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 56 00 00 00
+#
+name: TAPE2_REW
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 57 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 58 00 00 00
+#
+name: TAPE2_BACK
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 5a 00 00 00
+#
+name: TAPE1_BACK
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 5b 00 00 00
+#
+name: TAPE2_STOP
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 5c 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 5d 00 00 00
+#
+name: TAPE2_PLAY
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 5e 00 00 00
+#
+name: TAPE1_STOP
+type: parsed
+protocol: NEC
+address: 83 83 00 00
+command: 5f 00 00 00

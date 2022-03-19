@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CDV 1
+type: parsed
+protocol: RC5
+address: 0c 0c 00 00
+command: 01 00 00 00
+#
+name: CDV PLAY >
+type: parsed
+protocol: RC5
+address: 0c 0c 00 00
+command: 35 00 00 00

@@ -1,0 +1,524 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 10
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 00 00 00 00
+#
+name: 0
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 00 00 00 00
+#
+name: 1
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 02 00 00 00
+#
+name: 3
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 03 00 00 00
+#
+name: 4
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 04 00 00 00
+#
+name: 5
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 05 00 00 00
+#
+name: 6
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 06 00 00 00
+#
+name: 7
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 07 00 00 00
+#
+name: 8
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 08 00 00 00
+#
+name: 9
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 09 00 00 00
+#
+name: OUTPUT +
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 0a 00 00 00
+#
+name: OUTPUT
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 0b 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 0c 00 00 00
+#
+name: PROGRAM
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 0d 00 00 00
+#
+name: PROGRAM PLAY
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 0d 00 00 00
+#
+name: PGM
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 0d 00 00 00
+#
+name: SEARCH >>
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 0e 00 00 00
+#
+name: FF
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 0e 00 00 00
+#
+name: SEARCH <<
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 0f 00 00 00
+#
+name: REW
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 0f 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 10 00 00 00
+#
+name: SONG UP
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 10 00 00 00
+#
+name: TRACK >>
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 10 00 00 00
+#
+name: TRACK UP
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 10 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 11 00 00 00
+#
+name: SONG DOWN
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 11 00 00 00
+#
+name: TRACK <<
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 11 00 00 00
+#
+name: TRACK DOWN
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 11 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 16 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 17 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 18 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 1c 00 00 00
+#
+name: STBY
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 1c 00 00 00
+#
+name: DISC +
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 1d 00 00 00
+#
+name: DISC UP
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 1d 00 00 00
+#
+name: DISC 1
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 1e 00 00 00
+#
+name: D1
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 1e 00 00 00
+#
+name: DISC 2
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 1f 00 00 00
+#
+name: D2
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 1f 00 00 00
+#
+name: TRACK SET
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 40 00 00 00
+#
+name: DISC SET
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 41 00 00 00
+#
+name: TIME
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 43 00 00 00
+#
+name: TIME/CHAR
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 43 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 45 00 00 00
+#
+name: CHECK
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 49 00 00 00
+#
+name: RANDOM PLAY
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 4a 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 4a 00 00 00
+#
+name: DISC 3
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 50 00 00 00
+#
+name: D3
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 50 00 00 00
+#
+name: DISC 4
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 53 00 00 00
+#
+name: D4
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 53 00 00 00
+#
+name: DISC 5
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 57 00 00 00
+#
+name: D5
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 57 00 00 00
+#
+name: DISC 6
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 5b 00 00 00
+#
+name: D6
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 5b 00 00 00
+#
+name: DELAY
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 5d 00 00 00
+#
+name: HI LITE SCAN
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 5e 00 00 00
+#
+name: HI-LITLE
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 5e 00 00 00
+#
+name: HI-LITE
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 5e 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 81 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 82 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 83 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 92 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 93 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 94 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 95 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 9b 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: 9c 00 00 00
+#
+name: ADLC
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c0 00 00 00
+#
+name: FADER
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c0 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c0 00 00 00
+#
+name: M1
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c1 00 00 00
+#
+name: M2
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c1 00 00 00
+#
+name: M3
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c1 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c1 00 00 00
+#
+name: DISC -
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c1 00 00 00
+#
+name: MODE
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c1 00 00 00
+#
+name: DISC DOWN
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c1 00 00 00
+#
+name: TITLE INPUT
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c1 00 00 00
+#
+name: BEST
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c2 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c2 00 00 00
+#
+name: TITLE DISPLAY
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c2 00 00 00
+#
+name: TITTLE SEARCH
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c2 00 00 00
+#
+name: PREVIOUS
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c6 00 00 00
+#
+name: <CURSOR
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c6 00 00 00
+#
+name: CURSOR>
+type: parsed
+protocol: Pioneer
+address: a2 a2 00 00
+command: c6 00 00 00

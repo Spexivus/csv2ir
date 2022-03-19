@@ -1,0 +1,80 @@
+Filetype: IR signals file
+Version: 1
+#
+name: DISPLAY
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 04 00 00 00
+#
+name: OK/SELECT
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 0a 00 00 00
+#
+name: VIDEO1
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 11 00 00 00
+#
+name: VIDEO2
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 12 00 00 00
+#
+name: VIDEO3
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 14 00 00 00
+#
+name: POWER (TOGGLE)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 17 00 00 00
+#
+name: ARROW DOWN
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: VIDEO4
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1b 00 00 00
+#
+name: ARROW RIGHT
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: ARROW LEFT
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: MENU
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 7a 00 00 00
+#
+name: FREEZE
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 80 00 00 00

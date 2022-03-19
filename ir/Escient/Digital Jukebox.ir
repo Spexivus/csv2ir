@@ -1,0 +1,332 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 00 00 00 00
+#
+name: 1
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 02 00 00 00
+#
+name: 3
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 03 00 00 00
+#
+name: 4
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 04 00 00 00
+#
+name: 5
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 05 00 00 00
+#
+name: 6
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 06 00 00 00
+#
+name: 7
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 07 00 00 00
+#
+name: 8
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 08 00 00 00
+#
+name: 9
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 09 00 00 00
+#
+name: CH/PAGE UP
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 0d 00 00 00
+#
+name: PAGE UP
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 0d 00 00 00
+#
+name: CH/PAGE DOWN
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 0e 00 00 00
+#
+name: PAGE DOWN
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 0e 00 00 00
+#
+name: POWER
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 0f 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 10 00 00 00
+#
+name: MODE
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 11 00 00 00
+#
+name: SETUP
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 12 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 13 00 00 00
+#
+name: OPTIONS
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 13 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 14 00 00 00
+#
+name: .
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 15 00 00 00
+#
+name: OPEN GLOBE
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 15 00 00 00
+#
+name: CURSER UP
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 16 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 16 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 17 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 18 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 19 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 1a 00 00 00
+#
+name: INFO
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 1b 00 00 00
+#
+name: MENU
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 1c 00 00 00
+#
+name: MENU/VIEW
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 1c 00 00 00
+#
+name: SCAN <<
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 20 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 20 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 21 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 22 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 22 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 23 00 00 00
+#
+name: STOP
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 24 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 25 00 00 00
+#
+name: MOVIES
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 26 00 00 00
+#
+name: TITLE
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 27 00 00 00
+#
+name: ANGLE
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 28 00 00 00
+#
+name: RESUME
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 29 00 00 00
+#
+name: I. RADIO
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 2a 00 00 00
+#
+name: NEXT
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 2b 00 00 00
+#
+name: FAVORITES MUSIC
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 2c 00 00 00
+#
+name: ADD FAVORITES
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 2c 00 00 00
+#
+name: FAVORITES ADD
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 2d 00 00 00
+#
+name: FAVORITES PLAY
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 2e 00 00 00
+#
+name: PLAY FAVORITES
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 2e 00 00 00
+#
+name: FAVORITES RANDOM
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 2f 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: XMP-2
+address: 0f 0f 00 00
+command: 2f 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: XMP
+address: 0f 0f 00 00
+command: ae 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: XMP
+address: 0f 0f 00 00
+command: ae 00 00 00

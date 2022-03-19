@@ -1,0 +1,194 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: c1 00 00 00
+#
+name: 1
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: c2 00 00 00
+#
+name: 2
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: c3 00 00 00
+#
+name: 3
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: c4 00 00 00
+#
+name: 4
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: c5 00 00 00
+#
+name: 5
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: c6 00 00 00
+#
+name: 6
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: c7 00 00 00
+#
+name: 7
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: c8 00 00 00
+#
+name: 8
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: c9 00 00 00
+#
+name: 9
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: ca 00 00 00
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: d0 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: d4 00 00 00
+#
+name: SRCH >>
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: d8 00 00 00
+#
+name: SRCH <<
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: d9 00 00 00
+#
+name: FF >>
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: da 00 00 00
+#
+name: REW <<
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: db 00 00 00
+#
+name: PLAY >
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: dc 00 00 00
+#
+name: PAUSE 
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: dd 00 00 00
+#
+name: STOP []
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: de 00 00 00
+#
+name: REC/MUTE
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: df 00 00 00
+#
+name: MODE COUNTER
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: e1 00 00 00
+#
+name: RESET COUNTER
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: e2 00 00 00
+#
+name: RENUMBER
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: e7 00 00 00
+#
+name: END
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: ea 00 00 00
+#
+name: ID MODE
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: eb 00 00 00
+#
+name: WRITE
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: ec 00 00 00
+#
+name: ERASE
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: ed 00 00 00
+#
+name: DIGITAL FADE IN
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: f1 00 00 00
+#
+name: DIGITAL FADE OUT
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: f2 00 00 00
+#
+name: FINE CUE <
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: f3 00 00 00
+#
+name: FINE CUE >
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: f4 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: f5 00 00 00

@@ -1,0 +1,350 @@
+Filetype: IR signals file
+Version: 1
+#
+name: TUNE UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 40 00 00 00
+#
+name: Z2 TUNING UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 40 00 00 00
+#
+name: TUNE DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 41 00 00 00
+#
+name: Z2 TUNING DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 41 00 00 00
+#
+name: SEARCH MODE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: XM SEARCH MODE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: NET TUNE FFWD
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 80 00 00 00
+#
+name: NET TUNE REW
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 81 00 00 00
+#
+name: NET TUNE RETURN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 86 00 00 00
+#
+name: MUSIC SERVER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 88 00 00 00
+#
+name: INTERNET RADIO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 89 00 00 00
+#
+name: NET TUNE PLAY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8d 00 00 00
+#
+name: NET TUNE STOP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8e 00 00 00
+#
+name: NET TUNE TRACK +
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8f 00 00 00
+#
+name: NET TUNE TRACK -
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 90 00 00 00
+#
+name: NET TUNE PAUSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 91 00 00 00
+#
+name: NET TUNE REPEAT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 92 00 00 00
+#
+name: NET TUNE RANDOM
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 93 00 00 00
+#
+name: NET TUNE DISPLAY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9e 00 00 00
+#
+name: NET TUNE UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c0 00 00 00
+#
+name: NET TUNE DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c1 00 00 00
+#
+name: NET TUNE LEFT
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c2 00 00 00
+#
+name: NET TUNE RIGHT
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c3 00 00 00
+#
+name: NET TUNE SELECT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: c4 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d5 00 00 00
+#
+name: NET TUNE 1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d5 00 00 00
+#
+name: Z2 1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d5 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d5 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: NET TUNE 2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: Z2 2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d7 00 00 00
+#
+name: NET TUNE 3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d7 00 00 00
+#
+name: Z2 3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d7 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d8 00 00 00
+#
+name: NET TUNE 4
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d8 00 00 00
+#
+name: Z2 4
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d8 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d9 00 00 00
+#
+name: NET TUNE 5
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d9 00 00 00
+#
+name: Z2 5
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d9 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: da 00 00 00
+#
+name: NET TUNE 6
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: da 00 00 00
+#
+name: Z2 6
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: da 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: db 00 00 00
+#
+name: NET TUNE 7
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: db 00 00 00
+#
+name: Z2 7
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: db 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dc 00 00 00
+#
+name: NET TUNE 8
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dc 00 00 00
+#
+name: Z2 8
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dc 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dd 00 00 00
+#
+name: NET TUNE 9
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dd 00 00 00
+#
+name: Z2 9
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dd 00 00 00
+#
+name: 0/10
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: de 00 00 00
+#
+name: NET TUNE 0/10
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: de 00 00 00
+#
+name: Z2 0/10
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: de 00 00 00
+#
+name: DIRECT TUNE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: df 00 00 00
+#
+name: Z2 DIRECT TUNING
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: df 00 00 00
+#
+name: DIRECT TUNING
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: df 00 00 00

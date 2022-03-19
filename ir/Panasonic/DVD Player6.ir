@@ -1,0 +1,200 @@
+Filetype: IR signals file
+Version: 1
+#
+name: STOP
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 00 00 00 00
+#
+name: SCAN <<
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 02 00 00 00
+#
+name: SLOW SEARCH <<
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 02 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 03 00 00 00
+#
+name: SLOW SEARCH >>
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 03 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 06 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 33 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 34 00 00 00
+#
+name: UP/ON
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 34 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 35 00 00 00
+#
+name: DOWN/OFF
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 35 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 36 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 36 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 37 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 37 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 47 00 00 00
+#
+name: A-B REPEAT
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 48 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 57 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 80 00 00 00
+#
+name: DISC MANAGER
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: a1 00 00 00
+#
+name: DISC
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: a4 00 00 00
+#
+name: TITLE
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: ab 00 00 00
+#
+name: MARKER
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: ac 00 00 00
+#
+name: ANGLE
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: ad 00 00 00
+#
+name: SUBTITLE
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: ae 00 00 00
+#
+name: SETUP
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: b5 00 00 00
+#
+name: PLAY MODE
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: bb 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: c0 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: c4 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: c4 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: c6 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: c6 00 00 00
+#
+name: DISC SKIP
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: eb 00 00 00

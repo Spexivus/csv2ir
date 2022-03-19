@@ -1,0 +1,32 @@
+Filetype: IR signals file
+Version: 1
+#
+name: STOP
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: c9 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: cb 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: cb 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: ce 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: cf 00 00 00

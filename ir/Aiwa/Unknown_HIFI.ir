@@ -1,0 +1,152 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_POWER
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 00 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 01 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 02 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 03 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 04 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 05 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 06 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 07 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 08 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 09 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 0a 00 00 00
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 0b 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 11 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 12 00 00 00
+#
+name: BAND
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 13 00 00 00
+#
+name: KEY_AGAIN
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 51 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 80 00 00 00
+#
+name: KEY_MODE
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: 8f 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: c4 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: c5 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: c6 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: c7 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: c9 00 00 00
+#
+name: EQ
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: ca 00 00 00
+#
+name: FUNCTION
+type: parsed
+protocol: Aiwa
+address: 70 70 00 00
+command: dd 00 00 00

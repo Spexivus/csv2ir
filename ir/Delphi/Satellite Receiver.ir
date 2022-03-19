@@ -1,0 +1,290 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0 A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 40 00 00 00
+#
+name: 0 B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 40 00 00 00
+#
+name: 1 A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 41 00 00 00
+#
+name: 1 B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 41 00 00 00
+#
+name: 2 A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 42 00 00 00
+#
+name: 2 B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 42 00 00 00
+#
+name: 3 A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 43 00 00 00
+#
+name: 3 B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 43 00 00 00
+#
+name: 4 A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 44 00 00 00
+#
+name: 4 B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 44 00 00 00
+#
+name: 5 A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 45 00 00 00
+#
+name: 5 B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 45 00 00 00
+#
+name: 6 A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 46 00 00 00
+#
+name: 6 B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 46 00 00 00
+#
+name: 7 A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 47 00 00 00
+#
+name: 7 B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 47 00 00 00
+#
+name: 8 A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 48 00 00 00
+#
+name: 8 B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 48 00 00 00
+#
+name: 9 A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 49 00 00 00
+#
+name: 9 B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 49 00 00 00
+#
+name: POWER A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 4c 00 00 00
+#
+name: POWER B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 4c 00 00 00
+#
+name: MUTE A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 4d 00 00 00
+#
+name: MUTE B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 4d 00 00 00
+#
+name: + A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 50 00 00 00
+#
+name: + B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 50 00 00 00
+#
+name: - A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 51 00 00 00
+#
+name: - B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 51 00 00 00
+#
+name: MEMORY A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 57 00 00 00
+#
+name: MEMORY B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 57 00 00 00
+#
+name: CHANNEL + A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 60 00 00 00
+#
+name: CHANNEL + B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 60 00 00 00
+#
+name: UP A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 60 00 00 00
+#
+name: UP B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 60 00 00 00
+#
+name: CHANNEL - A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 61 00 00 00
+#
+name: CHANNEL - B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 61 00 00 00
+#
+name: DOWN A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 61 00 00 00
+#
+name: DOWN B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 61 00 00 00
+#
+name: PRESET/DIRECT A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 62 00 00 00
+#
+name: PRESET/DIRECT B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 62 00 00 00
+#
+name: XM A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 63 00 00 00
+#
+name: XM B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 63 00 00 00
+#
+name: CATEGORY >> A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 70 00 00 00
+#
+name: CATEGORY >> B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 70 00 00 00
+#
+name: CATEGORY << A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 71 00 00 00
+#
+name: CATEGORY << B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 71 00 00 00
+#
+name: DISPLAY A
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 7a 00 00 00
+#
+name: DISPLAY B
+type: parsed
+protocol: RC5
+address: 1b 1b 00 00
+command: 7a 00 00 00

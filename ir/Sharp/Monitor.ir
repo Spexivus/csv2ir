@@ -1,0 +1,62 @@
+Filetype: IR signals file
+Version: 1
+#
+name: AUDIO/VIDEO
+type: parsed
+protocol: Sharp
+address: 01 01 00 00
+command: 13 00 00 00
+#
+name: ARROW RIGHT
+type: parsed
+protocol: Sharp
+address: 01 01 00 00
+command: 14 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: Sharp
+address: 01 01 00 00
+command: 14 00 00 00
+#
+name: ARROW DOWN
+type: parsed
+protocol: Sharp
+address: 01 01 00 00
+command: 15 00 00 00
+#
+name: ARROW LEFT
+type: parsed
+protocol: Sharp
+address: 01 01 00 00
+command: 15 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: Sharp
+address: 01 01 00 00
+command: 15 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Sharp
+address: 01 01 00 00
+command: 16 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Sharp
+address: 01 01 00 00
+command: 17 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: Sharp
+address: 01 01 00 00
+command: 57 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Sharp
+address: 01 01 00 00
+command: c4 00 00 00

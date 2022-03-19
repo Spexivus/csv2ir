@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 
+type: parsed
+protocol: Proton
+address: 02 02 00 00
+command: 00 00 00 00
+#
+name: AV3 INPUT
+type: parsed
+protocol: Proton
+address: 02 02 00 00
+command: 04 00 00 00
+#
+name: ANT1 / RGB
+type: parsed
+protocol: Proton
+address: 02 02 00 00
+command: 05 00 00 00
+#
+name: 
+type: parsed
+protocol: Proton
+address: 02 02 00 00
+command: 08 00 00 00
+#
+name: ANT2
+type: parsed
+protocol: Proton
+address: 02 02 00 00
+command: 09 00 00 00
+#
+name: TV TUNER
+type: parsed
+protocol: Proton
+address: 02 02 00 00
+command: 0a 00 00 00
+#
+name: AV2 INPUT
+type: parsed
+protocol: Proton
+address: 02 02 00 00
+command: 0b 00 00 00
+#
+name: AV1 INPUT
+type: parsed
+protocol: Proton
+address: 02 02 00 00
+command: 0f 00 00 00

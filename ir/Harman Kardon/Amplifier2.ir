@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER ON
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: 21 00 00 00
+#
+name: AM/FM
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: 22 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: 22 00 00 00

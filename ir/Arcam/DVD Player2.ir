@@ -1,0 +1,1334 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 00 00 00 00
+#
+name: 0A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 00 00 00 00
+#
+name: 1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 01 00 00 00
+#
+name: 1A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 01 00 00 00
+#
+name: TRACK 1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 02 00 00 00
+#
+name: 2A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 02 00 00 00
+#
+name: TRACK 2
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 02 00 00 00
+#
+name: 3
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 03 00 00 00
+#
+name: 3A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 03 00 00 00
+#
+name: TRACK 3
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 03 00 00 00
+#
+name: 4
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 04 00 00 00
+#
+name: 4A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 04 00 00 00
+#
+name: TRACK 4
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 04 00 00 00
+#
+name: 5
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 05 00 00 00
+#
+name: 5A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 05 00 00 00
+#
+name: TRACK 5
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 05 00 00 00
+#
+name: 6
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 06 00 00 00
+#
+name: 6A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 06 00 00 00
+#
+name: TRACK 6
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 06 00 00 00
+#
+name: 7
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 07 00 00 00
+#
+name: 7A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 07 00 00 00
+#
+name: TRACK 7
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 07 00 00 00
+#
+name: 8
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 08 00 00 00
+#
+name: 8A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 08 00 00 00
+#
+name: TRACK 8
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 08 00 00 00
+#
+name: 9
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 09 00 00 00
+#
+name: 9A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 09 00 00 00
+#
+name: TRACK 9
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 09 00 00 00
+#
+name: TRACK 10
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0a 00 00 00
+#
+name: TRACK 11
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0b 00 00 00
+#
+name: POWER
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0c 00 00 00
+#
+name: POWER_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0c 00 00 00
+#
+name: TRACK 12
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0c 00 00 00
+#
+name: POWERA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0c 00 00 00
+#
+name: TRACK 13
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0d 00 00 00
+#
+name: TRACK 14
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0e 00 00 00
+#
+name: TRACK 15
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0f 00 00 00
+#
+name: TRACK 16
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 10 00 00 00
+#
+name: TRACK 17
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 11 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 12 00 00 00
+#
+name: DISPLAY_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 12 00 00 00
+#
+name: TRACK 18
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 12 00 00 00
+#
+name: DISP
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 12 00 00 00
+#
+name: DISP A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 12 00 00 00
+#
+name: TRACK 19
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 13 00 00 00
+#
+name: TRACK 20
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 14 00 00 00
+#
+name: TRACK 21
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 15 00 00 00
+#
+name: TRACK 22
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 16 00 00 00
+#
+name: TRACK 23
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 17 00 00 00
+#
+name: TRACK 24
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 18 00 00 00
+#
+name: TRACK 25
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 19 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1d 00 00 00
+#
+name: REPEAT TOGGLE
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1d 00 00 00
+#
+name: REPEAT A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1d 00 00 00
+#
+name: SLOWF
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1e 00 00 00
+#
+name: SLOW FORWARD
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1e 00 00 00
+#
+name: >
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1e 00 00 00
+#
+name: >A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1e 00 00 00
+#
+name: SLOW MOTION +
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1e 00 00 00
+#
+name: SLOW +
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1e 00 00 00
+#
+name: SLOW + A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1e 00 00 00
+#
+name: SLOWR
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1f 00 00 00
+#
+name: SLOW REWIND
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1f 00 00 00
+#
+name: <
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1f 00 00 00
+#
+name: <A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1f 00 00 00
+#
+name: SLOW MOTION -
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1f 00 00 00
+#
+name: SLOW -
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1f 00 00 00
+#
+name: SLOW - A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1f 00 00 00
+#
+name: SKIPF
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: SKIPF_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: TRACK FWD
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: >I
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: >IA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: TRACK FORWARD
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: NEXT
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: NEXT A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: SKIPB
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00
+#
+name: SKIPB_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00
+#
+name: TRACK BACK
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00
+#
+name: I<
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00
+#
+name: I<A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00
+#
+name: PREVIOUS
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00
+#
+name: PREVIOUS A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00
+#
+name: TRIM
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 25 00 00 00
+#
+name: TRIM A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 25 00 00 00
+#
+name: MODE
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 29 00 00 00
+#
+name: MODE_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 29 00 00 00
+#
+name: PROGRAMME
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 29 00 00 00
+#
+name: PROGRAMM
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 29 00 00 00
+#
+name: PROG
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 29 00 00 00
+#
+name: PROGA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 29 00 00 00
+#
+name: OPEN
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2d 00 00 00
+#
+name: OPEN_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2d 00 00 00
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2d 00 00 00
+#
+name: STOP
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2d 00 00 00
+#
+name: OPEN/CLOSE A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2d 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 30 00 00 00
+#
+name: PAUSE_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 30 00 00 00
+#
+name: PAUSEA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 30 00 00 00
+#
+name: PAUSE A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 30 00 00 00
+#
+name: FASTR
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 32 00 00 00
+#
+name: FASTR_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 32 00 00 00
+#
+name: FAST REWIND
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 32 00 00 00
+#
+name: <<
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 32 00 00 00
+#
+name: <<A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 32 00 00 00
+#
+name: SCAN <<
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 32 00 00 00
+#
+name: REW
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 32 00 00 00
+#
+name: REW A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 32 00 00 00
+#
+name: FASTF
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 34 00 00 00
+#
+name: FASTF_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 34 00 00 00
+#
+name: FAST FORWARD
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 34 00 00 00
+#
+name: >>
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 34 00 00 00
+#
+name: >>A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 34 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 34 00 00 00
+#
+name: TRIM
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 34 00 00 00
+#
+name: FWD
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 34 00 00 00
+#
+name: FWD A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 34 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 35 00 00 00
+#
+name: PLAY_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 35 00 00 00
+#
+name: PLAYA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 35 00 00 00
+#
+name: PLAY A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 35 00 00 00
+#
+name: STOP
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 36 00 00 00
+#
+name: STOP_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 36 00 00 00
+#
+name: STOPA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 36 00 00 00
+#
+name: TRACK BACK
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 36 00 00 00
+#
+name: STOP A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 36 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3a 00 00 00
+#
+name: CLEARA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3a 00 00 00
+#
+name: MARK_AB
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3b 00 00 00
+#
+name: REPEAT A-B
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3b 00 00 00
+#
+name: SIDE A/B
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3b 00 00 00
+#
+name: A/B
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3b 00 00 00
+#
+name: A/BA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3b 00 00 00
+#
+name: PROGRAM
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 40 00 00 00
+#
+name: PROGRAM_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 40 00 00 00
+#
+name: PMODE
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 40 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 40 00 00 00
+#
+name: RANDOM A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 40 00 00 00
+#
+name: SUBTITLE
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 41 00 00 00
+#
+name: SUBTITLE_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 41 00 00 00
+#
+name: SUBTITLES
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 41 00 00 00
+#
+name: SUBTITLESA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 41 00 00 00
+#
+name: SUBTITLE A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 41 00 00 00
+#
+name: TITLE
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 42 00 00 00
+#
+name: TITLE_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 42 00 00 00
+#
+name: TITLE A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 42 00 00 00
+#
+name: MENU
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 43 00 00 00
+#
+name: MENU_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 43 00 00 00
+#
+name: MENUA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 43 00 00 00
+#
+name: MENU A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 43 00 00 00
+#
+name: ZOOM
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 44 00 00 00
+#
+name: ZOOM_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 44 00 00 00
+#
+name: ZOOM A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 44 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 45 00 00 00
+#
+name: AUDIO_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 45 00 00 00
+#
+name: AUDIO A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 45 00 00 00
+#
+name: MEM
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 46 00 00 00
+#
+name: MEM_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 46 00 00 00
+#
+name: MEM (BOOKMARK)
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 46 00 00 00
+#
+name: MEMORY
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 46 00 00 00
+#
+name: MEMORY A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 46 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 48 00 00 00
+#
+name: RETURN_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 48 00 00 00
+#
+name: RETURN A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 48 00 00 00
+#
+name: ANGLE
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 49 00 00 00
+#
+name: ANGLE_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 49 00 00 00
+#
+name: ANGLE A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 49 00 00 00
+#
+name: SETUP
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4a 00 00 00
+#
+name: SETUP_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4a 00 00 00
+#
+name: SETUP A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4a 00 00 00
+#
+name: STATUS
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4b 00 00 00
+#
+name: STATUS_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4b 00 00 00
+#
+name: STATUS A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4b 00 00 00
+#
+name: SEARCH
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4c 00 00 00
+#
+name: SEARCH_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4c 00 00 00
+#
+name: SEARCH A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4c 00 00 00
+#
+name: PL
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4d 00 00 00
+#
+name: MODE
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4d 00 00 00
+#
+name: MODE A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 4d 00 00 00
+#
+name: RIGHT CURSOR
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 50 00 00 00
+#
+name: RIGHT CURSOR_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 50 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 50 00 00 00
+#
+name: RIGHTA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 50 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 50 00 00 00
+#
+name: C RIGHT
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 50 00 00 00
+#
+name: C RIGHT A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 50 00 00 00
+#
+name: LEFT CURSOR
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 51 00 00 00
+#
+name: LEFT CURSOR_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 51 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 51 00 00 00
+#
+name: LEFTA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 51 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 51 00 00 00
+#
+name: C LEFT
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 51 00 00 00
+#
+name: C LEFT A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 51 00 00 00
+#
+name: DOWN CURSOR
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 55 00 00 00
+#
+name: DOWN CURSOR_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 55 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 55 00 00 00
+#
+name: DOWNA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 55 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 55 00 00 00
+#
+name: C DOWN
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 55 00 00 00
+#
+name: C DOWN A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 55 00 00 00
+#
+name: UP CURSOR
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 56 00 00 00
+#
+name: UP CURSOR_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 56 00 00 00
+#
+name: UP
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 56 00 00 00
+#
+name: 
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 56 00 00 00
+#
+name: UPA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 56 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 56 00 00 00
+#
+name: C UP
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 56 00 00 00
+#
+name: C UP A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 56 00 00 00
+#
+name: OK
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 57 00 00 00
+#
+name: OK_A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 57 00 00 00
+#
+name: OKA
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 57 00 00 00
+#
+name: CURSOR SELECT (OK)
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 57 00 00 00
+#
+name: OK A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 57 00 00 00
+#
+name: DISCRETE ON
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 7b 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 7b 00 00 00
+#
+name: ON
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 7b 00 00 00
+#
+name: DISCRETE OFF
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 7c 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 7c 00 00 00
+#
+name: OFF
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 7c 00 00 00

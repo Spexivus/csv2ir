@@ -1,0 +1,146 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 80 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 81 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 82 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 83 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 84 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 85 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 86 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 87 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 88 00 00 00
+#
+name: PIP ON
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 89 00 00 00
+#
+name: 0
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 8a 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 8b 00 00 00
+#
+name: IR OP
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 8c 00 00 00
+#
+name: PG DWN
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 8d 00 00 00
+#
+name: PG UP
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 8e 00 00 00
+#
+name: BELL MT
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 8f 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 90 00 00 00
+#
+name: MAIN +
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 91 00 00 00
+#
+name: SUB +
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 92 00 00 00
+#
+name: PIP
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 93 00 00 00
+#
+name: MAIN -
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 95 00 00 00
+#
+name: SUB -
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 96 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 97 00 00 00
+#
+name: MUENU
+type: parsed
+protocol: NEC1
+address: 85 85 00 00
+command: 98 00 00 00

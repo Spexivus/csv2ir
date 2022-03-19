@@ -1,0 +1,182 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 00 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 01 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 02 00 00 00
+#
+name: VOLYM +
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 03 00 00 00
+#
+name: VOLYM -
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 04 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 05 00 00 00
+#
+name: PINP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 06 00 00 00
+#
+name: RECALL
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 07 00 00 00
+#
+name: RGB1
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: RGB 1
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: RGB2
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0a 00 00 00
+#
+name: RGB 2
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0a 00 00 00
+#
+name: AV1
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0b 00 00 00
+#
+name: AV2
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0c 00 00 00
+#
+name: AV3
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0d 00 00 00
+#
+name: AV4
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0e 00 00 00
+#
+name: AUTO
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 12 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 13 00 00 00
+#
+name: UP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 14 00 00 00
+#
+name: CURSOR UPP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 14 00 00 00
+#
+name: DN
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 15 00 00 00
+#
+name: CURSOR NER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 15 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 16 00 00 00
+#
+name: GER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 16 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 17 00 00 00
+#
+name: NSTER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 17 00 00 00
+#
+name: OK
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 18 00 00 00
+#
+name: CURSOR OK
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 18 00 00 00
+#
+name: SIZE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 19 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 1a 00 00 00

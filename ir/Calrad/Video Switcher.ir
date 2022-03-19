@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: IN 1 TO TV 1
+type: parsed
+protocol: NEC1
+address: 04 04 00 00
+command: 07 00 00 00
+#
+name: IN 2 TO TV 1
+type: parsed
+protocol: NEC1
+address: 04 04 00 00
+command: 08 00 00 00
+#
+name: IN 3 TO TV 1
+type: parsed
+protocol: NEC1
+address: 04 04 00 00
+command: 09 00 00 00
+#
+name: IN 2 TO TV 2
+type: parsed
+protocol: NEC1
+address: 04 04 00 00
+command: 11 00 00 00
+#
+name: IN 1 TO TV 2
+type: parsed
+protocol: NEC1
+address: 04 04 00 00
+command: 14 00 00 00
+#
+name: IN 4 TO TV 2
+type: parsed
+protocol: NEC1
+address: 04 04 00 00
+command: 15 00 00 00
+#
+name: IN 3 TO TV 2
+type: parsed
+protocol: NEC1
+address: 04 04 00 00
+command: 19 00 00 00
+#
+name: IN 4 TO TV 1
+type: parsed
+protocol: NEC1
+address: 04 04 00 00
+command: 1d 00 00 00

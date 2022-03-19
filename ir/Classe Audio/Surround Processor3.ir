@@ -1,0 +1,758 @@
+Filetype: IR signals file
+Version: 1
+#
+name: A.CAL T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 08 00 00 00
+#
+name: A.CAL T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 08 00 00 00
+#
+name: STANDBY T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0c 00 00 00
+#
+name: STANDBY T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0c 00 00 00
+#
+name: MUTE T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0d 00 00 00
+#
+name: MUTE T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0d 00 00 00
+#
+name: SLEEP T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0e 00 00 00
+#
+name: SLEEP T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0e 00 00 00
+#
+name: DISPLAY T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0f 00 00 00
+#
+name: DISPLAY T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0f 00 00 00
+#
+name: DIM T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0f 00 00 00
+#
+name: DIM T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0f 00 00 00
+#
+name: DISP T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0f 00 00 00
+#
+name: DISP T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 0f 00 00 00
+#
+name: VOL+ T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 10 00 00 00
+#
+name: VOL+ T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 10 00 00 00
+#
+name: VOL- T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 11 00 00 00
+#
+name: VOL- T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 11 00 00 00
+#
+name: AUD5 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 12 00 00 00
+#
+name: AUD5 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 12 00 00 00
+#
+name: AUD6 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 13 00 00 00
+#
+name: AUD6 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 13 00 00 00
+#
+name: AUD1 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 14 00 00 00
+#
+name: AUD1 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 14 00 00 00
+#
+name: AUD2 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 15 00 00 00
+#
+name: AUD2 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 15 00 00 00
+#
+name: AUD3 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 16 00 00 00
+#
+name: AUD3 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 16 00 00 00
+#
+name: AUD4 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 17 00 00 00
+#
+name: AUD4 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 17 00 00 00
+#
+name: EX 7.1 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 18 00 00 00
+#
+name: EX 7.1 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 18 00 00 00
+#
+name: TAPE T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1a 00 00 00
+#
+name: TAPE T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1a 00 00 00
+#
+name: PATH T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1c 00 00 00
+#
+name: PATH T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1c 00 00 00
+#
+name: RECALL T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1d 00 00 00
+#
+name: RECALL T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1d 00 00 00
+#
+name: MEMORY T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1e 00 00 00
+#
+name: MEMORY T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1e 00 00 00
+#
+name: STORE T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1f 00 00 00
+#
+name: STORE T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 1f 00 00 00
+#
+name: MODE> T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: MODE> T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: MODE T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: MODE T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: MODE R T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: MODE R T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: MENU T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00
+#
+name: MENU T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00
+#
+name: UP T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 22 00 00 00
+#
+name: UP T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 22 00 00 00
+#
+name: LEFT T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 23 00 00 00
+#
+name: LEFT T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 23 00 00 00
+#
+name: RIGHT T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 24 00 00 00
+#
+name: RIGHT T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 24 00 00 00
+#
+name: MENU T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 24 00 00 00
+#
+name: MENU T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 24 00 00 00
+#
+name: DOWN T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 25 00 00 00
+#
+name: DOWN T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 25 00 00 00
+#
+name: ENTER T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 26 00 00 00
+#
+name: ENTER T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 26 00 00 00
+#
+name: CANCEL T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 27 00 00 00
+#
+name: CANCEL T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 27 00 00 00
+#
+name: VIDEO L T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 27 00 00 00
+#
+name: VIDEO L T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 27 00 00 00
+#
+name: VIDEO R T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 28 00 00 00
+#
+name: VIDEO R T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 28 00 00 00
+#
+name: AUDIO L T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 29 00 00 00
+#
+name: AUDIO L T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 29 00 00 00
+#
+name: AUDIO R T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2a 00 00 00
+#
+name: AUDIO R T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2a 00 00 00
+#
+name: LEFT FRONT T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2c 00 00 00
+#
+name: LEFT FRONT T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2c 00 00 00
+#
+name: RIGHT FRONT T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2d 00 00 00
+#
+name: RIGHT FRONT T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2d 00 00 00
+#
+name: L SURR T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2e 00 00 00
+#
+name: L SURR T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2e 00 00 00
+#
+name: R SURR T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2f 00 00 00
+#
+name: R SURR T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 2f 00 00 00
+#
+name: AV1 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 30 00 00 00
+#
+name: AV1 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 30 00 00 00
+#
+name: AV2 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 31 00 00 00
+#
+name: AV2 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 31 00 00 00
+#
+name: AV3 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 32 00 00 00
+#
+name: AV3 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 32 00 00 00
+#
+name: AV4 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 33 00 00 00
+#
+name: AV4 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 33 00 00 00
+#
+name: AV5 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 34 00 00 00
+#
+name: AV5 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 34 00 00 00
+#
+name: AV6 T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 35 00 00 00
+#
+name: AV6 T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 35 00 00 00
+#
+name: SUB+ T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 36 00 00 00
+#
+name: SUB+ T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 36 00 00 00
+#
+name: TRIM+ T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 36 00 00 00
+#
+name: TRIM+ T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 36 00 00 00
+#
+name: ZONE T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 37 00 00 00
+#
+name: ZONE T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 37 00 00 00
+#
+name: <MODE T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 38 00 00 00
+#
+name: <MODE T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 38 00 00 00
+#
+name: CAL T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 38 00 00 00
+#
+name: CAL T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 38 00 00 00
+#
+name: MODE L T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 38 00 00 00
+#
+name: MODE L T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 38 00 00 00
+#
+name: THX T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 39 00 00 00
+#
+name: THX T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 39 00 00 00
+#
+name: SUB T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3a 00 00 00
+#
+name: SUB T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3a 00 00 00
+#
+name: CENTER T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3b 00 00 00
+#
+name: CENTER T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3b 00 00 00
+#
+name: AUTO T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3c 00 00 00
+#
+name: AUTO T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3c 00 00 00
+#
+name: TRIM T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3c 00 00 00
+#
+name: TRIM T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3c 00 00 00
+#
+name: COMPR T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3d 00 00 00
+#
+name: COMPR T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3d 00 00 00
+#
+name: COMP T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3d 00 00 00
+#
+name: COMP T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3d 00 00 00
+#
+name: TRIM T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3e 00 00 00
+#
+name: TRIM T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3e 00 00 00
+#
+name: SUB- T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3e 00 00 00
+#
+name: SUB- T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3e 00 00 00
+#
+name: TRIM- T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3e 00 00 00
+#
+name: TRIM- T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3e 00 00 00
+#
+name: STATUS T0
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3f 00 00 00
+#
+name: STATUS T1
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 3f 00 00 00

@@ -1,0 +1,122 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CH UP
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 10 00 00 00
+#
+name: CH DN
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 11 00 00 00
+#
+name: EJECT
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 16 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 18 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 19 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 1a 00 00 00
+#
+name: REWIND <<
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 1b 00 00 00
+#
+name: FF
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 1c 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 1d 00 00 00
+#
+name: AUTO TRACKING
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 27 00 00 00
+#
+name: ANT VCR
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 2d 00 00 00
+#
+name: PWR ON
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 2e 00 00 00
+#
+name: PWR OFF
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 2f 00 00 00
+#
+name: FORWARD
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 31 00 00 00
+#
+name: SLOW MOTION -
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 3e 00 00 00
+#
+name: CURSER UP
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 42 00 00 00
+#
+name: CURSER DN
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 43 00 00 00
+#
+name: TRACKING
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 45 00 00 00
+#
+name: COUNTER RESET
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 46 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Sony12
+address: 02 02 00 00
+command: 51 00 00 00

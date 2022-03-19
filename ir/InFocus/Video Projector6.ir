@@ -1,0 +1,74 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VOLUME +
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 0e 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 0f 00 00 00
+#
+name: STANDBY (ON/OFF)
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 10 00 00 00
+#
+name: LITE SHOW
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 11 00 00 00
+#
+name: NEXT ^
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 12 00 00 00
+#
+name: PROG
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 17 00 00 00
+#
+name: FREEZE ESC
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 18 00 00 00
+#
+name: MENU EDIT
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 19 00 00 00
+#
+name: MIC >
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 1b 00 00 00
+#
+name: MUTE <
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 1d 00 00 00
+#
+name: SELECT ENTER
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 1e 00 00 00
+#
+name: PREV V
+type: parsed
+protocol: Aiwa
+address: 02 02 00 00
+command: 1f 00 00 00

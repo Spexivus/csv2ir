@@ -1,0 +1,1022 @@
+Filetype: IR signals file
+Version: 1
+#
+name: DISC MODE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 00 00 00 00
+#
+name: MODE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 00 00 00 00
+#
+name: D-MODE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 00 00 00 00
+#
+name: MODE
+type: parsed
+protocol: NEC
+address: 79 79 00 00
+command: 00 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 00 00 00 00
+#
+name: CHANGER MODE TOG
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 00 00 00 00
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 01 00 00 00
+#
+name: EJECT
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 01 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 02 00 00 00
+#
+name: PLAY/PAUSE TOG
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 03 00 00 00
+#
+name: TRACK -
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 04 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 04 00 00 00
+#
+name: SKIP BACK
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 04 00 00 00
+#
+name: SEARCH <<
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 04 00 00 00
+#
+name: CHAPTER -
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 04 00 00 00
+#
+name: SKIP DOWN
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 04 00 00 00
+#
+name: << SKIP
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 04 00 00 00
+#
+name: SKIP -
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 04 00 00 00
+#
+name: SEARCH <<
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 05 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 05 00 00 00
+#
+name: SCAN <<
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 05 00 00 00
+#
+name: SCAN DOWN
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 05 00 00 00
+#
+name: << SEARCH
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 05 00 00 00
+#
+name: SEARCH -
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 05 00 00 00
+#
+name: SEARCH >>
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 06 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 06 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 06 00 00 00
+#
+name: SCAN UP
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 06 00 00 00
+#
+name: SEARCH +
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 06 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 07 00 00 00
+#
+name: SKIP FORWARD
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 07 00 00 00
+#
+name: SEARCH >>
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 07 00 00 00
+#
+name: CHAPTER +
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 07 00 00 00
+#
+name: SKIP UP
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 07 00 00 00
+#
+name: SKIP +
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 07 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 08 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: NEC
+address: 79 79 00 00
+command: 08 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 08 00 00 00
+#
+name: REPEAT - TOGGLE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 08 00 00 00
+#
+name: REPEAT MODE TOG
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 08 00 00 00
+#
+name: TIME
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 0a 00 00 00
+#
+name: TEXT/TIME
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 0a 00 00 00
+#
+name: TIME MODE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 0a 00 00 00
+#
+name: TIME DISPLAY
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 0a 00 00 00
+#
+name: INDEX
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 0b 00 00 00
+#
+name: PROGRAM
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 0c 00 00 00
+#
+name: MEMORY
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 0c 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 0d 00 00 00
+#
+name: DELETE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 0d 00 00 00
+#
+name: CANCEL/CLEAR
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 0d 00 00 00
+#
+name: 0
+type: parsed
+protocol: NECext
+address: 79 79 00 00
+command: 10 00 00 00
+#
+name: 0
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 10 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 11 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 12 00 00 00
+#
+name: 3
+type: parsed
+protocol: NECext
+address: 79 79 00 00
+command: 13 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 13 00 00 00
+#
+name: 4
+type: parsed
+protocol: NECext
+address: 79 79 00 00
+command: 14 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 14 00 00 00
+#
+name: 5
+type: parsed
+protocol: NECext
+address: 79 79 00 00
+command: 15 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 15 00 00 00
+#
+name: 6
+type: parsed
+protocol: NECext
+address: 79 79 00 00
+command: 16 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 16 00 00 00
+#
+name: 7
+type: parsed
+protocol: NECext
+address: 79 79 00 00
+command: 17 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 17 00 00 00
+#
+name: 8
+type: parsed
+protocol: NECext
+address: 79 79 00 00
+command: 18 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 18 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 19 00 00 00
+#
+name: +10
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1a 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1b 00 00 00
+#
+name: SHUFFLE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1b 00 00 00
+#
+name: OUTPUT-
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1c 00 00 00
+#
+name: OUTPUT LEVEL -
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1c 00 00 00
+#
+name: OUTPUT LEVEL DN
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1c 00 00 00
+#
+name: OUTPUT -
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1c 00 00 00
+#
+name: OUTPUT+
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1d 00 00 00
+#
+name: OUTPUT LEVEL +
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1d 00 00 00
+#
+name: OUTPUT LEVEL UP
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1d 00 00 00
+#
+name: OUTPUT +
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1d 00 00 00
+#
+name: DIMMER
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1e 00 00 00
+#
+name: FILE MODE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 1f 00 00 00
+#
+name: DISC
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 20 00 00 00
+#
+name: DISC 1
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 21 00 00 00
+#
+name: DISC 2
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 22 00 00 00
+#
+name: DISC 3
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 23 00 00 00
+#
+name: DISC 4
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 24 00 00 00
+#
+name: DISC 5
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 25 00 00 00
+#
+name: TEXT MODE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 2b 00 00 00
+#
+name: TEXT SEARCH
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 2c 00 00 00
+#
+name: CAPS
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 2d 00 00 00
+#
+name: INTRO
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 2e 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 3f 00 00 00
+#
+name: 11
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 41 00 00 00
+#
+name: 12
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 42 00 00 00
+#
+name: 13
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 43 00 00 00
+#
+name: 14
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 44 00 00 00
+#
+name: 15
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 45 00 00 00
+#
+name: 16
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 46 00 00 00
+#
+name: 17
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 47 00 00 00
+#
+name: 18
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 48 00 00 00
+#
+name: 19
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 49 00 00 00
+#
+name: 20
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4a 00 00 00
+#
+name: 21
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4b 00 00 00
+#
+name: 22
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4c 00 00 00
+#
+name: 23
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4d 00 00 00
+#
+name: 24
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4e 00 00 00
+#
+name: DISC UP
+type: parsed
+protocol: NECext
+address: 79 79 00 00
+command: 4f 00 00 00
+#
+name: DISC SKIP
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4f 00 00 00
+#
+name: DISC SKIP UP
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4f 00 00 00
+#
+name: DISC SKIP >
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4f 00 00 00
+#
+name: DISC +
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4f 00 00 00
+#
+name: + DISC
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4f 00 00 00
+#
+name: DISC+
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4f 00 00 00
+#
+name: DISC SKIP +
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4f 00 00 00
+#
+name: DSIC SKIP +
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 4f 00 00 00
+#
+name: DISC DOWN
+type: parsed
+protocol: NECext
+address: 79 79 00 00
+command: 50 00 00 00
+#
+name: DISC SKIP DOWN
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 50 00 00 00
+#
+name: DISC SKIP <
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 50 00 00 00
+#
+name: CONTINUE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 50 00 00 00
+#
+name: DISC -
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 50 00 00 00
+#
+name: - DISC
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 50 00 00 00
+#
+name: DISC-
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 50 00 00 00
+#
+name: DISC SKIP -
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 50 00 00 00
+#
+name: < DISC SKIP
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 50 00 00 00
+#
+name: +1 DISC
+type: parsed
+protocol: NECext
+address: 79 79 00 00
+command: 51 00 00 00
+#
+name: DISC SCAN
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 53 00 00 00
+#
+name: INTRO
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 53 00 00 00
+#
+name: DISCSCAN
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 53 00 00 00
+#
+name: DIMMER
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 54 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 55 00 00 00
+#
+name: STOP
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 56 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Pioneer
+address: 79 79 00 00
+command: 56 00 00 00
+#
+name: TAPE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 57 00 00 00
+#
+name: SYNCHRO
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 58 00 00 00
+#
+name: +20
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 59 00 00 00
+#
+name: +30
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 5a 00 00 00
+#
+name: ALL
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 5b 00 00 00
+#
+name: PEAK
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 5d 00 00 00
+#
+name: POWER - TOGGLE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 60 00 00 00
+#
+name: STANDBY/ON
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 60 00 00 00
+#
+name: POWER ON/OFF
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 60 00 00 00
+#
+name: POWER TOG
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 60 00 00 00
+#
+name: ACTIVE
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 61 00 00 00
+#
+name: GROUP A
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 62 00 00 00
+#
+name: GROUP B
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 63 00 00 00
+#
+name: GROUP C
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 64 00 00 00
+#
+name: GROUP D
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 65 00 00 00
+#
+name: GROUP E
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 66 00 00 00
+#
+name: FILE EDIT
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 67 00 00 00
+#
+name: GROUP EDIT
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 68 00 00 00
+#
+name: FOLDER UP
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 69 00 00 00
+#
+name: FOLDER DOWN
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 6a 00 00 00
+#
+name: PURE DIRECT TOG
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 6e 00 00 00
+#
+name: USB/CD MODE TOG
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 6f 00 00 00
+#
+name: PLAY - NORMAL
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 79 00 00 00
+#
+name: PLAY MODE NORMAL
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 79 00 00 00
+#
+name: NORMAL
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 79 00 00 00
+#
+name: PLAY - RANDOM
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7a 00 00 00
+#
+name: PLAY MODE RANDOM
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7a 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7a 00 00 00
+#
+name: PLAY - PROGRAM
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7b 00 00 00
+#
+name: PLAY MODE PROGRAM
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7b 00 00 00
+#
+name: PROGRAM
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7b 00 00 00
+#
+name: REPEAT - OFF
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7c 00 00 00
+#
+name: REPEAT OFF
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7c 00 00 00
+#
+name: REPEAT - ALL
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7d 00 00 00
+#
+name: REPEAT ALL
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7d 00 00 00
+#
+name: POWER - ON
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7e 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7e 00 00 00
+#
+name: POWER - OFF
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7f 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 79 79 00 00
+command: 7f 00 00 00

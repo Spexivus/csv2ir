@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 45 45 00 00
+command: 84 00 00 00

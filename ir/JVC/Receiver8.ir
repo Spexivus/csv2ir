@@ -1,0 +1,1112 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PHONO STOP []
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 03 00 00 00
+#
+name: PHONO STOP [] (4)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 03 00 00 00
+#
+name: PHONO STOP
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 03 00 00 00
+#
+name: STOP []
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 03 00 00 00
+#
+name: PHONO PLAY >
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 0c 00 00 00
+#
+name: PHONO PLAY > (1)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 0c 00 00 00
+#
+name: PHONO PLAY
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 0c 00 00 00
+#
+name: CD STOP []
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 43 00 00 00
+#
+name: CD STOP [] (4)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 43 00 00 00
+#
+name: CD STOP[]
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 43 00 00 00
+#
+name: CD STOP (- [])
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 43 00 00 00
+#
+name: CD STOP
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 43 00 00 00
+#
+name: CD EJECT (10)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 44 00 00 00
+#
+name: CD OPEN/CLOSE
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 44 00 00 00
+#
+name: CD PLAY >
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 4c 00 00 00
+#
+name: CD PLAY > (1)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 4c 00 00 00
+#
+name: CD PLAY>
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 4c 00 00 00
+#
+name: CD PLAY (+ >)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 4c 00 00 00
+#
+name: CD PLAY
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 4c 00 00 00
+#
+name: CD PAUSE 
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 4d 00 00 00
+#
+name: CD PAUSE (5)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 4d 00 00 00
+#
+name: CD PAUSE ()
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 4d 00 00 00
+#
+name: CD PAUSE
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 4d 00 00 00
+#
+name: CD SKIP <<
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 58 00 00 00
+#
+name: CD << (2)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 58 00 00 00
+#
+name: CD A.SEARCH REV <<
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 58 00 00 00
+#
+name: CD SKIP REV <<
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 58 00 00 00
+#
+name: CD SKIP <
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 58 00 00 00
+#
+name: CD AUTO SEARCH <<
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 58 00 00 00
+#
+name: AUTO SEARCH <<
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 58 00 00 00
+#
+name: CD <<
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 58 00 00 00
+#
+name: CD REW/<<
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 58 00 00 00
+#
+name: CD SKIP >>
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 59 00 00 00
+#
+name: CD >>(3)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 59 00 00 00
+#
+name: CD A.SEARCH FWD >>
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 59 00 00 00
+#
+name: CD SKIP FWD >>
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 59 00 00 00
+#
+name: CD SKIP >
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 59 00 00 00
+#
+name: CD AUTO SEARCH >>
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 59 00 00 00
+#
+name: AUTO SEARCH >>
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 59 00 00 00
+#
+name: CD >>
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 59 00 00 00
+#
+name: CD FF/>>
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 59 00 00 00
+#
+name: TRACK 0
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 60 00 00 00
+#
+name: CD 10KEY 0
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 60 00 00 00
+#
+name: CD TRACK 0
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 60 00 00 00
+#
+name: CD 0
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 60 00 00 00
+#
+name: TRACK 1
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 61 00 00 00
+#
+name: CD 10KEY 1
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 61 00 00 00
+#
+name: CD TRACK 1
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 61 00 00 00
+#
+name: TV 1
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 61 00 00 00
+#
+name: CD 1
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 61 00 00 00
+#
+name: TRACK 2
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 62 00 00 00
+#
+name: CD 10KEY 2
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 62 00 00 00
+#
+name: CD TRACK 2
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 62 00 00 00
+#
+name: TV 2
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 62 00 00 00
+#
+name: CD 2
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 62 00 00 00
+#
+name: TRACK 3
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 63 00 00 00
+#
+name: CD 10KEY 3
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 63 00 00 00
+#
+name: CD TRACK 3
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 63 00 00 00
+#
+name: TV 3
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 63 00 00 00
+#
+name: CD 3
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 63 00 00 00
+#
+name: TRACK 4
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 64 00 00 00
+#
+name: CD 10KEY 4
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 64 00 00 00
+#
+name: CD TRACK 4
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 64 00 00 00
+#
+name: TV 4
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 64 00 00 00
+#
+name: CD 4
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 64 00 00 00
+#
+name: TRACK 5
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 65 00 00 00
+#
+name: CD 10KEY 5
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 65 00 00 00
+#
+name: CD TRACK 5
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 65 00 00 00
+#
+name: TV 5
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 65 00 00 00
+#
+name: CD 5
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 65 00 00 00
+#
+name: TRACK 6
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 66 00 00 00
+#
+name: CD 10KEY 6
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 66 00 00 00
+#
+name: CD TRACK 6
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 66 00 00 00
+#
+name: TV 6
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 66 00 00 00
+#
+name: CD 6
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 66 00 00 00
+#
+name: TRACK 7/P
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 67 00 00 00
+#
+name: CD 10KEY 7/P
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 67 00 00 00
+#
+name: CD TRACK 7
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 67 00 00 00
+#
+name: TV 7/P
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 67 00 00 00
+#
+name: CD 7/P
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 67 00 00 00
+#
+name: CD 7
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 67 00 00 00
+#
+name: TRACK 8
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 68 00 00 00
+#
+name: CD 10KEY 8
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 68 00 00 00
+#
+name: CD TRACK 8
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 68 00 00 00
+#
+name: TV 8
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 68 00 00 00
+#
+name: CD 8
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 68 00 00 00
+#
+name: TRACK 9
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 69 00 00 00
+#
+name: CD 10KEY 9
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 69 00 00 00
+#
+name: CD TRACK 9
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 69 00 00 00
+#
+name: TV 9
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 69 00 00 00
+#
+name: CD 9
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 69 00 00 00
+#
+name: TRACK 10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6e 00 00 00
+#
+name: CD 10KEY 10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6e 00 00 00
+#
+name: CD TRACK 10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6e 00 00 00
+#
+name: TV 10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6e 00 00 00
+#
+name: CD 10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6e 00 00 00
+#
+name: CD 10 CONTINUE
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6e 00 00 00
+#
+name: TRACK +10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6f 00 00 00
+#
+name: CD 10KEY +10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6f 00 00 00
+#
+name: CD TRACK +10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6f 00 00 00
+#
+name: TV +10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6f 00 00 00
+#
+name: CD +10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6f 00 00 00
+#
+name: CD SCAN <<
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 70 00 00 00
+#
+name: CD << (6)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 70 00 00 00
+#
+name: CD REW <<
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 70 00 00 00
+#
+name: CD SEARCH REV <<
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 70 00 00 00
+#
+name: CD REV (< <<)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 70 00 00 00
+#
+name: CD CHANGER PRGM
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 71 00 00 00
+#
+name: PRGM
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 71 00 00 00
+#
+name: CD CHANGER +10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 71 00 00 00
+#
+name: DISC PRGM
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 71 00 00 00
+#
+name: CD DISC PRGM(10)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 71 00 00 00
+#
+name: CD 0 (DISC)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 71 00 00 00
+#
+name: CD PRGM
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 71 00 00 00
+#
+name: CD CHANGER MAG.PRGM
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 73 00 00 00
+#
+name: MAG.PRGM
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 73 00 00 00
+#
+name: MAG. PRGM
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 73 00 00 00
+#
+name: CD CHANGER 0
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 73 00 00 00
+#
+name: DISC MAG.PRGM
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 73 00 00 00
+#
+name: CD +10 (DISC)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 73 00 00 00
+#
+name: CD SCAN >>
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 76 00 00 00
+#
+name: CD >> (P)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 76 00 00 00
+#
+name: CD FFWD >>
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 76 00 00 00
+#
+name: CD SEARCH FWD >>
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 76 00 00 00
+#
+name: CD FWD (> >>)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 76 00 00 00
+#
+name: CD CHANGER CONTINUE
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 77 00 00 00
+#
+name: CONTINUE
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 77 00 00 00
+#
+name: CD CHANGER 10
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 77 00 00 00
+#
+name: DISC CONTINUE
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 77 00 00 00
+#
+name: CD DISC CONTINUE(9)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 77 00 00 00
+#
+name: CD 10 (DISC) CONTIN
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 77 00 00 00
+#
+name: CD CONTINUE
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 77 00 00 00
+#
+name: CD DISC P
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 78 00 00 00
+#
+name: CD CHANGER P
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 78 00 00 00
+#
+name: CD DISC 7/P
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 78 00 00 00
+#
+name: 7
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 78 00 00 00
+#
+name: DISC 7/P
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 78 00 00 00
+#
+name: CD CHANGER 7/P
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 78 00 00 00
+#
+name: DISC P
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 78 00 00 00
+#
+name: CD DISC P (7)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 78 00 00 00
+#
+name: CD 7/P
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 78 00 00 00
+#
+name: CD DISC 7
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 78 00 00 00
+#
+name: CD 7/P (DISC)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 78 00 00 00
+#
+name: CD DISC 1
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 79 00 00 00
+#
+name: CD DISC 1 (>)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 79 00 00 00
+#
+name: CD CHANGER 1
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 79 00 00 00
+#
+name: 1
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 79 00 00 00
+#
+name: DISC 1
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 79 00 00 00
+#
+name: CD 1
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 79 00 00 00
+#
+name: CD 1 (DISC)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 79 00 00 00
+#
+name: CD DISC 2
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7a 00 00 00
+#
+name: CD DISC 2 (<<)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7a 00 00 00
+#
+name: CD CHANGER 2
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7a 00 00 00
+#
+name: 2
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7a 00 00 00
+#
+name: DISC 2
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7a 00 00 00
+#
+name: CD 2
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7a 00 00 00
+#
+name: CD 2 (DISC)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7a 00 00 00
+#
+name: CD DISC 3
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7b 00 00 00
+#
+name: CD DISC 3 (>>)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7b 00 00 00
+#
+name: CD CHANGER 3
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7b 00 00 00
+#
+name: 3
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7b 00 00 00
+#
+name: DISC 3
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7b 00 00 00
+#
+name: CD 3
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7b 00 00 00
+#
+name: CD 3 (DISC)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7b 00 00 00
+#
+name: CD DISC 4
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7c 00 00 00
+#
+name: CD DISC 4 ([])
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7c 00 00 00
+#
+name: CD CHANGER 4
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7c 00 00 00
+#
+name: 4
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7c 00 00 00
+#
+name: DISC 4
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7c 00 00 00
+#
+name: CD 4
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7c 00 00 00
+#
+name: CD 4 (DISC)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7c 00 00 00
+#
+name: CD DISC 5
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7d 00 00 00
+#
+name: CD DISC 5 ()
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7d 00 00 00
+#
+name: CD CHANGER 5
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7d 00 00 00
+#
+name: 5
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7d 00 00 00
+#
+name: DISC 5
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7d 00 00 00
+#
+name: CD 5
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7d 00 00 00
+#
+name: CD 5 (DISC)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7d 00 00 00
+#
+name: CD DISC 6
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7e 00 00 00
+#
+name: CD DISC 6 (<<)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7e 00 00 00
+#
+name: CD CHANGER 6
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7e 00 00 00
+#
+name: 6
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7e 00 00 00
+#
+name: DISC 6
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7e 00 00 00
+#
+name: CD 6
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7e 00 00 00
+#
+name: CD 6 (DISC)
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 7e 00 00 00

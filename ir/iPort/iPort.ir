@@ -1,0 +1,158 @@
+Filetype: IR signals file
+Version: 1
+#
+name: NEXT SONG
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 03 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 07 00 00 00
+#
+name: PREV SONG
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 0b 00 00 00
+#
+name: NEXT ALBUM
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 0c 00 00 00
+#
+name: PREV ALBUM
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 0d 00 00 00
+#
+name: STOP
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 0e 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 10 00 00 00
+#
+name: NEXT PLAY LIST
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 14 00 00 00
+#
+name: PREV PLAY LIST
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 15 00 00 00
+#
+name: SHUFFLE
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 16 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 17 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 18 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 1f 00 00 00
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 1f 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 1f 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 1f 00 00 00
+#
+name: FAST FORWARD
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 20 00 00 00
+#
+name: NEXT BOOK CHAPTER
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 20 00 00 00
+#
+name: PREVIOUS BOOK CHAPTE
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 21 00 00 00
+#
+name: REWIND
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 21 00 00 00
+#
+name: BACKLIGHT
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 22 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 22 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 23 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 24 00 00 00
+#
+name: ARROW DOWN
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 25 00 00 00
+#
+name: LED
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 30 00 00 00

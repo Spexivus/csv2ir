@@ -1,0 +1,716 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER ON/OFF
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0c 00 00 00
+#
+name: POWER
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0c 00 00 00
+#
+name: M-POWER
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0c 00 00 00
+#
+name: SOURCE ON/OFF
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0c 00 00 00
+#
+name: POWER (TOGGLE)
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0c 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0d 00 00 00
+#
+name: MUTE ON/OFF
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0d 00 00 00
+#
+name: AUDIO MUTE - ATT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0d 00 00 00
+#
+name: OSD INFO
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0f 00 00 00
+#
+name: OSD
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0f 00 00 00
+#
+name: 0EN4
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0f 00 00 00
+#
+name: OSD INFO. DISPLAY
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0f 00 00 00
+#
+name: INFO
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0f 00 00 00
+#
+name: AMP - OSD
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0f 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: MAIN VOL UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: MASTER VOLUME UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: VOL+
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: VOL +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: MAIN VOLUME UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: MAIN VOL DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: 
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: MASTER VOLUME DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: VOL-
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: VOL -
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: MAIN VOLUME DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: BASS +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 16 00 00 00
+#
+name: BASS ++
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 16 00 00 00
+#
+name: 
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 16 00 00 00
+#
+name: BASS UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 16 00 00 00
+#
+name: BASS+
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 16 00 00 00
+#
+name: BASS -
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 17 00 00 00
+#
+name: BASS--
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 17 00 00 00
+#
+name: BASS DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 17 00 00 00
+#
+name: BASS-
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 17 00 00 00
+#
+name: TREBLE +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 18 00 00 00
+#
+name: TREB ++
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 18 00 00 00
+#
+name: TREB +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 18 00 00 00
+#
+name: TREBLE UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 18 00 00 00
+#
+name: TREBLE-
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 18 00 00 00
+#
+name: TREBLE+
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 18 00 00 00
+#
+name: TREBLE -
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 19 00 00 00
+#
+name: TREB--
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 19 00 00 00
+#
+name: TREB -
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 19 00 00 00
+#
+name: TREBLE DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 19 00 00 00
+#
+name: TREBLE+
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 19 00 00 00
+#
+name: TREBLE-
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 19 00 00 00
+#
+name: BALANCE RIGHT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1a 00 00 00
+#
+name: BAL >
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1a 00 00 00
+#
+name: BALANCE LEFT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1b 00 00 00
+#
+name: DC TRIGGER-1 ON
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1b 00 00 00
+#
+name: BAL <
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1b 00 00 00
+#
+name: SPEAKER SEL.
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1d 00 00 00
+#
+name: SPKR MODE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1d 00 00 00
+#
+name: SPKR A/B
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1d 00 00 00
+#
+name: SPKR A / B
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1d 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1d 00 00 00
+#
+name: SPEAKER A-B
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1d 00 00 00
+#
+name: SOURCE DIRECT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 22 00 00 00
+#
+name: SOURCE DIRECT - PURE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 22 00 00 00
+#
+name: PURE DIRECT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 22 00 00 00
+#
+name: P. DIRECT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 22 00 00 00
+#
+name: MODE - DIRECT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 22 00 00 00
+#
+name: DIRECT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 22 00 00 00
+#
+name: S-DIRECT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 22 00 00 00
+#
+name: SPEAKER A ON/OFF
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 23 00 00 00
+#
+name: SPEAKER-A ON/OFF
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 23 00 00 00
+#
+name: SORROUND MODE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 25 00 00 00
+#
+name: MODE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 25 00 00 00
+#
+name: 0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 25 00 00 00
+#
+name: SURROUND MODE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 25 00 00 00
+#
+name: SURROUND
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 25 00 00 00
+#
+name: MODE - SURROUND
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 25 00 00 00
+#
+name: SLEEP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 26 00 00 00
+#
+name: SPEAKER B ON/OFF
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 27 00 00 00
+#
+name: SPEAKER-B ON/OFF
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 27 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 50 00 00 00
+#
+name: CURSOR +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 50 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 50 00 00 00
+#
+name: UP ARROW
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 50 00 00 00
+#
+name: CURSOR - UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 50 00 00 00
+#
+name: SELECT DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 50 00 00 00
+#
+name: SELECT UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 50 00 00 00
+#
+name: UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 50 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 51 00 00 00
+#
+name: CURSOR-
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 51 00 00 00
+#
+name: ARROW DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 51 00 00 00
+#
+name: DOWN ARROW
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 51 00 00 00
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 51 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 51 00 00 00
+#
+name: OK/OSD MENU
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 52 00 00 00
+#
+name: OSD MENU ON/OK
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 52 00 00 00
+#
+name: OK
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 52 00 00 00
+#
+name: ARROW ENTER
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 52 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 52 00 00 00
+#
+name: MENU
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 52 00 00 00
+#
+name: AMP - ENTER
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 52 00 00 00
+#
+name: AMP - MENU
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 52 00 00 00
+#
+name: CURSOR SELECT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 52 00 00 00
+#
+name: CURSOR OK
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 52 00 00 00
+#
+name: CURSOR - OK
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 52 00 00 00
+#
+name: EXIT MENU
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 53 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 53 00 00 00
+#
+name: AMP - MENU OFF
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 53 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 55 00 00 00
+#
+name: ARROW LEFT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 55 00 00 00
+#
+name: LEFT ARROW
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 55 00 00 00
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 55 00 00 00
+#
+name: SELECT LEFT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 55 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 55 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 56 00 00 00
+#
+name: ARROW RIGHT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 56 00 00 00
+#
+name: RIGHT ARROW
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 56 00 00 00
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 56 00 00 00
+#
+name: SELECT RIGHT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 56 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 56 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 57 00 00 00
+#
+name: ENTER (OK)
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 57 00 00 00

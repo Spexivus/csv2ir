@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SCREEN 16:9
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 6f 00 00 00

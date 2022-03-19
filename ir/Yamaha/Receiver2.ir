@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SIRIUS: A
+type: parsed
+protocol: NEC1-f16
+address: 00 00 00 00
+command: 01 00 00 00

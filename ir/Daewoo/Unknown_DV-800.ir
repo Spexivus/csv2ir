@@ -1,0 +1,308 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0/10
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 90 00 00 00
+#
+name: 1
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 91 00 00 00
+#
+name: 2
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 92 00 00 00
+#
+name: 3
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 93 00 00 00
+#
+name: 4
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 94 00 00 00
+#
+name: 5
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 95 00 00 00
+#
+name: 6
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 96 00 00 00
+#
+name: 7
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 97 00 00 00
+#
+name: 8
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 98 00 00 00
+#
+name: 9
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 99 00 00 00
+#
+name: SYSTEM
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9a 00 00 00
+#
+name: SETUP
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9b 00 00 00
+#
+name: RESUME
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9c 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9d 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9e 00 00 00
+#
+name: FAST_FWD
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: 9f 00 00 00
+#
+name: FAST_REV
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a0 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a1 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a2 00 00 00
+#
+name: NEXT
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a3 00 00 00
+#
+name: PREV
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a4 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a5 00 00 00
+#
+name: MARK
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a6 00 00 00
+#
+name: UP
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a7 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a8 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: a9 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: aa 00 00 00
+#
+name: ANGLE
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: ab 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: ad 00 00 00
+#
+name: EJECT
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: ae 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: af 00 00 00
+#
+name: TITLE/PBC
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b0 00 00 00
+#
+name: ZOOM
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b1 00 00 00
+#
+name: A-B
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b3 00 00 00
+#
+name: 3D
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b4 00 00 00
+#
+name: SUBTITLE
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b5 00 00 00
+#
+name: VOL+
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b6 00 00 00
+#
+name: VOL-
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b7 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b8 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: b9 00 00 00
+#
+name: CHANNEL
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: ba 00 00 00
+#
+name: PROGRAM
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: bb 00 00 00
+#
+name: SLOW
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: bc 00 00 00
+#
+name: INTRO
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: bd 00 00 00
+#
+name: SEARCH
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: be 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: bf 00 00 00
+#
+name: V-MODE
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: c0 00 00 00
+#
+name: 10+
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: c1 00 00 00
+#
+name: FN1
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: c2 00 00 00
+#
+name: FN2
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: c3 00 00 00
+#
+name: FN3
+type: parsed
+protocol: Proton
+address: 15 15 00 00
+command: c4 00 00 00

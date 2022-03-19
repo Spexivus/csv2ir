@@ -1,0 +1,158 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VCR2 STOP (- [])
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 03 00 00 00
+#
+name: VCR2 STOP []
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 03 00 00 00
+#
+name: VCR2 FFWD (> >>)
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 06 00 00 00
+#
+name: VCR2 FFWD >>
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 06 00 00 00
+#
+name: VCR2 REW (< <<)
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 07 00 00 00
+#
+name: VCR2 REW <<
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 07 00 00 00
+#
+name: VCR2 POWER (ON/OFF)
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 0b 00 00 00
+#
+name: VCR2 PLAY (+ >)
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 0c 00 00 00
+#
+name: VCR2 PLAY >
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 0c 00 00 00
+#
+name: VCR2 PAUSE ()
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 0d 00 00 00
+#
+name: VCR2 PAUSE 
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 0d 00 00 00
+#
+name: VCR2 PRESET CH -
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 18 00 00 00
+#
+name: VCR2 PRESET CH +
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 19 00 00 00
+#
+name: VCR2 1
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 21 00 00 00
+#
+name: VCR2 2
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 22 00 00 00
+#
+name: VCR2 3
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 23 00 00 00
+#
+name: VCR2 4
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 24 00 00 00
+#
+name: VCR2 5
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 25 00 00 00
+#
+name: VCR2 6
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 26 00 00 00
+#
+name: VCR2 7
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 27 00 00 00
+#
+name: VCR2 7/P
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 27 00 00 00
+#
+name: VCR2 8
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 28 00 00 00
+#
+name: VCR2 9
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 29 00 00 00
+#
+name: VCR2 0
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: 33 00 00 00
+#
+name: VCR2 REC
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: cc 00 00 00
+#
+name: VCR2 PLAY/REC
+type: parsed
+protocol: JVC
+address: 53 53 00 00
+command: cc 00 00 00

@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0
+type: parsed
+protocol: Denon
+address: 02 02 00 00
+command: f1 00 00 00

@@ -1,0 +1,212 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 1
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 00 00 00 00
+#
+name: POWER
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 01 00 00 00
+#
+name: 4
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 04 00 00 00
+#
+name: 3
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 06 00 00 00
+#
+name: 2
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 07 00 00 00
+#
+name: 7
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 08 00 00 00
+#
+name: SUB
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 09 00 00 00
+#
+name: 6
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 0a 00 00 00
+#
+name: 5
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 0b 00 00 00
+#
+name: VOL+
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 0d 00 00 00
+#
+name: 9
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 0e 00 00 00
+#
+name: 8
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 0f 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 10 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 12 00 00 00
+#
+name: 0
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 13 00 00 00
+#
+name: VOL-
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 14 00 00 00
+#
+name: OK
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 15 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 16 00 00 00
+#
+name: UP
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 17 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 1a 00 00 00
+#
+name: ALT
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 1e 00 00 00
+#
+name: LIST
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 40 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 41 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 42 00 00 00
+#
+name: FAV
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 43 00 00 00
+#
+name: INFO
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 4e 00 00 00
+#
+name: ZOOM
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 51 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 52 00 00 00
+#
+name: USB
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 53 00 00 00
+#
+name: SCAN
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 54 00 00 00
+#
+name: REW
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 55 00 00 00
+#
+name: FF
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 56 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 57 00 00 00
+#
+name: EPG
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 5a 00 00 00
+#
+name: MENU
+type: parsed
+protocol: nec
+address: 01 01 00 00
+command: 5b 00 00 00

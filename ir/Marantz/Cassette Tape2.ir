@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: REC MUTE
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 2a 00 00 00

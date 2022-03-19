@@ -1,0 +1,98 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: 00 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: 03 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: 03 00 00 00
+#
+name: NIGHT MODE
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: 12 00 00 00
+#
+name: MULTI ZONE
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: 22 00 00 00
+#
+name: PRESET SCAN
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: 2a 00 00 00
+#
+name: TV
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: 32 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: 48 00 00 00
+#
+name: SIX CH. DIRECT
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: 52 00 00 00
+#
+name: DOLBY
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: 62 00 00 00
+#
+name: VCR
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: 72 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: a8 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: b8 00 00 00
+#
+name: TAPE
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: ca 00 00 00
+#
+name: SAT
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: d2 00 00 00
+#
+name: DVD
+type: parsed
+protocol: NEC1
+address: 40 00 00 00
+command: f2 00 00 00

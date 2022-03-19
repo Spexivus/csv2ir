@@ -1,0 +1,200 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 1
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 00 00 00 00
+#
+name: 9
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 08 00 00 00
+#
+name: 0
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 09 00 00 00
+#
+name: 3
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 10 00 00 00
+#
+name: 4
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 18 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 1b 00 00 00
+#
+name: 5
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 20 00 00 00
+#
+name: 6
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 28 00 00 00
+#
+name: 7
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 30 00 00 00
+#
+name: MENU 1
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 33 00 00 00
+#
+name: 8
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 38 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 42 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 4a 00 00 00
+#
+name: ESC
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 52 00 00 00
+#
+name: TEST
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 5e 00 00 00
+#
+name: >
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 64 00 00 00
+#
+name: <
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 6c 00 00 00
+#
+name: MENU 2
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 73 00 00 00
+#
+name: ^
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 74 00 00 00
+#
+name: V
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 7c 00 00 00
+#
+name: PIC MUTE
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 92 00 00 00
+#
+name: MEM LIST
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 9d 00 00 00
+#
+name: NORMAL
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: 9f 00 00 00
+#
+name: CRT R
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: a1 00 00 00
+#
+name: INPUT A
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: a4 00 00 00
+#
+name: CRT G
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: a9 00 00 00
+#
+name: INPUT B
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: ac 00 00 00
+#
+name: CRT B
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: b1 00 00 00
+#
+name: FUNC
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: b3 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: bb 00 00 00
+#
+name: INPUT VIDEO
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: f5 00 00 00
+#
+name: INPUT Y/C
+type: parsed
+protocol: Mitsubishi
+address: 47 47 00 00
+command: fd 00 00 00

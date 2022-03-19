@@ -1,0 +1,38 @@
+Filetype: IR signals file
+Version: 1
+#
+name: TAPE STOP []
+type: parsed
+protocol: NEC1
+address: 1a 1a 00 00
+command: 04 00 00 00
+#
+name: TAPE PLAY >
+type: parsed
+protocol: NEC1
+address: 1a 1a 00 00
+command: 05 00 00 00
+#
+name: TAPE REC/PLAY
+type: parsed
+protocol: NEC1
+address: 1a 1a 00 00
+command: 06 00 00 00
+#
+name: TAPE FF >>
+type: parsed
+protocol: NEC1
+address: 1a 1a 00 00
+command: 0c 00 00 00
+#
+name: TAPE REW <<
+type: parsed
+protocol: NEC1
+address: 1a 1a 00 00
+command: 0d 00 00 00
+#
+name: TAPE PAUSE 
+type: parsed
+protocol: NEC1
+address: 1a 1a 00 00
+command: 0e 00 00 00

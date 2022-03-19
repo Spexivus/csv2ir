@@ -1,0 +1,98 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Z3 VOLUME + (2)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: Z3 VOLUME - (2)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: STANDBY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: Z3 STANDBY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: ZONE 2 OFF
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: Z3 SOURCE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 5f 00 00 00
+#
+name: SOURCE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 5f 00 00 00
+#
+name: Z3 MUTING ON
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 84 00 00 00
+#
+name: MUTE ON
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 84 00 00 00
+#
+name: Z3 MUTING OFF
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 85 00 00 00
+#
+name: MUTE OFF
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 85 00 00 00
+#
+name: DVD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: Z3 DVD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: INPUT: DVD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: Z3 STANDBY/ON (TGLE)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cb 00 00 00
+#
+name: STANDBY/ON
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cb 00 00 00

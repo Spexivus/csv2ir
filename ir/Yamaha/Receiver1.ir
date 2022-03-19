@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ZONE 2 ON
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 00 00 00 00

@@ -1,0 +1,236 @@
+Filetype: IR signals file
+Version: 1
+#
+name: R
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 00 00 00 00
+#
+name: B
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 02 00 00 00
+#
+name: OPERATE
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 06 00 00 00
+#
+name: OPERATE MENU
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 06 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 07 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: NECext
+address: 18 18 00 00
+command: 07 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 08 00 00 00
+#
+name: END
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 09 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 14 00 00 00
+#
+name: STATIC
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 15 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 17 00 00 00
+#
+name: IDTV 1
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 18 00 00 00
+#
+name: 1
+type: parsed
+protocol: NECext
+address: 18 18 00 00
+command: 18 00 00 00
+#
+name: IDTV 2
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 19 00 00 00
+#
+name: 2
+type: parsed
+protocol: NECext
+address: 18 18 00 00
+command: 19 00 00 00
+#
+name: IDTV 3
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1a 00 00 00
+#
+name: 3
+type: parsed
+protocol: NECext
+address: 18 18 00 00
+command: 1a 00 00 00
+#
+name: IDTV 4
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1b 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1b 00 00 00
+#
+name: IDTV 5
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1c 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1c 00 00 00
+#
+name: RGB 6
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1d 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1d 00 00 00
+#
+name: RGB 7
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1e 00 00 00
+#
+name: RGB 8
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1f 00 00 00
+#
+name: RGB 9
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 40 00 00 00
+#
+name: HDTV
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 41 00 00 00
+#
+name: NORMAL
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 43 00 00 00
+#
+name: SOUND MUTE
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 45 00 00 00
+#
+name: PICTURE MUTE
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 47 00 00 00
+#
+name: INPUT LIST
+type: parsed
+protocol: NECext
+address: 18 18 00 00
+command: 4d 00 00 00
+#
+name: CUR UP
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 5c 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: NECext
+address: 18 18 00 00
+command: 5c 00 00 00
+#
+name: CUR DOWN
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 5d 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 5d 00 00 00
+#
+name: CUR RIGHT
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 5e 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: NECext
+address: 18 18 00 00
+command: 5e 00 00 00
+#
+name: CUR LEFT
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 5f 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 5f 00 00 00

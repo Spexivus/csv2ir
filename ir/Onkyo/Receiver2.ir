@@ -1,0 +1,1538 @@
+Filetype: IR signals file
+Version: 1
+#
+name: TUNER PRESET >
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 00 00 00 00
+#
+name: TUNER STATION + (CH)
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 00 00 00 00
+#
+name: PRESETUP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 00 00 00 00
+#
+name: TUNER PRESET +
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 00 00 00 00
+#
+name: PRESET +
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 00 00 00 00
+#
+name: CH+
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 00 00 00 00
+#
+name: TUNER PRESET ^
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 00 00 00 00
+#
+name: TUNER PRESET <
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 01 00 00 00
+#
+name: TUNER STATION - (CH)
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 01 00 00 00
+#
+name: PRESETDOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 01 00 00 00
+#
+name: TUNER PRESET -
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 01 00 00 00
+#
+name: PRESET -
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 01 00 00 00
+#
+name: CH-
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 01 00 00 00
+#
+name: TUNER PRESET V
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 01 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 02 00 00 00
+#
+name: VOLUME ^
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 02 00 00 00
+#
+name: VOLUP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 02 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 02 00 00 00
+#
+name: MASTER VOLUME UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 02 00 00 00
+#
+name: MASTER VOL UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 02 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 03 00 00 00
+#
+name: VOLUME V
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 03 00 00 00
+#
+name: VOLDOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 03 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 03 00 00 00
+#
+name: MASTER VOLUME DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 03 00 00 00
+#
+name: MASTER VOL DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 03 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: POWER (MAIN)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: ON
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: POWER (RCVR)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: MUTING
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 05 00 00 00
+#
+name: AUDIO MUTING
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 05 00 00 00
+#
+name: MUTING / REMOTE SPKR
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 05 00 00 00
+#
+name: AUX-1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 06 00 00 00
+#
+name: TAPE-2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 07 00 00 00
+#
+name: TAPE 2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 07 00 00 00
+#
+name: T2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 07 00 00 00
+#
+name: TAPE-1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 08 00 00 00
+#
+name: TAPE/DAT (+10)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 08 00 00 00
+#
+name: TAPE 1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 08 00 00 00
+#
+name: T1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 08 00 00 00
+#
+name: CD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 09 00 00 00
+#
+name: CD (12)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 09 00 00 00
+#
+name: PHONO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0a 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0b 00 00 00
+#
+name: DAT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0c 00 00 00
+#
+name: VCR-2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0d 00 00 00
+#
+name: VIDEO-2 (9)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0d 00 00 00
+#
+name: V3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0d 00 00 00
+#
+name: VIDEO 3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0d 00 00 00
+#
+name: VIDEO-2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0d 00 00 00
+#
+name: VIDEO-3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0d 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0d 00 00 00
+#
+name: VCR-1/VDP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0e 00 00 00
+#
+name: VIDEO-1 (8)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0e 00 00 00
+#
+name: V2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0e 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0e 00 00 00
+#
+name: VIDEO-1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0e 00 00 00
+#
+name: VIDEO-2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0e 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0e 00 00 00
+#
+name: VDP (6)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0f 00 00 00
+#
+name: V1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0f 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0f 00 00 00
+#
+name: VIDEO-3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0f 00 00 00
+#
+name: VIDEO-1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0f 00 00 00
+#
+name: VIDEO 3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 0f 00 00 00
+#
+name: AUX-2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 11 00 00 00
+#
+name: DBS (7)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 11 00 00 00
+#
+name: DECKB STOP []
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 13 00 00 00
+#
+name: TAPE1 DECKB STOP []
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 13 00 00 00
+#
+name: DECK-B STOP []
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 13 00 00 00
+#
+name: DECKB STOP[]
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 13 00 00 00
+#
+name: DECKB/DAT STOP []
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 13 00 00 00
+#
+name: DECK B STOP []
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 13 00 00 00
+#
+name: DECKB PLAY >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 15 00 00 00
+#
+name: TAPE1 DECKB PLAY >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 15 00 00 00
+#
+name: DECK-B PLAY >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 15 00 00 00
+#
+name: DECKB PLAY>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 15 00 00 00
+#
+name: DECKB/DAT PLAY >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 15 00 00 00
+#
+name: DECK B PLAY >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 15 00 00 00
+#
+name: DECKB R.PLAY <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 16 00 00 00
+#
+name: DECKB PLAY REV <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 16 00 00 00
+#
+name: DECKB REV PLAY (<<)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 16 00 00 00
+#
+name: TAPE1 DECKB REV PLAY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 16 00 00 00
+#
+name: DECK-B R.PLAY <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 16 00 00 00
+#
+name: DECKB REV PLAY <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 16 00 00 00
+#
+name: DECKB PLAY<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 16 00 00 00
+#
+name: DECKB/DAT REV PLAY <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 16 00 00 00
+#
+name: DECK B PLAY REV <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 16 00 00 00
+#
+name: DECKB REC/PAUSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: TAPE1 DECKB REC/PAUS
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DECK-B REC/PAUSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DECKB/DAT REC/PAUSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DECK B REC/PAUSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DECKB FFWD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DECKB FF >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DECKB >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: TAPE1 DECKB FFWD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DECK-B FFWD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DECKB FFWD>>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DECKB/DAT FWD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DECK B FFWD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DECKB REW <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1a 00 00 00
+#
+name: DECKB <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1a 00 00 00
+#
+name: TAPE1 DECKB REW <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1a 00 00 00
+#
+name: DECK-B REW <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1a 00 00 00
+#
+name: DECKB/DAT REW <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1a 00 00 00
+#
+name: DECK B REW <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1a 00 00 00
+#
+name: CD PLAY >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1b 00 00 00
+#
+name: CD PLAY>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1b 00 00 00
+#
+name: CD STOP []
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1c 00 00 00
+#
+name: CD STOP[]
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1c 00 00 00
+#
+name: CD SKIP >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1d 00 00 00
+#
+name: CD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1d 00 00 00
+#
+name: CD SKIP FWD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1d 00 00 00
+#
+name: CD SKIP <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1e 00 00 00
+#
+name: CD <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1e 00 00 00
+#
+name: CD SKIP REV <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1e 00 00 00
+#
+name: CD PAUSE 
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1f 00 00 00
+#
+name: REAR LEVEL ^
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: REAR BALANCE UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: REAR LEVEL UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: REAR/SIMUL UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: REAR LEVEL V
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: REAR BALANCE DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: REAR LEVEL DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: REAR/SIMUL DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: 2/DIRECT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: TUNER CLASS
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4a 00 00 00
+#
+name: GROUP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4a 00 00 00
+#
+name: CLASS
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4a 00 00 00
+#
+name: TUNER GROUP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4a 00 00 00
+#
+name: SURROUND MODE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: SUR MODE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: DOLBY SURROUND
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: SURR MODE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: SURR DELAY MODE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: SURR MODE >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: DECKA STOP []
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: TAPE1 DECKA STOP []
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: DECK-A STOP []
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: DECKA STOP[]
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: DECK A STOP[]
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: DECKA PLAY >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: TAPE1 DECKA PLAY >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: DECK-A PLAY >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: DECKA PLAY>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: DECK A PLAY>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: DECKA R.PLAY <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4f 00 00 00
+#
+name: DECKA PLAY REV <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4f 00 00 00
+#
+name: DECKA REV PLAY (POW)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4f 00 00 00
+#
+name: TAPE1 DECKA REV PLAY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4f 00 00 00
+#
+name: DECK-A R.PLAY <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4f 00 00 00
+#
+name: DECKA REV PLAY <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4f 00 00 00
+#
+name: DECKA PLAY<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4f 00 00 00
+#
+name: DECK A PLAY REV<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4f 00 00 00
+#
+name: DECKA REC/PAUSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: TAPE1 DECKA REC/PAUS
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DECK-A REC/PAUSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DECK A REC/PAUSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DECKA FFWD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 51 00 00 00
+#
+name: DECKA FF >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 51 00 00 00
+#
+name: DECKA >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 51 00 00 00
+#
+name: TAPE1 DECKA FFWD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 51 00 00 00
+#
+name: DECK-A FFWD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 51 00 00 00
+#
+name: DECKA FWD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 51 00 00 00
+#
+name: DECK A FFWD>>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 51 00 00 00
+#
+name: DECKA REW <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: DECKA <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: TAPE1 DECKA REW <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: DECK-A REW <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: DECK A REW<<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: DELAY TIME
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 53 00 00 00
+#
+name: SURR DELAY TIME
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 53 00 00 00
+#
+name: SPEAKERS A
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 59 00 00 00
+#
+name: 7/SP A
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 59 00 00 00
+#
+name: SPEAKERS MAIN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 59 00 00 00
+#
+name: MAIN SPEAKERS
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 59 00 00 00
+#
+name: SPEAKERS B
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 5a 00 00 00
+#
+name: 8/SP B
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 5a 00 00 00
+#
+name: SPEAKERS SUB ROOM
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 5a 00 00 00
+#
+name: REMOTE SPEAKERS
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 5a 00 00 00
+#
+name: SPEAKERS REMOTE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 5a 00 00 00
+#
+name: CD DISC
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 5c 00 00 00
+#
+name: CD DISK (POWER)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 5c 00 00 00
+#
+name: SLEEP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 5d 00 00 00
+#
+name: PHONO PLAY/REJECT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 5f 00 00 00
+#
+name: CENTER LEVEL ^
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 80 00 00 00
+#
+name: CENTER UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 80 00 00 00
+#
+name: CENTER LEVEL UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 80 00 00 00
+#
+name: CENTER LEVEL V
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 81 00 00 00
+#
+name: CENTER DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 81 00 00 00
+#
+name: CENTER LEVEL DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 81 00 00 00
+#
+name: CURSOR ^
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 82 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 82 00 00 00
+#
+name: MENU UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 82 00 00 00
+#
+name: CURSOR V
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 83 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 83 00 00 00
+#
+name: MENU DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 83 00 00 00
+#
+name: CURSOR <
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 84 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 84 00 00 00
+#
+name: MENU LEFT
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 84 00 00 00
+#
+name: CURSOR >
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 85 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 85 00 00 00
+#
+name: MENU RIGHT
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 85 00 00 00
+#
+name: CD >>
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 8a 00 00 00
+#
+name: CD <<
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 8b 00 00 00
+#
+name: DAT PLAY >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: DAT REC/PAUSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8d 00 00 00
+#
+name: DAT REC/PAUSE O/
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8d 00 00 00
+#
+name: DAT STOP []
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8e 00 00 00
+#
+name: DAT >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8f 00 00 00
+#
+name: DAT SRCH FWD >>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8f 00 00 00
+#
+name: DAT << (<)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 90 00 00 00
+#
+name: DAT SRCH REV <<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 90 00 00 00
+#
+name: CD EJECT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 91 00 00 00
+#
+name: DIMMER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 95 00 00 00
+#
+name: 0/DIMMER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 95 00 00 00
+#
+name: CURSOR ENTER/ESCAPE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 97 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 97 00 00 00
+#
+name: MENU ENTER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 97 00 00 00
+#
+name: ENTER/ESCAPE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 97 00 00 00
+#
+name: CENTER OFF/ON
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 98 00 00 00
+#
+name: TEST TONE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9a 00 00 00
+#
+name: TEST MENU
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9a 00 00 00
+#
+name: TEST
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9a 00 00 00
+#
+name: SURR FUNC TEST
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9a 00 00 00
+#
+name: SURR FUNCT TEST
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9a 00 00 00
+#
+name: SURR TEST TONE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9a 00 00 00
+#
+name: VIDEO-4 (11)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9c 00 00 00
+#
+name: VIDEO 6
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9c 00 00 00
+#
+name: VIDEO-3 (10)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9d 00 00 00
+#
+name: VIDEO 5
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9d 00 00 00
+#
+name: V4
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9f 00 00 00
+#
+name: VIDEO-4
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9f 00 00 00
+#
+name: VIDEO 4
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9f 00 00 00
+#
+name: REAR BALANCE L
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c0 00 00 00
+#
+name: REAR/SIMUL L BALANCE
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c0 00 00 00
+#
+name: REAR BALANCE R
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c1 00 00 00
+#
+name: REAR/SIMUL R BALANCE
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c1 00 00 00
+#
+name: MULTI SOURCE LVL ^
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c2 00 00 00
+#
+name: MULTI SOURCE ^
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c2 00 00 00
+#
+name: MULTI SOURCE LVL V
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c3 00 00 00
+#
+name: MULTI SOURCE V
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: c3 00 00 00
+#
+name: DAT >>
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: ca 00 00 00
+#
+name: DAT FFWD >>
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: ca 00 00 00
+#
+name: DAT <<
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: cb 00 00 00
+#
+name: DAT REW <<
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: cb 00 00 00
+#
+name: ENTER/ZONE 2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cc 00 00 00
+#
+name: MULTI SOURCE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cc 00 00 00
+#
+name: SIMUL SOURCE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cc 00 00 00
+#
+name: 1/6 (1)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d0 00 00 00
+#
+name: 2/7 (2)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d1 00 00 00
+#
+name: 3/8 (3)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d2 00 00 00
+#
+name: 4/9 (4)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d3 00 00 00
+#
+name: 5/10 (5)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d4 00 00 00

@@ -1,0 +1,1436 @@
+Filetype: IR signals file
+Version: 1
+#
+name: AUTO TRACKING ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 00 00 00 00
+#
+name: VCR2 TRACKING ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 00 00 00 00
+#
+name: VCR2 AUTO TRK ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 00 00 00 00
+#
+name: VCR2 MANUAL ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 00 00 00 00
+#
+name: TRACKING ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 00 00 00 00
+#
+name: VTR2 TRACKING ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 00 00 00 00
+#
+name: AUTO TRACKING V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 01 00 00 00
+#
+name: VCR2 TRACKING V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 01 00 00 00
+#
+name: VCR2 AUTO TRK V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 01 00 00 00
+#
+name: VCR2 MANUAL V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 01 00 00 00
+#
+name: TRACKING V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 01 00 00 00
+#
+name: VTR2 TRACKING V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 01 00 00 00
+#
+name: SLOW SPEED +
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 02 00 00 00
+#
+name: VCR2 SLOW +
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 02 00 00 00
+#
+name: VCR2 SLOW SPEED +
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 02 00 00 00
+#
+name: VCR2 SLOW ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 02 00 00 00
+#
+name: VTR2 SLOW SPEED +
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 02 00 00 00
+#
+name: VCR2 SLOW
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 02 00 00 00
+#
+name: SLOW SPEED -
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 03 00 00 00
+#
+name: VCR2 SLOW -
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 03 00 00 00
+#
+name: VCR2 SLOW SPEED -
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 03 00 00 00
+#
+name: VCR2 SLOW V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 03 00 00 00
+#
+name: VTR2 SLOW SPEED -
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 03 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 04 00 00 00
+#
+name: VCR2 8
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 04 00 00 00
+#
+name: VCR2 8 (AM)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 04 00 00 00
+#
+name: CAM 8
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 04 00 00 00
+#
+name: VTR2 8 (T U V)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 04 00 00 00
+#
+name: VCR2 8 AM
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 04 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 05 00 00 00
+#
+name: VCR2 9
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 05 00 00 00
+#
+name: VCR2 9 (PM)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 05 00 00 00
+#
+name: CAM 9
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 05 00 00 00
+#
+name: VTR2 9 (W X Y)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 05 00 00 00
+#
+name: VCR2 9 PM
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 05 00 00 00
+#
+name: VCR2 100/ENT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 06 00 00 00
+#
+name: CAM 100/ENT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 06 00 00 00
+#
+name: FFWD/VISUAL SRCH >>
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 09 00 00 00
+#
+name: VCR2 FFWD>>
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 09 00 00 00
+#
+name: VCR2 FFWD >>
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 09 00 00 00
+#
+name: VCR2 FF/V.SRCH >>
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 09 00 00 00
+#
+name: VCR2 F.FWD/VI.SRCH
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 09 00 00 00
+#
+name: CAM F.FWD >>
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 09 00 00 00
+#
+name: VCR2 F.FWD/SRCH >>
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 09 00 00 00
+#
+name: VCR2 F.FWD >>
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 09 00 00 00
+#
+name: F.FWD >>
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 09 00 00 00
+#
+name: VTR2 FF/VI.SRCH >>
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 09 00 00 00
+#
+name: REW/VISUAL SRCH <<
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0a 00 00 00
+#
+name: VCR2 REW<<
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0a 00 00 00
+#
+name: VCR2 REW <<
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0a 00 00 00
+#
+name: VCR2 REW/V.SRCH <<
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0a 00 00 00
+#
+name: VCR2 REW/VISUAL SRCH
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0a 00 00 00
+#
+name: CAM REW <<
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0a 00 00 00
+#
+name: VCR2 REW/SRCH <<
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0a 00 00 00
+#
+name: REW <<
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0a 00 00 00
+#
+name: VTR2 REW/VI.SRCH <<
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0a 00 00 00
+#
+name: STOP []
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0b 00 00 00
+#
+name: VCR2 STOP[]
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0b 00 00 00
+#
+name: VCR2 STOP []
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0b 00 00 00
+#
+name: CAM STOP []
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0b 00 00 00
+#
+name: VTR2 STOP []
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0b 00 00 00
+#
+name: 0
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0c 00 00 00
+#
+name: VCR2 0
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0c 00 00 00
+#
+name: CAM 0
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0c 00 00 00
+#
+name: VTR2 0 (? !)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0c 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0d 00 00 00
+#
+name: VCR2 1
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0d 00 00 00
+#
+name: CAM 1
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0d 00 00 00
+#
+name: VTR2 1 (Q Z)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0d 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0e 00 00 00
+#
+name: VCR2 2
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0e 00 00 00
+#
+name: CAM 2
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0e 00 00 00
+#
+name: VTR2 2 (A B C)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0e 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0f 00 00 00
+#
+name: VCR2 3
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0f 00 00 00
+#
+name: CAM 3
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0f 00 00 00
+#
+name: VTR2 3 (D E F)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0f 00 00 00
+#
+name: F.ADV >
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 10 00 00 00
+#
+name: VCR2 F.ADV
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 10 00 00 00
+#
+name: VCR2 F.ADV >
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 10 00 00 00
+#
+name: VCR2 SKIP/F.ADV >
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 10 00 00 00
+#
+name: F.ADV
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 10 00 00 00
+#
+name: VTR2 F.ADV >
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 10 00 00 00
+#
+name: SLOW >
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 11 00 00 00
+#
+name: VCR2 SLOW >
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 11 00 00 00
+#
+name: VCR2 SLOW
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 11 00 00 00
+#
+name: VTR2 SLOW
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 11 00 00 00
+#
+name: PLAY >
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 14 00 00 00
+#
+name: VCR2 PLAY>
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 14 00 00 00
+#
+name: VCR2 PLAY >
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 14 00 00 00
+#
+name: CAM PLAY >
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 14 00 00 00
+#
+name: VTR2 PLAY >
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 14 00 00 00
+#
+name: VCR2 AUDIO MONITOR
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 15 00 00 00
+#
+name: VTR2 UNKNOWN 2
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 15 00 00 00
+#
+name: VCR2 CH1/2
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 15 00 00 00
+#
+name: VCR2 MONITOR
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 15 00 00 00
+#
+name: VCR/TV
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 16 00 00 00
+#
+name: VCR2 VCR/TV
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 16 00 00 00
+#
+name: CAM VCR/TV
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 16 00 00 00
+#
+name: VTR2 UNKNOWN 1
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 16 00 00 00
+#
+name: VCR2 TV/VCR
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 16 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 17 00 00 00
+#
+name: VCR2 OPERATE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 17 00 00 00
+#
+name: VCR2 POWER
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 17 00 00 00
+#
+name: CAM POWER
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 17 00 00 00
+#
+name: VTR2 OPERATE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 17 00 00 00
+#
+name: CHANNEL V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 18 00 00 00
+#
+name: VCR2 CHANNEL V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 18 00 00 00
+#
+name: VCR2 CH V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 18 00 00 00
+#
+name: CAM CH V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 18 00 00 00
+#
+name: VTR2 TV PROGRAMME V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 18 00 00 00
+#
+name: CHANNEL ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 19 00 00 00
+#
+name: VCR2 CHANNEL ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 19 00 00 00
+#
+name: VCR2 CH ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 19 00 00 00
+#
+name: CAM CH ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 19 00 00 00
+#
+name: VTR2 TV PROGRAMME ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 19 00 00 00
+#
+name: PAUSE/STILL 
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1a 00 00 00
+#
+name: VCR2 PAUSE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1a 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 1a 00 00 00
+#
+name: VCR2 PAUSE 
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1a 00 00 00
+#
+name: VCR2 PAUSE/STILL 
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1a 00 00 00
+#
+name: CAM PAUSE 
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1a 00 00 00
+#
+name: VTR2 PAUSE/STILL 
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1a 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1c 00 00 00
+#
+name: VCR2 4
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1c 00 00 00
+#
+name: CAM 4
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1c 00 00 00
+#
+name: VTR2 4 (G H I)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1c 00 00 00
+#
+name: VCR2 4 (DAILY)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1c 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1d 00 00 00
+#
+name: VCR2 5
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1d 00 00 00
+#
+name: VCR2 5 (DAILY)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1d 00 00 00
+#
+name: CAM 5
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1d 00 00 00
+#
+name: VTR2 5 (J K L)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1d 00 00 00
+#
+name: VCR2 5 DAILY
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1d 00 00 00
+#
+name: 6 PL
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1e 00 00 00
+#
+name: VCR2 6 (CL)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1e 00 00 00
+#
+name: VCR2 6
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1e 00 00 00
+#
+name: VCR2 6 PL
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1e 00 00 00
+#
+name: VCR2 6 (WEEKLY)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1e 00 00 00
+#
+name: CAM 6
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1e 00 00 00
+#
+name: VCR2 6 (PL)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1e 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1e 00 00 00
+#
+name: VTR2 6 (M N O)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1e 00 00 00
+#
+name: VCR2 6 WEEKLY
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1e 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1f 00 00 00
+#
+name: VCR2 7
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1f 00 00 00
+#
+name: CAM 7
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1f 00 00 00
+#
+name: VTR2 7 (P R S)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1f 00 00 00
+#
+name: VCR2 7 (WEEKLY)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1f 00 00 00
+#
+name: VCR2 A.DUB
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 2c 00 00 00
+#
+name: TAPE SPEED
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 30 00 00 00
+#
+name: VCR2 T.SPEED
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 30 00 00 00
+#
+name: VCR2 TAPE SPEED
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 30 00 00 00
+#
+name: VCR2 SP/EP
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 30 00 00 00
+#
+name: VTR2 TAPE SPEED
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 30 00 00 00
+#
+name: AVX
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 34 00 00 00
+#
+name: VCR2 AUX
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 34 00 00 00
+#
+name: VCR2 AVX
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 34 00 00 00
+#
+name: VCR2 INPUT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 34 00 00 00
+#
+name: CAM AVX
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 34 00 00 00
+#
+name: VTR2 TRANS AUX
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 34 00 00 00
+#
+name: VCR2 MTS MONO
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 38 00 00 00
+#
+name: EJECT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 39 00 00 00
+#
+name: VCR2 EJECT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 39 00 00 00
+#
+name: VTR2 EJECT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 39 00 00 00
+#
+name: VCR2 V.DUB
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 3a 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 3b 00 00 00
+#
+name: VCR2 GUIDE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 3b 00 00 00
+#
+name: TV GUIDE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 3b 00 00 00
+#
+name: AUTO
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 3e 00 00 00
+#
+name: VCR2 AUTO
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 3e 00 00 00
+#
+name: VCR2 TRACKING AUTO
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 3e 00 00 00
+#
+name: VTR2 AUTO
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 3e 00 00 00
+#
+name: VCR2 AUTO TRACKING
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 3e 00 00 00
+#
+name: VCR2 MENU
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 40 00 00 00
+#
+name: VCR2 GUIDE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 40 00 00 00
+#
+name: CAM GUIDE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 40 00 00 00
+#
+name: VTR2 MENU OSD
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 40 00 00 00
+#
+name: CLEAR/COUNT RESET
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 41 00 00 00
+#
+name: VCR2 0000
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 41 00 00 00
+#
+name: VCR2 CLEAR
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 41 00 00 00
+#
+name: VCR2 CLEAR CNT RESET
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 41 00 00 00
+#
+name: VCR2 RESET
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 41 00 00 00
+#
+name: CAM CLEAR
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 41 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 41 00 00 00
+#
+name: VTR2 COUNTER 0000
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 41 00 00 00
+#
+name: VCR2 T-160 RESET
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 41 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 42 00 00 00
+#
+name: VCR2 DISPLAY
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 42 00 00 00
+#
+name: CAM DISPLAY
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 42 00 00 00
+#
+name: VTR2 DISP OSD
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 42 00 00 00
+#
+name: MEMORY
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 44 00 00 00
+#
+name: VCR2 MEMORY
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 44 00 00 00
+#
+name: VCR2 TAPE RETURN
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 44 00 00 00
+#
+name: VTR2 COUNTER MEMO
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 44 00 00 00
+#
+name: INDEX
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 45 00 00 00
+#
+name: VCR2 INDEX
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 45 00 00 00
+#
+name: VCR2 GO-TO INDEX
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 45 00 00 00
+#
+name: GO-TO INDEX
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 45 00 00 00
+#
+name: VTR2 INDEX
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 45 00 00 00
+#
+name: VCR2 INDEX GO-TO
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 45 00 00 00
+#
+name: COUNTER REMAIN
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 46 00 00 00
+#
+name: VCR2 COUNT CLOCK
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 46 00 00 00
+#
+name: VCR2 COUNTER REMAIN
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 46 00 00 00
+#
+name: VCR2 REMAIN MODE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 46 00 00 00
+#
+name: VTR2 COUNT REMAIN
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 46 00 00 00
+#
+name: VCR2 MODE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 46 00 00 00
+#
+name: VCR2 REPEAT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 47 00 00 00
+#
+name: VCR2 TV MONITOR
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 63 00 00 00
+#
+name: VCR2 EDIT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 64 00 00 00
+#
+name: EDIT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 64 00 00 00
+#
+name: VCR2 SET
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 65 00 00 00
+#
+name: VCR2 JOG/SHUTTLE
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 68 00 00 00
+#
+name: VCR2 SHUTTLE FWD
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 75 00 00 00
+#
+name: VCR2 SHUT FWD (F.S.)
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 75 00 00 00
+#
+name: VCR2 SHUT FFWD >>
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 75 00 00 00
+#
+name: CAM SHUT FWD
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 75 00 00 00
+#
+name: VCR2 SHU.FWD(F.S)
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 75 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 75 00 00 00
+#
+name: VCR2 SHUTTLE REW
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 76 00 00 00
+#
+name: VCR2 SHUT REV (F.S.)
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 76 00 00 00
+#
+name: VCR2 SHUT REV <<
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 76 00 00 00
+#
+name: CAM SHUT REV
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 76 00 00 00
+#
+name: VCR2 SHU.REV(F.S)
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 76 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 76 00 00 00
+#
+name: VCR2 JOG FWD
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 7d 00 00 00
+#
+name: VCR2 JOG/SHU.FORWARD
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 7d 00 00 00
+#
+name: VCR2 JOG REW
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 7e 00 00 00
+#
+name: VCR2 JOG REV
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 7e 00 00 00
+#
+name: VCR2 JOG/SHU.REVERSE
+type: parsed
+protocol: NECext
+address: 60 60 00 00
+command: 7e 00 00 00
+#
+name: VCR2 GO-TO
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 86 00 00 00
+#
+name: VCR2 TITLE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 8a 00 00 00
+#
+name: 100/ENT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 8b 00 00 00
+#
+name: VCR2 100/ENT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 8b 00 00 00
+#
+name: VCR2 +100
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 8b 00 00 00
+#
+name: VCR2 +100/ENT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 8b 00 00 00
+#
+name: VCR2 MTS SA SET
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 8c 00 00 00
+#
+name: VCR2 PRINT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 8e 00 00 00
+#
+name: VCR2 SPECTRA SONIC
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 8f 00 00 00

@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER ON
+type: parsed
+protocol: Dish_Network
+address: 0c 0c 00 00
+command: 29 00 00 00

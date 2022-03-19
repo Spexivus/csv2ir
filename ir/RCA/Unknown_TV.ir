@@ -1,0 +1,56 @@
+Filetype: IR signals file
+Version: 1
+#
+name: GO_BACK
+type: parsed
+protocol: RCA-38
+address: 0f 0f 00 00
+command: 27 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: RCA-38
+address: 0f 0f 00 00
+command: 2a 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: RCA-38
+address: 0f 0f 00 00
+command: 2c 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: RCA-38
+address: 0f 0f 00 00
+command: 2d 00 00 00
+#
+name: LEFT_ARROW
+type: parsed
+protocol: RCA-38
+address: 0f 0f 00 00
+command: 2e 00 00 00
+#
+name: RIGHT_ARROW
+type: parsed
+protocol: RCA-38
+address: 0f 0f 00 00
+command: 2f 00 00 00
+#
+name: KEY_INFO
+type: parsed
+protocol: RCA-38
+address: 0f 0f 00 00
+command: 3c 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: RCA-38
+address: 0f 0f 00 00
+command: 3f 00 00 00
+#
+name: KEY_OK
+type: parsed
+protocol: RCA-38
+address: 0f 0f 00 00
+command: f4 00 00 00

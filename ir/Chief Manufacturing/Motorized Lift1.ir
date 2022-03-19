@@ -1,0 +1,44 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: 1d 00 00 00
+#
+name: DOWN (RT TOP)
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: 1d 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: 40 00 00 00
+#
+name: UP (LT TOP)
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: 40 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: 41 00 00 00
+#
+name: DOTTON RT
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: 41 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: 43 00 00 00

@@ -1,0 +1,176 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ASPECT
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 01 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 02 00 00 00
+#
+name: PWRTOGGLE
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 02 00 00 00
+#
+name: VIDEO MODE
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 03 00 00 00
+#
+name: INPUT DVI
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 04 00 00 00
+#
+name: INPUT NEXT
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 04 00 00 00
+#
+name: PGUP
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 05 00 00 00
+#
+name: PGDOWN
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 06 00 00 00
+#
+name: VOL +
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 08 00 00 00
+#
+name: KEYSTONE UP
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 09 00 00 00
+#
+name: PICTURE
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 0a 00 00 00
+#
+name: VOL -
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 0b 00 00 00
+#
+name: HIDE
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 0c 00 00 00
+#
+name: KEYSTONE DOWN
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 0d 00 00 00
+#
+name: GAMMA
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 10 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 11 00 00 00
+#
+name: R-SYNC
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 18 00 00 00
+#
+name: INPUT S-VIDEO 2
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 19 00 00 00
+#
+name: INPUT COMPOSITE
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 1b 00 00 00
+#
+name: INPUTBNC
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 1c 00 00 00
+#
+name: INPUT DVI/SAT
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 1d 00 00 00
+#
+name: INPUT RCA
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 1e 00 00 00
+#
+name: INPUT VGA
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 20 00 00 00
+#
+name: INPUT S-VIDEO
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 23 00 00 00
+#
+name: INPUT VIDEO
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 24 00 00 00
+#
+name: FORMAT
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 25 00 00 00
+#
+name: BRIGHTNESS
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 26 00 00 00
+#
+name: CONTRAST
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 27 00 00 00
+#
+name: COLOR
+type: parsed
+protocol: NECext
+address: 4f 4f 00 00
+command: 28 00 00 00

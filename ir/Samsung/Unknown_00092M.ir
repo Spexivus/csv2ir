@@ -1,0 +1,254 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_0
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 80 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 81 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 82 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 83 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 84 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 85 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 86 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 87 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 88 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 89 00 00 00
+#
+name: KEY_SETUP
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 8b 00 00 00
+#
+name: KEY_OPEN
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 8c 00 00 00
+#
+name: KEY_AUDIO
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 8e 00 00 00
+#
+name: display
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 8f 00 00 00
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 90 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 91 00 00 00
+#
+name: KEY_ANGLE
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 92 00 00 00
+#
+name: top_menu
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 93 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 94 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 95 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 97 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 98 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 99 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 9a 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 9b 00 00 00
+#
+name: search_back
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 9c 00 00 00
+#
+name: KEY_AGAIN
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 9d 00 00 00
+#
+name: search_forward
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 9e 00 00 00
+#
+name: skip_back
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: 9f 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: a0 00 00 00
+#
+name: skip_forward
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: a1 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: a2 00 00 00
+#
+name: KEY_CLEAR
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: a4 00 00 00
+#
+name: step
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: a6 00 00 00
+#
+name: KEY_MODE
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: a7 00 00 00
+#
+name: repeat_AB
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: a8 00 00 00
+#
+name: bookmark
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: a9 00 00 00
+#
+name: KEY_ZOOM
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: aa 00 00 00
+#
+name: KEY_3D
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: ab 00 00 00
+#
+name: i.replay
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: ad 00 00 00
+#
+name: digest
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: ae 00 00 00
+#
+name: s.fit
+type: parsed
+protocol: Aiwa
+address: 66 66 00 00
+command: af 00 00 00

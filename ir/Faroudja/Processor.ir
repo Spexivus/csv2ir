@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+#
+name: INPUT MODE
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 00 00 00 00
+#
+name: POWER
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 01 00 00 00
+#
+name: POWER TOGGLE
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 01 00 00 00
+#
+name: PRESET/ENTER
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 02 00 00 00
+#
+name: SELECT/ENTER
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 02 00 00 00
+#
+name: MENU
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 03 00 00 00
+#
+name: FUNCTION +
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 04 00 00 00
+#
+name: FUNCTION UP
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 04 00 00 00
+#
+name: VALUE +
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 05 00 00 00
+#
+name: VALUE UP
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 05 00 00 00
+#
+name: FUNCTION -
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 06 00 00 00
+#
+name: FUNCTION DOWN
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 06 00 00 00
+#
+name: VALUE -
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 07 00 00 00
+#
+name: VALUE DOWN
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 07 00 00 00

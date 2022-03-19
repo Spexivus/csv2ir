@@ -1,0 +1,368 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER ON/OFF
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 0c 00 00 00
+#
+name: ON/OFF
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 0c 00 00 00
+#
+name: START
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 0d 00 00 00
+#
+name: WINDOWS MEDIA CENTER
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 0d 00 00 00
+#
+name: INFO
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 0f 00 00 00
+#
+name: A (GREEN)
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 12 00 00 00
+#
+name: A
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 12 00 00 00
+#
+name: CH UP
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 12 00 00 00
+#
+name: N
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 12 00 00 00
+#
+name: X (BLUE)
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 13 00 00 00
+#
+name: CH DOWN
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 13 00 00 00
+#
+name: X
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 13 00 00 00
+#
+name: 
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 13 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 14 00 00 00
+#
+name: FAST FOWARD
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 14 00 00 00
+#
+name: SEARCH FORWARD
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 14 00 00 00
+#
+name: SCAN <<
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 15 00 00 00
+#
+name: REWIND
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 15 00 00 00
+#
+name: SEARCH BACK
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 15 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 16 00 00 00
+#
+name: REC
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 17 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 17 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 18 00 00 00
+#
+name: STOP
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 19 00 00 00
+#
+name: NEXT
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 1a 00 00 00
+#
+name: SKIP +
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 1a 00 00 00
+#
+name: SKIP FORWARD
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 1a 00 00 00
+#
+name: PREV
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 1b 00 00 00
+#
+name: SKIP -
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 1b 00 00 00
+#
+name: SKIP BACK
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 1b 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 1e 00 00 00
+#
+name: UP
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 1e 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 1f 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 1f 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 20 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 20 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 21 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 21 00 00 00
+#
+name: CURSOR SELECT
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 22 00 00 00
+#
+name: OK
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 22 00 00 00
+#
+name: CURSOR OK
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 22 00 00 00
+#
+name: BACK
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 23 00 00 00
+#
+name: BACK <
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 23 00 00 00
+#
+name: DVD MENU
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 24 00 00 00
+#
+name: B (RED)
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 25 00 00 00
+#
+name: B
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 25 00 00 00
+#
+name: LIVE TV
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 25 00 00 00
+#
+name: D
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 25 00 00 00
+#
+name: Y (YELLOW)
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 26 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 26 00 00 00
+#
+name: Y
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 26 00 00 00
+#
+name: Y / GUL
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 26 00 00 00
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 28 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 4f 00 00 00
+#
+name: DISLPLAY
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 4f 00 00 00
+#
+name: DISPLAY MENU
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 4f 00 00 00
+#
+name: TITLE
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 51 00 00 00
+#
+name: TITLE MENU
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 51 00 00 00
+#
+name: X
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 64 00 00 00
+#
+name: XBOX
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 64 00 00 00
+#
+name: XBOX MENU
+type: parsed
+protocol: MCE
+address: 74 74 00 00
+command: 64 00 00 00

@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: OUTPUT 3
+type: parsed
+protocol: NECext
+address: a3 a3 00 00
+command: d7 00 00 00

@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CURSOR LF
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 33 00 00 00
+#
+name: CURSOR RT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 34 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 39 00 00 00

@@ -1,0 +1,194 @@
+Filetype: IR signals file
+Version: 1
+#
+name: [1] CHANNEL ^
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 00 00 00 00
+#
+name: [1] CHANNEL V
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 01 00 00 00
+#
+name: [1] SLOW +
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 02 00 00 00
+#
+name: [1] SLOW -
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 03 00 00 00
+#
+name: [1] CANCEL/STOP []
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 04 00 00 00
+#
+name: [1] ENTER/PLAY >
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 05 00 00 00
+#
+name: [1] REC
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 06 00 00 00
+#
+name: [1] POWER
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 08 00 00 00
+#
+name: [1] RESET
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 09 00 00 00
+#
+name: [1] VCR/TV
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 0a 00 00 00
+#
+name: [1] FF/SRCH >>
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 0c 00 00 00
+#
+name: [1] REW/SRCH <<
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 0d 00 00 00
+#
+name: [1] PAUSE/STILL 
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 0e 00 00 00
+#
+name: [1] 1
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 10 00 00 00
+#
+name: [1] 2
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 11 00 00 00
+#
+name: [1] 3
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 12 00 00 00
+#
+name: [1] 4
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 13 00 00 00
+#
+name: [1] 5
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 14 00 00 00
+#
+name: [1] 6
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 15 00 00 00
+#
+name: [1] 7
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 16 00 00 00
+#
+name: [1] 8
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 17 00 00 00
+#
+name: [1] 9
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 18 00 00 00
+#
+name: [1] 0
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 1a 00 00 00
+#
+name: [1] SP/EP
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 1b 00 00 00
+#
+name: [1] SEARCH INDEX
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 62 00 00 00
+#
+name: [1] TAPE RETURN
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 72 00 00 00
+#
+name: [1] INDEX WRITE
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 75 00 00 00
+#
+name: [1] INDEX ERASE
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 76 00 00 00
+#
+name: [1] ADDRESS
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 84 00 00 00
+#
+name: [1] TAPE REMAIN
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 85 00 00 00
+#
+name: [1] SEARCH TIME
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 9d 00 00 00
+#
+name: [1] CVC
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: ef 00 00 00

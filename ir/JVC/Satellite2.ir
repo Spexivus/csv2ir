@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: UP
+type: parsed
+protocol: Dish_Network
+address: 10 10 00 00
+command: 1a 00 00 00
+#
+name: TV
+type: parsed
+protocol: Dish_Network
+address: 10 10 00 00
+command: 2a 00 00 00

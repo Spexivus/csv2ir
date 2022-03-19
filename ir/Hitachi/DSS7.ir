@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VCR REC
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00

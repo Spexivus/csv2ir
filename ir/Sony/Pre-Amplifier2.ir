@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+#
+name: TV
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 18 00 00 00
+#
+name: LD
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 19 00 00 00
+#
+name: DYNAMICS
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 33 00 00 00
+#
+name: SURROUND
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 3f 00 00 00
+#
+name: SUB
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 5a 00 00 00
+#
+name: PARAMETER SUB
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 74 00 00 00
+#
+name: PARAMETER MAIN
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 76 00 00 00
+#
+name: DPC LEFT >
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 78 00 00 00
+#
+name: DPC LEFT <
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 79 00 00 00
+#
+name: DPC RIGHT <
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7a 00 00 00
+#
+name: DPC RIGHT >
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7b 00 00 00

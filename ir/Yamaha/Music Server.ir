@@ -1,0 +1,512 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 20 00 00 00
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 21 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 22 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 23 00 00 00
+#
+name: STOP
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 25 00 00 00
+#
+name: SCAN <<
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 26 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 27 00 00 00
+#
+name: CHAPTER <<
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 28 00 00 00
+#
+name: CHAPTER >>
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 29 00 00 00
+#
+name: GOUP -
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 2a 00 00 00
+#
+name: GROUP +
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 2b 00 00 00
+#
+name: TIMER
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 30 00 00 00
+#
+name: BROADCAST
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 31 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 32 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 33 00 00 00
+#
+name: FUNCTION 3
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 3d 00 00 00
+#
+name: RECEIVER MUTE
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 3d 00 00 00
+#
+name: FUNCTION 1
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 3e 00 00 00
+#
+name: RECEIVER VOL -
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 3e 00 00 00
+#
+name: FUNCTION 2
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 3f 00 00 00
+#
+name: RECEIVER VOL +
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 3f 00 00 00
+#
+name: ARTIST
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 40 00 00 00
+#
+name: ALBUM
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 41 00 00 00
+#
+name: GENRES
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 42 00 00 00
+#
+name: ALL SONGS
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 43 00 00 00
+#
+name: PLAYLIST
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 44 00 00 00
+#
+name: SONG STATS.
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 45 00 00 00
+#
+name: BOOKMARKS
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 46 00 00 00
+#
+name: CD
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 47 00 00 00
+#
+name: RECORDING
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 48 00 00 00
+#
+name: AV RECIEVER
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 49 00 00 00
+#
+name: CLIENT PLAYBACK
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 4a 00 00 00
+#
+name: EXT. INPUTS
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 4b 00 00 00
+#
+name: PLAY INFO
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 4e 00 00 00
+#
+name: BOOKMARK ON/OFF
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 4f 00 00 00
+#
+name: TOP MENU
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 50 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 51 00 00 00
+#
+name: UP
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 52 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 53 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 54 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 55 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 56 00 00 00
+#
+name: BACK
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 57 00 00 00
+#
+name: SUB MENU
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 58 00 00 00
+#
+name: PAGE +
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 59 00 00 00
+#
+name: PAGE -
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 5a 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 61 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 80 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 82 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 83 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 83 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 85 00 00 00
+#
+name: STOP
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 85 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 86 00 00 00
+#
+name: SCAN <<
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 86 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 87 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 87 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 88 00 00 00
+#
+name: CHAPTER -
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 88 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 89 00 00 00
+#
+name: CHAPTER +
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 89 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 8a 00 00 00
+#
+name: GROUP -
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 8a 00 00 00
+#
+name: GROUP +
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 8b 00 00 00
+#
+name: FAVORITE 1
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 8c 00 00 00
+#
+name: FAVORITE 2
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 8d 00 00 00
+#
+name: FAVORITE 3
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 8e 00 00 00
+#
+name: FAVORITE 4
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 8f 00 00 00
+#
+name: BOOKMARK
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 91 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 92 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 93 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 98 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 9d 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 9e 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: 9f 00 00 00
+#
+name: PLAY INFO
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: ae 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: b1 00 00 00
+#
+name: UP
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: b2 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: b3 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: b4 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: b5 00 00 00
+#
+name: SELECT/ENTER
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: b6 00 00 00
+#
+name: LIBRARY
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: bd 00 00 00
+#
+name: OFF TIMER
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: be 00 00 00
+#
+name: ON TIMER
+type: parsed
+protocol: NEC1
+address: 80 80 00 00
+command: bf 00 00 00

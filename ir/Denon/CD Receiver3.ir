@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: MINI-DISC STOP
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: e1 00 00 00
+#
+name: MINI-DISC PLAY/PAUSE
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: e2 00 00 00

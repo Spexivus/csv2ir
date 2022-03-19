@@ -1,0 +1,266 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 04 00 00 00
+#
+name: DECKA OPEN/CLOSE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 05 00 00 00
+#
+name: DECKA SRCH FWD >>
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 06 00 00 00
+#
+name: DECKA SRCH REV <<
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 07 00 00 00
+#
+name: DECKA REC/MUTE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0b 00 00 00
+#
+name: DECKA STOP []
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0c 00 00 00
+#
+name: DECKA PLAY >
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0d 00 00 00
+#
+name: DECKA REVERSE PLAY <
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0e 00 00 00
+#
+name: DECKA REC/PAUSE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 10 00 00 00
+#
+name: DECKA FWD >>
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 11 00 00 00
+#
+name: DECKA REW <<
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 12 00 00 00
+#
+name: STOP []
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 13 00 00 00
+#
+name: DECKB STOP []
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 13 00 00 00
+#
+name: PLAY >
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 15 00 00 00
+#
+name: DECKB PLAY >
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 15 00 00 00
+#
+name: PLAY R. <
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 16 00 00 00
+#
+name: PLAY REVERSE <
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 16 00 00 00
+#
+name: DECKB REVERSE PLAY<
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 16 00 00 00
+#
+name: REC/PAUSE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 18 00 00 00
+#
+name: DECKB REC/PAUSE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 18 00 00 00
+#
+name: FFWD >>
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 19 00 00 00
+#
+name: DECKB FWD >>
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 19 00 00 00
+#
+name: REW <<
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 1a 00 00 00
+#
+name: DECKB REW <<
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 1a 00 00 00
+#
+name: REC/MUTE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 1b 00 00 00
+#
+name: DECKB REC/MUTE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 1b 00 00 00
+#
+name: SEARCH FWD >>
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 1d 00 00 00
+#
+name: SEARCH REV <<
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 1e 00 00 00
+#
+name: RANDOM PLAY
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 48 00 00 00
+#
+name: MONITOR
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 49 00 00 00
+#
+name: DECKA RESET
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4a 00 00 00
+#
+name: DECKA TAPE SIZE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4b 00 00 00
+#
+name: DECKB OPEN/CLOSE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 53 00 00 00
+#
+name: SRCH REV <<
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 54 00 00 00
+#
+name: DECKB SRCH REV <<
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 54 00 00 00
+#
+name: SRCH FWD >>
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 55 00 00 00
+#
+name: DECKB SRCH FWD >>
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 55 00 00 00
+#
+name: RESET
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5d 00 00 00
+#
+name: DECKB RESET
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5d 00 00 00
+#
+name: ELAPSE REMAIN
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5e 00 00 00
+#
+name: ELAPSED/REMAIN
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5e 00 00 00
+#
+name: T-SIZE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5f 00 00 00
+#
+name: TAPE SIZE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5f 00 00 00
+#
+name: DECKB TAPE SIZE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5f 00 00 00

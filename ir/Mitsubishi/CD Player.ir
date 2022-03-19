@@ -1,0 +1,296 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 1
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: c0 00 00 00
+#
+name: 9
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: c1 00 00 00
+#
+name: DISC ^
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: c3 00 00 00
+#
+name: DISC
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: c3 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: c4 00 00 00
+#
+name: PLAY >
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: c4 00 00 00
+#
+name: 2
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: c8 00 00 00
+#
+name: 0
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: c9 00 00 00
+#
+name: FAST FORWARD
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ca 00 00 00
+#
+name: SEARCH >>
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ca 00 00 00
+#
+name: FF >>
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ca 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: cb 00 00 00
+#
+name: CANCEL
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: cb 00 00 00
+#
+name: +10
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ce 00 00 00
+#
+name: INDEX
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: cf 00 00 00
+#
+name: 3
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: d0 00 00 00
+#
+name: REVERSE
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: d2 00 00 00
+#
+name: SEARCH <<
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: d2 00 00 00
+#
+name: REW <<
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: d2 00 00 00
+#
+name: DISC 1
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: d3 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: d4 00 00 00
+#
+name: STOP []
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: d4 00 00 00
+#
+name: DISC V
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: d6 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: d7 00 00 00
+#
+name: 4
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: d8 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: db 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: dc 00 00 00
+#
+name: PAUSE 
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: dc 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: df 00 00 00
+#
+name: 5
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: e0 00 00 00
+#
+name: DISC 2
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: e3 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: e4 00 00 00
+#
+name: FS (FWD SRCH) >>
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: e4 00 00 00
+#
+name: 6
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: e8 00 00 00
+#
+name: DISC 3
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: eb 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ec 00 00 00
+#
+name: RS (REV SRCH) <<
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ec 00 00 00
+#
+name: INTRO SCAN
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ee 00 00 00
+#
+name: INTRO
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: ee 00 00 00
+#
+name: 7
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: f0 00 00 00
+#
+name: DISC 4
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: f3 00 00 00
+#
+name: ADJUST ^
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: f4 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: f5 00 00 00
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: f6 00 00 00
+#
+name: 8
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: f8 00 00 00
+#
+name: DISC 5
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: fb 00 00 00
+#
+name: ADJUST V
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: fc 00 00 00
+#
+name: MEMORY
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: fe 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: fe 00 00 00

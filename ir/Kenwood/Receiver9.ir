@@ -1,0 +1,116 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ZONE B VIDEO 1
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 00 00 00 00
+#
+name: ZONE B VIDEO 2
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 01 00 00 00
+#
+name: ZONE B VIDEO 3
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 02 00 00 00
+#
+name: ZONE B VIDEO 4
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 03 00 00 00
+#
+name: ZONE B TUNER
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 05 00 00 00
+#
+name: ZONE B CD 1
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 06 00 00 00
+#
+name: ZONE B TAPE 1
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 07 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 16 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: b8 b8 00 00
+command: 17 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 18 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 18 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: b8 b8 00 00
+command: 18 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 1b 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: b8 b8 00 00
+command: 1b 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 49 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 49 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 4a 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 83 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 8b 00 00 00

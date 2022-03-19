@@ -1,0 +1,152 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 00 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 05 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 06 00 00 00
+#
+name: RGB1
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 08 00 00 00
+#
+name: O.S.D.
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 0a 00 00 00
+#
+name: SVIDEO 1
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 0d 00 00 00
+#
+name: SVIDEO 2
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 0e 00 00 00
+#
+name: INPUT MODE STATUS
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 10 00 00 00
+#
+name: FOCUS ^
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 15 00 00 00
+#
+name: FOCUS V
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 16 00 00 00
+#
+name: ZOOM ^
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 17 00 00 00
+#
+name: ZOOM V
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 18 00 00 00
+#
+name: ADJUST MODE PICTURE
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 20 00 00 00
+#
+name: INPUT MODE
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 21 00 00 00
+#
+name: ADJUST MODE STAND
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 24 00 00 00
+#
+name: ADJUST MODE FUNCTION
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 30 00 00 00
+#
+name: VOLUME V
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 31 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 32 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 40 00 00 00
+#
+name: ADJUST MODE <
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 41 00 00 00
+#
+name: >
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 41 00 00 00
+#
+name: ADJUST MODE >
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 42 00 00 00
+#
+name: <
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 42 00 00 00
+#
+name: VOLUME ^
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 51 00 00 00
+#
+name: SET
+type: parsed
+protocol: Fujitsu
+address: 86 86 00 00
+command: 5b 00 00 00

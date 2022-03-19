@@ -1,0 +1,554 @@
+Filetype: IR signals file
+Version: 1
+#
+name: INPUT TUNER
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 00 00 00 00
+#
+name: INPUT VIDEO 1
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 01 00 00 00
+#
+name: INPUT VIDEO 2
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 02 00 00 00
+#
+name: INPUT VIDEO 3
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 03 00 00 00
+#
+name: INPUT VIDEO 4
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 04 00 00 00
+#
+name: INPUT SELECT/SCROLL
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 05 00 00 00
+#
+name: PICTURE MENU
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 06 00 00 00
+#
+name: SOUND SELECT
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 07 00 00 00
+#
+name: P-NR
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 0a 00 00 00
+#
+name: NORMALIZE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 0c 00 00 00
+#
+name: SLEEP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 0f 00 00 00
+#
+name: DIGIT 1
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 10 00 00 00
+#
+name: DIGIT 2
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 11 00 00 00
+#
+name: DIGIT 3
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 12 00 00 00
+#
+name: DIGIT 4
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 13 00 00 00
+#
+name: DIGIT 5
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 14 00 00 00
+#
+name: DIGIT 6
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 15 00 00 00
+#
+name: DIGIT 7
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 16 00 00 00
+#
+name: DIGIT 8
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 17 00 00 00
+#
+name: DIGIT 9
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 18 00 00 00
+#
+name: DIGIT 0/10
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 19 00 00 00
+#
+name: DIGIT 11
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 1a 00 00 00
+#
+name: DIGIT 12
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 1b 00 00 00
+#
+name: DIGIT 13
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 1c 00 00 00
+#
+name: DIGIT 14
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 1d 00 00 00
+#
+name: DIGIT 15
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 1e 00 00 00
+#
+name: DIGIT 16
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 1f 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 20 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 21 00 00 00
+#
+name: VOLUME MUTE TOGGLE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 32 00 00 00
+#
+name: SAP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 33 00 00 00
+#
+name: CHANNEL UP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 34 00 00 00
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 35 00 00 00
+#
+name: CHANNEL PREVIOUS
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 37 00 00 00
+#
+name: SEARCH
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 38 00 00 00
+#
+name: INFO / RECALL
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 39 00 00 00
+#
+name: POWER TOGGLE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 3d 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 3e 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 3f 00 00 00
+#
+name: CONTRAST UP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 42 00 00 00
+#
+name: CONTRAST DOWN
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 43 00 00 00
+#
+name: BRIGHTNESS UP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 44 00 00 00
+#
+name: BRIGHTNESS DOWN
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 45 00 00 00
+#
+name: CURSOR ENTER/SELECT
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 49 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 4a 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 4b 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 4e 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 4f 00 00 00
+#
+name: PICTURE SELECT
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 50 00 00 00
+#
+name: SOUND MENU
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 51 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 52 00 00 00
+#
+name: PIP VOLUME UP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 53 00 00 00
+#
+name: PIP VOLUME DOWN
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 54 00 00 00
+#
+name: PIP INPUT SCROLL
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 56 00 00 00
+#
+name: PIP POSITION UP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 57 00 00 00
+#
+name: PIP POSITION DOWN
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 58 00 00 00
+#
+name: PIP POSITION LEFT
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 59 00 00 00
+#
+name: PIP POSITION RIGHT
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 5a 00 00 00
+#
+name: PIP SIZE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 5b 00 00 00
+#
+name: PIP FREEZE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 5c 00 00 00
+#
+name: PIP TOGGLE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 5d 00 00 00
+#
+name: PIP SWAP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 5e 00 00 00
+#
+name: PIP FRAME ADVANCE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 5f 00 00 00
+#
+name: FREEZE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 63 00 00 00
+#
+name: PIP CHANNEL UP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 64 00 00 00
+#
+name: PIP CHANNEL DOWN
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 65 00 00 00
+#
+name: PIP MODE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 66 00 00 00
+#
+name: PIP POSITION SWITCH
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 67 00 00 00
+#
+name: PIP AUDIO SWITCH
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 68 00 00 00
+#
+name: PIP REPLAY
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 69 00 00 00
+#
+name: TUNING
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 6c 00 00 00
+#
+name: COLOR BUTTON RED
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 70 00 00 00
+#
+name: COLOR BUTTON GREEN
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 71 00 00 00
+#
+name: COLOR BUTTON YELLOW
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 72 00 00 00
+#
+name: COLOR BUTTON BLUE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 73 00 00 00
+#
+name: INPUT PC/VGA
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 7a 00 00 00
+#
+name: BBE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 7e 00 00 00
+#
+name: CLOSED CAPTION
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 9d 00 00 00
+#
+name: CHANNEL SKIP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: 9e 00 00 00
+#
+name: LANGUAGE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: a0 00 00 00
+#
+name: AUTO SEARCH
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: a6 00 00 00
+#
+name: HELP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: ac 00 00 00
+#
+name: GAME / ZOOM
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: bb 00 00 00
+#
+name: PROG / DASH
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: d0 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: d3 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: d4 00 00 00
+#
+name: STORE
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: d5 00 00 00
+#
+name: PIP RECORD
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: e0 00 00 00
+#
+name: PIP
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: e2 00 00 00
+#
+name: PIP MULTI WINDOW
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: e6 00 00 00
+#
+name: PIP MOVE/ZOOM
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: e7 00 00 00
+#
+name: VIERA TOOLS
+type: parsed
+protocol: Panasonic
+address: 80 80 00 00
+command: ef 00 00 00

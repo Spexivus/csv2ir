@@ -1,0 +1,80 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: 00 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: 01 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: 02 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: 03 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: 08 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: 09 00 00 00
+#
+name: P/STIIL
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: 0b 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: 14 00 00 00
+#
+name: TRACKING(+)
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: 44 00 00 00
+#
+name: TRACKING(-)
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: 45 00 00 00
+#
+name: SPEED
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: 48 00 00 00
+#
+name: OPR
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: af 00 00 00
+#
+name: A.REPEAT
+type: parsed
+protocol: NEC
+address: 6e 6e 00 00
+command: b6 00 00 00

@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: INPUT MODE
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 00 00 00 00
+#
+name: POWER
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 01 00 00 00
+#
+name: FACTORY PRESET
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 02 00 00 00
+#
+name: USER PRESETS
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 03 00 00 00
+#
+name: FUNCTION +
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 04 00 00 00
+#
+name: VALUE +
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 05 00 00 00
+#
+name: FUNCTION -
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 06 00 00 00
+#
+name: VALUE -
+type: parsed
+protocol: RC5
+address: 01 01 00 00
+command: 07 00 00 00

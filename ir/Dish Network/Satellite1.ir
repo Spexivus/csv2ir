@@ -1,0 +1,668 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ON
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: SAT POWER
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: 1
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 04 00 00 00
+#
+name: 2
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: ABC
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: 3
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: DEF
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: 4
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: GHI
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: 5
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: JKL
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: 6
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: MNO
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: 7
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: PQRS
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: 8
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: TUV
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: 9
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 0e 00 00 00
+#
+name: WXYZ
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 0e 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: ENTER/SELECT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: OK
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: CUR / SELECT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: CURSOR SELECT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: CURSOR ENTER
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: C SELECT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: 0
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: >
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: CANCEL
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: CANCEL - EXIT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: LIVE
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: RED
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: GUIDE *
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: LISTINGS
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: VIEW
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: VIEW TV
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: LIVE TV
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: LIVETV
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: VIEW/LIVE TV
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: TV/VIDEO
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 17 00 00 00
+#
+name: HD
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 17 00 00 00
+#
+name: SD
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 17 00 00 00
+#
+name: TV / VIDEO
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 17 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 17 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: ARROW RIGHT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: CUR RIGHT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: CURSOR RIGHT(BROWSE)
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: C RIGHT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: BROWSE
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: UP
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: CUR UP
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: CHAN UP
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: C UP
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: RECALL
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1b 00 00 00
+#
+name: LCV
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1b 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: ARROW LEFT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: CUR LEFT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: CURSOR LEFT (THEMES)
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: THEMES
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: C LEFT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: ARROW DOWN
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: CUR DOWN
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: CHAN DN
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: DN
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: C DOWN
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: ARROW DN
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1f 00 00 00
+#
+name: REC
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 1f 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 20 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 21 00 00 00
+#
+name: YELLOW
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 22 00 00 00
+#
+name: BLUE
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 23 00 00 00
+#
+name: SYS INFO
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 24 00 00 00
+#
+name: *
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: <
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: ASPECT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: FORMAT/*
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: *-FORMAT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: FORMAT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: SAT FORMAT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: < / FORMAT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: #
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 26 00 00 00
+#
+name: SEARCH
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 26 00 00 00
+#
+name: SEARCH/#
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 26 00 00 00
+#
+name: #-SEARCH
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 26 00 00 00
+#
+name: SEARCH #
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 26 00 00 00
+#
+name: OFF
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 27 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 27 00 00 00
+#
+name: SAT
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 29 00 00 00
+#
+name: SEARCH
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 2d 00 00 00
+#
+name: 
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 2e 00 00 00
+#
+name: GREEN R
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 2f 00 00 00
+#
+name: RECOVER
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 2f 00 00 00
+#
+name: GREEN
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: 0
+type: parsed
+protocol: Dish_Network
+address: 00 00 00 00
+command: 38 00 00 00

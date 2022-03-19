@@ -1,0 +1,518 @@
+Filetype: IR signals file
+Version: 1
+#
+name: R
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 00 00 00 00
+#
+name: R
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 00 00 00 00
+#
+name: B
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 02 00 00 00
+#
+name: B
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 02 00 00 00
+#
+name: OPERATE
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 06 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 07 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 08 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 08 00 00 00
+#
+name: END
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 09 00 00 00
+#
+name: END
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 09 00 00 00
+#
+name: TEST
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 0b 00 00 00
+#
+name: COARSE
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 0e 00 00 00
+#
+name: FINE
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 0f 00 00 00
+#
+name: STORE
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 12 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 14 00 00 00
+#
+name: STATIC
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 15 00 00 00
+#
+name: STATIC
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 15 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 17 00 00 00
+#
+name: VIDEO1
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 18 00 00 00
+#
+name: 1 (ABC)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 18 00 00 00
+#
+name: VIDEO2
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 19 00 00 00
+#
+name: 2 (DEF)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 19 00 00 00
+#
+name: 3 (GHI)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 1a 00 00 00
+#
+name: 4 (JKL)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 1b 00 00 00
+#
+name: RGB1
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1c 00 00 00
+#
+name: 5 (MNO)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 1c 00 00 00
+#
+name: RGB2
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1d 00 00 00
+#
+name: 6 (PQR)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 1d 00 00 00
+#
+name: RGB3
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 1e 00 00 00
+#
+name: 7 (STU)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 1e 00 00 00
+#
+name: 8 (VWX)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 1f 00 00 00
+#
+name: SEL
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 40 00 00 00
+#
+name: 9 (YZ/)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 40 00 00 00
+#
+name: BEAM
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 41 00 00 00
+#
+name: 10 *..
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 41 00 00 00
+#
+name: PRESET
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 42 00 00 00
+#
+name: CALL
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 43 00 00 00
+#
+name: SOUND MUTE
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 45 00 00 00
+#
+name: PICTURE ^
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 46 00 00 00
+#
+name: PICTURE V
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 47 00 00 00
+#
+name: PICTURE MUTE
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 47 00 00 00
+#
+name: COLOR ^
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 48 00 00 00
+#
+name: COLOR V
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 49 00 00 00
+#
+name: BRIGHT ^
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 4a 00 00 00
+#
+name: CAPTION
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 4a 00 00 00
+#
+name: BRIGHT V
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 4b 00 00 00
+#
+name: TINT ^
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 4c 00 00 00
+#
+name: TINT V
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 4d 00 00 00
+#
+name: SHARPNESS ^
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 4e 00 00 00
+#
+name: SHARPNESS V
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 4f 00 00 00
+#
+name: NORMAL
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 5b 00 00 00
+#
+name: ^ (UP)
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 5c 00 00 00
+#
+name: ^
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 5c 00 00 00
+#
+name: V (DOWN)
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 5d 00 00 00
+#
+name: V
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 5d 00 00 00
+#
+name: > (RIGHT)
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 5e 00 00 00
+#
+name: >
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 5e 00 00 00
+#
+name: < (LEFT)
+type: parsed
+protocol: NEC1
+address: 18 18 00 00
+command: 5f 00 00 00
+#
+name: <
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 5f 00 00 00
+#
+name: CTL R
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 80 00 00 00
+#
+name: CTL B
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 82 00 00 00
+#
+name: CTL OPERATE
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 86 00 00 00
+#
+name: CTL DISPLAY
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 87 00 00 00
+#
+name: CTL POWER ON
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 88 00 00 00
+#
+name: CTL END
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 89 00 00 00
+#
+name: CTL POWER OFF
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 94 00 00 00
+#
+name: CTL STATIC
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 95 00 00 00
+#
+name: CTL ENTER
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 97 00 00 00
+#
+name: CTL 1 (ABC)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 98 00 00 00
+#
+name: CTL 2 (DEF)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 99 00 00 00
+#
+name: CTL 3 (GHI)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 9a 00 00 00
+#
+name: CTL 4 (JKL)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 9b 00 00 00
+#
+name: CTL 5 (MNO)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 9c 00 00 00
+#
+name: CTL 6 (PQR)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 9d 00 00 00
+#
+name: CTL 7 (STU)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 9e 00 00 00
+#
+name: CTL 8 (VWX)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: 9f 00 00 00
+#
+name: CTL 9 (YZ/)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: c0 00 00 00
+#
+name: CTL 10 (*..)
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: c1 00 00 00
+#
+name: CTL SOUND MUTE
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: c5 00 00 00
+#
+name: CTL PICTURE MUTE
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: c7 00 00 00
+#
+name: CTL CAPTION
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: ca 00 00 00
+#
+name: CTL NORMAL
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: db 00 00 00
+#
+name: CTL ^
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: dc 00 00 00
+#
+name: CTL V
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: dd 00 00 00
+#
+name: CTL >
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: de 00 00 00
+#
+name: CTL <
+type: parsed
+protocol: 48-NEC1
+address: 18 18 00 00
+command: df 00 00 00

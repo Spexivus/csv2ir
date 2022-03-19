@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+#
+name: QUIT
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 01 00 00 00
+#
+name: - VERTICAL
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 03 00 00 00
+#
+name: SET-UP
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 09 00 00 00
+#
+name: LIN T-B / L-R
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 0b 00 00 00
+#
+name: SIZE
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 0f 00 00 00
+#
+name: RED
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 11 00 00 00
+#
+name: + VERTICAL
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 13 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 1d 00 00 00
+#
+name: SKEW
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 23 00 00 00
+#
+name: PIN
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 2b 00 00 00
+#
+name: S-ING / W-M
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 2d 00 00 00
+#
+name: T/L KEY
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 2f 00 00 00
+#
+name: T/L PIN
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 31 00 00 00
+#
+name: T/L S
+type: parsed
+protocol: Zenith
+address: 06 06 00 00
+command: 33 00 00 00

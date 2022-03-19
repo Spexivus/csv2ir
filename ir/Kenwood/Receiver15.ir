@@ -1,0 +1,242 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VIDEO2 VCR/TV (LVL
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 00 00 00 00
+#
+name: VCR2 FUNCTION
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 00 00 00 00
+#
+name: VIDEO2 >> (TUNING)
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 04 00 00 00
+#
+name: VCR2 FFWD >>
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 04 00 00 00
+#
+name: VIDEO2 CH V (ANY V)
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 08 00 00 00
+#
+name: VCR2 ANY V
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 08 00 00 00
+#
+name: VIDEO2 PLAY (P.CALL)
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 0a 00 00 00
+#
+name: VCR2 PLAY >
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 0a 00 00 00
+#
+name: VIDEO2 PAUSE (AUTO)
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 0b 00 00 00
+#
+name: VCR2 PAUSE 
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 0b 00 00 00
+#
+name: VIDEO2 << (TUNING)
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 0c 00 00 00
+#
+name: VCR2 REW <<
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 0c 00 00 00
+#
+name: VIDEO2 CH ^ (ANY ^)
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 10 00 00 00
+#
+name: VCR2 ANY ^
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 10 00 00 00
+#
+name: VIDEO2 REC
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 1a 00 00 00
+#
+name: VCR2 REC
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 1a 00 00 00
+#
+name: VIDEO2 STOP (BAND)
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 1c 00 00 00
+#
+name: VCR2 STOP []
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 1c 00 00 00
+#
+name: VIDEO2 1
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 1f 00 00 00
+#
+name: VCR2 1
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 1f 00 00 00
+#
+name: VIDEO2 POWER
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 20 00 00 00
+#
+name: VCR2 POWER
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 20 00 00 00
+#
+name: VIDEO2 2
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 21 00 00 00
+#
+name: VCR2 2
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 21 00 00 00
+#
+name: VIDEO2 3
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 22 00 00 00
+#
+name: VCR2 3
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 22 00 00 00
+#
+name: VIDEO2 4
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 23 00 00 00
+#
+name: VCR2 4
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 23 00 00 00
+#
+name: VIDEO2 5
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 24 00 00 00
+#
+name: VCR2 5
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 24 00 00 00
+#
+name: VIDEO2 6
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 25 00 00 00
+#
+name: VCR2 6
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 25 00 00 00
+#
+name: VIDEO2 7
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 26 00 00 00
+#
+name: VCR2 7
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 26 00 00 00
+#
+name: VIDEO2 8
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 27 00 00 00
+#
+name: VCR2 8
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 27 00 00 00
+#
+name: VIDEO2 9
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 28 00 00 00
+#
+name: VCR2 9
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 28 00 00 00
+#
+name: VIDEO2 0
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 29 00 00 00
+#
+name: VCR2 O
+type: parsed
+protocol: Emerson
+address: 28 28 00 00
+command: 29 00 00 00

@@ -1,0 +1,254 @@
+Filetype: IR signals file
+Version: 1
+#
+name: BK002 POWER OFF
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 01 00 00 00
+#
+name: BK002 POWER ON
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 02 00 00 00
+#
+name: BK002 MUTE
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 03 00 00 00
+#
+name: BK002 V1
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 05 00 00 00
+#
+name: BK002 TV
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 06 00 00 00
+#
+name: BK002 V2
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 09 00 00 00
+#
+name: BK002 TAPE
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 0b 00 00 00
+#
+name: BK002 DVD
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 0d 00 00 00
+#
+name: BK002 CD
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 0f 00 00 00
+#
+name: BK002 TUNE-
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 1b 00 00 00
+#
+name: BK002 TUNE+
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 1c 00 00 00
+#
+name: BK002 BALANCE LEFT
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 1f 00 00 00
+#
+name: BK002 LEFT
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 1f 00 00 00
+#
+name: BK002 BALANCE RIGHT
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 20 00 00 00
+#
+name: BK002 RIGHT
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 20 00 00 00
+#
+name: BK002 NUMBER +10
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 29 00 00 00
+#
+name: BK002 DOWN
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 2d 00 00 00
+#
+name: BK002 UP
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 2e 00 00 00
+#
+name: BK002 ENTER
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 30 00 00 00
+#
+name: BK002 NUMBER 1
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 31 00 00 00
+#
+name: BK002 NUMBER 2
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 32 00 00 00
+#
+name: BK002 NUMBER 3
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 33 00 00 00
+#
+name: BK002 NUMBER 4
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 35 00 00 00
+#
+name: BK002 NUMBER 5
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 36 00 00 00
+#
+name: BK002 NUMBER 6
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 37 00 00 00
+#
+name: BK002 NUMBER 7
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 39 00 00 00
+#
+name: BK002 NUMBER 8
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 3a 00 00 00
+#
+name: BK002 NUMBER 9
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 3b 00 00 00
+#
+name: BK002 NUMBER 0
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 3e 00 00 00
+#
+name: BK002 Z
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 3f 00 00 00
+#
+name: BK002 SAVE
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 40 00 00 00
+#
+name: BK002 SAT
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 4a 00 00 00
+#
+name: BK002 PRESET+
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 4b 00 00 00
+#
+name: BK002 VOLUME+
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 4b 00 00 00
+#
+name: BK002 AM
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 76 00 00 00
+#
+name: BK002 EXIT
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 7d 00 00 00
+#
+name: BK002 FM
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 8e 00 00 00
+#
+name: BK002 MONO
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: 9a 00 00 00
+#
+name: BK002 SLEEP
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: b3 00 00 00
+#
+name: BK002 PRESET-
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: c6 00 00 00
+#
+name: BK002 VOLUME-
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: c6 00 00 00
+#
+name: BK002 STEREO
+type: parsed
+protocol: NECext
+address: 0b 0b 00 00
+command: e2 00 00 00

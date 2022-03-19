@@ -1,0 +1,254 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_MENU
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 02 00 00 00
+#
+name: KEY_MEDIA_REPEAT
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 03 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 05 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 06 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 07 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 08 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 09 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 0a 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 0b 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 0c 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 0d 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 0e 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 0f 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 10 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 11 00 00 00
+#
+name: KEY_GOTO
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 12 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 13 00 00 00
+#
+name: KEY_PROGRAM
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 15 00 00 00
+#
+name: KEY_AUDIO
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 16 00 00 00
+#
+name: KEY_ZOOM
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 17 00 00 00
+#
+name: KEY_BACK
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 18 00 00 00
+#
+name: KEY_NEXT
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 19 00 00 00
+#
+name: KEY_EJECTCLOSECD
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 1a 00 00 00
+#
+name: KEY_SLOW
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 1b 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 1c 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 1d 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 1e 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 1f 00 00 00
+#
+name: KEY_TITLE
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 40 00 00 00
+#
+name: KEY_SETUP
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 41 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 44 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 48 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 49 00 00 00
+#
+name: KEY_102ND
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 4d 00 00 00
+#
+name: KEY_DISPLAYTOGGLE
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 50 00 00 00
+#
+name: KEY_ESC
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 51 00 00 00
+#
+name: KEY_ANGLE
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 54 00 00 00
+#
+name: KEY_BOOKMARKS
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 55 00 00 00
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 58 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 59 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 5c 00 00 00
+#
+name: KEY_FORWARD
+type: parsed
+protocol: NEC
+address: 72 72 00 00
+command: 5d 00 00 00

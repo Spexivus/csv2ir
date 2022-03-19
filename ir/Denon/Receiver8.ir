@@ -1,0 +1,266 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CURSOR UP
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 1b 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 1c 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 1d 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 1e 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 1f 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 22 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 23 00 00 00
+#
+name: TUNER XM 1
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 60 00 00 00
+#
+name: TUNER XM 2
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 61 00 00 00
+#
+name: TUNER XM 3
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 62 00 00 00
+#
+name: TUNER XM 4
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 63 00 00 00
+#
+name: TUNER XM 5
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 64 00 00 00
+#
+name: TUNER XM 6
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 65 00 00 00
+#
+name: TUNER XM 7
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 66 00 00 00
+#
+name: TUNER XM 8
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 67 00 00 00
+#
+name: TUNER XM 9
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 68 00 00 00
+#
+name: TUNER XM 0
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 69 00 00 00
+#
+name: Z3 MUTE
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 172 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 172 00 00 00
+#
+name: STATUS REQUEST
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 285 00 00 00
+#
+name: AUX ZONE 3
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2c7 00 00 00
+#
+name: Z3 INP AUX
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2c7 00 00 00
+#
+name: TOGGLE NET/USB
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2c7 00 00 00
+#
+name: INPUT XM
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2ca 00 00 00
+#
+name: INPUT HD RADIO
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2cb 00 00 00
+#
+name: INPUT NET
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2cc 00 00 00
+#
+name: INPUT IPOD
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2cd 00 00 00
+#
+name: INPUT USB
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2ce 00 00 00
+#
+name: TOGGLE DVD/HDP
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2dc 00 00 00
+#
+name: Z3 INP VCR 1/2
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2dd 00 00 00
+#
+name: Z3 INP VCR 3/4
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2de 00 00 00
+#
+name: TOGGLE VCR/DVR
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2df 00 00 00
+#
+name: Z3 REPEAT
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3bc 00 00 00
+#
+name: Z3 RANDOM
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3bd 00 00 00
+#
+name: Z3 USB DIR. PLAY
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3be 00 00 00
+#
+name: Z3 FAVORITE DIR.PLAY
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3bf 00 00 00
+#
+name: Z3 PRESET CH+
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3cc 00 00 00
+#
+name: Z3 PRESET CH-
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3cd 00 00 00
+#
+name: Z3 PRESET SHIFT
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3ce 00 00 00
+#
+name: Z3 SEARCH (RDS)
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3d7 00 00 00
+#
+name: Z3 PLAY/PAUSE
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3e0 00 00 00
+#
+name: Z3 STOP
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3e1 00 00 00
+#
+name: Z3 SKIP/TUNE-
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3e3 00 00 00
+#
+name: Z3 SKIP/TUNE+
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 3e4 00 00 00

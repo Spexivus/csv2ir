@@ -1,0 +1,206 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_0
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 01 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 09 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 11 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 1e 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 21 00 00 00
+#
+name: eax
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 31 00 00 00
+#
+name: KEY_CLOSE
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 3e 00 00 00
+#
+name: KEY_OPTION
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 41 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 46 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 51 00 00 00
+#
+name: KEY_NEXT
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 5e 00 00 00
+#
+name: display
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 6e 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 71 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 76 00 00 00
+#
+name: step
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 7e 00 00 00
+#
+name: KEY_OK
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 81 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 86 00 00 00
+#
+name: cmss
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 8e 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 91 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 9e 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: 9e 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: a1 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: ae 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: b1 00 00 00
+#
+name: KEY_SLOW
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: be 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: c1 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: c6 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: ce 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: d1 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: de 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: e1 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: ee 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: f1 00 00 00
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: NEC
+address: c1 c1 00 00
+command: fe 00 00 00

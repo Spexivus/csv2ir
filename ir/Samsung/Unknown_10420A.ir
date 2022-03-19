@@ -1,0 +1,110 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 02 00 00 00
+#
+name: SLOW-PLUS
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 13 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 14 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 15 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 15 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 16 00 00 00
+#
+name: SLOW-MINUS
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 17 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 18 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 18 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 19 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 19 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 1a 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 1a 00 00 00
+#
+name: CNT.RESET
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 1d 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 1e 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 1f 00 00 00
+#
+name: TRK-UP
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 2c 00 00 00
+#
+name: TRK-DOWN
+type: parsed
+protocol: NEC
+address: 05 00 00 00
+command: 2d 00 00 00

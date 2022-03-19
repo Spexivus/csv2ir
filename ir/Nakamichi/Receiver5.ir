@@ -1,0 +1,140 @@
+Filetype: IR signals file
+Version: 1
+#
+name: TAPE1 FF >>
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 0c 00 00 00
+#
+name: TAPE FF >>
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 0c 00 00 00
+#
+name: TAPE1 FFWD >>
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 0c 00 00 00
+#
+name: TAPE1 REW <<
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 0d 00 00 00
+#
+name: TAPE REW <<
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 0d 00 00 00
+#
+name: TAPE1 CUE
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 0e 00 00 00
+#
+name: TAPE1 REV PLAY <
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 11 00 00 00
+#
+name: TAPE1 REC
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 14 00 00 00
+#
+name: TAPE REC
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 14 00 00 00
+#
+name: TAPE1 PLAY >
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 15 00 00 00
+#
+name: TAPE PLAY >
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 15 00 00 00
+#
+name: TAPE1 PAUSE 
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 16 00 00 00
+#
+name: TAPE PAUSE 
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 16 00 00 00
+#
+name: TAPE1 STOP []
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 17 00 00 00
+#
+name: TAPE STOP []
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 17 00 00 00
+#
+name: TAPE2 FFWD >>
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 8c 00 00 00
+#
+name: TAPE2 REW <<
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 8d 00 00 00
+#
+name: TAPE2 CUE
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 8e 00 00 00
+#
+name: TAPE2 REV PLAY <
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 91 00 00 00
+#
+name: TAPE2 REC
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 94 00 00 00
+#
+name: TAPE2 PLAY >
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 95 00 00 00
+#
+name: TAPE2 PAUSE 
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 96 00 00 00
+#
+name: TAPE2 STOP []
+type: parsed
+protocol: NEC1
+address: 5c 5c 00 00
+command: 97 00 00 00

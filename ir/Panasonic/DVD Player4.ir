@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SUPER SURROUND
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 30 00 00 00
+#
+name: MIX 2CH
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: ae 00 00 00
+#
+name: SIMULATED STEREO
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: ec 00 00 00

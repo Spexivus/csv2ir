@@ -1,0 +1,206 @@
+Filetype: IR signals file
+Version: 1
+#
+name: NUM_1
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 80 00 00 00
+#
+name: NUM_2
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 81 00 00 00
+#
+name: NUM_3
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 82 00 00 00
+#
+name: NUM_4
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 83 00 00 00
+#
+name: NUM_5
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 84 00 00 00
+#
+name: NUM_6
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 85 00 00 00
+#
+name: NUM_7
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 86 00 00 00
+#
+name: NUM_8
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 87 00 00 00
+#
+name: NUM_9
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 88 00 00 00
+#
+name: NUM_+10
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 89 00 00 00
+#
+name: NUM_0
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 8a 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 8e 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 90 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 91 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 92 00 00 00
+#
+name: KEY_NEXT
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 93 00 00 00
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 94 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 95 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 96 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 97 00 00 00
+#
+name: KEY_EDIT
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: 9f 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: c0 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: c1 00 00 00
+#
+name: SRC_PHONO_LINE
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: c2 00 00 00
+#
+name: VOL_MUTE
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: c4 00 00 00
+#
+name: PROG
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: c9 00 00 00
+#
+name: KEY_CLEAR
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: ca 00 00 00
+#
+name: KEY_AGAIN
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: cb 00 00 00
+#
+name: CD_PLAY_DISC1
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: cd 00 00 00
+#
+name: CD_PLAY_DISC2
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: ce 00 00 00
+#
+name: CD_PLAY_DISC3
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: cf 00 00 00
+#
+name: SRC_CD
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: d1 00 00 00
+#
+name: SRC_TAPE
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: d2 00 00 00
+#
+name: SRC_TUNER
+type: parsed
+protocol: NEC
+address: 8b 8b 00 00
+command: d3 00 00 00

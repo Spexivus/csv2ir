@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PROGRAMCHANNEL -
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 20 00 00 00
+#
+name: PROGRAM CHANNEL +
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 21 00 00 00
+#
+name: SPEED
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 3a 00 00 00

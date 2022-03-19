@@ -1,0 +1,74 @@
+Filetype: IR signals file
+Version: 1
+#
+name: down
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 01 00 00 00
+#
+name: mute
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 02 00 00 00
+#
+name: right
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 08 00 00 00
+#
+name: up
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 09 00 00 00
+#
+name: left
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 0a 00 00 00
+#
+name: OK
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 0b 00 00 00
+#
+name: back
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 0d 00 00 00
+#
+name: vol up
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 11 00 00 00
+#
+name: vol down
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 15 00 00 00
+#
+name: power on off toggle
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 1d 00 00 00
+#
+name: Menu
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 1e 00 00 00
+#
+name: source
+type: parsed
+protocol: NEC1
+address: 02 02 00 00
+command: 1f 00 00 00

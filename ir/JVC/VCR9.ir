@@ -1,0 +1,56 @@
+Filetype: IR signals file
+Version: 1
+#
+name: TV TV/VIDEO
+type: parsed
+protocol: NEC1
+address: 40 40 00 00
+command: 0f 00 00 00
+#
+name: TV SELECT (IN/OUT)
+type: parsed
+protocol: NEC1
+address: 40 40 00 00
+command: 12 00 00 00
+#
+name: TV POWER
+type: parsed
+protocol: NEC1
+address: 40 40 00 00
+command: 12 00 00 00
+#
+name: VCR VOLUME +
+type: parsed
+protocol: NEC1
+address: 40 40 00 00
+command: 1a 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NEC1
+address: 40 40 00 00
+command: 1a 00 00 00
+#
+name: TV CH/SET +
+type: parsed
+protocol: NEC1
+address: 40 40 00 00
+command: 1b 00 00 00
+#
+name: VCR VOLUME -
+type: parsed
+protocol: NEC1
+address: 40 40 00 00
+command: 1e 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NEC1
+address: 40 40 00 00
+command: 1e 00 00 00
+#
+name: TV CH/SET -
+type: parsed
+protocol: NEC1
+address: 40 40 00 00
+command: 1f 00 00 00

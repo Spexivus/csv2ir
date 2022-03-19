@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER OFF
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 3d 00 00 00

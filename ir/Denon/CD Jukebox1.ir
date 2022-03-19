@@ -1,0 +1,44 @@
+Filetype: IR signals file
+Version: 1
+#
+name: REPEAT OFF
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: c0 00 00 00
+#
+name: MODE OFF
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: fa 00 00 00
+#
+name: CROSS FADE
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: fb 00 00 00
+#
+name: ALL DISCS
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: fc 00 00 00
+#
+name: 1 DISC
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: fd 00 00 00
+#
+name: REPEAT 1
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: fe 00 00 00
+#
+name: BEST HIT
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: ff 00 00 00

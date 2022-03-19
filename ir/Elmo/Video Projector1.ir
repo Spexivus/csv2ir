@@ -1,0 +1,74 @@
+Filetype: IR signals file
+Version: 1
+#
+name: B REV
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: 09 00 00 00
+#
+name: B ZOOM WIDE
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: 0a 00 00 00
+#
+name: B ZOOM TELE
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: 0b 00 00 00
+#
+name: B FWD
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: 0c 00 00 00
+#
+name: B IRIS CLOSE
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: 0d 00 00 00
+#
+name: B ZERO RESET FWD
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: 0e 00 00 00
+#
+name: B ZERO RESET REV
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: 0f 00 00 00
+#
+name: B FOCUS F
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: 11 00 00 00
+#
+name: B FOCUS N
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: 12 00 00 00
+#
+name: B LAMP ON
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: 13 00 00 00
+#
+name: B LAMP OFF
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: 14 00 00 00
+#
+name: B IRIS OPEN
+type: parsed
+protocol: NEC
+address: 84 00 00 00
+command: e0 00 00 00

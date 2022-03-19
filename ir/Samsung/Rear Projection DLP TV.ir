@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ANTENNA INPUT
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 1b 00 00 00
+#
+name: COMPONENT VIDEO 1
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 43 00 00 00
+#
+name: PC INPUT
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 69 00 00 00
+#
+name: S VIDEO 1
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 85 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 98 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 99 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: c1 00 00 00
+#
+name: S VIDEO 3
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: c2 00 00 00
+#
+name: COMPONENT VIDEO 3
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: c3 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: f8 00 00 00
+#
+name: VIDEO 3
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: f9 00 00 00
+#
+name: S VIDEO 2
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: fb 00 00 00
+#
+name: COMPONENT VIDEO 2
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: fd 00 00 00
+#
+name: DVI INPUT
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: ff 00 00 00

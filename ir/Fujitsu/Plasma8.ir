@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VOLUME +
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 10 00 00 00
+#
+name: VOL +
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 10 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 10 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 11 00 00 00
+#
+name: VOL --
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 11 00 00 00
+#
+name: VOL -
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 11 00 00 00
+#
+name: VOLUME DN
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 11 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 12 00 00 00

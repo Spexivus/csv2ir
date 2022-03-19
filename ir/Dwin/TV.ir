@@ -1,0 +1,152 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CTR +
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 70 00 00 00
+#
+name: SUB +
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 71 00 00 00
+#
+name: MENU
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 73 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 74 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 75 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 77 00 00 00
+#
+name: 0 - DVI2
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 7c 00 00 00
+#
+name: 1 - COMPOSITE 1
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 7d 00 00 00
+#
+name: 2 - COMPOSITE 2
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 7e 00 00 00
+#
+name: 3 - SVIDEO 1
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 7f 00 00 00
+#
+name: 4 - SVIDEO 2
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 80 00 00 00
+#
+name: 5 - COMPONENT 1
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 81 00 00 00
+#
+name: 6 - COMPONENT 2
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 82 00 00 00
+#
+name: 7 - RGB1
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 83 00 00 00
+#
+name: 8 - RGB2
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 84 00 00 00
+#
+name: 9 - DVI 1
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 85 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 87 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 88 00 00 00
+#
+name: ARROW LEFT
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 8a 00 00 00
+#
+name: ARROW RIGHT
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 8b 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 8c 00 00 00
+#
+name: ARROW DN
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 8d 00 00 00
+#
+name: INFO
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 8e 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 8f 00 00 00
+#
+name: MODE +
+type: parsed
+protocol: RCA(Old)
+address: 0f 0f 00 00
+command: 90 00 00 00

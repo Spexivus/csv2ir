@@ -1,0 +1,236 @@
+Filetype: IR signals file
+Version: 1
+#
+name: REM: INPUT ADJUST
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 00 00 00 00
+#
+name: NAV: UP
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 01 00 00 00
+#
+name: NAV: DOWN
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 02 00 00 00
+#
+name: INPUT: S-VIDEO 2
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 04 00 00 00
+#
+name: NAV: LEFT
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 05 00 00 00
+#
+name: REM: PAN
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 07 00 00 00
+#
+name: REM: CURTAIN
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 08 00 00 00
+#
+name: INPUT: VIDEO 2
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0a 00 00 00
+#
+name: NAV: ENTER
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0b 00 00 00
+#
+name: REM: ZOOM
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0c 00 00 00
+#
+name: REM: OUTPUT SETUP
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0e 00 00 00
+#
+name: INPUT: SDI
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 10 00 00 00
+#
+name: TEST: NEXT
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 11 00 00 00
+#
+name: REM: CONFIGURATION
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 12 00 00 00
+#
+name: NAV: RIGHT
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 13 00 00 00
+#
+name: INPUT: COMPONENT 2
+type: parsed
+protocol: NEC
+address: 84 84 00 00
+command: 14 00 00 00
+#
+name: REM: PIC CONTROL
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 1a 00 00 00
+#
+name: TEST: PREVIOUS
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 1b 00 00 00
+#
+name: REM: INFORMATION
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: NAV: MENU
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 43 00 00 00
+#
+name: NAV: EXIT
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 44 00 00 00
+#
+name: REM: 4:3
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 45 00 00 00
+#
+name: REM: 16:9
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 47 00 00 00
+#
+name: INPUT: VIDEO 1
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4a 00 00 00
+#
+name: INPUT: AUTO
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4b 00 00 00
+#
+name: INPUT: S-VIDEO 1
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4e 00 00 00
+#
+name: INPUT: COMPONENT 1
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4f 00 00 00
+#
+name: REM: DISP PROFILES
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 50 00 00 00
+#
+name: REM: VIEW MODES
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 51 00 00 00
+#
+name: REM: INPUT AR
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 52 00 00 00
+#
+name: TEST: ON/OFF
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 52 00 00 00
+#
+name: REM: BORDER
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 53 00 00 00
+#
+name: REM: CROP
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 54 00 00 00
+#
+name: REM: ASPECT
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 55 00 00 00
+#
+name: INPUT: HDMI 1
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 56 00 00 00
+#
+name: INPUT: HDMI 2
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 57 00 00 00
+#
+name: INPUT: HDMI 3
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 58 00 00 00
+#
+name: INPUT: HDMI 4
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 59 00 00 00
+#
+name: INPUT: RGBHV
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5a 00 00 00

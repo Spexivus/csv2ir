@@ -1,0 +1,194 @@
+Filetype: IR signals file
+Version: 1
+#
+name: DECK1 MS >>
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 01 00 00 00
+#
+name: DECK1 MS <<
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 02 00 00 00
+#
+name: DECK1 REC MUTE
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 03 00 00 00
+#
+name: DECK1 REC
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 04 00 00 00
+#
+name: DECK1 PLAY >
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 05 00 00 00
+#
+name: DECK1 R.PLAY <
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 06 00 00 00
+#
+name: DECK1 PAUSE
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 07 00 00 00
+#
+name: MONITOR SOURCE/TAPE
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 08 00 00 00
+#
+name: DECK1 STOP []
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 0a 00 00 00
+#
+name: DECK1
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 0e 00 00 00
+#
+name: COUNTER RESET
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 0f 00 00 00
+#
+name: DECK2
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 0f 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 10 00 00 00
+#
+name: MS/CUE >>
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 11 00 00 00
+#
+name: DECK2 MS >>
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 11 00 00 00
+#
+name: MS/REVIEW <<
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 12 00 00 00
+#
+name: DECK2 MS <<
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 12 00 00 00
+#
+name: REC MUTE
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 13 00 00 00
+#
+name: DECK2 REC MUTE
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 13 00 00 00
+#
+name: REC
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 14 00 00 00
+#
+name: DECK2 REC
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 14 00 00 00
+#
+name: PLAY >
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 15 00 00 00
+#
+name: DECK2 PLAY >
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 15 00 00 00
+#
+name: DECK2 R.PLAY <
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 16 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 17 00 00 00
+#
+name: DECK2 PAUSE
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 17 00 00 00
+#
+name: STOP []
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 1a 00 00 00
+#
+name: DECK2 STOP []
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 1a 00 00 00
+#
+name: COUNTER ZERO RETURN
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 1b 00 00 00
+#
+name: NORMAL
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 1c 00 00 00
+#
+name: HIGH
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 1d 00 00 00
+#
+name: DUAL REC
+type: parsed
+protocol: Aiwa
+address: 73 73 00 00
+command: 1f 00 00 00

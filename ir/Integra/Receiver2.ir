@@ -1,0 +1,1532 @@
+Filetype: IR signals file
+Version: 1
+#
+name: IN MULTI CH
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: MULTI CHANNEL
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: MULTI-CH
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: MULTICHANNEL
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: INPUT: MULTI CHANNEL
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: MULTI CH
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: DSP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DSP>>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: MODE: DSP UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: MODE DSP UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DSP +
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DSP>
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DSP+
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DSP >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: 8 / DSP+
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DSP>
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: 3 (DSP UP)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DSP UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: DSP UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DSP<<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: MODE: DSP DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: MODE DSP DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DSP-
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DSP<
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DSP <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: 7 / DSP-
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DSP<
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: 6 (DSP DN)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DSP DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: DSP -
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: < DSP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: AUDIO INPUT -
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1b 00 00 00
+#
+name: INPUT +
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1c 00 00 00
+#
+name: INPUT -
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1d 00 00 00
+#
+name: INPUT >
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1e 00 00 00
+#
+name: INPUT +
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1e 00 00 00
+#
+name: INPUT SELECT UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1e 00 00 00
+#
+name: INPUT SELECTOR UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1e 00 00 00
+#
+name: INPUT <
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1f 00 00 00
+#
+name: INPUT -
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1f 00 00 00
+#
+name: INPUT SELECT DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1f 00 00 00
+#
+name: INPUT SELECTOR DN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1f 00 00 00
+#
+name: LEVEL +
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: 9
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: CHANNEL LEVEL +
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: 6 UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: LEVEL UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: SPK LEVEL UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: LEVEL+
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: LEV UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: SPEAKER LEVEL DN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: SPEAKER LEVEL UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: CH LEVEL +
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: LEVEL UP
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: LEV +
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: LEVEL -
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: CHANNEL LEVEL -
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: 9 DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: LEVEL DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: SPK LEVEL DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: LEVEL-
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: LEV DN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: SUB LEVEL CONTROL
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: CH LEVEL -
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: ENT
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: LEVEL DOWN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: LEV -
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: CH SEL/TOP MENU
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: CHANNEL SELECT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: 3 CH SET
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: SPK CHANNEL SELECT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: CH SEL./TOP MENU
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: CH SEL TOP MENU
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: CH SEL
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: CH SELECT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: CH SEL
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: LISTEN MODE DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 45 00 00 00
+#
+name: MODE LISTEN MODEDOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 45 00 00 00
+#
+name: LISTENING MODE -
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 45 00 00 00
+#
+name: LISTENING MODE DN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 45 00 00 00
+#
+name: MODE: LEFT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 45 00 00 00
+#
+name: STANDBY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: STANDY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: OFF
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: STANDBY (OFF)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: RECIEVER OFF
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: TIMER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 48 00 00 00
+#
+name: STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: MODE: STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: MODE STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: LM STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: 3 / STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: 1 (STEREO)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: STEREO
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: SURR
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: SURROUND
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: MODE: SURR TOGGLE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: MODE SURR WRAP UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: SURROUND - WRAPAROUN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: 4 / SURR
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: MODE SURROUND
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: 4 (DPL)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: MODE: STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: MODE: SURROUND
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: SURROUND
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: THX
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: MODE THX WRAP UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: 5 / THX
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: MODE THX
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: 5 (THX)
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: MODE: THX
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: THX
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: ALL ST
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: MODE: ALL CH STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: MODE ALL CH STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: ALL 5 STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: ALL STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: 6 / ALL ST.
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: ALL CH STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: MODE: ALL ST
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: ALL CHANNEL STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: ALL ST
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: SETUP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 53 00 00 00
+#
+name: OSD MENU
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 53 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 53 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 54 00 00 00
+#
+name: EXIT/RETURN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 54 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 54 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 54 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 55 00 00 00
+#
+name: DISPLAY/DVD SET
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 55 00 00 00
+#
+name: DISPLAY MODE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 55 00 00 00
+#
+name: DIMMER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 55 00 00 00
+#
+name: +10 / DISPLAY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 55 00 00 00
+#
+name: PREV CH
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 55 00 00 00
+#
+name: MUTE ON
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 84 00 00 00
+#
+name: MT-ON
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 84 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 84 00 00 00
+#
+name: MUTING ON
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 84 00 00 00
+#
+name: MUTE OFF
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 85 00 00 00
+#
+name: MT-OFF
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 85 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 85 00 00 00
+#
+name: MUTING OFF
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 85 00 00 00
+#
+name: SPEAKER LAYOUT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 88 00 00 00
+#
+name: SP A/B
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 88 00 00 00
+#
+name: INPUT: DVD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: DVD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: INPUT DVD/BD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: IN DVD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: DVD
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: 
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: INPUT DVD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8d 00 00 00
+#
+name: STOP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8e 00 00 00
+#
+name: > NEXT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8f 00 00 00
+#
+name: < PREVIOUS
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 90 00 00 00
+#
+name: >> FWD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 91 00 00 00
+#
+name: << REW
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 92 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 93 00 00 00
+#
+name: LAST M
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 94 00 00 00
+#
+name: SUBTITLE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 96 00 00 00
+#
+name: SETUP_TV INPUT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 97 00 00 00
+#
+name: TOP MENU
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 98 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 99 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9a 00 00 00
+#
+name: CURSOR DN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9b 00 00 00
+#
+name: CURSOR LF
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9c 00 00 00
+#
+name: CURSOR RT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9d 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9e 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 9f 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cb 00 00 00
+#
+name: STANDBY/ON TOGGLE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cb 00 00 00
+#
+name: POWER ON/STANDBY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cb 00 00 00
+#
+name: POWER TOGGLE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cb 00 00 00
+#
+name: INPUT HIDDEN 1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cd 00 00 00
+#
+name: INPUT HIDDEN 2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: ce 00 00 00
+#
+name: INPUT HIDDEN 3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cf 00 00 00
+#
+name: DOLBY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d0 00 00 00
+#
+name: MODE DOLBY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d0 00 00 00
+#
+name: DTS - WRAPAROUND
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d1 00 00 00
+#
+name: MONO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d1 00 00 00
+#
+name: DTS
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d1 00 00 00
+#
+name: MODE DTS
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d1 00 00 00
+#
+name: HDMI OUT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d2 00 00 00
+#
+name: PURE A
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d3 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d3 00 00 00
+#
+name: PURE AUDIO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d3 00 00 00
+#
+name: 1 / PURE A
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d3 00 00 00
+#
+name: PURE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d3 00 00 00
+#
+name: MODE PURE AUDIO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d3 00 00 00
+#
+name: MODE: REPEAT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d3 00 00 00
+#
+name: PURE AUDIO
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: d3 00 00 00
+#
+name: AUDIO ADJUST
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d4 00 00 00
+#
+name: SETUP AUDIO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d4 00 00 00
+#
+name: AUDIO ADJ.
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d4 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d4 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: d4 00 00 00
+#
+name: ZONE 2 OFF
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d5 00 00 00
+#
+name: CINE FLTR
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: RE-EQ
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: RE-EQ/CINEMA
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: AUDYSSEY 2EQ WRAP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: RE-EQ/CINEMA WRAP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: 9 / RE-EQ
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: CINE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: RE EQ
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: RE-EQ CINEMA
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: RE-EQ / CINEMA
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: RE-EQ / HDD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: RE EQ
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: +10
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d7 00 00 00
+#
+name: LATE NIGHT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d7 00 00 00
+#
+name: LATE NIGHT STATE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d7 00 00 00
+#
+name: LATE NIGHT WRAP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d7 00 00 00
+#
+name: L NIGHT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d7 00 00 00
+#
+name: LATE NITE
+type: parsed
+protocol: NECext
+address: d2 d2 00 00
+command: d7 00 00 00
+#
+name: OPEN / CLOSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d8 00 00 00
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d8 00 00 00
+#
+name: AUDIO SEL/A
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d9 00 00 00
+#
+name: AUDIO SELECT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d9 00 00 00
+#
+name: AUDIO SELECT WRAP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d9 00 00 00
+#
+name: AUDIO SEL
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d9 00 00 00
+#
+name: AUDIO SELECTOR
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d9 00 00 00
+#
+name: 7 IPM
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: da 00 00 00
+#
+name: 1 SP SETUP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: db 00 00 00
+#
+name: T-D/ST
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dc 00 00 00
+#
+name: MODE: THTR DIMENSION
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dc 00 00 00
+#
+name: MODE THTR DIMENSION
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dc 00 00 00
+#
+name: THEATREDIMENSIONAL
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dc 00 00 00
+#
+name: 8 T-D SETUP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dd 00 00 00
+#
+name: 4 SW MODE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: de 00 00 00
+#
+name: SUB LEVEL CONTROL
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: de 00 00 00
+#
+name: SPK SUB LVL CONTROL
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: de 00 00 00
+#
+name: SUBWOOFER LEVEL
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: de 00 00 00
+#
+name: 5 DISTANCE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: df 00 00 00
