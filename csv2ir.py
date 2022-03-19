@@ -35,8 +35,10 @@ def main():
                         functionName = row[0].replace(" ","_")
                         irFile.write(f"name: {functionName}\n")
                         irFile.write(f"type: parsed\n")
-                        if row[1] == "NECx1" or row[1] == "NECx2" or row[1] == "NEC1" or row[1] == "NEC2":
+                        if row[1] == "NECx1" or row[1] == "NEC1":
                             irFile.write(f"protocol: NEC\n")
+                        if row[1] == "NECx2" or row[1] == "NEC2":
+                            irFile.write(f"protocol: Samsung32\n")
                         # JVC : https://www.sbprojects.net/knowledge/ir/jvc.php
                         #elif row[1] == "protocol_here":
                         #    irFile.write(f"protocol: protocol_here\n")
