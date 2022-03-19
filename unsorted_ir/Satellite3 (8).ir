@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 
+type: parsed
+protocol: NEC1
+address: 04 04 00 00
+command: 0a 00 00 00

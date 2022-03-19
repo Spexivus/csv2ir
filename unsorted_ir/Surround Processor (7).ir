@@ -1,0 +1,458 @@
+Filetype: IR signals file
+Version: 1
+#
+name: S-VID-1
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 00 00 00 00
+#
+name: SIBILANT FILTERS
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 00 00 00 00
+#
+name: MOVIE 70MM
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 02 00 00 00
+#
+name: MOVIE 70MM WIDE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 02 00 00 00
+#
+name: ROCK
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 03 00 00 00
+#
+name: S-VID-2
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 04 00 00 00
+#
+name: RE-EQ FILTERS
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 04 00 00 00
+#
+name: MOVIE 70MM
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 06 00 00 00
+#
+name: MOVIE 35MM
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 06 00 00 00
+#
+name: 70MM
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 06 00 00 00
+#
+name: POPULAR
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 07 00 00 00
+#
+name: POP
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 07 00 00 00
+#
+name: VCR
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 08 00 00 00
+#
+name: STEREO BYPASS
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 08 00 00 00
+#
+name: PRO LOGIC
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0a 00 00 00
+#
+name: THX
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0a 00 00 00
+#
+name: PRO LOGC
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0a 00 00 00
+#
+name: JAZZ
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0b 00 00 00
+#
+name: MONO ENHANCE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0e 00 00 00
+#
+name: PRO LOGIC
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0e 00 00 00
+#
+name: CLASSICAL
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0f 00 00 00
+#
+name: CHAMBER
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0f 00 00 00
+#
+name: CLAS
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 0f 00 00 00
+#
+name: MONO ENHANCE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 12 00 00 00
+#
+name: BYPASS
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 13 00 00 00
+#
+name: ORCHESTRA
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 13 00 00 00
+#
+name: ORCH
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 13 00 00 00
+#
+name: SRND OFF
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 13 00 00 00
+#
+name: BACK LEVEL ^
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 18 00 00 00
+#
+name: REAR VOL+
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 18 00 00 00
+#
+name: MASTER VOLUME V
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 19 00 00 00
+#
+name: MASTER LEVEL V
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 19 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 19 00 00 00
+#
+name: SOURCE ^
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: PAN CTR
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: PAN CENTER
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: LV
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: INPUT CALIBRATE <
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: SOURCE V
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 43 00 00 00
+#
+name: PAN V
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 43 00 00 00
+#
+name: DELAY ^
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 44 00 00 00
+#
+name: SOURCE ^
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 44 00 00 00
+#
+name: AUX 1
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 45 00 00 00
+#
+name: AUTO
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 45 00 00 00
+#
+name: CD
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 45 00 00 00
+#
+name: DELAY V
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 47 00 00 00
+#
+name: SOURCE V
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 47 00 00 00
+#
+name: BASS EQ ^
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 48 00 00 00
+#
+name: DELAY ^
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 48 00 00 00
+#
+name: SIB
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 48 00 00 00
+#
+name: BASS +
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 48 00 00 00
+#
+name: AUX 2
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 49 00 00 00
+#
+name: INPUT CALIBRATE >
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 49 00 00 00
+#
+name: AUX
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 49 00 00 00
+#
+name: BASS EQ V
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4b 00 00 00
+#
+name: DELAY V
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4b 00 00 00
+#
+name: BYPASS
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4b 00 00 00
+#
+name: BASS -
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4b 00 00 00
+#
+name: CTR ON
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4c 00 00 00
+#
+name: CNTR ON
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4c 00 00 00
+#
+name: BOOST
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4f 00 00 00
+#
+name: CNTR+
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 4f 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 50 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 51 00 00 00
+#
+name: HI FREQ
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 53 00 00 00
+#
+name: PANEL LIGHTS
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 53 00 00 00
+#
+name: RE-EQ
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 53 00 00 00
+#
+name: BACK LEVEL REF
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 56 00 00 00
+#
+name: REF
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 56 00 00 00
+#
+name: MASTER VOLUME ^
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 58 00 00 00
+#
+name: MASTER LEVEL ^
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 58 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 58 00 00 00
+#
+name: BACK LEVEL V
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5a 00 00 00
+#
+name: REAR VOL-
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5a 00 00 00
+#
+name: SIBILANT
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5f 00 00 00
+#
+name: PAN ^
+type: parsed
+protocol: NEC1
+address: 84 84 00 00
+command: 5f 00 00 00

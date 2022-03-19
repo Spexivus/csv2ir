@@ -1,0 +1,80 @@
+Filetype: IR signals file
+Version: 1
+#
+name: cd_chg
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 03 00 00 00
+#
+name: A_Proc
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 06 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 07 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 09 00 00 00
+#
+name: KEY_CYCLEWINDOWS
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 0a 00 00 00
+#
+name: Band_Prog
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 0d 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 0e 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 0f 00 00 00
+#
+name: KEY_NEXT
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 12 00 00 00
+#
+name: Back_Track
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 13 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 14 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 15 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: 86 86 00 00
+command: 16 00 00 00

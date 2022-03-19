@@ -1,0 +1,128 @@
+Filetype: IR signals file
+Version: 1
+#
+name: OFF
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: PRESET
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 03 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: TEST
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: STEREO
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: HY-SON
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: VIDEO A
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: VIDEO B
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: RGB
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: ENHANCE +
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 24 00 00 00
+#
+name: ENHANCE -
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: TINT +
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 28 00 00 00
+#
+name: TINT -
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 29 00 00 00
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 2a 00 00 00
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 2b 00 00 00
+#
+name: COLOR +
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 2c 00 00 00
+#
+name: COLOR -
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 2d 00 00 00
+#
+name: VOL +
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 2e 00 00 00
+#
+name: VOL -
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 2f 00 00 00
+#
+name: CONTRAST +
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 30 00 00 00
+#
+name: CONTRAST -
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 31 00 00 00

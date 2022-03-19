@@ -1,0 +1,332 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_0
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 03 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 04 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 07 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: KEY_102ND
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: pp
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0e 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0f 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: bright+
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: bright-
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: color+
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: color-
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: KEY_EXIT
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 20 00 00 00
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 21 00 00 00
+#
+name: tvtxt_freeze
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 29 00 00 00
+#
+name: KEY_TIME
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2a 00 00 00
+#
+name: tvtxt_large
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2b 00 00 00
+#
+name: ?
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2c 00 00 00
+#
+name: tvtxt_background
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2d 00 00 00
+#
+name: teletext+tv
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2e 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 32 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: ext1
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: ext2
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: KEY_TEXT
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: KEY_TV
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 3f 00 00 00
+#
+name: blue+
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 4d 00 00 00
+#
+name: red-
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 4e 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 52 00 00 00
+#
+name: off
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 53 00 00 00
+#
+name: pip
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 58 00 00 00
+#
+name: pip_move
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 59 00 00 00
+#
+name: pip_switch
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 5a 00 00 00
+#
+name: pip_source
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 5f 00 00 00
+#
+name: pip_still
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 65 00 00 00
+#
+name: pip_prog+
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 66 00 00 00
+#
+name: pip_prog-
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 67 00 00 00
+#
+name: KEY_RED
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 6b 00 00 00
+#
+name: KEY_GREEN
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 6c 00 00 00
+#
+name: KEY_YELLOW
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 6d 00 00 00
+#
+name: KEY_BLUE
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 6e 00 00 00
+#
+name: tvtxt_index
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 6f 00 00 00
+#
+name: KEY_SAT
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 76 00 00 00

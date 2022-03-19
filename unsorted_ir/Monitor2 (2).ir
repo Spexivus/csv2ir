@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SKIP SEARCH
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 03 00 00 00
+#
+name: AUDIO TV/VCR
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 05 00 00 00
+#
+name: AUDIO VCR/TV
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 05 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 17 00 00 00

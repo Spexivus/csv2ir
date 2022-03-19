@@ -1,0 +1,62 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CD DISC
+type: parsed
+protocol: NEC1
+address: 67 67 00 00
+command: 8f 00 00 00
+#
+name: CD DISC SCAN
+type: parsed
+protocol: NEC1
+address: 67 67 00 00
+command: 93 00 00 00
+#
+name: CD <<
+type: parsed
+protocol: NEC1
+address: 67 67 00 00
+command: c1 00 00 00
+#
+name: CD <
+type: parsed
+protocol: NEC1
+address: 67 67 00 00
+command: c2 00 00 00
+#
+name: CD STOP []
+type: parsed
+protocol: NEC1
+address: 67 67 00 00
+command: c5 00 00 00
+#
+name: CD PLAY >
+type: parsed
+protocol: NEC1
+address: 67 67 00 00
+command: c6 00 00 00
+#
+name: CD >>
+type: parsed
+protocol: NEC1
+address: 67 67 00 00
+command: c7 00 00 00
+#
+name: CD >
+type: parsed
+protocol: NEC1
+address: 67 67 00 00
+command: c8 00 00 00
+#
+name: CD PAUSE 
+type: parsed
+protocol: NEC1
+address: 67 67 00 00
+command: cb 00 00 00
+#
+name: CD RANDOM
+type: parsed
+protocol: NEC1
+address: 67 67 00 00
+command: db 00 00 00

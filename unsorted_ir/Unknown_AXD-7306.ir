@@ -1,0 +1,134 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 0a 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 0b 00 00 00
+#
+name: KEY_TAPE
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 17 00 00 00
+#
+name: KEY_SLEEP
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 1c 00 00 00
+#
+name: KEY_CD
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 44 00 00 00
+#
+name: KEY_AUX
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 4c 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 72 00 00 00
+#
+name: KEY_CANCEL
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 73 00 00 00
+#
+name: set
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 74 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 90 00 00 00
+#
+name: KEY_NEXT
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 91 00 00 00
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 92 00 00 00
+#
+name: KEY_FORWARD
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 93 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 94 00 00 00
+#
+name: disp
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: 9d 00 00 00
+#
+name: KEY_RADIO
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: a0 00 00 00
+#
+name: am
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: a0 00 00 00
+#
+name: KEY_KPMINUS
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: a0 00 00 00
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: a0 00 00 00
+#
+name: md
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: a2 00 00 00
+#
+name: timer
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: ce 00 00 00
+#
+name: sound
+type: parsed
+protocol: NEC
+address: a6 a6 00 00
+command: da 00 00 00

@@ -1,0 +1,152 @@
+Filetype: IR signals file
+Version: 1
+#
+name: but_8
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 04 00 00 00
+#
+name: but_9
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 05 00 00 00
+#
+name: tv/video
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 0b 00 00 00
+#
+name: but_10
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 0c 00 00 00
+#
+name: but_1
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 0d 00 00 00
+#
+name: but_2
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 0e 00 00 00
+#
+name: but_3
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 0f 00 00 00
+#
+name: KEY_AGAIN
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 10 00 00 00
+#
+name: timer
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 11 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 12 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 15 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 17 00 00 00
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 18 00 00 00
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 19 00 00 00
+#
+name: but_4
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 1c 00 00 00
+#
+name: but_5
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 1d 00 00 00
+#
+name: but_6
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 1e 00 00 00
+#
+name: but_7
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 1f 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 44 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 53 00 00 00
+#
+name: krasn
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 5b 00 00 00
+#
+name: zelen
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 5c 00 00 00
+#
+name: jolt
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 5d 00 00 00
+#
+name: zelen
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 5e 00 00 00

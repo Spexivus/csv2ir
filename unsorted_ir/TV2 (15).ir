@@ -1,0 +1,1202 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 04 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 04 00 00 00
+#
+name: TV 8 (VWX)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 04 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 05 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 05 00 00 00
+#
+name: TV 9 (YZ)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 05 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 06 00 00 00
+#
+name: 100/ENT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 06 00 00 00
+#
+name: E
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 06 00 00 00
+#
+name: 100
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 06 00 00 00
+#
+name: ENTER/100
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 06 00 00 00
+#
+name: PIP SURF
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 07 00 00 00
+#
+name: PIP CHANNEL
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 07 00 00 00
+#
+name: SURF
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 07 00 00 00
+#
+name: PIP CH
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 07 00 00 00
+#
+name: ANT.
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 07 00 00 00
+#
+name: AVX
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: ANT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: INPUT NEXT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: INPUTS
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: ASPECT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: INPUT SOURCE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: TV INPUT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: INPUT SELECT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 09 00 00 00
+#
+name: LAST CHAN
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0a 00 00 00
+#
+name: LAST CHANNEL
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0a 00 00 00
+#
+name: LAST CH
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0a 00 00 00
+#
+name: LAST
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0a 00 00 00
+#
+name: LST-CH
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0a 00 00 00
+#
+name: PREV. CHANNEL
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0a 00 00 00
+#
+name: TV LAST CH
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0a 00 00 00
+#
+name: JUMP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0a 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0b 00 00 00
+#
+name: TV MUTE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0b 00 00 00
+#
+name: 0
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0c 00 00 00
+#
+name: TV 0 (&!/)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0c 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0d 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 0d 00 00 00
+#
+name: TV 1 (ABC)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0d 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0e 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 0e 00 00 00
+#
+name: TV 2 (DEF)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0e 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0f 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 0f 00 00 00
+#
+name: TV 3 (GHI)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 0f 00 00 00
+#
+name: RECALL
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 10 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 10 00 00 00
+#
+name: INFO
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 10 00 00 00
+#
+name: STATUS
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 10 00 00 00
+#
+name: USER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 10 00 00 00
+#
+name: SLEEP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 11 00 00 00
+#
+name: SLEEP (-)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 11 00 00 00
+#
+name: --
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 11 00 00 00
+#
+name: DASH
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 11 00 00 00
+#
+name: C.S.
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 11 00 00 00
+#
+name: OFF-TIMER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 11 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 12 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 12 00 00 00
+#
+name: VOL UP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 12 00 00 00
+#
+name: VOLUME ^
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 12 00 00 00
+#
+name: TV VOL ^
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 12 00 00 00
+#
+name: INPUT RGB2
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 13 00 00 00
+#
+name: A/V NET
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 14 00 00 00
+#
+name: INPUT A/V NET
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 14 00 00 00
+#
+name: ANT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 14 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 15 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 15 00 00 00
+#
+name: VOL DOWN
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 15 00 00 00
+#
+name: VOLUME V
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 15 00 00 00
+#
+name: TV VOL V
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 15 00 00 00
+#
+name: INPUT AV 2
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 16 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 17 00 00 00
+#
+name: TV POWER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 17 00 00 00
+#
+name: POWER TOGGLE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 17 00 00 00
+#
+name: OFF
+type: parsed
+protocol: NECext
+address: 50 50 00 00
+command: 17 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 18 00 00 00
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 18 00 00 00
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 18 00 00 00
+#
+name: CHANNEL-
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 18 00 00 00
+#
+name: CHAN DOWN
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 18 00 00 00
+#
+name: CH V
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 18 00 00 00
+#
+name: ARROW DOWN
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 18 00 00 00
+#
+name: TV CH V
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 18 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 19 00 00 00
+#
+name: CHANNEL UP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 19 00 00 00
+#
+name: CHANNEL+
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 19 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 19 00 00 00
+#
+name: CHAN UP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 19 00 00 00
+#
+name: CH ^
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 19 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 19 00 00 00
+#
+name: TV CH ^
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 19 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 1c 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 1c 00 00 00
+#
+name: TV 4 (JKL)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 1c 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 1d 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 1d 00 00 00
+#
+name: TV 5 (MNO)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 1d 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 1e 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 1e 00 00 00
+#
+name: TV 6 (PQR)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 1e 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 1f 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 1f 00 00 00
+#
+name: TV 7 (STU)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 1f 00 00 00
+#
+name: INPUT VIDEO 6
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 20 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 21 00 00 00
+#
+name: INPUT 1
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 21 00 00 00
+#
+name: VID 1  SAT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 21 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 22 00 00 00
+#
+name: INPUT 2
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 22 00 00 00
+#
+name: VID 2  DVD
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 22 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: NECext
+address: 50 50 00 00
+command: 22 00 00 00
+#
+name: VIDEO 3
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 23 00 00 00
+#
+name: INPUT 3
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 23 00 00 00
+#
+name: VID 3  REC.
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 23 00 00 00
+#
+name: VIDEO 4
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 24 00 00 00
+#
+name: INPUT 4
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 24 00 00 00
+#
+name: VID 4
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 24 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 28 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 29 00 00 00
+#
+name: INPUT VIDEO 5
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 2c 00 00 00
+#
+name: INPUT VIDEO 1
+type: parsed
+protocol: NECext
+address: 50 50 00 00
+command: 2d 00 00 00
+#
+name: CURSOR SELECT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 2e 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 2e 00 00 00
+#
+name: INPUT VIDEO 3
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 2f 00 00 00
+#
+name: MENU ENTER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 33 00 00 00
+#
+name: TV SELECT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 33 00 00 00
+#
+name: TV/RGB
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 35 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 35 00 00 00
+#
+name: FAV CH
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 38 00 00 00
+#
+name: VIDEO
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 3c 00 00 00
+#
+name: MODE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 3c 00 00 00
+#
+name: HELP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 3c 00 00 00
+#
+name: VIDEO 5
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 3d 00 00 00
+#
+name: VID 5
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 3d 00 00 00
+#
+name: VIDEO 5
+type: parsed
+protocol: NECext
+address: 50 50 00 00
+command: 3d 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 3e 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 3f 00 00 00
+#
+name: INPUT VIDEO 4
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 44 00 00 00
+#
+name: REWIND
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 45 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 46 00 00 00
+#
+name: FF
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 47 00 00 00
+#
+name: INPUT AV 3
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 4f 00 00 00
+#
+name: INPUT VIDEO 2
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 51 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 51 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 53 00 00 00
+#
+name: TV MENU
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 53 00 00 00
+#
+name: PIP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 58 00 00 00
+#
+name: DTV/SAT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 58 00 00 00
+#
+name: PIP SWAP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 59 00 00 00
+#
+name: SWAP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 59 00 00 00
+#
+name: PIP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 59 00 00 00
+#
+name: PIP MODE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5a 00 00 00
+#
+name: PIP MODE
+type: parsed
+protocol: NEC
+address: 50 50 00 00
+command: 5a 00 00 00
+#
+name: SWAP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5a 00 00 00
+#
+name: MOVE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5a 00 00 00
+#
+name: PICTURE RESET
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5b 00 00 00
+#
+name: PICTURE +
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5c 00 00 00
+#
+name: + (PLUS)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5c 00 00 00
+#
+name: PICTURE -
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5d 00 00 00
+#
+name: - (MINUS)
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5d 00 00 00
+#
+name: PIP INPUT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5e 00 00 00
+#
+name: DAY/NIGHT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5e 00 00 00
+#
+name: P.MODE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5e 00 00 00
+#
+name: PICTURE MODE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5e 00 00 00
+#
+name: SOUND MODE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 5f 00 00 00
+#
+name: PIP FREEZE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 61 00 00 00
+#
+name: FREEZE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 61 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 61 00 00 00
+#
+name: MOVE
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 61 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 64 00 00 00
+#
+name: ASPECT 16:9 STANDARD
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 65 00 00 00
+#
+name: ASPECT 16:9 ZOOM
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 66 00 00 00
+#
+name: ASPECT 4:3 STANDARD
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 67 00 00 00
+#
+name: ASPECT 4:3 EXPAND
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 68 00 00 00
+#
+name: ASPECT 4:3 ZOOM1
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 69 00 00 00
+#
+name: ASPECT 4:3 ZOOM2
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 6a 00 00 00
+#
+name: ASPECT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 6f 00 00 00
+#
+name: TV ASPECT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 6f 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 70 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 70 00 00 00
+#
+name: TV ^
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 70 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 71 00 00 00
+#
+name: ARROW DOWN
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 71 00 00 00
+#
+name: TV V
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 71 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 72 00 00 00
+#
+name: TV >
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 72 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 73 00 00 00
+#
+name: ARROW LEFT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 73 00 00 00
+#
+name: TV <
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 73 00 00 00
+#
+name: DAY
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 74 00 00 00
+#
+name: NIGHT
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 75 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: 76 00 00 00
+#
+name: CHANNEL / PAGE +
+type: parsed
+protocol: NECext
+address: 50 50 00 00
+command: a0 00 00 00
+#
+name: INPUT RGB1
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: a1 00 00 00
+#
+name: SWIVEL
+type: parsed
+protocol: NEC1
+address: 50 50 00 00
+command: ac 00 00 00
+#
+name: CHANNEL / PAGE -
+type: parsed
+protocol: NECext
+address: 50 50 00 00
+command: b0 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NECext
+address: 50 50 00 00
+command: c0 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NECext
+address: 50 50 00 00
+command: d0 00 00 00

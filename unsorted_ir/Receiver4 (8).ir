@@ -1,0 +1,1130 @@
+Filetype: IR signals file
+Version: 1
+#
+name: (TUNER-1) 0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 00 00 00 00
+#
+name: TUNER1-0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 00 00 00 00
+#
+name: 0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 00 00 00 00
+#
+name: [TUNER-1] 0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 00 00 00 00
+#
+name: 0 TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 00 00 00 00
+#
+name: TUNER - 0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 00 00 00 00
+#
+name: (TUNER-1) 1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 01 00 00 00
+#
+name: TUNER1-1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 01 00 00 00
+#
+name: 1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 01 00 00 00
+#
+name: [TUNER-1] 1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 01 00 00 00
+#
+name: 1 TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 01 00 00 00
+#
+name: TUNER - 1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 01 00 00 00
+#
+name: 0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 01 00 00 00
+#
+name: 4
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 01 00 00 00
+#
+name: (TUNER-1) 2
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 02 00 00 00
+#
+name: TUNER1-2
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 02 00 00 00
+#
+name: 2
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 02 00 00 00
+#
+name: [TUNER-1] 2
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 02 00 00 00
+#
+name: 2TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 02 00 00 00
+#
+name: TUNER - 2
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 02 00 00 00
+#
+name: (TUNER-1) 3
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 03 00 00 00
+#
+name: TUNER1-3
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 03 00 00 00
+#
+name: 3
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 03 00 00 00
+#
+name: [TUNER-1] 3
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 03 00 00 00
+#
+name: 3 TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 03 00 00 00
+#
+name: TUNER - 3
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 03 00 00 00
+#
+name: (TUNER-1) 4
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 04 00 00 00
+#
+name: TUNER1-4
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 04 00 00 00
+#
+name: 4
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 04 00 00 00
+#
+name: [TUNER-1] 4
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 04 00 00 00
+#
+name: 4 TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 04 00 00 00
+#
+name: TUNER - 4
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 04 00 00 00
+#
+name: (TUNER-1) 5
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 05 00 00 00
+#
+name: TUNER1-5
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 05 00 00 00
+#
+name: 5
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 05 00 00 00
+#
+name: [TUNER-1] 5
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 05 00 00 00
+#
+name: 5 TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 05 00 00 00
+#
+name: TUNER - 5
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 05 00 00 00
+#
+name: (TUNER-1) 6
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 06 00 00 00
+#
+name: TUNER1-6
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 06 00 00 00
+#
+name: 6
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 06 00 00 00
+#
+name: [TUNER-1] 6
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 06 00 00 00
+#
+name: 6 TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 06 00 00 00
+#
+name: TUNER - 6
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 06 00 00 00
+#
+name: (TUNER-1) 7
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 07 00 00 00
+#
+name: TUNER1-7
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 07 00 00 00
+#
+name: 7
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 07 00 00 00
+#
+name: [TUNER-1] 7
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 07 00 00 00
+#
+name: 7 TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 07 00 00 00
+#
+name: TUNER - 7
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 07 00 00 00
+#
+name: (TUNER-1) 8
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 08 00 00 00
+#
+name: 8
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 08 00 00 00
+#
+name: TUNER1-8
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 08 00 00 00
+#
+name: [TUNER-1] 8
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 08 00 00 00
+#
+name: 8 TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 08 00 00 00
+#
+name: TUNER - 8
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 08 00 00 00
+#
+name: (TUNER-1) 9
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 09 00 00 00
+#
+name: TUNER1-9
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 09 00 00 00
+#
+name: 9
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 09 00 00 00
+#
+name: [TUNER-1] 9
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 09 00 00 00
+#
+name: 9 TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 09 00 00 00
+#
+name: TUNER - 9
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 09 00 00 00
+#
+name: (TUNER-1)FRQ. DIRECT
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0b 00 00 00
+#
+name: TUNER1 FREQ. DIRECT
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0b 00 00 00
+#
+name: DIRECT TUNE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0b 00 00 00
+#
+name: [TUNER-1] F-DIRECT
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0b 00 00 00
+#
+name: FREQ. DIRECT (TUNER)
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0b 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0b 00 00 00
+#
+name: F/P
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0b 00 00 00
+#
+name: FREQ. DIRECT
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0b 00 00 00
+#
+name: SOURCE ON/OFF
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0c 00 00 00
+#
+name: POWER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0c 00 00 00
+#
+name: DISPLAY MODE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0f 00 00 00
+#
+name: T.DISP / PAUSE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0f 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0f 00 00 00
+#
+name: TUNER: DISP
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 0f 00 00 00
+#
+name: (TUNER-1) TUNING +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: TUNE>>
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: TUNER1 FREQ. TUNE +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: TUNE +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: TUNE UP
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: [TUNER-1] FREQ+
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: TUNING +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: TUNER >> TUNING +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: SCAN +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: TUNER: FREQUENCY +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: TUNER FREQUENCY +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: SEEK UP
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: TUNING UP
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1e 00 00 00
+#
+name: (TUNER-1) TUNING -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: F0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: TUNE<<
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: TUNER1 FREQ. TUNE -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: TUNE -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: TUNE DOWN
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: [TUNER-1] FREQ -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: TUNING -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: TUNER <<TUNING -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: SCAN -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: TUNER: FREQUENCY -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: TUNER FREQUENCY -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: SEEK DOWN
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: TUNING DOWN
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1f 00 00 00
+#
+name: (TUNER-1) PRE UP+
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: PRESET ++
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: CHANNEL>>
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: TUNER1 PRESET +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: CHANNEL UP
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: CH+
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: [TUNER-1]PRESET+
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: PRESET +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: TUNER >>I PRESET +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: TUNER - PRESET+
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: FM/AM +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: TUNER: PRESET +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: TUNER PRESET +
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: SKIP UP
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: PRESET UP
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: (TUNER-1) PRE DOWN-
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: PRESET --
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: CHANNEL<<
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: TUNER1 PRESET -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: [TUNER-1]PRESET -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: PRESET -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: TUNER I<< PRESET -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: TUNER - PRESET-
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: TUNER: PRESET -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: TUNER PRESET -
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: SKIP DOWN
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: PRESET DOWN
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: (TUNER-1) T-MODE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 25 00 00 00
+#
+name: TUNER1 T-MODE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 25 00 00 00
+#
+name: [TUNER-1] T-MODE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 25 00 00 00
+#
+name: TUNER MODE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 25 00 00 00
+#
+name: T.MODE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 25 00 00 00
+#
+name: TUNER: FM MODE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 25 00 00 00
+#
+name: TUNER: T-MODE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 25 00 00 00
+#
+name: FM MODE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 25 00 00 00
+#
+name: MODE
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 25 00 00 00
+#
+name: STEREO/MONO
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 25 00 00 00
+#
+name: (TUNER-1) MEMO
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 29 00 00 00
+#
+name: TUNER1 MEMO
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 29 00 00 00
+#
+name: MEMO
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 29 00 00 00
+#
+name: [TUNER-1] MEMO
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 29 00 00 00
+#
+name: MEMORY (TUNER)
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 29 00 00 00
+#
+name: MEMORY
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 29 00 00 00
+#
+name: (TUNER-1) PRE SCAN
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2b 00 00 00
+#
+name: TUNER1 PRESET SCAN
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2b 00 00 00
+#
+name: PRESET SCAN
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2b 00 00 00
+#
+name: P.SCAN/V-OFF
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2b 00 00 00
+#
+name: PRESET SCAN TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2b 00 00 00
+#
+name: TUNER: PRESET SCAN
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2b 00 00 00
+#
+name: SCAN
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2b 00 00 00
+#
+name: DWR
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2c 00 00 00
+#
+name: TUNER: DWR
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2c 00 00 00
+#
+name: (TUNER-1) FM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2d 00 00 00
+#
+name: TUNER1 FM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2d 00 00 00
+#
+name: FM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2d 00 00 00
+#
+name: [TUNER-1] FM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2d 00 00 00
+#
+name: INPUT: FM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2d 00 00 00
+#
+name: (TUNER-1) AM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2e 00 00 00
+#
+name: TUNER1 AM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2e 00 00 00
+#
+name: AM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2e 00 00 00
+#
+name: [TUNER-1] AM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2e 00 00 00
+#
+name: INPUT: AM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2e 00 00 00
+#
+name: LW
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2f 00 00 00
+#
+name: TUNER: LW
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2f 00 00 00
+#
+name: (TUNER-1) CLEAR
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3a 00 00 00
+#
+name: TUNER1 CLEAR
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3a 00 00 00
+#
+name: [TUNER-1] CLEAR
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3a 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3a 00 00 00
+#
+name: BAND
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: LINE 1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: TUNER-1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: AM/FM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: TUNER - 1 (LINE 1)
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: FM/AM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: TUNER - AM/FM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: INPUT - TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: INPUT: TUNER
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: TUNER: BAND
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3f 00 00 00
+#
+name: PRESET INFO
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 52 00 00 00
+#
+name: TUNER: PRESET INFO
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 52 00 00 00
+#
+name: PTY
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 78 00 00 00
+#
+name: TUNER: PTY
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 78 00 00 00
+#
+name: TUNER: STM
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 79 00 00 00

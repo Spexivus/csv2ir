@@ -1,0 +1,122 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VOLUME +
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 00 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 01 00 00 00
+#
+name: LOW PASS +
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 02 00 00 00
+#
+name: LOW PASS -
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 03 00 00 00
+#
+name: PHASE +
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 04 00 00 00
+#
+name: PHASE -
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 05 00 00 00
+#
+name: ADAPTIVE ROOM CORR
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 06 00 00 00
+#
+name: FLAT
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 10 00 00 00
+#
+name: PUNCH
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 11 00 00 00
+#
+name: DEPTH
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 12 00 00 00
+#
+name: USER 1 RECALL
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 1b 00 00 00
+#
+name: USER 2 RECALL
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 1c 00 00 00
+#
+name: MUSIC RECALL
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 20 00 00 00
+#
+name: MOVIE RECALL
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 21 00 00 00
+#
+name: NIGHT RECALL
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 22 00 00 00
+#
+name: USER 1 SAVE
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 23 00 00 00
+#
+name: USER 2 SAVE
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 24 00 00 00
+#
+name: MUSIC SAVE
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 28 00 00 00
+#
+name: MOVIE SAVE
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 29 00 00 00
+#
+name: NIGHT SAVE
+type: parsed
+protocol: NEC1
+address: 11 11 00 00
+command: 2a 00 00 00

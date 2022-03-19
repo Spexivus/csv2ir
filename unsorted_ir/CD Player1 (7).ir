@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: INPUT 1
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 20 00 00 00
+#
+name: INPUT 2
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 21 00 00 00
+#
+name: INPUT 3
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 22 00 00 00
+#
+name: INPUT 4
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 23 00 00 00
+#
+name: INPUT 5
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 24 00 00 00
+#
+name: INPUT 6
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: OPERATE
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 2a 00 00 00
+#
+name: STANDBY
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 2b 00 00 00

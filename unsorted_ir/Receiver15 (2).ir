@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: RCA-38(Old)
+address: 07 07 00 00
+command: 3a 00 00 00

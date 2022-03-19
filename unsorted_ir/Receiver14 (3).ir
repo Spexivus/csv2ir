@@ -1,0 +1,80 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VCR2 REC
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 37 00 00 00
+#
+name: VCR 2
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00
+#
+name: DSS
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00
+#
+name: PHONO
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00
+#
+name: VCR 2 (DSS)
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00
+#
+name: DSS/VCR2
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00
+#
+name: VCR2
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00
+#
+name: VCR2/DSS
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00
+#
+name: DSS INPUT
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00
+#
+name: VCR 2/DSS
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00
+#
+name: INPUT - DSS
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00
+#
+name: INPUT: DSS
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00
+#
+name: INPUT: DSS/MD
+type: parsed
+protocol: RC5
+address: 06 06 00 00
+command: 3f 00 00 00

@@ -1,0 +1,56 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VISUAL I/O
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 15 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2e 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2f 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 42 00 00 00
+#
+name: ARROW DOWN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 43 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 4d 00 00 00
+#
+name: ENTER/OK
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 51 00 00 00
+#
+name: ARROW RIGHT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 61 00 00 00
+#
+name: ARROW LEFT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 62 00 00 00

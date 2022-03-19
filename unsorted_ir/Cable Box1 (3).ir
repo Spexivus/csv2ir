@@ -1,0 +1,1580 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: 
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: ON DEMAND
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: 1
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: ON DEMAND
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: C/PPV
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: C
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: B
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: PPV / C
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: 3
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 03 00 00 00
+#
+name: 4
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 04 00 00 00
+#
+name: 4
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 04 00 00 00
+#
+name: 5
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: 5
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: 6
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: 6
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: 7
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 07 00 00 00
+#
+name: 7
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 07 00 00 00
+#
+name: 8
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: 8
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: 9
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: 9
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: ON DEMAND
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: CABLE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: VCR/DVD/VOD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: POWER
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: ALL ON
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: CODE1 POWER OFF
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: CODE1 POWER ON
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: CODE3 POWER OFF
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: CODE3 POWER ON
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: CODE4 POWER OFF
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: CODE4 POWER ON
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: MUSIC
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: POWER
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: NEW CODE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: CHANNEL UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: CHAN UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: CH+
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: CHAN DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: CH-
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0e 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0f 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: ENTER/MUSIC
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: #/ENTER
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: MUSIC
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: OK/SELECT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: MENU ENTER
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: 
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: OK SELECT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: CURSOR ENTER
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: OK
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: /ENTER
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: C OK
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: MENU-SELECT/OK
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: CURSOR SELECT OK
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: CURSER OK
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: LAST
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: LAST CH.
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: LAST CH
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: LAST/PREVIOUS
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: PREVIOUS CHANNEL
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: LAST CHANNEL
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: PREV CHANNEL
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: BYPASS- TV/VCR
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: TV/VCR INPUT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: TV/VCR
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: BYPASS
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: FAV
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: FAV
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: FAVORITES
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: FAVORITE CHANNEL
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: FAVORITE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: LOCK
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: A/LOCK
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: A
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: A LOCK
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: A (LOCK)
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: LOCKOUT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: LOCK / A
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: A
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 17 00 00 00
+#
+name: PPV
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: ON DEMAND
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: P-CHANNEL-
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: VOD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: MENU
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 19 00 00 00
+#
+name: SETTINGS
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 19 00 00 00
+#
+name: VOD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: VOD2
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: ON DEMAND
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: P-CHANNEL+
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: ONDEMAND
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1b 00 00 00
+#
+name: STOP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: FAST FOWARD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: FF
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: FAST FORWARD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: FWD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: >>
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: FAST-FORWARD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: FAST FWD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: FFWD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: FORWARD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: SHUTTLE FORWARD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: FWD >>
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: FFD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: REWIND
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: REW
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: REVERSE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: <<
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: REV
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: SHUTTLE REVERSE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: BACK <<
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: REW
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1f 00 00 00
+#
+name: PAUSE 
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 1f 00 00 00
+#
+name: PIP ON/OFF
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 22 00 00 00
+#
+name: SWAP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 23 00 00 00
+#
+name: PIP SWAP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 23 00 00 00
+#
+name: MOVE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 24 00 00 00
+#
+name: PIP MOVE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 24 00 00 00
+#
+name: PIP CH+
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: PIP +
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: PIP CH-
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 26 00 00 00
+#
+name: PIP -
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 26 00 00 00
+#
+name: B
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 27 00 00 00
+#
+name: C
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 28 00 00 00
+#
+name: C
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 28 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 28 00 00 00
+#
+name: D
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 29 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 30 00 00 00
+#
+name: TV GUIDE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 30 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 31 00 00 00
+#
+name: REC
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 31 00 00 00
+#
+name: HELP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 32 00 00 00
+#
+name: INFO
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 33 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: MENU UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: UP ARROW
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: C UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: C UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: MENU-UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: CURSER UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: ARROW DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: MENU DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: CURSOR DN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: DOWN ARROW
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: C DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: ARROWN DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: MENU-DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: CURSER DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: DN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: ARROW LEFT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: MENU LEFT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: CURSOR LF
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: LEFT ARROW
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: C LEFT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: MENU-LEFT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: CURSER LEFT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: <
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: ARROW RIGHT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: MENU RIGHT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: CURSOR RT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: RIGHT ARROW
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: C RIGHT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: C RIGHT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: MENU-RIGHT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: CURSER RIGHT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: >
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: DAY -
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: DAY +
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: >
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: DAY+
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: C
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: C DAY +
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: C (DAY +)
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: DAY UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: DAY>
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: DAY FOR
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: DAY +
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: STOP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: DAY -
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: DAY-
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: DAY =
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: B
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: B DAY -
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: B (DAY -)
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: DAY DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: <DAY
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: DAT REV
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: PAGE +
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3a 00 00 00
+#
+name: PAGE /\
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3a 00 00 00
+#
+name: PAGE UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3a 00 00 00
+#
+name: PAGE+
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3a 00 00 00
+#
+name: PAGE -
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3a 00 00 00
+#
+name: PG UP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3a 00 00 00
+#
+name: PAGE -
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3b 00 00 00
+#
+name: PAGE \/
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3b 00 00 00
+#
+name: PAGE --
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3b 00 00 00
+#
+name: PAGE DN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3b 00 00 00
+#
+name: PAGE-
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3b 00 00 00
+#
+name: PAGE +
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3b 00 00 00
+#
+name: PAGE DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3b 00 00 00
+#
+name: PG DOWN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3b 00 00 00
+#
+name: REPLAY
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: RE-PLAY
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: BACKUP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: JUMP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: BACK
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: INSTANT REPLAY
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: MUSIC
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: PIPTG
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: PPV
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: PREVIOUS
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: LIST
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3d 00 00 00
+#
+name: MY DVR
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3d 00 00 00
+#
+name: P-SWP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3d 00 00 00
+#
+name: DVR
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3d 00 00 00
+#
+name: DVR LIST
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3d 00 00 00
+#
+name: LIVE TV
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3e 00 00 00
+#
+name: LIVE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3e 00 00 00
+#
+name: LOCKOUT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3e 00 00 00
+#
+name: LV-TV
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3e 00 00 00
+#
+name: P-MOVE
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3e 00 00 00
+#
+name: FIOS TV
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3e 00 00 00
+#
+name: SKIP30
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3f 00 00 00
+#
+name: 30 SECOND SKIP
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3f 00 00 00
+#
+name: SKIP FORWARD
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3f 00 00 00
+#
+name: NEXT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 3f 00 00 00
+#
+name: ASPECT
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 40 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 40 00 00 00
+#
+name: HD ZOOM
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 40 00 00 00
+#
+name: *
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 40 00 00 00
+#
+name: HD ZOOM ENTER
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 40 00 00 00
+#
+name: OPTIONS
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 42 00 00 00
+#
+name: WIDGETS
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 43 00 00 00
+#
+name: DVD
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 4f 00 00 00

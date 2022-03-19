@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: f0 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NECext
+address: 82 82 00 00
+command: f1 00 00 00
+#
+name: REWIND
+type: parsed
+protocol: NEC1
+address: 82 82 00 00
+command: f2 00 00 00
+#
+name: FAST FOWARD
+type: parsed
+protocol: NECext
+address: 82 82 00 00
+command: f3 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NECext
+address: 82 82 00 00
+command: f4 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: NECext
+address: 82 82 00 00
+command: f5 00 00 00
+#
+name: SCROLL FOWARD
+type: parsed
+protocol: NECext
+address: 82 82 00 00
+command: f6 00 00 00
+#
+name: SCROLL BACK
+type: parsed
+protocol: NECext
+address: 82 82 00 00
+command: f7 00 00 00

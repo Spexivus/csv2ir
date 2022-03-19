@@ -1,0 +1,212 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_0
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 00 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 01 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 02 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 03 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 04 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 05 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 06 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 07 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 08 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 09 00 00 00
+#
+name: CannelTracking+
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 0a 00 00 00
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 0b 00 00 00
+#
+name: TimerRec
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 0d 00 00 00
+#
+name: AudioSelect
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 0e 00 00 00
+#
+name: TV/VCR
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 12 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 13 00 00 00
+#
+name: Index
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 14 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 15 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 16 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 17 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 18 00 00 00
+#
+name: FastReturn
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 19 00 00 00
+#
+name: Pause/Still
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 1a 00 00 00
+#
+name: ShowView/Program
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 1d 00 00 00
+#
+name: SpeedSP/LP
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 1e 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 45 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 47 00 00 00
+#
+name: KEY_CANCEL
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 4a 00 00 00
+#
+name: ZeroReturn
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 4b 00 00 00
+#
+name: CounterReset
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 4c 00 00 00
+#
+name: KEY_EJECTCD
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 4e 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 50 00 00 00
+#
+name: Clock/Counter
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 51 00 00 00
+#
+name: ATR
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 52 00 00 00
+#
+name: Call
+type: parsed
+protocol: NEC
+address: 80 80 00 00
+command: 5f 00 00 00

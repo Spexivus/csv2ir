@@ -1,0 +1,32 @@
+Filetype: IR signals file
+Version: 1
+#
+name: LD
+type: parsed
+protocol: RC5
+address: 0c 0c 00 00
+command: 3f 00 00 00
+#
+name: LASER DISC
+type: parsed
+protocol: RC5
+address: 0c 0c 00 00
+command: 3f 00 00 00
+#
+name: INPUT: LD
+type: parsed
+protocol: RC5
+address: 0c 0c 00 00
+command: 3f 00 00 00
+#
+name: LD DISC B/-
+type: parsed
+protocol: RC5
+address: 0c 0c 00 00
+command: 72 00 00 00
+#
+name: LD DISC +/A
+type: parsed
+protocol: RC5
+address: 0c 0c 00 00
+command: 73 00 00 00

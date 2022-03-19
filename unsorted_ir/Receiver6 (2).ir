@@ -1,0 +1,188 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SND F. CINEMA STUDIO
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 26 00 00 00
+#
+name: 2 CH SOUND
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 41 00 00 00
+#
+name: SOUND FIELD 2CH
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 41 00 00 00
+#
+name: 2 CHANNEL
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 41 00 00 00
+#
+name: AFD
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 47 00 00 00
+#
+name: SOUND FIELD A.F.D.
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 47 00 00 00
+#
+name: AUTO FORMAT DECODE
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 47 00 00 00
+#
+name: TEST TONE
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 4a 00 00 00
+#
+name: EQ/TONE
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 4c 00 00 00
+#
+name: EQ
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 4c 00 00 00
+#
+name: BASS BOOST
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 4d 00 00 00
+#
+name: REAR LEVEL +
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 4e 00 00 00
+#
+name: REAR +
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 4e 00 00 00
+#
+name: REAR LEVEL -
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 4f 00 00 00
+#
+name: REAR -
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 4f 00 00 00
+#
+name: CENTER LEVEL +
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 54 00 00 00
+#
+name: CENTER +
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 54 00 00 00
+#
+name: CENTER LEVEL -
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 55 00 00 00
+#
+name: CENTER -
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 55 00 00 00
+#
+name: MODE
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 6e 00 00 00
+#
+name: SOUND FIELD MODE
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 6e 00 00 00
+#
+name: MENU <
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 72 00 00 00
+#
+name: MENU >
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 73 00 00 00
+#
+name: -
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 74 00 00 00
+#
+name: +
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 75 00 00 00
+#
+name: CURSOR MODE
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 77 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 77 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 78 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 79 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 7a 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Sony15
+address: 90 90 00 00
+command: 7b 00 00 00

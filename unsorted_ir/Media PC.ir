@@ -1,0 +1,458 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0/ SPACE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 00 00 00 00
+#
+name: 0/SPACE B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 00 00 00 00
+#
+name: 1
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 01 00 00 00
+#
+name: 1 B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 01 00 00 00
+#
+name: 2/ABC
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 02 00 00 00
+#
+name: 2/ABC B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 02 00 00 00
+#
+name: 3/DEF
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 03 00 00 00
+#
+name: 3/DEF B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 03 00 00 00
+#
+name: 4/GHI
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 04 00 00 00
+#
+name: 4/GHI B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 04 00 00 00
+#
+name: 5/JKL
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 05 00 00 00
+#
+name: 5/JKL B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 05 00 00 00
+#
+name: 6/MNO
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 06 00 00 00
+#
+name: 6/MNO B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 06 00 00 00
+#
+name: 7/PQRS
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 07 00 00 00
+#
+name: 7/PQRS B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 07 00 00 00
+#
+name: 8/TUV
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 08 00 00 00
+#
+name: 8/TUV B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 08 00 00 00
+#
+name: 9/WXYZ
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 09 00 00 00
+#
+name: 9/WXYZ B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 09 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0a 00 00 00
+#
+name: CLEAR B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0a 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0b 00 00 00
+#
+name: ENTER B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0b 00 00 00
+#
+name: ON/STANDBY
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0c 00 00 00
+#
+name: ON/STANDBY B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0c 00 00 00
+#
+name: START/LOGO
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0d 00 00 00
+#
+name: START/LOGO B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0d 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0e 00 00 00
+#
+name: MUTE B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0e 00 00 00
+#
+name: MORE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0f 00 00 00
+#
+name: MORE B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0f 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 10 00 00 00
+#
+name: VOLUME + B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 10 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 11 00 00 00
+#
+name: VOLUME - B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 11 00 00 00
+#
+name: CHANNEL/PAGE +
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 12 00 00 00
+#
+name: CHANNEL/PAGE + B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 12 00 00 00
+#
+name: CHANNEL/PAGE -
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 13 00 00 00
+#
+name: CHANNEL/PAGE - B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 13 00 00 00
+#
+name: FORWARD
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 14 00 00 00
+#
+name: FORWARD B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 14 00 00 00
+#
+name: REWIND
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 15 00 00 00
+#
+name: REWIND B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 15 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 16 00 00 00
+#
+name: PLAY B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 16 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 17 00 00 00
+#
+name: RECORD B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 17 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 18 00 00 00
+#
+name: PAUSE B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 18 00 00 00
+#
+name: STOP
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 19 00 00 00
+#
+name: STOP B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 19 00 00 00
+#
+name: SKIP >L
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1a 00 00 00
+#
+name: SKIP >L B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1a 00 00 00
+#
+name: REPLAY L<
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1b 00 00 00
+#
+name: REPLAY L< B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1b 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1e 00 00 00
+#
+name: CURSOR UP B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1e 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1f 00 00 00
+#
+name: CURSOR DOWN B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1f 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 20 00 00 00
+#
+name: CURSOR LEFT B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 20 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 21 00 00 00
+#
+name: CURSOR RIGHT B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 21 00 00 00
+#
+name: CURSOR ENTER
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 22 00 00 00
+#
+name: CURSOR ENTER B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 22 00 00 00
+#
+name: BACK
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 23 00 00 00
+#
+name: BACK B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 23 00 00 00
+#
+name: DVD MENU
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 24 00 00 00
+#
+name: DVD MENU B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 24 00 00 00
+#
+name: LIVE TV
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 25 00 00 00
+#
+name: LIVE TV B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 25 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 26 00 00 00
+#
+name: GUIDE B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 26 00 00 00
+#
+name: RECORDED TV
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 48 00 00 00
+#
+name: RECORDED TV B
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 48 00 00 00

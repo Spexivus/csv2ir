@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 3d 00 00 00

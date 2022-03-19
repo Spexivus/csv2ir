@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SCAN <<
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 06 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 07 00 00 00
+#
+name: DISC SKIP
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 08 00 00 00
+#
+name: STOP
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: c9 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: cb 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: cb 00 00 00
+#
+name: REW
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: ce 00 00 00
+#
+name: FFWD
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: cf 00 00 00

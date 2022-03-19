@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SAT
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 00 00 00 00
+#
+name: AV
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 02 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 03 00 00 00
+#
+name: DVD
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 04 00 00 00
+#
+name: TAPE
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 05 00 00 00
+#
+name: VCR
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 06 00 00 00
+#
+name: CD
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 07 00 00 00
+#
+name: PVR/AUX
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 08 00 00 00
+#
+name: DVD-A
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 09 00 00 00
+#
+name: MUTE-TOGGLE
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 0d 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 10 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 11 00 00 00
+#
+name: ZONE 2 ON
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 2f 00 00 00
+#
+name: ZONE 2 OFF
+type: parsed
+protocol: RC5
+address: 13 13 00 00
+command: 30 00 00 00

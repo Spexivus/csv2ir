@@ -1,0 +1,134 @@
+Filetype: IR signals file
+Version: 1
+#
+name: OUTPUT MONITOR
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: 90 00 00 00
+#
+name: MONITOR 1
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: 91 00 00 00
+#
+name: MONITOR 2
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: 92 00 00 00
+#
+name: MONITOR 3
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: 93 00 00 00
+#
+name: MONITOR 4
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: 94 00 00 00
+#
+name: MONITOR 5
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: 95 00 00 00
+#
+name: MONITOR 6
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: 96 00 00 00
+#
+name: POWER
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: 97 00 00 00
+#
+name: MONITOR 7
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: 98 00 00 00
+#
+name: MONITOR OUT Y/C
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: 9b 00 00 00
+#
+name: SOURCE 1
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: a1 00 00 00
+#
+name: SOURCE 2
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: a2 00 00 00
+#
+name: SOURCE 3
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: a3 00 00 00
+#
+name: SOURCE 4
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: a4 00 00 00
+#
+name: SOURCE 5
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: a5 00 00 00
+#
+name: SOURCE 6
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: a6 00 00 00
+#
+name: SOURCE 7
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: a7 00 00 00
+#
+name: DUAL OPERATION
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: aa 00 00 00
+#
+name: KEY LOCK
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: ab 00 00 00
+#
+name: PROCESSOR VIDEO
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: ac 00 00 00
+#
+name: PROCESSOR AUDIO
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: ad 00 00 00
+#
+name: AUX
+type: parsed
+protocol: JVC
+address: f3 f3 00 00
+command: ae 00 00 00

@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ENTER
+type: parsed
+protocol: Mitsubishi
+address: 04 04 00 00
+command: 7f 00 00 00

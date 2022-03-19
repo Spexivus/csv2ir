@@ -1,0 +1,62 @@
+Filetype: IR signals file
+Version: 1
+#
+name: MUTE
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 0d 00 00 00
+#
+name: T_MUTE
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 0d 00 00 00
+#
+name: T_PROG+
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 20 00 00 00
+#
+name: PROG+
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 20 00 00 00
+#
+name: PROG-
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 21 00 00 00
+#
+name: T_PROG-
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 21 00 00 00
+#
+name: T_VOL-
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 41 00 00 00
+#
+name: VOL-
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 41 00 00 00
+#
+name: T_VOL+
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 42 00 00 00
+#
+name: VOL+
+type: parsed
+protocol: RC5
+address: 1c 1c 00 00
+command: 42 00 00 00

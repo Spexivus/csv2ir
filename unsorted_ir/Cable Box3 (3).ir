@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VOLUME +
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 1a 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 1b 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 1c 00 00 00

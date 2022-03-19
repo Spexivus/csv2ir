@@ -1,0 +1,1094 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 1
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 00 00 00 00
+#
+name: 2
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 01 00 00 00
+#
+name: 3
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 02 00 00 00
+#
+name: 4
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 03 00 00 00
+#
+name: 5
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 04 00 00 00
+#
+name: 6
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 05 00 00 00
+#
+name: 7
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 06 00 00 00
+#
+name: 8
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 07 00 00 00
+#
+name: 9
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 08 00 00 00
+#
+name: 0
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 09 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 0b 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 10 00 00 00
+#
+name: CHANNEL UP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 10 00 00 00
+#
+name: CH +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 10 00 00 00
+#
+name: CHNL +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 10 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 10 00 00 00
+#
+name: CH+
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 10 00 00 00
+#
+name: CH UP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 10 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 11 00 00 00
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 11 00 00 00
+#
+name: CH -
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 11 00 00 00
+#
+name: CHANNEL --
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 11 00 00 00
+#
+name: CHNL -
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 11 00 00 00
+#
+name: CH-
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 11 00 00 00
+#
+name: CH DN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 11 00 00 00
+#
+name: (SCAN) X2
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 14 00 00 00
+#
+name: X2
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 14 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 14 00 00 00
+#
+name: SLOW MOTION +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 14 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 15 00 00 00
+#
+name: EJECT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 16 00 00 00
+#
+name: AUDIO MONITOR
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 17 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 18 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 19 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1a 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1a 00 00 00
+#
+name: REWIND <<
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1b 00 00 00
+#
+name: << REWIND
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1b 00 00 00
+#
+name: REWIND
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1b 00 00 00
+#
+name: REV <<
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1b 00 00 00
+#
+name: FAST FORWARD >>
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1c 00 00 00
+#
+name: >> FAST FORWARD
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1c 00 00 00
+#
+name: FF
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1c 00 00 00
+#
+name: FAST FORWARD
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1c 00 00 00
+#
+name: FF >>
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1c 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1d 00 00 00
+#
+name: REORD
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1d 00 00 00
+#
+name: RECORD STANDBY
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 1e 00 00 00
+#
+name: SLOW >
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 23 00 00 00
+#
+name: SLOW MOTION +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 23 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 23 00 00 00
+#
+name: SLOW
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 23 00 00 00
+#
+name: SLOW MOTION -
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 23 00 00 00
+#
+name: TRACKING AUTO/MANUAL
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 27 00 00 00
+#
+name: AUTO/MANUAL TRACKING
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 27 00 00 00
+#
+name: AUTO TRACKING
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 27 00 00 00
+#
+name: TRACKING AUTO/MAN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 27 00 00 00
+#
+name: SEARCH <<
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 28 00 00 00
+#
+name: << SEARCH
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 28 00 00 00
+#
+name: SCAN <<
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 28 00 00 00
+#
+name: INDEX RR
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 28 00 00 00
+#
+name: SEARCH -
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 28 00 00 00
+#
+name: SEARCH >>
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 29 00 00 00
+#
+name: >> SEARCH
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 29 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 29 00 00 00
+#
+name: INDEX FF
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 29 00 00 00
+#
+name: SEARCH +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 29 00 00 00
+#
+name: TV/VTR
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2a 00 00 00
+#
+name: TV/VCR
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2a 00 00 00
+#
+name: TV/VIDEO
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2a 00 00 00
+#
+name: VTR
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2d 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2e 00 00 00
+#
+name: POWER ON VTR 3
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2e 00 00 00
+#
+name: ON
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2e 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2f 00 00 00
+#
+name: POWER OFF VTR 3
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2f 00 00 00
+#
+name: OFF
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 2f 00 00 00
+#
+name: FRAME <<
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 30 00 00 00
+#
+name: << FRAME
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 30 00 00 00
+#
+name: REVERSE 1
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 30 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 30 00 00 00
+#
+name: REVERSE 1/5
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 30 00 00 00
+#
+name: REVERSE X2
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 30 00 00 00
+#
+name: FRAME -
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 30 00 00 00
+#
+name: FRAME >>
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 31 00 00 00
+#
+name: >> FRAME
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 31 00 00 00
+#
+name: FRAME +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 31 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 31 00 00 00
+#
+name: FORWARD 1
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 31 00 00 00
+#
+name: FORWARD 1/5
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 31 00 00 00
+#
+name: FORWARD X2
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 31 00 00 00
+#
+name: FRAME >
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 31 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 33 00 00 00
+#
+name: SLOW MOTION +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 3d 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 3d 00 00 00
+#
+name: TRACKING SPEED +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 3d 00 00 00
+#
+name: SLOW +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 3d 00 00 00
+#
+name: SLOW MOTION -
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 3e 00 00 00
+#
+name: TRACKING SPEED -
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 3e 00 00 00
+#
+name: SLOW -
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 3e 00 00 00
+#
+name: COUNTER/REMAIN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 41 00 00 00
+#
+name: COUNTER
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 41 00 00 00
+#
+name: COUNTER REMAIN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 41 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 42 00 00 00
+#
+name: CUR UP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 42 00 00 00
+#
+name: UP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 42 00 00 00
+#
+name: NAV UP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 42 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 43 00 00 00
+#
+name: CUR DOWN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 43 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 43 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 43 00 00 00
+#
+name: CURSOR DN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 43 00 00 00
+#
+name: NAV DOWN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 43 00 00 00
+#
+name: TRACKING +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 44 00 00 00
+#
+name: STILL ADJUST UP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 44 00 00 00
+#
+name: TRACKING UP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 44 00 00 00
+#
+name: TRACKING SLOW
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 44 00 00 00
+#
+name: TRACKING -
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 45 00 00 00
+#
+name: STILL ADJUST DOWN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 45 00 00 00
+#
+name: TRACKING DOWN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 45 00 00 00
+#
+name: TRACKING NORMAL
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 45 00 00 00
+#
+name: COUNTER RESET
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 46 00 00 00
+#
+name: INDEX MARK
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 48 00 00 00
+#
+name: INDEX ERASE
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 49 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 4d 00 00 00
+#
+name: INPUT SELECT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 4f 00 00 00
+#
+name: INPUT TOGGLE
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 4f 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 4f 00 00 00
+#
+name: EXECUTE
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 51 00 00 00
+#
+name: NAV OK
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 51 00 00 00
+#
+name: OK
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 51 00 00 00
+#
+name: QUICK TIMER
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 52 00 00 00
+#
+name: INDEX SEARCH >>
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 56 00 00 00
+#
+name: INDEX SEARCH >
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 56 00 00 00
+#
+name: INDEX >>
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 56 00 00 00
+#
+name: INDEX SEARCH FORWARD
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 56 00 00 00
+#
+name: INDEX SEARCH +
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 56 00 00 00
+#
+name: FRAME >>
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 56 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 56 00 00 00
+#
+name: INDEX SEARCH>
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 56 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 56 00 00 00
+#
+name: SEARCH >>
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 56 00 00 00
+#
+name: INDEX SEARCH <<
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 57 00 00 00
+#
+name: INDEX SEARCH <
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 57 00 00 00
+#
+name: INDEX <<
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 57 00 00 00
+#
+name: INDEX SEARCH BACK
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 57 00 00 00
+#
+name: INDEX SEARCH -
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 57 00 00 00
+#
+name: FRAME <<
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 57 00 00 00
+#
+name: SCAN <<
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 57 00 00 00
+#
+name: SEARCH <<
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 57 00 00 00
+#
+name: TAPE SPEED
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 58 00 00 00
+#
+name: SP/EP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 58 00 00 00
+#
+name: SPEED
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 58 00 00 00
+#
+name: TAPE RETURN
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 59 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 5a 00 00 00
+#
+name: SKIP
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 5d 00 00 00
+#
+name: SMART CUE
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 5d 00 00 00
+#
+name: SMART QUE
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 5d 00 00 00
+#
+name: COMMERCIAL PASS
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 5d 00 00 00
+#
+name: COMM PASS
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 5d 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 61 00 00 00
+#
+name: CUR RIGHT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 61 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 61 00 00 00
+#
+name: CURSOR RT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 61 00 00 00
+#
+name: NAV RIGHT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 61 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 62 00 00 00
+#
+name: CUR LEFT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 62 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 62 00 00 00
+#
+name: CURSOR LF
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 62 00 00 00
+#
+name: NAV LEFT
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 62 00 00 00
+#
+name: TIMER REC CLEAR
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 63 00 00 00
+#
+name: TIMER CLEAR
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 63 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 63 00 00 00
+#
+name: CEAR
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 63 00 00 00
+#
+name: CLEAR (TIMER)
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 63 00 00 00
+#
+name: TIMER REC ON/OFF
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 65 00 00 00
+#
+name: ON/OFF (TIMER)
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 65 00 00 00
+#
+name: TIMER ON/OFF
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 65 00 00 00
+#
+name: INSERT AUDIO
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 68 00 00 00
+#
+name: INSERT VIDEO
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 69 00 00 00
+#
+name: HIGH SPEED REWIND
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 7d 00 00 00
+#
+name: HI-SPEED REWIND
+type: parsed
+protocol: Sony12
+address: 0b 0b 00 00
+command: 7d 00 00 00

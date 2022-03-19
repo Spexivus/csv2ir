@@ -1,0 +1,218 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: CHAN UP
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: CHAN DN
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 03 00 00 00
+#
+name: VOL DN
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 04 00 00 00
+#
+name: VOL UP
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: OK
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: INPUT SOURCE
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 07 00 00 00
+#
+name: MENU
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: SLEEP
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: PIP
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: POP/PBP
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: SWAP
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 0e 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 0f 00 00 00
+#
+name: PICT
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: WIDE
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: PREV CHAN
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: POS
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: PIP SEL
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 21 00 00 00
+#
+name: INFO
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 22 00 00 00
+#
+name: 0
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 30 00 00 00
+#
+name: 1
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 31 00 00 00
+#
+name: 2
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 32 00 00 00
+#
+name: 3
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 33 00 00 00
+#
+name: 4
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: 5
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: 6
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: 7
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 37 00 00 00
+#
+name: 8
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: 9
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: UP
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 60 00 00 00
+#
+name: DN
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 61 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 62 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: MCE
+address: 00 00 00 00
+command: 63 00 00 00

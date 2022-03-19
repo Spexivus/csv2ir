@@ -1,0 +1,218 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 1
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 02 00 00 00
+#
+name: SCART-1
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 02 00 00 00
+#
+name: 2
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 05 00 00 00
+#
+name: SCART-2
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 05 00 00 00
+#
+name: 3
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 06 00 00 00
+#
+name: FBAS/SDI-1
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 06 00 00 00
+#
+name: 4
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 09 00 00 00
+#
+name: FBAS/SDI-2
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 09 00 00 00
+#
+name: 5
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 0a 00 00 00
+#
+name: S-VIDEO-1
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 0a 00 00 00
+#
+name: 6
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 0d 00 00 00
+#
+name: S-VIDEO-2
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 0d 00 00 00
+#
+name: 7
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 0e 00 00 00
+#
+name: YUV-1
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 0e 00 00 00
+#
+name: 8
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 11 00 00 00
+#
+name: YUV-2
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 11 00 00 00
+#
+name: 9
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 12 00 00 00
+#
+name: BYPASS RGB
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 12 00 00 00
+#
+name: 0
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 15 00 00 00
+#
+name: BYPASS VGA
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 15 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 16 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 1a 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 1e 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 26 00 00 00
+#
+name: LENSSHIFT UP
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 2e 00 00 00
+#
+name: RESOLUTION
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 31 00 00 00
+#
+name: ASPECT RATIO
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 32 00 00 00
+#
+name: LENSSHIFT DOWN
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 35 00 00 00
+#
+name: OVERSCAN
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 36 00 00 00
+#
+name: TV MODE
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 39 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 3a 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 3e 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 41 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 45 00 00 00
+#
+name: OPTION A
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 46 00 00 00
+#
+name: OPTION B
+type: parsed
+protocol: CanalSat
+address: 1b 1b 00 00
+command: 49 00 00 00

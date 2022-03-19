@@ -1,0 +1,644 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 11 00 00 00
+#
+name: TV/VCR
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 13 00 00 00
+#
+name: TV TV/VCR
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 13 00 00 00
+#
+name: MONITOR TV/VIDEO
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 13 00 00 00
+#
+name: A MONITOR TV/VIDEO
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 13 00 00 00
+#
+name: TV TV/VIDEO
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 13 00 00 00
+#
+name: TV INPUT
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 13 00 00 00
+#
+name: TV MONITOR (TV/VIDEO
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 13 00 00 00
+#
+name: MONITOR (TV/VIDEO)
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 13 00 00 00
+#
+name: TV/VIDEO MONITOR
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 13 00 00 00
+#
+name: POWER
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 17 00 00 00
+#
+name: TV POWER
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 17 00 00 00
+#
+name: (TV) POWER
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 17 00 00 00
+#
+name: POWER (TV)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 17 00 00 00
+#
+name: A TV POWER
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 17 00 00 00
+#
+name: TV OPERATE
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 17 00 00 00
+#
+name: TV OPERATE
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 17 00 00 00
+#
+name: POWER (TV)
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 17 00 00 00
+#
+name: TV CH V
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: (TV) CHANNEL V
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: TV CH -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: TV CHANNEL V
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: A TV CH -
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: TV CH - (TV PROG)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: TV CH/SET -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: TV CH --
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: TV PROG/(2)SET -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: TV PROG - (CH -)
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: CHANNEL DOWN
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: TV CHANNEL -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: TV CH ^
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: (TV) CHANNEL ^
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: TV CH +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: TV CHANNEL ^
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: A TV CH +
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: TV CH + (2 SET )
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: TV CH/SET +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: TV PROG/(2)SET +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: TV PROG + (CH +)
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: CHANNEL UP
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: TV CHANNEL +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: TV AUDIO MONITOR
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 1c 00 00 00
+#
+name: TV VOL +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: (TV) VOLUME +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: A TV VOL +
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: VOL +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: TV VOLUME +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: VOL +
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: VCR VOLUME +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: VOL+
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: TV VOL -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: (TV) VOLUME -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: A TV VOL -
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: VOL -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: TV VOLUME -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: TV VOL --
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: VOL -
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: VCR VOLUME -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: 0
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 20 00 00 00
+#
+name: TV 0 (AUX)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 20 00 00 00
+#
+name: TV 0 (AUX)
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 20 00 00 00
+#
+name: TV 0/AUX
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 20 00 00 00
+#
+name: 1
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 21 00 00 00
+#
+name: TV 1
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 21 00 00 00
+#
+name: TV 1
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 21 00 00 00
+#
+name: TV 1 (ABC)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 21 00 00 00
+#
+name: 2
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 22 00 00 00
+#
+name: TV 2
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 22 00 00 00
+#
+name: TV 2
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 22 00 00 00
+#
+name: TV 2 (DEF)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 22 00 00 00
+#
+name: 3
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 23 00 00 00
+#
+name: TV 3
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 23 00 00 00
+#
+name: TV 3
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 23 00 00 00
+#
+name: TV 3 (GHI)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 23 00 00 00
+#
+name: 4
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 24 00 00 00
+#
+name: TV 4
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 24 00 00 00
+#
+name: TV 4
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 24 00 00 00
+#
+name: TV 4 (JKL)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 24 00 00 00
+#
+name: 5
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 25 00 00 00
+#
+name: TV 5
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 25 00 00 00
+#
+name: TV 5
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 25 00 00 00
+#
+name: TV 5 (MNO)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 25 00 00 00
+#
+name: 6
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 26 00 00 00
+#
+name: TV 6
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 26 00 00 00
+#
+name: TV 6
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 26 00 00 00
+#
+name: TV 6 (PQR)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 26 00 00 00
+#
+name: 7
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 27 00 00 00
+#
+name: TV 7
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 27 00 00 00
+#
+name: TV 7
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 27 00 00 00
+#
+name: TV 7 (STU)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 27 00 00 00
+#
+name: 8
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 28 00 00 00
+#
+name: TV 8 (DAILY)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 28 00 00 00
+#
+name: TV 8 (DAILY M-F)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 28 00 00 00
+#
+name: TV 8 (DAILY)
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 28 00 00 00
+#
+name: TV 8 (VWX)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 28 00 00 00
+#
+name: TV 8/DAILY (M-F)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 28 00 00 00
+#
+name: 9
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 29 00 00 00
+#
+name: TV 9 (WEEKLY)
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 29 00 00 00
+#
+name: TV 9 (WEEKLY)
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 29 00 00 00
+#
+name: TV 9/WEEKLY
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 29 00 00 00
+#
+name: TV ///
+type: parsed
+protocol: JVC{2}
+address: 03 03 00 00
+command: 9d 00 00 00

@@ -1,0 +1,158 @@
+Filetype: IR signals file
+Version: 1
+#
+name: DBFB
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 31 00 00 00
+#
+name: SURROUND BASS BOOST
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 31 00 00 00
+#
+name: BASS BOOST
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 31 00 00 00
+#
+name: SF: ON/OFF
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 3f 00 00 00
+#
+name: SOUND FIELD ON/OFF
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 3f 00 00 00
+#
+name: SOUND FIELD TOGGLE
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 3f 00 00 00
+#
+name: SURROUND ON/OFF
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 3f 00 00 00
+#
+name: REAR LEVEL +
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 42 00 00 00
+#
+name: REAR LEVEL -
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 43 00 00 00
+#
+name: EFFECT/DELAY
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 44 00 00 00
+#
+name: CURSOR MODE
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 77 00 00 00
+#
+name: ARROW OK
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 77 00 00 00
+#
+name: OK
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 77 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 78 00 00 00
+#
+name: ARROW UP
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 78 00 00 00
+#
+name: CURSOR DN
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 79 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 79 00 00 00
+#
+name: ARROW DOWN
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 79 00 00 00
+#
+name: CURSOR LF
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7a 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7a 00 00 00
+#
+name: ARROW LEFT
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7a 00 00 00
+#
+name: BASS (-)
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7a 00 00 00
+#
+name: CURSOR RT
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7b 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7b 00 00 00
+#
+name: ARROW RIGHT
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7b 00 00 00
+#
+name: BASS (+)
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7b 00 00 00

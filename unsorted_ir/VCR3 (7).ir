@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SCROLL DOWN
+type: parsed
+protocol: Dish_Network
+address: 01 01 00 00
+command: 07 00 00 00
+#
+name: 
+type: parsed
+protocol: Dish_Network
+address: 01 01 00 00
+command: 0f 00 00 00

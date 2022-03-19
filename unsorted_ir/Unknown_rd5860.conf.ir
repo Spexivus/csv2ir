@@ -1,0 +1,134 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_0
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 00 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 01 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 02 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 03 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 04 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 05 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 06 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 07 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 08 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 09 00 00 00
+#
+name: random
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 1c 00 00 00
+#
+name: KEY_AGAIN
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 1d 00 00 00
+#
+name: track-up
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 20 00 00 00
+#
+name: track-down
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 21 00 00 00
+#
+name: scan
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 2b 00 00 00
+#
+name: KEY_OPEN
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 2d 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 30 00 00 00
+#
+name: search-down
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 32 00 00 00
+#
+name: search-up
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 34 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 35 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 36 00 00 00
+#
+name: a/b
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 3b 00 00 00

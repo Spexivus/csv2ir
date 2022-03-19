@@ -1,0 +1,92 @@
+Filetype: IR signals file
+Version: 1
+#
+name: INPUT VIDEO 1
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 2a 00 00 00
+#
+name: INPUT VIDEO 2
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 2b 00 00 00
+#
+name: INPUT RGB
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 2c 00 00 00
+#
+name: PWR ON
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 2e 00 00 00
+#
+name: PWR OFF
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 2f 00 00 00
+#
+name: SELECT+
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 31 00 00 00
+#
+name: SELECT -
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 32 00 00 00
+#
+name: FOCUS IN
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 41 00 00 00
+#
+name: FOCUS OUT
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 42 00 00 00
+#
+name: ZOOM IN
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 54 00 00 00
+#
+name: ZOOM OUT
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 55 00 00 00
+#
+name: AUTO
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 56 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 59 00 00 00
+#
+name: INPUT S VIDEO
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 5f 00 00 00
+#
+name: RESET
+type: parsed
+protocol: Sony15
+address: 54 54 00 00
+command: 7b 00 00 00

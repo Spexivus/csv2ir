@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 2 CH
+type: parsed
+protocol: Sony15
+address: b0 b0 00 00
+command: 41 00 00 00
+#
+name: AFD
+type: parsed
+protocol: Sony15
+address: b0 b0 00 00
+command: 42 00 00 00
+#
+name: MOVIE
+type: parsed
+protocol: Sony15
+address: b0 b0 00 00
+command: 43 00 00 00
+#
+name: MUSIC
+type: parsed
+protocol: Sony15
+address: b0 b0 00 00
+command: 49 00 00 00
+#
+name: TEST TONE
+type: parsed
+protocol: Sony15
+address: b0 b0 00 00
+command: 4a 00 00 00
+#
+name: BASS BOOST
+type: parsed
+protocol: Sony15
+address: b0 b0 00 00
+command: 4d 00 00 00
+#
+name: BASS UP
+type: parsed
+protocol: Sony15
+address: b0 b0 00 00
+command: 50 00 00 00
+#
+name: BASS DOWN
+type: parsed
+protocol: Sony15
+address: b0 b0 00 00
+command: 51 00 00 00
+#
+name: TREB UP
+type: parsed
+protocol: Sony15
+address: b0 b0 00 00
+command: 56 00 00 00
+#
+name: TREB DOWN
+type: parsed
+protocol: Sony15
+address: b0 b0 00 00
+command: 57 00 00 00
+#
+name: SHIFT
+type: parsed
+protocol: Sony15
+address: b0 b0 00 00
+command: 71 00 00 00

@@ -1,0 +1,98 @@
+Filetype: IR signals file
+Version: 1
+#
+name: surround+
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 00 00 00 00
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 01 00 00 00
+#
+name: center+
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 02 00 00 00
+#
+name: KEY_SUBTITLE
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 03 00 00 00
+#
+name: surround-
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 04 00 00 00
+#
+name: test
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 05 00 00 00
+#
+name: center-
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 06 00 00 00
+#
+name: direct
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 0a 00 00 00
+#
+name: optical
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 0b 00 00 00
+#
+name: coax
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 0c 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 0e 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 10 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 16 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 1a 00 00 00
+#
+name: effect
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 1d 00 00 00
+#
+name: KEY_SETUP
+type: parsed
+protocol: NEC
+address: 08 08 00 00
+command: 1f 00 00 00

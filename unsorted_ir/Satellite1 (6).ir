@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 
+type: parsed
+protocol: DirecTV
+address: 01 01 00 00
+command: 00 00 00 00

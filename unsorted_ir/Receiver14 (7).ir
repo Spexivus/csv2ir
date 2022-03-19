@@ -1,0 +1,248 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Z2 ON
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 06 00 00 00
+#
+name: 
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 06 00 00 00
+#
+name: Z2 OFF
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 07 00 00 00
+#
+name: ZONE 2 OFF
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 07 00 00 00
+#
+name: ZONE 2 ON
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 07 00 00 00
+#
+name: Z2 1
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 10 00 00 00
+#
+name: Z2 2
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 11 00 00 00
+#
+name: Z2 3
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 12 00 00 00
+#
+name: Z2 4
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 13 00 00 00
+#
+name: Z2 5
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 14 00 00 00
+#
+name: Z2 6
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 15 00 00 00
+#
+name: Z2 7
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 16 00 00 00
+#
+name: Z2 8
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 17 00 00 00
+#
+name: Z2 9
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 18 00 00 00
+#
+name: Z2 0
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 19 00 00 00
+#
+name: Z2 INPUT PHONO
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 30 00 00 00
+#
+name: Z2 PHONO
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 30 00 00 00
+#
+name: Z2 INPUT TUNER
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 31 00 00 00
+#
+name: Z2 TUNER
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 31 00 00 00
+#
+name: Z2 INPUT CD
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 32 00 00 00
+#
+name: Z2 CD
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 32 00 00 00
+#
+name: Z2 INPUT CD-R TAP
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 33 00 00 00
+#
+name: Z2 CD-R/TAPE
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 33 00 00 00
+#
+name: Z2 INPUT IPOD
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 3b 00 00 00
+#
+name: Z2 INPUT DVD
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 40 00 00 00
+#
+name: Z2 DVD/VDP
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 40 00 00 00
+#
+name: Z2 INPUT VCR
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 45 00 00 00
+#
+name: Z2 VCR
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 45 00 00 00
+#
+name: Z2 INPUT V.AUX
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 49 00 00 00
+#
+name: Z2 V.AUX
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 49 00 00 00
+#
+name: Z2 BAND
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 58 00 00 00
+#
+name: Z2 SEARCH
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 78 00 00 00
+#
+name: Z2 A MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 80 00 00 00
+#
+name: Z2 B MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 81 00 00 00
+#
+name: Z2 C MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 82 00 00 00
+#
+name: Z2 D MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 83 00 00 00
+#
+name: Z2 E MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 84 00 00 00
+#
+name: Z2 F MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 85 00 00 00
+#
+name: Z2 G MEM BLOCK
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 86 00 00 00
+#
+name: Z2 VOLUME +
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 110 00 00 00
+#
+name: Z2 VOLUME -
+type: parsed
+protocol: Denon-K
+address: 07 00 00 00
+command: 111 00 00 00

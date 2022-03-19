@@ -1,0 +1,80 @@
+Filetype: IR signals file
+Version: 1
+#
+name: DIGITAL DBS/BS
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 83 00 00 00
+#
+name: DIGITAL VDP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 84 00 00 00
+#
+name: DIGITAL CD
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 85 00 00 00
+#
+name: DIGITAL DAT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 86 00 00 00
+#
+name: TUNER CH V
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d5 00 00 00
+#
+name: TUNER CH ^
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d6 00 00 00
+#
+name: TUNER BAND
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d7 00 00 00
+#
+name: TUNER AT/MANU
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d8 00 00 00
+#
+name: TUNER TUNE ^
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d9 00 00 00
+#
+name: TUNER TUNE V
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: da 00 00 00
+#
+name: TUNER RF
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: db 00 00 00
+#
+name: TUNER P.SCAN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: dc 00 00 00
+#
+name: TUNER POWER
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: dd 00 00 00

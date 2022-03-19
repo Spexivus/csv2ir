@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+#
+name: USER 2
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 125 00 00 00
+#
+name: USER 3
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 126 00 00 00
+#
+name: SURR DIRECT MAIN
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 131 00 00 00
+#
+name: AUX MAIN
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2c7 00 00 00

@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VOLUME -
+type: parsed
+protocol: XMP-1
+address: 0b 0b 00 00
+command: 0c 00 00 00

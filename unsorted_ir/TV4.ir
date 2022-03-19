@@ -1,0 +1,362 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CC
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 10 00 00 00
+#
+name: CLOSED CAPTION
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 10 00 00 00
+#
+name: DISPLAY MODE
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 10 00 00 00
+#
+name: HEADPHONES
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 11 00 00 00
+#
+name: DVD COMPONENT INPUT
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 12 00 00 00
+#
+name: COMP
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 17 00 00 00
+#
+name: STEADY SOUND ON/OFF
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 1f 00 00 00
+#
+name: EFFECT2
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 1f 00 00 00
+#
+name: SCREEN: NORMAL
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 31 00 00 00
+#
+name: NORMAL
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 31 00 00 00
+#
+name: SCREEN: ZOOM/SUBTTL
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 32 00 00 00
+#
+name: ZOOM
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 32 00 00 00
+#
+name: HD COMPONENT INPUT
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 36 00 00 00
+#
+name: SCREEN: NORMAL/FULL
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 3b 00 00 00
+#
+name: FULL - NORMAL
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 3b 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 3b 00 00 00
+#
+name: WIDE MODE
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 3d 00 00 00
+#
+name: ASPECT
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 3d 00 00 00
+#
+name: WIDE
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 3d 00 00 00
+#
+name: SCREEN: WIDE ZOOM
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 42 00 00 00
+#
+name: WIDE ZOOM
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 42 00 00 00
+#
+name: VERTICAL CENTERING
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 44 00 00 00
+#
+name: SCREEN: SUBTITLE16X9
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 45 00 00 00
+#
+name: RGB/YUV
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 48 00 00 00
+#
+name: YUV
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 48 00 00 00
+#
+name: COMP 2
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 48 00 00 00
+#
+name: INPUT-YUV
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 48 00 00 00
+#
+name: VM
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 4d 00 00 00
+#
+name: TRINITRON
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 4f 00 00 00
+#
+name: NEXTVIEW
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 5b 00 00 00
+#
+name: PROGRAM GUIDE
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 5b 00 00 00
+#
+name: FREEZE
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 60 00 00 00
+#
+name: ACTIVE < >
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 63 00 00 00
+#
+name: ACTIVE
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 63 00 00 00
+#
+name: ACTIVE CH
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 63 00 00 00
+#
+name: ACTIVE </>
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 63 00 00 00
+#
+name: DISPLAY SHOW
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 66 00 00 00
+#
+name: FULL RESET
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 6c 00 00 00
+#
+name: PIP OFF
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 6e 00 00 00
+#
+name: DEMO
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 71 00 00 00
+#
+name: MULTI-PICTURE
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 74 00 00 00
+#
+name: MULTI-PIC
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 74 00 00 00
+#
+name: INDEX
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 74 00 00 00
+#
+name: PIP CHN INDEX
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 74 00 00 00
+#
+name: PIP MULTI
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 74 00 00 00
+#
+name: SPLIT PICTURE
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 77 00 00 00
+#
+name: PIP SPLIT
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 77 00 00 00
+#
+name: PIC SPLIT
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 77 00 00 00
+#
+name: TWIN VIEW
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 77 00 00 00
+#
+name: SPLIT SCREEN
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 77 00 00 00
+#
+name: PIP SPLIT SCREEN
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 77 00 00 00
+#
+name: PIP ON/OFF
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 77 00 00 00
+#
+name: MODE
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 77 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 7c 00 00 00
+#
+name: PIP AUDIO
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 7c 00 00 00
+#
+name: AUDIO SWAP
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 7c 00 00 00
+#
+name: PIP AUDIO MONITOR
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 7c 00 00 00
+#
+name: PIP SOUND
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 7c 00 00 00
+#
+name: ZOOM
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 7d 00 00 00
+#
+name: DEGAUSS
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 7e 00 00 00

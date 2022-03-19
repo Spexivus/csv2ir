@@ -1,0 +1,38 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PRE AMP INPUT E
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 20 00 00 00
+#
+name: PRE AMP INPUT F
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 21 00 00 00
+#
+name: PRE AMP INPUT A
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 22 00 00 00
+#
+name: PRE AMP INPUT B
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 23 00 00 00
+#
+name: PRE AMP INPUT C
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 24 00 00 00
+#
+name: PRE AMP INPUT D
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 25 00 00 00

@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VOLUME +
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 20 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 21 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 32 00 00 00
+#
+name: DVD/CD
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 94 00 00 00
+#
+name: AUX
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 9a 00 00 00
+#
+name: TV
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 9c 00 00 00
+#
+name: VCR
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: 9e 00 00 00
+#
+name: PROLOGIC
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: b4 00 00 00
+#
+name: CH SELECT
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: bb 00 00 00
+#
+name: SUBWOOFER LEVEL
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: bc 00 00 00
+#
+name: TEST
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: f6 00 00 00

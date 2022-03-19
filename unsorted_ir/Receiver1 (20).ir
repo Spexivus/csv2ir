@@ -1,0 +1,788 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 1 / 9
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 42 00 00 00
+#
+name: 2 / 10
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 43 00 00 00
+#
+name: 3 / 11
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 44 00 00 00
+#
+name: 4 / 12
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 45 00 00 00
+#
+name: 5 / 13
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 46 00 00 00
+#
+name: 6 / 14
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 47 00 00 00
+#
+name: 7 / 15
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 48 00 00 00
+#
+name: 8 / 16
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 49 00 00 00
+#
+name: SHIFT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 4a 00 00 00
+#
+name: MUTING / MUTE TOGGLE
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 4b 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 4c 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 4d 00 00 00
+#
+name: PRESET CHANNEL UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 4e 00 00 00
+#
+name: PRESET CHANNEL DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 4f 00 00 00
+#
+name: POWER TOGGLE
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 50 00 00 00
+#
+name: INPUT VCR1
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 52 00 00 00
+#
+name: INPUT VIDEO1
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 53 00 00 00
+#
+name: INPUT DVD/VDP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 54 00 00 00
+#
+name: INPUT VCR2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 57 00 00 00
+#
+name: INPUT PHONO
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 58 00 00 00
+#
+name: INPUT TUNER
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 59 00 00 00
+#
+name: INPUT CD
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 5a 00 00 00
+#
+name: INPUT V.AUX
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 5b 00 00 00
+#
+name: INPUT CDR/TAPE
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 5c 00 00 00
+#
+name: INPUT DAT/TAPE1
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 5d 00 00 00
+#
+name: INPUT DAT/TAPE2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 5e 00 00 00
+#
+name: VIDEO SELECT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 62 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 68 00 00 00
+#
+name: SPEAKER B
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 69 00 00 00
+#
+name: SPEAKER A
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 6a 00 00 00
+#
+name: CENTER UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 6b 00 00 00
+#
+name: CENTER DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 6c 00 00 00
+#
+name: REAR UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 6d 00 00 00
+#
+name: REAR DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 6e 00 00 00
+#
+name: CENTER
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 70 00 00 00
+#
+name: REAR
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 71 00 00 00
+#
+name: DBS/BS
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 73 00 00 00
+#
+name: VIDEO
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 74 00 00 00
+#
+name: AUDIO MULTI
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 75 00 00 00
+#
+name: DELAY UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 77 00 00 00
+#
+name: DELAY DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 78 00 00 00
+#
+name: SURROUND MODE
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 79 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 7a 00 00 00
+#
+name: TEST TONE
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 7b 00 00 00
+#
+name: 3CH.LOGIC
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 7c 00 00 00
+#
+name: BYPASS
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 7d 00 00 00
+#
+name: STATUS / OSD / PANEL
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 7e 00 00 00
+#
+name: CURSOR/ARROW LEFT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 7f 00 00 00
+#
+name: LEVEL ALL BASS DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 80 00 00 00
+#
+name: SURROUND MODE DTS
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 81 00 00 00
+#
+name: SB SPEAKER TOGGLE ON/OFF
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 82 00 00 00
+#
+name: VOLUME PRESET 1 (0DB)
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 83 00 00 00
+#
+name: VOLUME PRESET 2 (-20DB)
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 85 00 00 00
+#
+name: VOLUME PRESET 3 (-40DB)
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 86 00 00 00
+#
+name: ZONE2 VOLUME PRESET 1 (0DB)
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 87 00 00 00
+#
+name: ZONE2 VOLUME PRESET 2 (-20DB)
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 88 00 00 00
+#
+name: ZONE2 VOLUME PRESET 3 (-40DB)
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 89 00 00 00
+#
+name: ZONE2 DBS/SAT/CABLE
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8a 00 00 00
+#
+name: SURROUND MODE HOME THX CINEMA
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8b 00 00 00
+#
+name: ZONE3 VOLUME PRESET 1 (0DB)
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8c 00 00 00
+#
+name: ZONE2 VOLUME UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8d 00 00 00
+#
+name: ZONE2 VOLUME DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8e 00 00 00
+#
+name: ZONE2 INPUT PHONO
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8f 00 00 00
+#
+name: ZONE2 INPUT CD/IPOD
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 90 00 00 00
+#
+name: ZONE2 INPUT TUNER/HD RADIO
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 91 00 00 00
+#
+name: ZONE2 INPUT BD/HDP/DVD/VDP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 92 00 00 00
+#
+name: ZONE2 INPUT V.AUX
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 93 00 00 00
+#
+name: ZONE2 INPUT GAME/VCR1
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 94 00 00 00
+#
+name: ZONE2 INPUT CDR/TAPE2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 95 00 00 00
+#
+name: ZONE2 MULTI PRESET UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 96 00 00 00
+#
+name: ZONE2 MULTI PRESET DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 97 00 00 00
+#
+name: ZONE2 INPUT AUX
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 98 00 00 00
+#
+name: ZONE2 INPUT DVR/VCR2/AUX
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 99 00 00 00
+#
+name: ZONE2 INPUT VCR3
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 9a 00 00 00
+#
+name: ZONE2 INPUT TV/DBS/CABLE
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 9b 00 00 00
+#
+name: ZONE2 INPUT CDR/TAPE
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 9c 00 00 00
+#
+name: SURROUND MODE STEREO
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 9d 00 00 00
+#
+name: SURROUND MODE DIRECT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 9e 00 00 00
+#
+name: ZONE3 VOLUME PRESET 2 (-20DB)
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 9f 00 00 00
+#
+name: MENU / SYSTEM SETUP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a0 00 00 00
+#
+name: SURROUND PARAMETER
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a1 00 00 00
+#
+name: ZONE3 VOLUME PRESET 3 (-40DB)
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a2 00 00 00
+#
+name: CURSOR/ARROW UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a3 00 00 00
+#
+name: CURSOR/ARROW DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a4 00 00 00
+#
+name: OUTPUT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a5 00 00 00
+#
+name: RCVR EFFECT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a6 00 00 00
+#
+name: INPUT ADJ (V)
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a7 00 00 00
+#
+name: SURROUND MODE 5/7/MULTI CH STEREO
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a8 00 00 00
+#
+name: SURROUND MODE 2CH STEREO
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a9 00 00 00
+#
+name: SURROUND MODE MULTI CH STEREO
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: aa 00 00 00
+#
+name: TUNER SHIFT F
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: ab 00 00 00
+#
+name: AUDIO FUNCTION
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: ac 00 00 00
+#
+name: VIDEO FUNCTION
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: ad 00 00 00
+#
+name: TUNER SHIFT G
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: ae 00 00 00
+#
+name: SPEAKER CH LEVEL/SELECT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: af 00 00 00
+#
+name: SPEAKER CH VOLUME UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: b0 00 00 00
+#
+name: SPEAKER CH VOLUME DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: b1 00 00 00
+#
+name: VIDEO OFF
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: b2 00 00 00
+#
+name: INPUT MODE EXT IN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: b5 00 00 00
+#
+name: INPUT MODE TOGGLE ANALOG/DIGITAL
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: b6 00 00 00
+#
+name: LEVEL ALL TREBLE UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: b7 00 00 00
+#
+name: LEVEL ALL TREBLE DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: b8 00 00 00
+#
+name: TUNER SHIFT A
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: b9 00 00 00
+#
+name: TUNER SHIFT B
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: ba 00 00 00
+#
+name: TUNER SHIFT C
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: bb 00 00 00
+#
+name: TUNER SHIFT D
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: bc 00 00 00
+#
+name: TUNER SHIFT E
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: bd 00 00 00
+#
+name: ZONE2 INPUT DVD/VDP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: be 00 00 00
+#
+name: LEVEL ALL BASS UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: bf 00 00 00
+#
+name: TUNER PRESET/CHANNEL/XM 1
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: c1 00 00 00
+#
+name: TUNER PRESET/CHANNEL/XM 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: c2 00 00 00
+#
+name: TUNER PRESET/CHANNEL/XM 3
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: c3 00 00 00
+#
+name: TUNER PRESET/CHANNEL/XM 4
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: c4 00 00 00
+#
+name: TUNER PRESET/CHANNEL/XM 5
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: c5 00 00 00
+#
+name: TUNER PRESET/CHANNEL/XM 6
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: c6 00 00 00
+#
+name: TUNER PRESET/CHANNEL/XM 7
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: c7 00 00 00
+#
+name: TUNER PRESET/CHANNEL/XM 8
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: c8 00 00 00
+#
+name: TUNER PRESET/CHANNEL/XM 9
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: c9 00 00 00
+#
+name: TUNER PRESET/CHANNEL/XM 0
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: ca 00 00 00
+#
+name: TUNER MEMORY
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: cc 00 00 00
+#
+name: TUNER SHIFT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: cd 00 00 00
+#
+name: TUNER RT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: ce 00 00 00
+#
+name: TUNER DIRECT/RDS SEARCH
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d2 00 00 00
+#
+name: TUNER PTY
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d4 00 00 00
+#
+name: TUNER PRESET/CHANNEL DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d5 00 00 00
+#
+name: TUNER PRESET/CHANNEL UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d6 00 00 00
+#
+name: TUNER BAND TOGGLE
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d7 00 00 00
+#
+name: TUNER TUNING MODE AUTO/MANUAL
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d8 00 00 00
+#
+name: TUNER TUNING/SCAN UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d9 00 00 00
+#
+name: TUNER TUNING/SCAN DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: da 00 00 00
+#
+name: DIMMER
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: df 00 00 00

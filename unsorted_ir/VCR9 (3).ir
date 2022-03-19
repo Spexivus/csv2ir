@@ -1,0 +1,74 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PROGRAM
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 00 00 00 00
+#
+name: VCR PROGRAM
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 00 00 00 00
+#
+name: VCR1 S.Q.P.
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 00 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: VTR RECORD
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: REC
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: VCR1 RECORD
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: VCR1 REC
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: VCR REC
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: VCR1 REC-PLAY
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: VTR1 RECORD
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: PL
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 40 00 00 00

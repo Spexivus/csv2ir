@@ -1,0 +1,146 @@
+Filetype: IR signals file
+Version: 1
+#
+name: INFO
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 04 00 00 00
+#
+name: OK
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 0a 00 00 00
+#
+name: POWER
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 17 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 18 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 19 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1c 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1e 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 1f 00 00 00
+#
+name: 0
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 20 00 00 00
+#
+name: 1
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 21 00 00 00
+#
+name: 2
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 22 00 00 00
+#
+name: 3
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 23 00 00 00
+#
+name: 4
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 24 00 00 00
+#
+name: 5
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 25 00 00 00
+#
+name: 6
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 26 00 00 00
+#
+name: 7
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 27 00 00 00
+#
+name: 8
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 28 00 00 00
+#
+name: 9
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 29 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 5a 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 5b 00 00 00
+#
+name: MENU
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 7a 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 7b 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: 7c 00 00 00
+#
+name: BACK
+type: parsed
+protocol: JVC
+address: 03 03 00 00
+command: e6 00 00 00

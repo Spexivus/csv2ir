@@ -1,0 +1,338 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 00 00 00 00
+#
+name: POWER TOGGLE
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 00 00 00 00
+#
+name: TV
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 0e 00 00 00
+#
+name: INPUT TV
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 0e 00 00 00
+#
+name: VIDEO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 16 00 00 00
+#
+name: INPUT VIDEO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 16 00 00 00
+#
+name: RGB
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 17 00 00 00
+#
+name: INPUT RGB
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 17 00 00 00
+#
+name: VIDEO1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: VIDEO 1-COMPOSITE
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: VID 1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: INPUT1-COMPOSITE
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: VIDEO 1 COMPOSITE
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: VIDEO 2 (S)
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: VIDEO 2-S VIDEO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: VID 2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: INPUT2-S-VIDEO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: VIDEO 2 S-VIDEO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: VIDEO 2 / S-VIDEO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: VIDEO 3
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 42 00 00 00
+#
+name: INPUT 3 - COMPONENT1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 42 00 00 00
+#
+name: VIDEO 3 (BACK)
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 42 00 00 00
+#
+name: VIDEO 3-COMPONENT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 42 00 00 00
+#
+name: VID 3
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 42 00 00 00
+#
+name: INPUT3-COMPONENT1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 42 00 00 00
+#
+name: VIDEO 3 / COMP 1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 42 00 00 00
+#
+name: VIDEO 4
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 43 00 00 00
+#
+name: INPUT 4 - COMPONENT2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 43 00 00 00
+#
+name: VIDEO 4 (FRONT)
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 43 00 00 00
+#
+name: VIDEO 4-COMPONENT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 43 00 00 00
+#
+name: INPUT4-COMPONENT2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 43 00 00 00
+#
+name: VIDEO 4 / COMP 2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 43 00 00 00
+#
+name: VIDEO 5
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 44 00 00 00
+#
+name: INPUT 5 - HDMI
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 44 00 00 00
+#
+name: VIDEO 5 (HDMI)
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 44 00 00 00
+#
+name: VIDEO 5-HDMI
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 44 00 00 00
+#
+name: INPUT5-HDMI
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 44 00 00 00
+#
+name: VIDEO 5 / HDMI
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 44 00 00 00
+#
+name: RGB 1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 68 00 00 00
+#
+name: RGB1
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 68 00 00 00
+#
+name: RGB 1: DVI-D
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 68 00 00 00
+#
+name: RGB1: DVI-D
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 68 00 00 00
+#
+name: RGB 1 / DVI-D
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 68 00 00 00
+#
+name: RGB 2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 69 00 00 00
+#
+name: RGB2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 69 00 00 00
+#
+name: RGB 2: D-SUB15P
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 69 00 00 00
+#
+name: RGB2: D-SUB15
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 69 00 00 00
+#
+name: RGB3/VIDEO4
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 6a 00 00 00
+#
+name: RGB 3/ VIDEO 4
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 6a 00 00 00
+#
+name: VIDEO 4
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 6a 00 00 00
+#
+name: RGB3/VIDEO 4
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 6a 00 00 00
+#
+name: RGB 3/VID 4
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 6a 00 00 00
+#
+name: INPUT4 - #2
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 6a 00 00 00
+#
+name: RGB 3/VIDEO 4
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 6a 00 00 00

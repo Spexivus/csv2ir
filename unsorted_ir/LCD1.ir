@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: AV
+type: parsed
+protocol: JVC
+address: 0f 0f 00 00
+command: 1a 00 00 00

@@ -1,0 +1,122 @@
+Filetype: IR signals file
+Version: 1
+#
+name: horizontalRIGHT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 0c 00 00 00
+#
+name: horizontalLEFT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 0d 00 00 00
+#
+name: verticalUP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 0e 00 00 00
+#
+name: verticalDOWN
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 0f 00 00 00
+#
+name: tiltDOWNRIGHT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 10 00 00 00
+#
+name: tiltDOWNLEFT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 11 00 00 00
+#
+name: contrastUP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 18 00 00 00
+#
+name: contrastDOWN
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 19 00 00 00
+#
+name: brightUP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 1e 00 00 00
+#
+name: brightDOWN
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 1f 00 00 00
+#
+name: widthRIGHT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 26 00 00 00
+#
+name: widthLEFT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 27 00 00 00
+#
+name: heightUP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 28 00 00 00
+#
+name: heightDOWN
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 29 00 00 00
+#
+name: converganceRIGHT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 2a 00 00 00
+#
+name: converganceLEFT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 2b 00 00 00
+#
+name: converganceUP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 2c 00 00 00
+#
+name: converganceDOWN
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 2d 00 00 00
+#
+name: sizeUP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 37 00 00 00
+#
+name: sizeDOWN
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 38 00 00 00

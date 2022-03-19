@@ -1,0 +1,434 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 00 00 00 00
+#
+name: 1
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 02 00 00 00
+#
+name: 3
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 03 00 00 00
+#
+name: 4
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 04 00 00 00
+#
+name: 5
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 05 00 00 00
+#
+name: 6
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 06 00 00 00
+#
+name: 7
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 07 00 00 00
+#
+name: 8
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 08 00 00 00
+#
+name: 9
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 09 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0a 00 00 00
+#
+name: DIGIT ENTER
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0b 00 00 00
+#
+name: POWER
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0c 00 00 00
+#
+name: WINDOWS
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0d 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0e 00 00 00
+#
+name: MORE INFO
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 0f 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 10 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 11 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 12 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 13 00 00 00
+#
+name: FAST FWD
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 14 00 00 00
+#
+name: REWIND
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 15 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 16 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 17 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 18 00 00 00
+#
+name: STOP
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 19 00 00 00
+#
+name: SKIP
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1a 00 00 00
+#
+name: REPLAY
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1b 00 00 00
+#
+name: NUMERIC_POUND
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1c 00 00 00
+#
+name: NUMERIC_STAR
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1d 00 00 00
+#
+name: UP
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1e 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 1f 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 20 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 21 00 00 00
+#
+name: OK
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 22 00 00 00
+#
+name: BACK
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 23 00 00 00
+#
+name: MENU DVD
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 24 00 00 00
+#
+name: LIVE TV
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 25 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 26 00 00 00
+#
+name: ZOOM
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 27 00 00 00
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 28 00 00 00
+#
+name: MY LIGHTS
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 33 00 00 00
+#
+name: MY DISTRIBUTED AUDIO
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 34 00 00 00
+#
+name: MY THERMOSAT
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 35 00 00 00
+#
+name: MY SECURITY
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 36 00 00 00
+#
+name: ONLINE SPOTLIGHT
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 3c 00 00 00
+#
+name: YELLOW/MY TV
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 46 00 00 00
+#
+name: GREEN/MY MUSIC
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 47 00 00 00
+#
+name: RECORDED TV
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 48 00 00 00
+#
+name: BLUE/MY PICTURES
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 49 00 00 00
+#
+name: RED/MY VIDEOS
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 4a 00 00 00
+#
+name: DVD ANGLE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 4b 00 00 00
+#
+name: DVD AUDIO
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 4c 00 00 00
+#
+name: DVD SUBTITLE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 4d 00 00 00
+#
+name: PRINT
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 4e 00 00 00
+#
+name: RADIO
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 50 00 00 00
+#
+name: TELETEXT
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 5a 00 00 00
+#
+name: RED
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 5b 00 00 00
+#
+name: GREEN
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 5c 00 00 00
+#
+name: YELLOW
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 5d 00 00 00
+#
+name: BLUE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 5e 00 00 00
+#
+name: TELETEXT INDEX
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 5f 00 00 00
+#
+name: ORANGE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 60 00 00 00
+#
+name: XE HOME
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 64 00 00 00
+#
+name: XE LIVE TV
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 65 00 00 00
+#
+name: XE PAGE UP
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 66 00 00 00
+#
+name: XE GUIDE
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 67 00 00 00
+#
+name: XE PAGE DOWN
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 68 00 00 00
+#
+name: MESSENGER
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 69 00 00 00
+#
+name: KIOSK
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 6a 00 00 00
+#
+name: OEM1
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 80 00 00 00
+#
+name: OEM2
+type: parsed
+protocol: MCE
+address: 04 04 00 00
+command: 81 00 00 00

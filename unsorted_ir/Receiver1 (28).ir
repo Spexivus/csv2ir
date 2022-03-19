@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: DSL
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 31 00 00 00
+#
+name: SURROUND ON/OFF
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 3f 00 00 00
+#
+name: SURROUND MODE
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 46 00 00 00
+#
+name: MODE
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 77 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 78 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 79 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7a 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Sony12
+address: 0c 0c 00 00
+command: 7b 00 00 00

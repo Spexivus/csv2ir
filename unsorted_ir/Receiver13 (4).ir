@@ -1,0 +1,128 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VIDEO1 CH ^ (ANY ^)
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 00 00 00 00
+#
+name: VIDEO1 CH V (ANY V)
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 01 00 00 00
+#
+name: VIDEO1 STOP (BAND)
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 04 00 00 00
+#
+name: VIDEO1 PLAY (P.CALL)
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 05 00 00 00
+#
+name: VIDEO1 REC
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 06 00 00 00
+#
+name: VIDEO1 POWER
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 08 00 00 00
+#
+name: VIDEO POWER
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 08 00 00 00
+#
+name: VCR/TV (LEVEL AUDIO)
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 0a 00 00 00
+#
+name: VIDEO1 >> (TUNING)
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 0c 00 00 00
+#
+name: VIDEO1 << (TUNING)
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 0d 00 00 00
+#
+name: VIDEO1 PAUSE (AUTO)
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 0e 00 00 00
+#
+name: VIDEO1 1
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 10 00 00 00
+#
+name: VIDEO1 2
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 11 00 00 00
+#
+name: VIDEO1 3
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 12 00 00 00
+#
+name: VIDEO1 4
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 13 00 00 00
+#
+name: VIDEO1 5
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 14 00 00 00
+#
+name: VIDEO1 6
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 15 00 00 00
+#
+name: VIDEO1 7
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 16 00 00 00
+#
+name: VIDEO1 8
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 17 00 00 00
+#
+name: VIDEO1 9
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 18 00 00 00
+#
+name: VIDEO1 0
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 1a 00 00 00

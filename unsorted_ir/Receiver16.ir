@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ENTER
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 0b 00 00 00
+#
+name: RETURN/EXIT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 0e 00 00 00
+#
+name: 
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 2e 00 00 00
+#
+name: D.TUNING
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 34 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 79 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 7a 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 7b 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 7c 00 00 00

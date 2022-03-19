@@ -1,0 +1,164 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_POWER
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 40 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 43 00 00 00
+#
+name: poen
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 44 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 4c 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 4d 00 00 00
+#
+name: display_mode
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 54 00 00 00
+#
+name: index_right
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 56 00 00 00
+#
+name: index_left
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 57 00 00 00
+#
+name: KEY_PREVIOUS
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 58 00 00 00
+#
+name: KEY_NEXT
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 59 00 00 00
+#
+name: reapet
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 5b 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 61 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 62 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 63 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 64 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 65 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 66 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 68 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 68 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 69 00 00 00
+#
+name: program
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6a 00 00 00
+#
+name: KEY_CANCEL
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6d 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6e 00 00 00
+#
+name: KEY_10CHANNELSUP
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 6f 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 70 00 00 00
+#
+name: random
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 72 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: JVC
+address: b3 b3 00 00
+command: 76 00 00 00

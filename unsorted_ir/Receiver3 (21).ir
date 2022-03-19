@@ -1,0 +1,158 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ZONE 2 VOL. UP - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 01 00 00 00
+#
+name: ZONE 2 VOL. DOWN - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 02 00 00 00
+#
+name: ZONE 2 MUTE TOG. - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 03 00 00 00
+#
+name: ZONE 2 MUTE ON - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 04 00 00 00
+#
+name: ZONE 2 MUTE OFF - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 05 00 00 00
+#
+name: ZONE 2 CD- R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 06 00 00 00
+#
+name: ZONE 2 DVD - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 07 00 00 00
+#
+name: ZONE 2 SAT
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 08 00 00 00
+#
+name: ZONE 2 AV - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 09 00 00 00
+#
+name: ZONE 2 TAPE - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 0a 00 00 00
+#
+name: ZONE 2 VCR - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 0b 00 00 00
+#
+name: ZONE 2 DVR - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 0c 00 00 00
+#
+name: ZONE 2 AUX - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 0d 00 00 00
+#
+name: ZONE 2 FM - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 0e 00 00 00
+#
+name: ZONE 2 AM - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 0f 00 00 00
+#
+name: ZONE 2 SIRIUS - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 10 00 00 00
+#
+name: ZONE 2 NET - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 13 00 00 00
+#
+name: ZONE 3 VOL. UP - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 14 00 00 00
+#
+name: ZONE 3 VOL. DOWN - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 15 00 00 00
+#
+name: ZONE 3 MUTE - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 16 00 00 00
+#
+name: ZONE 3 MUTE ON - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 17 00 00 00
+#
+name: ZONE 3 MUTE OFF - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 18 00 00 00
+#
+name: ZONE 3 POWER ON - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 79 00 00 00
+#
+name: ZONE 3 POWER OFF - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 7a 00 00 00
+#
+name: ZONE 2 PWR ON - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 7b 00 00 00
+#
+name: ZONE 2 PWR OFF - R
+type: parsed
+protocol: RC5
+address: 17 17 00 00
+command: 7c 00 00 00

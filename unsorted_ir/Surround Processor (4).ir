@@ -1,0 +1,158 @@
+Filetype: IR signals file
+Version: 1
+#
+name: AUDIO1
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 80 00 00 00
+#
+name: AUDIO2
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 81 00 00 00
+#
+name: AUDIO3
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 82 00 00 00
+#
+name: RF
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 83 00 00 00
+#
+name: VIDEO1
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 83 00 00 00
+#
+name: TOSLINK
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 84 00 00 00
+#
+name: VIDEO2
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 84 00 00 00
+#
+name: COAX1
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 85 00 00 00
+#
+name: VIDEO3
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 85 00 00 00
+#
+name: COAX2
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 86 00 00 00
+#
+name: VIDEO4
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 86 00 00 00
+#
+name: STEREO-DIRECT
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 90 00 00 00
+#
+name: 5.1
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 91 00 00 00
+#
+name: PROLOGIC
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 94 00 00 00
+#
+name: THX
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 95 00 00 00
+#
+name: MONO
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 9c 00 00 00
+#
+name: ON
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: c0 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: c8 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: cb 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: cc 00 00 00
+#
+name: OFF
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: cf 00 00 00
+#
+name: 2CH
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: d0 00 00 00
+#
+name: SURROUND
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: d1 00 00 00
+#
+name: DIALOGNORMALIZATION
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: d2 00 00 00
+#
+name: DYNAMIC RANGE
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: d3 00 00 00
+#
+name: RE-EQ
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: d7 00 00 00

@@ -1,0 +1,362 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 1
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 00 00 00 00
+#
+name: TUNER 1
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 00 00 00 00
+#
+name: RADIO CH 1
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 00 00 00 00
+#
+name: 2
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 01 00 00 00
+#
+name: TUNER 2
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 01 00 00 00
+#
+name: RADIO CH 2
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 01 00 00 00
+#
+name: 3
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 02 00 00 00
+#
+name: TUNER 3
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 02 00 00 00
+#
+name: RADIO CH 3
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 02 00 00 00
+#
+name: 4
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 03 00 00 00
+#
+name: TUNER 4
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 03 00 00 00
+#
+name: RADIO CH 4
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 03 00 00 00
+#
+name: 5
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 04 00 00 00
+#
+name: TUNER 5
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 04 00 00 00
+#
+name: RADIO CH 5
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 04 00 00 00
+#
+name: 6
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 05 00 00 00
+#
+name: TUNER 6
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 05 00 00 00
+#
+name: RADIO CH 6
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 05 00 00 00
+#
+name: 7
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 06 00 00 00
+#
+name: TUNER 7
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 06 00 00 00
+#
+name: RADIO CH 7
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 06 00 00 00
+#
+name: 8
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 07 00 00 00
+#
+name: TUNER 8
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 07 00 00 00
+#
+name: RADIO CH 8
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 07 00 00 00
+#
+name: 9
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 08 00 00 00
+#
+name: TUNER 9
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 08 00 00 00
+#
+name: RADIO CH 9
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 08 00 00 00
+#
+name: 0
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 09 00 00 00
+#
+name: RADIO CH 0
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 09 00 00 00
+#
+name: TUNER MEMORY
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 0e 00 00 00
+#
+name: TUNER AM/FM
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 0f 00 00 00
+#
+name: AM/FM
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 0f 00 00 00
+#
+name: PRESET +
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 10 00 00 00
+#
+name: TUNER PRESET
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 10 00 00 00
+#
+name: CH/PRESET +
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 10 00 00 00
+#
+name: CH. PRESET +
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 10 00 00 00
+#
+name: PRESET UP
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 10 00 00 00
+#
+name: PRESET -
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 11 00 00 00
+#
+name: CH/PRESET -
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 11 00 00 00
+#
+name: CH. PRESET -
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 11 00 00 00
+#
+name: PRESET DOWN
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 11 00 00 00
+#
+name: SCAN +
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 12 00 00 00
+#
+name: TUNER (-)
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 13 00 00 00
+#
+name: SCAN -
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 13 00 00 00
+#
+name: TUNER PRESET A
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 30 00 00 00
+#
+name: A
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 30 00 00 00
+#
+name: TUNER PRESET B
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 31 00 00 00
+#
+name: B
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 31 00 00 00
+#
+name: TUNER PRESET C
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 32 00 00 00
+#
+name: C
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 32 00 00 00
+#
+name: >10
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 33 00 00 00
+#
+name: TUNER SHIFT
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 33 00 00 00
+#
+name: RADIO CH >10
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 33 00 00 00
+#
+name: SHIFT/ >10
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 33 00 00 00
+#
+name: SHIFT
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 33 00 00 00
+#
+name: INDEX
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 52 00 00 00
+#
+name: DIRECT TUNE/ENTER
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 53 00 00 00
+#
+name: TUNER DIRECT INPUT
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 53 00 00 00
+#
+name: RADIO D.TUNNING
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 53 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 53 00 00 00

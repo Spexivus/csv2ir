@@ -1,0 +1,308 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 4
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 02 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 12 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 14 00 00 00
+#
+name: RED
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 17 00 00 00
+#
+name: L1
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 18 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 1a 00 00 00
+#
+name: YELLOW
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 1b 00 00 00
+#
+name: TRIANGLE
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 1c 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 34 00 00 00
+#
+name: R2
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 38 00 00 00
+#
+name: 3
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 3a 00 00 00
+#
+name: 1
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 52 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 53 00 00 00
+#
+name: SCAN +
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 54 00 00 00
+#
+name: BLUE
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 57 00 00 00
+#
+name: 0
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 5a 00 00 00
+#
+name: GREEN
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 5b 00 00 00
+#
+name: R1
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 5c 00 00 00
+#
+name: CIRCLE
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 6c 00 00 00
+#
+name: R3
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 71 00 00 00
+#
+name: SUBTITLE
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 72 00 00 00
+#
+name: POP UP MENU
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 73 00 00 00
+#
+name: 7
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 74 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 75 00 00 00
+#
+name: UP
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 76 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 77 00 00 00
+#
+name: L2
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 78 00 00 00
+#
+name: L3
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 79 00 00 00
+#
+name: SLOW +
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 7a 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 7b 00 00 00
+#
+name: 8
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 7c 00 00 00
+#
+name: PS
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 7d 00 00 00
+#
+name: START
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 7e 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 7f 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 94 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: 9a 00 00 00
+#
+name: SQUARE
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: ab 00 00 00
+#
+name: 2
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: b2 00 00 00
+#
+name: TOP MENU
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: b4 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: ba 00 00 00
+#
+name: 9
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: bc 00 00 00
+#
+name: TIME
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: c2 00 00 00
+#
+name: CROSS
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: c7 00 00 00
+#
+name: CHAPTER -
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: d2 00 00 00
+#
+name: SCAN -
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: d4 00 00 00
+#
+name: SLOW -
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: da 00 00 00
+#
+name: ANGLE
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: dc 00 00 00
+#
+name: 6
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: e2 00 00 00
+#
+name: CHAPTER +
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: ea 00 00 00
+#
+name: EJECT
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: f4 00 00 00
+#
+name: 5
+type: parsed
+protocol: Logitech
+address: 0b 0b 00 00
+command: fc 00 00 00

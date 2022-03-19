@@ -1,0 +1,152 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: Z1
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: Z2
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: 
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: Z3
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: Z4
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: Z5
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 1b 00 00 00
+#
+name: 
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 1b 00 00 00
+#
+name: Z6
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: Z7
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: Z8
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: 
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: MAN
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 32 00 00 00
+#
+name: S1
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 33 00 00 00
+#
+name: S2
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 34 00 00 00
+#
+name: S3
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: 
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 35 00 00 00
+#
+name: S4
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: 
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 36 00 00 00
+#
+name: AUTO
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 3a 00 00 00
+#
+name: S5
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 3b 00 00 00
+#
+name: S6
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: S7
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 3d 00 00 00
+#
+name: S8
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 3e 00 00 00

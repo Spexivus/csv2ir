@@ -1,0 +1,1514 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER TOG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 0f 00 00 00
+#
+name: 0
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 10 00 00 00
+#
+name: FM/XM: 0
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 10 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 11 00 00 00
+#
+name: FM/XM: 1
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 11 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 12 00 00 00
+#
+name: FM/XM: 2
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 12 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 13 00 00 00
+#
+name: FM/XM: 3
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 13 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 14 00 00 00
+#
+name: FM/XM: 4
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 14 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 15 00 00 00
+#
+name: FM/XM: 5
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 15 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 16 00 00 00
+#
+name: FM/XM: 6
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 16 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 17 00 00 00
+#
+name: FM/XM: 7
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 17 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 18 00 00 00
+#
+name: FM/XM: 8
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 18 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 19 00 00 00
+#
+name: FM/XM: 9
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 19 00 00 00
+#
+name: FM UP
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1b 00 00 00
+#
+name: SUR UPP
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1b 00 00 00
+#
+name: PRESET +
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1b 00 00 00
+#
+name: FM/XM: PRESET +
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1b 00 00 00
+#
+name: FM DOWN
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1c 00 00 00
+#
+name: SUR NER
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1c 00 00 00
+#
+name: PRESET -
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1c 00 00 00
+#
+name: FM/XM: PRESET -
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1c 00 00 00
+#
+name: FM A-E
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1d 00 00 00
+#
+name: XM CATEGORY +
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1d 00 00 00
+#
+name: FM/XM: PG/CAT+
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1d 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1e 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1e 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1f 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 1f 00 00 00
+#
+name: CH LEVEL
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 48 00 00 00
+#
+name: LEVEL
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 48 00 00 00
+#
+name: LEVEL TOG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 48 00 00 00
+#
+name: DSP: LEVEL TOGGLE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 48 00 00 00
+#
+name: INPUT AUX1
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 49 00 00 00
+#
+name: INPUT VCR
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 49 00 00 00
+#
+name: INPUT AUX 1
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 49 00 00 00
+#
+name: INPUT: AUX 1
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 49 00 00 00
+#
+name: INPUT DVD
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 4a 00 00 00
+#
+name: INPUT: DVD
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 4a 00 00 00
+#
+name: INPUT FM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 4b 00 00 00
+#
+name: INPUT: XM/FM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 4b 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 4e 00 00 00
+#
+name: SLEEP
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 4f 00 00 00
+#
+name: SLEEP TOG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 4f 00 00 00
+#
+name: SLEEP: TOGGLE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 4f 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 50 00 00 00
+#
+name: SUR STEREO
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 50 00 00 00
+#
+name: BEAM-STEREO
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 50 00 00 00
+#
+name: STEREO/5 CH STEREO
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 50 00 00 00
+#
+name: DSP: BMSTEREOTOG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 50 00 00 00
+#
+name: TEST
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 5f 00 00 00
+#
+name: TEST MODE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 5f 00 00 00
+#
+name: TEST MODE TOG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 5f 00 00 00
+#
+name: TEST (DOLBY)
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 5f 00 00 00
+#
+name: TEST TOGGLE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 5f 00 00 00
+#
+name: SEARCH MODE ALL CH
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 67 00 00 00
+#
+name: FM/XM: SRCHMD ALL
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 67 00 00 00
+#
+name: SEARCH MODE PREST
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 68 00 00 00
+#
+name: FM/XM: SRCHMPRES
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 68 00 00 00
+#
+name: DEMO 1 ON
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: 6b 00 00 00
+#
+name: DEMO 1 ON
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 6b 00 00 00
+#
+name: DEMO 1 OFF
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: 6c 00 00 00
+#
+name: DEMO 1 OFF
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 6c 00 00 00
+#
+name: TRUBASS MID
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: 6d 00 00 00
+#
+name: DEMO 2 ON
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: 6d 00 00 00
+#
+name: TRUBASS: MID
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 6d 00 00 00
+#
+name: DSP: TBASS ON MID
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 6d 00 00 00
+#
+name: TRUBASS DEEP
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: 6e 00 00 00
+#
+name: DEMO 2 OFF
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: 6e 00 00 00
+#
+name: TRUBASS: DEEP
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 6e 00 00 00
+#
+name: DSP: TBASS ON DEEP
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 6e 00 00 00
+#
+name: TRUBASS OFF
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: 6f 00 00 00
+#
+name: TRUBASS: OFF
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 6f 00 00 00
+#
+name: DSP: TBASS OFF
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 6f 00 00 00
+#
+name: PRESET MEMORY A
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 70 00 00 00
+#
+name: VOLUME MEMORY A
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 70 00 00 00
+#
+name: PRESET RECALL A
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 71 00 00 00
+#
+name: VOLUME RECALL A
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 71 00 00 00
+#
+name: PRESET MEMORY B
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 72 00 00 00
+#
+name: VOLUME MEMORY B
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 72 00 00 00
+#
+name: PRESET RECALL B
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 73 00 00 00
+#
+name: VOLUME RECALL B
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 73 00 00 00
+#
+name: PRESET MEMORY C
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 74 00 00 00
+#
+name: VOLUME MEMORY C
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 74 00 00 00
+#
+name: PRESET RECALL C
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 75 00 00 00
+#
+name: VOLUME RECALL C
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 75 00 00 00
+#
+name: MEMORY SAVE USER1
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 76 00 00 00
+#
+name: MEMORY LOAD USER1
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 77 00 00 00
+#
+name: MEMORY SAVE USER2
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 78 00 00 00
+#
+name: MEMORY LOAD USER2
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 79 00 00 00
+#
+name: MEMORY SAVE USER3
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 7a 00 00 00
+#
+name: MEMORY LOAD USER3
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 7b 00 00 00
+#
+name: TV EQUAL VOL ON
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: 7c 00 00 00
+#
+name: TV MODE: ON
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 7c 00 00 00
+#
+name: DSP: TV MODE ON
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 7c 00 00 00
+#
+name: INPUT XM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 7d 00 00 00
+#
+name: INPUT: XM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 7d 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 7e 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 7f 00 00 00
+#
+name: VOL MODE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8a 00 00 00
+#
+name: NIGHT TOG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8a 00 00 00
+#
+name: VOLUME MODE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8a 00 00 00
+#
+name: DSP: VOL MODE TOG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8a 00 00 00
+#
+name: TRUBASS TOG
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: 8b 00 00 00
+#
+name: SRS TRUBASS
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8b 00 00 00
+#
+name: DSP: TBASS TOGG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8b 00 00 00
+#
+name: INPUTMODE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8d 00 00 00
+#
+name: INPUT MODE: TOGGLE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8d 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8e 00 00 00
+#
+name: SET MENU UP
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8e 00 00 00
+#
+name: UP
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8e 00 00 00
+#
+name: SET: CURSOR UP
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8e 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8f 00 00 00
+#
+name: SET MENU DOWN
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8f 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8f 00 00 00
+#
+name: SET: CURSOR DOWN
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 8f 00 00 00
+#
+name: SUR DECODE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 99 00 00 00
+#
+name: SURROUND TOG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 99 00 00 00
+#
+name: DSP: T SURROUND
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 99 00 00 00
+#
+name: 0
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9b 00 00 00
+#
+name: SUR OFF
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9b 00 00 00
+#
+name: DSP OFF
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: 9b 00 00 00
+#
+name: CINEMA DSP: OFF
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9b 00 00 00
+#
+name: DSP: CDSP OFF
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9b 00 00 00
+#
+name: VOLUME MUTE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9c 00 00 00
+#
+name: MUTE TOG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9c 00 00 00
+#
+name: NIGHT MODE OFF
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9c 00 00 00
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9c 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9d 00 00 00
+#
+name: SET MENU
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9d 00 00 00
+#
+name: SET MENU TOG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9d 00 00 00
+#
+name: SET: SET MENU
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9d 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9e 00 00 00
+#
+name: SET MENU +
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9e 00 00 00
+#
+name: SET MENU RIGHT
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9e 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9e 00 00 00
+#
+name: SET: CURSOR RIGHT
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9e 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9f 00 00 00
+#
+name: SUR A-E
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9f 00 00 00
+#
+name: SET MENU -
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9f 00 00 00
+#
+name: SET MENU LEFT
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9f 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9f 00 00 00
+#
+name: SET: CURSOR LEFT
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: 9f 00 00 00
+#
+name: MUTE ON
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: a2 00 00 00
+#
+name: AUTO SETUP
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: a3 00 00 00
+#
+name: AUTO INTELLIBEAM
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: a3 00 00 00
+#
+name: INTELLIBEAM START
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: a3 00 00 00
+#
+name: MUTE OFF
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: a3 00 00 00
+#
+name: SET: IBM START TRIGG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: a3 00 00 00
+#
+name: +10
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: a5 00 00 00
+#
+name: FM PRESET/TUNE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: a8 00 00 00
+#
+name: PRESET/TUNE MODE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: a8 00 00 00
+#
+name: FM/XM: PRES/TUNE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: a8 00 00 00
+#
+name: TUNING-/PRESET-
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: a9 00 00 00
+#
+name: FM/XM: TUN/PRE-
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: a9 00 00 00
+#
+name: TUNING+/PRESET+
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: aa 00 00 00
+#
+name: FM/XM: TUN/PRE+
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: aa 00 00 00
+#
+name: PRESET E CATEGORY
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: ab 00 00 00
+#
+name: FM/XM: PAGE E
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: ab 00 00 00
+#
+name: PRESET D CATEGORY
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: ac 00 00 00
+#
+name: FM/XM: PAGE D
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: ac 00 00 00
+#
+name: PRESET C CATEGORY
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: ad 00 00 00
+#
+name: FM/XM: PAGE C
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: ad 00 00 00
+#
+name: PRESET B CATEGORY
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: ae 00 00 00
+#
+name: FM/XM: PAGE B
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: ae 00 00 00
+#
+name: PRESET A CATEGORY
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: af 00 00 00
+#
+name: FM/XM: PAGE A
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: af 00 00 00
+#
+name: AUTO SEARCH -
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b0 00 00 00
+#
+name: FM/XM: AUTO SRCH-
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b0 00 00 00
+#
+name: AUTO SEARCH +
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b1 00 00 00
+#
+name: FM/XM: AUTO SRCH+
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b1 00 00 00
+#
+name: FM MEMORY
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b2 00 00 00
+#
+name: MEMORY
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b2 00 00 00
+#
+name: FM/XM: MEMORY
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b2 00 00 00
+#
+name: INPUT FM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b6 00 00 00
+#
+name: INPUT: FM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b6 00 00 00
+#
+name: FM SEARCH
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b7 00 00 00
+#
+name: FM/XM: SRCH MODE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b7 00 00 00
+#
+name: XM DISPLAY
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b8 00 00 00
+#
+name: FM/XM: XM DISPLAY
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: b8 00 00 00
+#
+name: XM CATEGORY -
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: bb 00 00 00
+#
+name: FM/XM: PG/CAT-
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: bb 00 00 00
+#
+name: INPUT AUX3
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: bc 00 00 00
+#
+name: INPUT AUX 3
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: bc 00 00 00
+#
+name: INPUT: AUX 3
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: bc 00 00 00
+#
+name: XM ENTER
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: bd 00 00 00
+#
+name: FM/XM: XM ENTER
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: bd 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c0 00 00 00
+#
+name: SET MENU RETURN
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c0 00 00 00
+#
+name: SET: RETURN
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c0 00 00 00
+#
+name: CURSOR ENTER
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c1 00 00 00
+#
+name: SET MENU SELECT
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c1 00 00 00
+#
+name: SET MENU ENTER
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c1 00 00 00
+#
+name: SET: ENTER
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c1 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c2 00 00 00
+#
+name: SUR 5BEAM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c2 00 00 00
+#
+name: BEAM-5BEAM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c2 00 00 00
+#
+name: 5 BEAM MODE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c2 00 00 00
+#
+name: DSP: BM 5 BEAM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c2 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c3 00 00 00
+#
+name: SUR ST+3BEAM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c3 00 00 00
+#
+name: BEAM-ST+3BEAM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c3 00 00 00
+#
+name: ST+3 BEAM MODE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c3 00 00 00
+#
+name: DSP: BM ST+3 BEA
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c3 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c4 00 00 00
+#
+name: SUR 3BEAM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c4 00 00 00
+#
+name: BEAM-3BEAM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c4 00 00 00
+#
+name: 3 BEAM MODE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c4 00 00 00
+#
+name: DSP: BM 3 BEAM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c4 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c5 00 00 00
+#
+name: SUR MY BEAM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c5 00 00 00
+#
+name: BEAM-TARGET
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: c5 00 00 00
+#
+name: BEAM-MY BEAM AUTO
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: c5 00 00 00
+#
+name: DSP: BM MY BEAM
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c5 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c6 00 00 00
+#
+name: SUR MY SUR
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c6 00 00 00
+#
+name: DSP: BM MY SURR.
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: c6 00 00 00
+#
+name: ENHANCER
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: cb 00 00 00
+#
+name: MUSIC ENHANCER TOGGL
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: cb 00 00 00
+#
+name: DSP: M ENHAN TOG
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: cb 00 00 00
+#
+name: DSP: T MUSIC ENHA
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: cb 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: cc 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: d9 00 00 00
+#
+name: SUR MOVIE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: d9 00 00 00
+#
+name: DSP MOVIE TOG
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: d9 00 00 00
+#
+name: CINEMA DSP (MOVIE) T
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: d9 00 00 00
+#
+name: DSP: T CDSP MOVIE
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: d9 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: da 00 00 00
+#
+name: SUR MUSIC
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: da 00 00 00
+#
+name: DSP MUSIC TOG
+type: parsed
+protocol: NECext
+address: 78 78 00 00
+command: da 00 00 00
+#
+name: CINEMA DSP (MUSIC) T
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: da 00 00 00
+#
+name: DSP: T CDSP MUSIC
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: da 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: db 00 00 00
+#
+name: SUR SPORTS
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: db 00 00 00
+#
+name: CINEMA DSP (SPORTS)
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: db 00 00 00
+#
+name: DSP: CDSP SPORTS
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: db 00 00 00
+#
+name: INPUT AUX2
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: de 00 00 00
+#
+name: INPUT AUX
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: de 00 00 00
+#
+name: INPUT AUX 2
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: de 00 00 00
+#
+name: INPUT: AUX 2
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: de 00 00 00
+#
+name: INPUT STB
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: df 00 00 00
+#
+name: INPUT TV
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: df 00 00 00
+#
+name: INPUT TV/STB
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: df 00 00 00
+#
+name: MUTE 20%
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: df 00 00 00
+#
+name: INPUT: TV/STB
+type: parsed
+protocol: NEC1
+address: 78 78 00 00
+command: df 00 00 00

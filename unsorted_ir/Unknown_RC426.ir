@@ -1,0 +1,176 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 00 00 00 00
+#
+name: 1
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 02 00 00 00
+#
+name: 3
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 03 00 00 00
+#
+name: 4
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 04 00 00 00
+#
+name: 5
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 05 00 00 00
+#
+name: 6
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 06 00 00 00
+#
+name: 7
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 07 00 00 00
+#
+name: 8
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 08 00 00 00
+#
+name: 9
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 09 00 00 00
+#
+name: M
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 0b 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 0c 00 00 00
+#
+name: TV
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 0d 00 00 00
+#
+name: ARROW_UP
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 0e 00 00 00
+#
+name: ARROW_DOWN
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 0f 00 00 00
+#
+name: ARROW_RIGHT
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 16 00 00 00
+#
+name: ARROW_LEFT
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 17 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 25 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 28 00 00 00
+#
+name: SKIP
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 2d 00 00 00
+#
+name: TIMER
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 33 00 00 00
+#
+name: COPY
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 3b 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 49 00 00 00
+#
+name: VIDEO
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 4a 00 00 00
+#
+name: LNB
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 4b 00 00 00
+#
+name: SYNC
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 53 00 00 00
+#
+name: ME
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 54 00 00 00
+#
+name: VCR
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 55 00 00 00
+#
+name: RADIO
+type: parsed
+protocol: NRC16
+address: 36 36 00 00
+command: 56 00 00 00

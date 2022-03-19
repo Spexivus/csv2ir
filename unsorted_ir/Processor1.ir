@@ -1,0 +1,206 @@
+Filetype: IR signals file
+Version: 1
+#
+name: LEFT ARROW
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 7f 00 00 00
+#
+name: DBS ZONE 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8a 00 00 00
+#
+name: ZN2 VOL UP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8d 00 00 00
+#
+name: ZONE 2 VOL +
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8d 00 00 00
+#
+name: ZONE 2 VOL DOWN
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8e 00 00 00
+#
+name: ZONE 2 VOL -
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8e 00 00 00
+#
+name: PHONO ZONE 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 8f 00 00 00
+#
+name: SOURCE TOGGLE
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 90 00 00 00
+#
+name: ZONE 2 CD
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 90 00 00 00
+#
+name: ZONE 2 IPOD
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 90 00 00 00
+#
+name: CD ZONE 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 90 00 00 00
+#
+name: TUNER ZONE 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 91 00 00 00
+#
+name: VDP ZONE 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 92 00 00 00
+#
+name: ZONE2 MUSICSERVER
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 93 00 00 00
+#
+name: V AUX ZONE 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 93 00 00 00
+#
+name: VCR 1 ZONE 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 94 00 00 00
+#
+name: VCR2 ZONE 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 99 00 00 00
+#
+name: TV ZONE 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 9b 00 00 00
+#
+name: TAPE ZONE 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 9c 00 00 00
+#
+name: SURR STEREO
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 9d 00 00 00
+#
+name: SURR DIRECT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: 9e 00 00 00
+#
+name: SYSTEM SETUP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a0 00 00 00
+#
+name: SETUP
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a0 00 00 00
+#
+name: SURR PARAMETER
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a1 00 00 00
+#
+name: SEARCH PARAMETER
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a1 00 00 00
+#
+name: UP ARROW
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a3 00 00 00
+#
+name: DOWN ARROW
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a4 00 00 00
+#
+name: SURR 5CH/7CH STEREO
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a8 00 00 00
+#
+name: 7 CHANNEL
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: a8 00 00 00
+#
+name: VIDEO OFF
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: b2 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: b6 00 00 00
+#
+name: ZONE 2 DVD
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: be 00 00 00
+#
+name: DVD ZONE 2
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: be 00 00 00
+#
+name: MODE
+type: parsed
+protocol: Denon
+address: 0c 0c 00 00
+command: d8 00 00 00

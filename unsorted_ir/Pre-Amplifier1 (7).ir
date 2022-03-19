@@ -1,0 +1,32 @@
+Filetype: IR signals file
+Version: 1
+#
+name: LD STOP []
+type: parsed
+protocol: NEC1
+address: b6 b6 00 00
+command: 11 00 00 00
+#
+name: LD PAUSE 
+type: parsed
+protocol: NEC1
+address: b6 b6 00 00
+command: 12 00 00 00
+#
+name: LD REW <<
+type: parsed
+protocol: NEC1
+address: b6 b6 00 00
+command: 14 00 00 00
+#
+name: LD FF >>
+type: parsed
+protocol: NEC1
+address: b6 b6 00 00
+command: 15 00 00 00
+#
+name: LD PLAY >
+type: parsed
+protocol: NEC1
+address: b6 b6 00 00
+command: 9a 00 00 00

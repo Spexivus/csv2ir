@@ -1,0 +1,146 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_INFO
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 14 00 00 00
+#
+name: pdown
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 15 00 00 00
+#
+name: pup
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 16 00 00 00
+#
+name: aup
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 18 00 00 00
+#
+name: KEY_EPG
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 1a 00 00 00
+#
+name: nul
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 1b 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 1c 00 00 00
+#
+name: vdown
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 1d 00 00 00
+#
+name: vup
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 1e 00 00 00
+#
+name: aleft
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 41 00 00 00
+#
+name: KEY_BACK
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 42 00 00 00
+#
+name: KEY_OK
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 45 00 00 00
+#
+name: adown
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 46 00 00 00
+#
+name: aright
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 49 00 00 00
+#
+name: KEY_EXIT
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 4a 00 00 00
+#
+name: zeven
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 54 00 00 00
+#
+name: vier
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 55 00 00 00
+#
+name: een
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 56 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 57 00 00 00
+#
+name: vijf
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 59 00 00 00
+#
+name: twee
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 5a 00 00 00
+#
+name: zes
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 5d 00 00 00
+#
+name: drie
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 5e 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 01 01 00 00
+command: 5f 00 00 00

@@ -1,0 +1,266 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0c 00 00 00
+#
+name: POWER T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0c 00 00 00
+#
+name: MUTE T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0d 00 00 00
+#
+name: MUTE T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0d 00 00 00
+#
+name: VOL+ T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: VOL+ T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: VOL- T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: VOL- T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: TUN T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 14 00 00 00
+#
+name: TUN T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 14 00 00 00
+#
+name: CD T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 15 00 00 00
+#
+name: CD T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 15 00 00 00
+#
+name: TP1 T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 16 00 00 00
+#
+name: TP1 T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 16 00 00 00
+#
+name: TP2 T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 17 00 00 00
+#
+name: TP2 T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 17 00 00 00
+#
+name: AUX T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 18 00 00 00
+#
+name: AUX T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 18 00 00 00
+#
+name: BAL R T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1a 00 00 00
+#
+name: BAL R T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1a 00 00 00
+#
+name: BAL L T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1b 00 00 00
+#
+name: BAL L T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 1b 00 00 00
+#
+name: TIMER T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 26 00 00 00
+#
+name: TIMER T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 26 00 00 00
+#
+name: ALARM T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 29 00 00 00
+#
+name: ALARM T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 29 00 00 00
+#
+name: TIME T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 2a 00 00 00
+#
+name: TIME T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 2a 00 00 00
+#
+name: TIME+ T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 2b 00 00 00
+#
+name: TIME+ T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 2b 00 00 00
+#
+name: TIME- T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 2c 00 00 00
+#
+name: TIME- T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 2c 00 00 00
+#
+name: REC T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 37 00 00 00
+#
+name: REC T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 37 00 00 00
+#
+name: LISTEN T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 38 00 00 00
+#
+name: LISTEN T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 38 00 00 00
+#
+name: BASS+ T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 6b 00 00 00
+#
+name: BASS+ T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 6b 00 00 00
+#
+name: BASS- T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 6c 00 00 00
+#
+name: BASS- T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 6c 00 00 00
+#
+name: TREB+ T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 6d 00 00 00
+#
+name: TREB+ T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 6d 00 00 00
+#
+name: TREB- T0
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 6e 00 00 00
+#
+name: TREB- T1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 6e 00 00 00

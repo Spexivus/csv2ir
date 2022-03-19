@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 4f 00 00 00
+#
+name: TUNER MEMORY
+type: parsed
+protocol: NEC
+address: b8 b8 00 00
+command: 4f 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 4f 00 00 00
+#
+name: MPEG
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: c6 00 00 00

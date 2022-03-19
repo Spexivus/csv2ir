@@ -1,0 +1,80 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER - ON
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 01 00 00 00
+#
+name: POWER - OFF
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 02 00 00 00
+#
+name: INPUT - VIDEO
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 05 00 00 00
+#
+name: INPUT - RGB
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 08 00 00 00
+#
+name: VOLUME - UP
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 20 00 00 00
+#
+name: VOLUME - DOWN
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 21 00 00 00
+#
+name: CURSOR - LEFT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 3e 00 00 00
+#
+name: CURSOR - RIGHT
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 3f 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 40 00 00 00
+#
+name: CURSOR - UP
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 41 00 00 00
+#
+name: CURSOR - DOWN
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 42 00 00 00
+#
+name: CURSOR - ENTER
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 5b 00 00 00
+#
+name: WIDE
+type: parsed
+protocol: Fujitsu
+address: 84 84 00 00
+command: 80 00 00 00

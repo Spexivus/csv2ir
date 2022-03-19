@@ -1,0 +1,242 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 01 00 00 00
+#
+name: INPUT 1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 02 00 00 00
+#
+name: INPUT 2
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 02 00 00 00
+#
+name: 3
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 03 00 00 00
+#
+name: INPUT 3
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 03 00 00 00
+#
+name: 4
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 04 00 00 00
+#
+name: INPUT 4
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 04 00 00 00
+#
+name: 5
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 05 00 00 00
+#
+name: INPUT 5
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 05 00 00 00
+#
+name: 6
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 06 00 00 00
+#
+name: INPUT 6
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 06 00 00 00
+#
+name: A-D
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 07 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 08 00 00 00
+#
+name: MODE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 09 00 00 00
+#
+name: TAPE OUT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0a 00 00 00
+#
+name: SET UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0b 00 00 00
+#
+name: SETUP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0b 00 00 00
+#
+name: BALANCE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0c 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0d 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0e 00 00 00
+#
+name: POWER
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0e 00 00 00
+#
+name: UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0f 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0f 00 00 00
+#
+name: LEVEL UP
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0f 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: LEVEL DOWN
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: ACCY
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: REMOTE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: STATUS
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 12 00 00 00
+#
+name: <
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 13 00 00 00
+#
+name: LEVEL LEFT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 13 00 00 00
+#
+name: >
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 14 00 00 00
+#
+name: LEVEL RIGHT
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 14 00 00 00
+#
+name: PHASE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 15 00 00 00
+#
+name: +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 16 00 00 00
+#
+name: SELECT +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 16 00 00 00
+#
+name: _
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 17 00 00 00
+#
+name: SELECT -
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 17 00 00 00

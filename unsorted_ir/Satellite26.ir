@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VOLUME +
+type: parsed
+protocol: Sony15
+address: 30 30 00 00
+command: 12 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: Sony15
+address: 30 30 00 00
+command: 13 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Sony15
+address: 30 30 00 00
+command: 14 00 00 00

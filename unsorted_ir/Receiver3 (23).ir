@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VOLUME +
+type: parsed
+protocol: Sony12
+address: 10 10 00 00
+command: 12 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: Sony12
+address: 10 10 00 00
+command: 13 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Sony12
+address: 10 10 00 00
+command: 14 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Sony12
+address: 10 10 00 00
+command: 15 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: Sony12
+address: 10 10 00 00
+command: 1e 00 00 00
+#
+name: PHONO
+type: parsed
+protocol: Sony12
+address: 10 10 00 00
+command: 20 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: Sony12
+address: 10 10 00 00
+command: 21 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: Sony12
+address: 10 10 00 00
+command: 22 00 00 00
+#
+name: TAPE
+type: parsed
+protocol: Sony12
+address: 10 10 00 00
+command: 23 00 00 00
+#
+name: CD
+type: parsed
+protocol: Sony12
+address: 10 10 00 00
+command: 25 00 00 00
+#
+name: DAT
+type: parsed
+protocol: Sony12
+address: 10 10 00 00
+command: 46 00 00 00

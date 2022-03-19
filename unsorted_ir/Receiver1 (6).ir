@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CD - SKIP +
+type: parsed
+protocol: NEC1
+address: 86 86 00 00
+command: 00 00 00 00
+#
+name: DISC +
+type: parsed
+protocol: NEC1
+address: 86 86 00 00
+command: 02 00 00 00
+#
+name: CD - SKIP -
+type: parsed
+protocol: NEC1
+address: 86 86 00 00
+command: 04 00 00 00
+#
+name: CD - PAUSE
+type: parsed
+protocol: NEC1
+address: 86 86 00 00
+command: 05 00 00 00
+#
+name: CD - PLAY
+type: parsed
+protocol: NEC1
+address: 86 86 00 00
+command: 08 00 00 00
+#
+name: CD - STOP
+type: parsed
+protocol: NEC1
+address: 86 86 00 00
+command: 09 00 00 00
+#
+name: CD - FF
+type: parsed
+protocol: NEC1
+address: 86 86 00 00
+command: 0c 00 00 00
+#
+name: CD - RW
+type: parsed
+protocol: NEC1
+address: 86 86 00 00
+command: 0d 00 00 00

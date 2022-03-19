@@ -1,0 +1,590 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 00 00 00 00
+#
+name: 1
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 02 00 00 00
+#
+name: 3
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 03 00 00 00
+#
+name: 4
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 04 00 00 00
+#
+name: 5
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 05 00 00 00
+#
+name: 6
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 06 00 00 00
+#
+name: 7
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 07 00 00 00
+#
+name: 8
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 08 00 00 00
+#
+name: 9
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 09 00 00 00
+#
+name: DIGITAL/ANALOG
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 0c 00 00 00
+#
+name: DIGITAL/ANALOG/CX
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 0c 00 00 00
+#
+name: DIGITAL
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 0c 00 00 00
+#
+name: FILE
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 0d 00 00 00
+#
+name: CX
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 0e 00 00 00
+#
+name: FWD >>
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 10 00 00 00
+#
+name: FFWD>>
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 10 00 00 00
+#
+name: REV <<
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 11 00 00 00
+#
+name: REW<<
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 11 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 13 00 00 00
+#
+name: CHAPTER
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 13 00 00 00
+#
+name: STOP/OPEN []
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 16 00 00 00
+#
+name: STOP []
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 16 00 00 00
+#
+name: STOP/OPEN
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 16 00 00 00
+#
+name: PLAY >
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 17 00 00 00
+#
+name: PLAY>
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 17 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 18 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 18 00 00 00
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 19 00 00 00
+#
+name: LAST MEMORY
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 19 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 1c 00 00 00
+#
+name: AUTO EDIT
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 1d 00 00 00
+#
+name: AUDIO MONITOR
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 1e 00 00 00
+#
+name: AUDIO D/A
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 1e 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 1e 00 00 00
+#
+name: +10
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 1f 00 00 00
+#
+name: JOG FWD
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 20 00 00 00
+#
+name: JOG FWD >>
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 20 00 00 00
+#
+name: JOG REV
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 24 00 00 00
+#
+name: JOG REV <<
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 24 00 00 00
+#
+name: SCAN X2 FWD
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 28 00 00 00
+#
+name: SCAN FWD
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 28 00 00 00
+#
+name: SCAN FWD(CLEAR SCAN)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 28 00 00 00
+#
+name: SCAN FWD(SLOW SP)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 28 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 29 00 00 00
+#
+name: SCAN FWD(LOW SCAN)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 29 00 00 00
+#
+name: SCAN FWD(MED-SLOW)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 29 00 00 00
+#
+name: SCAN FWD(MED-HIGH)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2a 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2b 00 00 00
+#
+name: SCAN FWD(HIGH SCAN)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2b 00 00 00
+#
+name: SHUTTLE FWD(F.S)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2b 00 00 00
+#
+name: SHUTTLE FWD >>
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2b 00 00 00
+#
+name: SCAN FWD(FULL SP)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2b 00 00 00
+#
+name: SCAN X2 REV
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2c 00 00 00
+#
+name: SCAN REV(CLEAR SCAN)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2c 00 00 00
+#
+name: SCAN REV(SLOW SP)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2c 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2d 00 00 00
+#
+name: SCAN REV(LOW SCAN)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2d 00 00 00
+#
+name: SCAN REV(MED-SLOW)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2d 00 00 00
+#
+name: SCAN REV(MED-HIGH)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2e 00 00 00
+#
+name: SCAN REV(HIGH SCAN)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2f 00 00 00
+#
+name: SHUTTLE REV(F.S)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2f 00 00 00
+#
+name: SHUTTLE REW <<
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2f 00 00 00
+#
+name: SCAN REV(FULL SP)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 2f 00 00 00
+#
+name: DIGITAL LEVEL
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 37 00 00 00
+#
+name: AUDIO COMPRESS
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 37 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 42 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 43 00 00 00
+#
+name: REPEAT B
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 44 00 00 00
+#
+name: REPEAT A
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 44 00 00 00
+#
+name: C (CANCEL)
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 45 00 00 00
+#
+name: CANCEL
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 45 00 00 00
+#
+name: SEARCH -
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 46 00 00 00
+#
+name: SEARCH +
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 47 00 00 00
+#
+name: REPEAT A
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 48 00 00 00
+#
+name: REPEAT B
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 48 00 00 00
+#
+name: PROGRAM
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 4c 00 00 00
+#
+name: SIDE A
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 4d 00 00 00
+#
+name: DISC SIDE A
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 4d 00 00 00
+#
+name: SIDE B
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 4e 00 00 00
+#
+name: DISC SIDE B
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 4e 00 00 00
+#
+name: FRAME <
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 50 00 00 00
+#
+name: STEP <
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 50 00 00 00
+#
+name: FS (FWD SRCH) >>
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 52 00 00 00
+#
+name: FS >>
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 52 00 00 00
+#
+name: SRCH FWD (FS)>>
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 52 00 00 00
+#
+name: RS (REV SRCH) <<
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 53 00 00 00
+#
+name: RS <<
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 53 00 00 00
+#
+name: SRCH REV (RS)<<
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 53 00 00 00
+#
+name: FRAME >
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 54 00 00 00
+#
+name: STEP >
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 54 00 00 00
+#
+name: SEARCH <
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 55 00 00 00
+#
+name: SEARCH >
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 58 00 00 00
+#
+name: HILITE/INTRO SCAN
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 5a 00 00 00
+#
+name: STROBE
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 5b 00 00 00
+#
+name: STILL/W SOUND
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 5b 00 00 00
+#
+name: ONE SHOT MEMORY
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 5d 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: Pioneer
+address: a8 a8 00 00
+command: 5e 00 00 00

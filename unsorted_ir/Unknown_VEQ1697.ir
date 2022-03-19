@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+#
+name: STOP2
+type: parsed
+protocol: Panasonic
+address: 70 70 00 00
+command: 00 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: Panasonic
+address: 70 70 00 00
+command: 02 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: Panasonic
+address: 70 70 00 00
+command: 02 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: Panasonic
+address: 70 70 00 00
+command: 03 00 00 00
+#
+name: ff2
+type: parsed
+protocol: Panasonic
+address: 70 70 00 00
+command: 03 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: Panasonic
+address: 70 70 00 00
+command: 0a 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: Panasonic
+address: 70 70 00 00
+command: 0a 00 00 00
+#
+name: KEY_T
+type: parsed
+protocol: Panasonic
+address: 70 70 00 00
+command: 62 00 00 00
+#
+name: T2
+type: parsed
+protocol: Panasonic
+address: 70 70 00 00
+command: 62 00 00 00
+#
+name: KEY_W
+type: parsed
+protocol: Panasonic
+address: 70 70 00 00
+command: 63 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: Panasonic
+address: 70 70 00 00
+command: cc 00 00 00

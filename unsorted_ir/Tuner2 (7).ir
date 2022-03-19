@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d5 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d7 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d8 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d9 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: da 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: db 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dc 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dd 00 00 00
+#
+name: 0
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: de 00 00 00
+#
+name: DIRECT ACCESS
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: df 00 00 00

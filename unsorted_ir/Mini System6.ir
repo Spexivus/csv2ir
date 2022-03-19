@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ASPECT
+type: parsed
+protocol: JVC
+address: 1f 1f 00 00
+command: 53 00 00 00
+#
+name: POWER
+type: parsed
+protocol: JVC
+address: 1f 1f 00 00
+command: d7 00 00 00

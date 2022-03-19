@@ -1,0 +1,254 @@
+Filetype: IR signals file
+Version: 1
+#
+name: FMMode
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: Reset
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 03 00 00 00
+#
+name: Test
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: DolbyDigital
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: Bypass
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 07 00 00 00
+#
+name: KEY_DVD
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: KEY_CD
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: Delay
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: Config
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0f 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: KEY_SLEEP
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 17 00 00 00
+#
+name: DSPDown
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 19 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 1b 00 00 00
+#
+name: Opt
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: ChLevel
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: Coax
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 1f 00 00 00
+#
+name: X_KEY_3Stereo
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 40 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 41 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 42 00 00 00
+#
+name: Dimmer
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 43 00 00 00
+#
+name: DTS
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 44 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 45 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 46 00 00 00
+#
+name: ProLogic
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 47 00 00 00
+#
+name: KEY_VCR
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 48 00 00 00
+#
+name: KEY_TAPE
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 49 00 00 00
+#
+name: KEY_AUX
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 4a 00 00 00
+#
+name: Direct
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 50 00 00 00
+#
+name: PreTun
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 53 00 00 00
+#
+name: Memo
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 55 00 00 00
+#
+name: Auto
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 56 00 00 00
+#
+name: FMAM
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 57 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 59 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 5e 00 00 00
+#
+name: DSPUp
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 5f 00 00 00

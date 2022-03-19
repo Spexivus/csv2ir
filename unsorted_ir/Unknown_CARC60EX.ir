@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 81 81 00 00
+command: 12 00 00 00
+#
+name: ATT
+type: parsed
+protocol: NEC
+address: 81 81 00 00
+command: 14 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: NEC
+address: 81 81 00 00
+command: 19 00 00 00
+#
+name: KEY_MODE
+type: parsed
+protocol: NEC
+address: 81 81 00 00
+command: 1a 00 00 00
+#
+name: PRG
+type: parsed
+protocol: NEC
+address: 81 81 00 00
+command: 1c 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: NEC
+address: 81 81 00 00
+command: 1d 00 00 00
+#
+name: Tune/Track_Down
+type: parsed
+protocol: NEC
+address: 81 81 00 00
+command: 1e 00 00 00
+#
+name: Tune/Track_Up
+type: parsed
+protocol: NEC
+address: 81 81 00 00
+command: 1f 00 00 00

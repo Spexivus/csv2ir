@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+#
+name: TUNER + A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: TUNER + B
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 20 00 00 00
+#
+name: TUNER - A
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00
+#
+name: TUNER - B
+type: parsed
+protocol: RC5
+address: 19 19 00 00
+command: 21 00 00 00

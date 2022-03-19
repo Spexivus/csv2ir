@@ -1,0 +1,62 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SEARCH MODE
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 9e 00 00 00
+#
+name: 
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 9e 00 00 00
+#
+name: ZOOM
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 9f 00 00 00
+#
+name: PICTURE ADJUST
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: a0 00 00 00
+#
+name: PICT. ADJUST
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: a0 00 00 00
+#
+name: PICADJ
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: a0 00 00 00
+#
+name: PIC ADJ
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: a0 00 00 00
+#
+name: DIMMER
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: a1 00 00 00
+#
+name: PURE DIRECT MEMORY
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: a2 00 00 00
+#
+name: P.D. MEMORY
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: a2 00 00 00

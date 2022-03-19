@@ -1,0 +1,122 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VCR 8 (VWX)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 04 00 00 00
+#
+name: VCR 9 (YZ)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 05 00 00 00
+#
+name: VCR FFW >>
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 09 00 00 00
+#
+name: VCR REW <<
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0a 00 00 00
+#
+name: VCR STOP
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0b 00 00 00
+#
+name: VCR 0 (&!/)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0c 00 00 00
+#
+name: VCR 1 (ABC)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0d 00 00 00
+#
+name: VCR 2 (DEF)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0e 00 00 00
+#
+name: VCR 3 (GHI)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 0f 00 00 00
+#
+name: VCR PLAY >
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 14 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 16 00 00 00
+#
+name: VCR POWER
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 17 00 00 00
+#
+name: VCR CH V
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 18 00 00 00
+#
+name: VCR CH ^
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 19 00 00 00
+#
+name: VCR PAUSE
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1a 00 00 00
+#
+name: VCR 4 (JKL)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1c 00 00 00
+#
+name: VCR 5 (MNO)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1d 00 00 00
+#
+name: VCR 6 (PQR)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1e 00 00 00
+#
+name: VCR 7 (STU)
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 1f 00 00 00
+#
+name: VCR SELECT
+type: parsed
+protocol: NEC1
+address: 60 60 00 00
+command: 8b 00 00 00

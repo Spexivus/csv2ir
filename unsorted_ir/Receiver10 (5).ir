@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CC CONVERTER
+type: parsed
+protocol: JVC
+address: ef ef 00 00
+command: ba 00 00 00

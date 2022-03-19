@@ -1,0 +1,410 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_0
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: x/0
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 00 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: x/1
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 01 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: x/2
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 02 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 03 00 00 00
+#
+name: x/3
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 03 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 04 00 00 00
+#
+name: x/4
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 04 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: x/5
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 05 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: x/6
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 06 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 07 00 00 00
+#
+name: x/7
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 07 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: x/8
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 08 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: x/9
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 09 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: x/power
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 0c 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: x/mute
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 0d 00 00 00
+#
+name: pp
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0e 00 00 00
+#
+name: x/pp
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 0e 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0f 00 00 00
+#
+name: x/osd
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 0f 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: x/volume+
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 10 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: x/volume-
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 11 00 00 00
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 20 00 00 00
+#
+name: x/channel+
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 20 00 00 00
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 21 00 00 00
+#
+name: x/channel-
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 21 00 00 00
+#
+name: text_hold
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 29 00 00 00
+#
+name: x/text_hold
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 29 00 00 00
+#
+name: text_time
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2a 00 00 00
+#
+name: x/text_time
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 2a 00 00 00
+#
+name: text_enlarge
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2b 00 00 00
+#
+name: x/text_enlarge
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 2b 00 00 00
+#
+name: text_solve
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2c 00 00 00
+#
+name: x/text_solve
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 2c 00 00 00
+#
+name: text_suspend
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2d 00 00 00
+#
+name: x/text_suspend
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 2d 00 00 00
+#
+name: text_overlay
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2e 00 00 00
+#
+name: x/text_overlay
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 2e 00 00 00
+#
+name: x/green
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 32 00 00 00
+#
+name: x/yellow
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 34 00 00 00
+#
+name: x/text_info
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 35 00 00 00
+#
+name: x/blue
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 36 00 00 00
+#
+name: x/red
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 37 00 00 00
+#
+name: KEY_TEXT
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 3c 00 00 00
+#
+name: x/text
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 3c 00 00 00
+#
+name: KEY_KPPLUS
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 4d 00 00 00
+#
+name: x/plus
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 4d 00 00 00
+#
+name: min
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 4e 00 00 00
+#
+name: x/min
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 4e 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 52 00 00 00
+#
+name: x/menu
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 52 00 00 00
+#
+name: KEY_RED
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 6b 00 00 00
+#
+name: KEY_GREEN
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 6c 00 00 00
+#
+name: KEY_YELLOW
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 6d 00 00 00
+#
+name: KEY_BLUE
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 6e 00 00 00
+#
+name: text_info
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 6f 00 00 00
+#
+name: commit
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 7a 00 00 00
+#
+name: x/commit
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 7a 00 00 00

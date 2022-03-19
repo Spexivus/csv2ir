@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PHONO
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 01 00 00 00
+#
+name: CD
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 02 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 03 00 00 00
+#
+name: LINE 1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 04 00 00 00
+#
+name: LINE 2
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 05 00 00 00
+#
+name: TAPE 1
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 06 00 00 00
+#
+name: TAPE 2
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 07 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0d 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: MONO
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 24 00 00 00

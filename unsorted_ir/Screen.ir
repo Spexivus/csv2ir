@@ -1,0 +1,38 @@
+Filetype: IR signals file
+Version: 1
+#
+name: EVEN - UP
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: ODD - UP
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: EVEN - DOWN
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: ODD - DOWN
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: EVEN - STOP
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 03 00 00 00
+#
+name: ODD - STOP
+type: parsed
+protocol: RECS80
+address: 00 00 00 00
+command: 03 00 00 00

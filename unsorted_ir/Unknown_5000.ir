@@ -1,0 +1,218 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_0
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 00 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 01 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 02 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 03 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 04 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 05 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 06 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 07 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 08 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 09 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 0a 00 00 00
+#
+name: Jump
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 0b 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 0c 00 00 00
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 0f 00 00 00
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 10 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 12 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 14 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 16 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 18 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 1a 00 00 00
+#
+name: KEY_SELECT
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 1b 00 00 00
+#
+name: KEY_EXIT
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 1c 00 00 00
+#
+name: Display
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 1d 00 00 00
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 1e 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 1f 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 20 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 21 00 00 00
+#
+name: KEY_FASTFORWARD
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 22 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 23 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 24 00 00 00
+#
+name: ReturnToLive
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 25 00 00 00
+#
+name: SkipAhead
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 26 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 27 00 00 00
+#
+name: ReplayGuide
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 28 00 00 00
+#
+name: Zones
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 2a 00 00 00
+#
+name: Input
+type: parsed
+protocol: Replay
+address: 01 01 00 00
+command: 2b 00 00 00

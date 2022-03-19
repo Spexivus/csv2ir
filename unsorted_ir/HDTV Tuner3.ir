@@ -1,0 +1,320 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: SOURCE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 02 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 03 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 04 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 07 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: 0
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: TV/RADIO
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 0e 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 0f 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: CURSOR OK / LIST
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: HELP
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 17 00 00 00
+#
+name: VOLUME MUTE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: COLOR 3 YELLOW
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 1b 00 00 00
+#
+name: COLOR 1 RED
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: COLOR 2 GREEN
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: COLOR 4 BLUE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 1e 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 1f 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 40 00 00 00
+#
+name: LAST
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 41 00 00 00
+#
+name: OPTIONS
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 42 00 00 00
+#
+name: INFO
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 43 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 45 00 00 00
+#
+name: SUBTITLE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 46 00 00 00
+#
+name: SLEEP
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 4c 00 00 00
+#
+name: WIDE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 4e 00 00 00
+#
+name: V-FORMAT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 4f 00 00 00
+#
+name: TR PLAY
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 60 00 00 00
+#
+name: TR REC
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 61 00 00 00
+#
+name: TR PAUSE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 62 00 00 00
+#
+name: TR STOP
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 63 00 00 00
+#
+name: TR SCAN >>
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 64 00 00 00
+#
+name: TR SCAN <<
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 65 00 00 00
+#
+name: TR SKIP <<
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 66 00 00 00
+#
+name: TR SKIP >>
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 67 00 00 00
+#
+name: BOK+
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 6a 00 00 00
+#
+name: BOK
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 6b 00 00 00
+#
+name: TR SLOW
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 6c 00 00 00
+#
+name: EDIT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 6d 00 00 00
+#
+name: TEXT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 6e 00 00 00
+#
+name: MEDIA
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 6f 00 00 00

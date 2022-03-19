@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+#
+name: RECORD
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 37 00 00 00
+#
+name: VCR1/TV (VCR1/TAPE)
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 3e 00 00 00
+#
+name: VCR 1
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 3f 00 00 00
+#
+name: VCR 2
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 3f 00 00 00
+#
+name: VCR1
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 3f 00 00 00
+#
+name: VCR
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 3f 00 00 00
+#
+name: INPUT - VCR
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 3f 00 00 00
+#
+name: INPUT: VCR
+type: parsed
+protocol: RC5
+address: 05 05 00 00
+command: 3f 00 00 00

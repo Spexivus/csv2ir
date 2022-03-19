@@ -1,0 +1,38 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CD DISC +/A
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 1e 00 00 00
+#
+name: CD DISC B/-
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 1f 00 00 00
+#
+name: CD
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 3f 00 00 00
+#
+name: CD INPUT
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 3f 00 00 00
+#
+name: INPUT - CD
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 3f 00 00 00
+#
+name: INPUT: CD
+type: parsed
+protocol: RC5
+address: 14 14 00 00
+command: 3f 00 00 00

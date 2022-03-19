@@ -1,0 +1,164 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ON
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: OFF
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: PP
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0e 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: BRIGHTNESS +
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: BRIGHTNESS -
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: COLOUR +
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: COLOUR -
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: BASS +
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: BASS -
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 17 00 00 00
+#
+name: TREBLE +
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: TREBLE -
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 19 00 00 00
+#
+name: BALANCE +
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 1a 00 00 00
+#
+name: BALANCE -
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 1b 00 00 00
+#
+name: CONTRAST+
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: CONTRAST -
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 1d 00 00 00
+#
+name: TINT -
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 1f 00 00 00
+#
+name: TEST ON
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: SL/TIM
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 26 00 00 00
+#
+name: TINT +
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 27 00 00 00
+#
+name: ENHANCE +
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 30 00 00 00
+#
+name: ENHANCE -
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 31 00 00 00
+#
+name: INPUT SELECT
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 38 00 00 00
+#
+name: STATUS
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: STORE MEMORY
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 39 00 00 00
+#
+name: TEST OFF
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 3f 00 00 00

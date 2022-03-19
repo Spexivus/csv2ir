@@ -1,0 +1,92 @@
+Filetype: IR signals file
+Version: 1
+#
+name: rear+
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 04 00 00 00
+#
+name: monitor
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 05 00 00 00
+#
+name: test
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 06 00 00 00
+#
+name: rear-
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 08 00 00 00
+#
+name: matrix
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 09 00 00 00
+#
+name: phantom
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 0a 00 00 00
+#
+name: center+
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 10 00 00 00
+#
+name: hall
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 11 00 00 00
+#
+name: 20ms
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 12 00 00 00
+#
+name: center-
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 20 00 00 00
+#
+name: surround
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 21 00 00 00
+#
+name: 30ms
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 22 00 00 00
+#
+name: vol+
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 40 00 00 00
+#
+name: power
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 41 00 00 00
+#
+name: vol-
+type: parsed
+protocol: F12
+address: 06 06 00 00
+command: 80 00 00 00

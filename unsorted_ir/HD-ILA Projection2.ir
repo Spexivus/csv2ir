@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SELECT
+type: parsed
+protocol: JVC
+address: 0f 0f 00 00
+command: 11 00 00 00
+#
+name: MULTISCREEN SELECT
+type: parsed
+protocol: JVC
+address: 0f 0f 00 00
+command: 11 00 00 00

@@ -1,0 +1,194 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PAIR OFF
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 00 00 00 00
+#
+name: PAIR OFF
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 01 00 00 00
+#
+name: TGL
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 02 00 00 00
+#
+name: MMT
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 03 00 00 00
+#
+name: PAIR OFF
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 04 00 00 00
+#
+name: PAIR ON
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 05 00 00 00
+#
+name: TGL
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 06 00 00 00
+#
+name: MMT
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 07 00 00 00
+#
+name: PAIR OFF
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 08 00 00 00
+#
+name: PAIR ON
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 09 00 00 00
+#
+name: TGL
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 0a 00 00 00
+#
+name: MMT
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 0b 00 00 00
+#
+name: PAIR OFF
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 0c 00 00 00
+#
+name: PAIR ON
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 0d 00 00 00
+#
+name: TGL
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 0e 00 00 00
+#
+name: MMT
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 0f 00 00 00
+#
+name: PAIR OFF
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 10 00 00 00
+#
+name: PAIR ON
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 11 00 00 00
+#
+name: TGL
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 12 00 00 00
+#
+name: MMT
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 13 00 00 00
+#
+name: PAIR ON
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 14 00 00 00
+#
+name: PAIR ON
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 15 00 00 00
+#
+name: TGL
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 16 00 00 00
+#
+name: MMT
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 17 00 00 00
+#
+name: PAIR OFF
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 18 00 00 00
+#
+name: PAIR ON
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 19 00 00 00
+#
+name: TGL
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 1a 00 00 00
+#
+name: MMT
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 1b 00 00 00
+#
+name: PAIR OFF
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 1c 00 00 00
+#
+name: PAIR ON
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 1d 00 00 00
+#
+name: TGL
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 1e 00 00 00
+#
+name: MMT
+type: parsed
+protocol: NEC1
+address: 06 06 00 00
+command: 1f 00 00 00

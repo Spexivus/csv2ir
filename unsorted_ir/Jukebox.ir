@@ -1,0 +1,74 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 12 NOW PLAYING
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 81 00 00 00
+#
+name: 1 UP/REPEAT
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 86 00 00 00
+#
+name: 2 DOWN/SHUFFLE
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 87 00 00 00
+#
+name: 4 LIBRARY/MENU
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 88 00 00 00
+#
+name: 6 SKIP-
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 89 00 00 00
+#
+name: 8 PAUSE
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 8a 00 00 00
+#
+name: 10 SKIP+
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 8b 00 00 00
+#
+name: 5 X HIDE/BACK
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 8e 00 00 00
+#
+name: 7 DISPLAY/X REMOVE
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 8f 00 00 00
+#
+name: 9 STOP/I CLEAR
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 90 00 00 00
+#
+name: 11 PLAY/SELECT
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 91 00 00 00
+#
+name: 3 I VIEW/ALPHA
+type: parsed
+protocol: NEC
+address: 60 60 00 00
+command: 94 00 00 00

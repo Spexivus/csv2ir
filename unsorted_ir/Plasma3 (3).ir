@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ASPECT
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 3d 00 00 00
+#
+name: ZOOM
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 7d 00 00 00
+#
+name: DEGAUSS
+type: parsed
+protocol: Sony15
+address: a4 a4 00 00
+command: 7e 00 00 00

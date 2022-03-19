@@ -1,0 +1,44 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VCR STOP []
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 04 00 00 00
+#
+name: VCR PLAY >
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 05 00 00 00
+#
+name: VCR REC/PLAY
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 06 00 00 00
+#
+name: VCR POWER
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 08 00 00 00
+#
+name: VCR FF >>
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 0c 00 00 00
+#
+name: VCR REW <<
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 0d 00 00 00
+#
+name: VCR PAUSE 
+type: parsed
+protocol: NEC1
+address: 19 19 00 00
+command: 0e 00 00 00

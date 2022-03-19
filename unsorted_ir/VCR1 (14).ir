@@ -1,0 +1,224 @@
+Filetype: IR signals file
+Version: 1
+#
+name: MUTE
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: TV OPERATE
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: TV VOLUME ^
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 01 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: TV CHANNEL ^
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 07 00 00 00
+#
+name: TV MENU
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: LAST CH
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: TV MUTE
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: TV VOLUME V
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 0d 00 00 00
+#
+name: TV 1
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: TV 1 (Q Z)
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: TV 2
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: TV 2 (A B C)
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: TV 3
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: TV 3 (D E F)
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: TV 4
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: TV 4 (G H I)
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 13 00 00 00
+#
+name: TV 5
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: TV 5 (J K L)
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: TV 6 (CL)
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: TV 6 (M N O)
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 15 00 00 00
+#
+name: TV 7
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: TV 7 (P R S)
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 16 00 00 00
+#
+name: TV 8
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 17 00 00 00
+#
+name: TV 8 (T U V AM)
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 17 00 00 00
+#
+name: TV 9
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: TV 9 (W X Y PM)
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: TV 0
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 19 00 00 00
+#
+name: TV 0 (? !)
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 19 00 00 00
+#
+name: TV OPERATE
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 20 00 00 00
+#
+name: TV CHANNEL V
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 21 00 00 00
+#
+name: TV PROGRAMME ^
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 22 00 00 00
+#
+name: TV PROGRAMME V
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 23 00 00 00
+#
+name: VOL ^
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 24 00 00 00
+#
+name: VOL V
+type: parsed
+protocol: Panasonic_Old
+address: 00 00 00 00
+command: 25 00 00 00
+#
+name: VOLUME ^
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 2e 00 00 00
+#
+name: VOLUME V
+type: parsed
+protocol: Barco
+address: 00 00 00 00
+command: 2f 00 00 00

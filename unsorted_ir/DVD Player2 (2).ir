@@ -1,0 +1,146 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: 36 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: 63 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: 64 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: a0 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: a1 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: a2 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: a3 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: a4 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: a5 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: a6 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: a7 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: a8 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: a9 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: b0 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: b1 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: b5 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: b6 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: b9 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: bc 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: be 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: e3 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: ef 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: f2 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: af af 00 00
+command: f3 00 00 00

@@ -1,0 +1,656 @@
+Filetype: IR signals file
+Version: 1
+#
+name: DSS2 CH ^
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 02 00 00 00
+#
+name: DSS2 CH V
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 03 00 00 00
+#
+name: DSS2 0 (&!/)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 04 00 00 00
+#
+name: DSS2 1 (ABC)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 05 00 00 00
+#
+name: DSS2 2 (DEF)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 06 00 00 00
+#
+name: DSS2 3 (GHI)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 07 00 00 00
+#
+name: DSS2 4 (JKL)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 08 00 00 00
+#
+name: DSS2 5 (MNO)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 09 00 00 00
+#
+name: DSS2 6 (PQR)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 0a 00 00 00
+#
+name: DSS2 7 (STU)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 0b 00 00 00
+#
+name: DSS2 8 (VWX)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 0c 00 00 00
+#
+name: DSS2 9 (YZ)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 0d 00 00 00
+#
+name: ACTION
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 0e 00 00 00
+#
+name: DSS2 EXIT
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 0f 00 00 00
+#
+name: DSS2 V
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 10 00 00 00
+#
+name: DSS2 FAV
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 11 00 00 00
+#
+name: DSS2 GUIDE
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 12 00 00 00
+#
+name: DSS2 INFO
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 13 00 00 00
+#
+name: DSS2 <
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 14 00 00 00
+#
+name: DSS2 POWER
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 15 00 00 00
+#
+name: DSS2 LAST CH
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 16 00 00 00
+#
+name: DSS2 >
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 17 00 00 00
+#
+name: DSS2 SELECT
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 18 00 00 00
+#
+name: DSS2 ^
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 19 00 00 00
+#
+name: DSS2 SVCS
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 69 00 00 00
+#
+name: DSS2 TRIANGLE
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 6a 00 00 00
+#
+name: DSS2 CIRCLE
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 6b 00 00 00
+#
+name: DSS2 SQUARE
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 6c 00 00 00
+#
+name: DSS2 MOVIES
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 6d 00 00 00
+#
+name: DSS2 SPORTS
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 6e 00 00 00
+#
+name: DSS2 NEWS
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 6f 00 00 00
+#
+name: DSS2 MENU
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 70 00 00 00
+#
+name: DSS2 ALPHA
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 75 00 00 00
+#
+name: DSS2 SCHED
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 76 00 00 00
+#
+name: DSS2 QT1
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 77 00 00 00
+#
+name: DSS2 QT2
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 78 00 00 00
+#
+name: DSS2 QT3
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 79 00 00 00
+#
+name: DSS2 QT4
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 7a 00 00 00
+#
+name: DSS2 QT5
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 7b 00 00 00
+#
+name: DSS2 QT6
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 7c 00 00 00
+#
+name: DSS2 QT7
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 7d 00 00 00
+#
+name: DSS2 QT8
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 7e 00 00 00
+#
+name: DSS2 QT9
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 7f 00 00 00
+#
+name: DSS1 INPUT
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 81 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 82 00 00 00
+#
+name: DSS1 CH ^
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 82 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 83 00 00 00
+#
+name: DSS1 CH V
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 83 00 00 00
+#
+name: 0
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 84 00 00 00
+#
+name: DSS1 0 (*!/)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 84 00 00 00
+#
+name: 1
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 85 00 00 00
+#
+name: DSS1 1 (ABC)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 85 00 00 00
+#
+name: 2
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 86 00 00 00
+#
+name: DSS1 2 (DEF)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 86 00 00 00
+#
+name: 3
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 87 00 00 00
+#
+name: DSS1 3 (GHI)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 87 00 00 00
+#
+name: 4
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 88 00 00 00
+#
+name: DSS1 4 (JKL)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 88 00 00 00
+#
+name: 5
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 89 00 00 00
+#
+name: DSS1 5 (MNO)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 89 00 00 00
+#
+name: 6
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 8a 00 00 00
+#
+name: DSS1 6 (PQR)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 8a 00 00 00
+#
+name: 7
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 8b 00 00 00
+#
+name: DSS1 7 (STU)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 8b 00 00 00
+#
+name: 8
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 8c 00 00 00
+#
+name: DSS1 8 (VWX)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 8c 00 00 00
+#
+name: 9
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 8d 00 00 00
+#
+name: DSS1 9 (YZ)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 8d 00 00 00
+#
+name: EXIT
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 8f 00 00 00
+#
+name: DSS1 EXIT
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 8f 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 90 00 00 00
+#
+name: DSS1 V
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 90 00 00 00
+#
+name: FAV (LIST)
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 91 00 00 00
+#
+name: DSS1 FAV
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 91 00 00 00
+#
+name: GUIDE
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 92 00 00 00
+#
+name: DSS1 GUIDE
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 92 00 00 00
+#
+name: INFO
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 93 00 00 00
+#
+name: DSS1 INFO
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 93 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 94 00 00 00
+#
+name: DSS1 <
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 94 00 00 00
+#
+name: DSS1 POWER
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 95 00 00 00
+#
+name: LAST CHAN
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 96 00 00 00
+#
+name: DSS1 LAST CH
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 96 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 97 00 00 00
+#
+name: DSS1 >
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 97 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 98 00 00 00
+#
+name: DSS1 SELECT
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 98 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 99 00 00 00
+#
+name: DSS1 ^
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: 99 00 00 00
+#
+name: DSS1 SVCS
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: e9 00 00 00
+#
+name: DSS1 TRIANGLE
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: ea 00 00 00
+#
+name: DSS1 CIRCLE
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: eb 00 00 00
+#
+name: DSS1 SQUARE
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: ec 00 00 00
+#
+name: DSS1 MOVIES
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: ed 00 00 00
+#
+name: DSS1 SPORTS
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: ee 00 00 00
+#
+name: DSS1 NEWS
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: ef 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: f0 00 00 00
+#
+name: DSS1 MENU
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: f0 00 00 00
+#
+name: DSS1 ALPHA
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: f5 00 00 00
+#
+name: DSS1 SCHED
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: f6 00 00 00
+#
+name: DSS1 QT1
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: f7 00 00 00
+#
+name: DSS1 QT2
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: f8 00 00 00
+#
+name: DSS1 QT3
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: f9 00 00 00
+#
+name: DSS1 QT4
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: fa 00 00 00
+#
+name: DSS1 QT5
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: fb 00 00 00
+#
+name: DSS1 QT6
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: fc 00 00 00
+#
+name: DSS1 QT7
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: fd 00 00 00
+#
+name: DSS1 QT8
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: fe 00 00 00
+#
+name: DSS1 QT9
+type: parsed
+protocol: NEC1
+address: 0c 0c 00 00
+command: ff 00 00 00

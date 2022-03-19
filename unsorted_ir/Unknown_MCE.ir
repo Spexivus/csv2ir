@@ -1,0 +1,272 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_CLEAR
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 06 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 08 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 15 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 17 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 19 00 00 00
+#
+name: KEY_INFO
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 1a 00 00 00
+#
+name: KEY_FORWARD
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 1c 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 1d 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 1f 00 00 00
+#
+name: KEY_NEXT
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 20 00 00 00
+#
+name: KEY_AGAIN
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 22 00 00 00
+#
+name: KEY_BACK
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 27 00 00 00
+#
+name: Xbox
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 2a 00 00 00
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 2c 00 00 00
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 2d 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 2e 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 2f 00 00 00
+#
+name: KEY_0
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 30 00 00 00
+#
+name: KEY_1
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 31 00 00 00
+#
+name: KEY_2
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 32 00 00 00
+#
+name: KEY_3
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 33 00 00 00
+#
+name: KEY_4
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 34 00 00 00
+#
+name: KEY_5
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 35 00 00 00
+#
+name: KEY_6
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 36 00 00 00
+#
+name: KEY_7
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 37 00 00 00
+#
+name: KEY_8
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 38 00 00 00
+#
+name: KEY_9
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 39 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 3b 00 00 00
+#
+name: More
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 3c 00 00 00
+#
+name: KEY_MUTE
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 3f 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 56 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 57 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 58 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 59 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: 9a 00 00 00
+#
+name: KEY_TV
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: ce 00 00 00
+#
+name: KEY_NUMERIC_POUND
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: d6 00 00 00
+#
+name: KEY_NUMERIC_STAR
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: d7 00 00 00
+#
+name: KEY_HOME
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: da 00 00 00
+#
+name: KEY_TV
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: e7 00 00 00
+#
+name: KEY_OK
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: f4 00 00 00
+#
+name: KEY_ENTER
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: f4 00 00 00
+#
+name: KEY_AUDIO
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: f6 00 00 00
+#
+name: KEY_VIDEO
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: f8 00 00 00
+#
+name: KEY_IMAGES
+type: parsed
+protocol: RCA-38
+address: 05 05 00 00
+command: f9 00 00 00

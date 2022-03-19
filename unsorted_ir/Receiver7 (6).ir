@@ -1,0 +1,176 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PRESET -
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 00 00 00 00
+#
+name: BAND
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 01 00 00 00
+#
+name: PRESET +
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 01 00 00 00
+#
+name: TUNER DOWN
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 02 00 00 00
+#
+name: TUNER UP
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 03 00 00 00
+#
+name: DIMMER
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 1d 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 1e 00 00 00
+#
+name: DISPLAY MODE
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 1e 00 00 00
+#
+name: GUI
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 86 00 00 00
+#
+name: MACRO 1
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 87 00 00 00
+#
+name: MACRO 2
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 88 00 00 00
+#
+name: PAUSE  (^)
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 89 00 00 00
+#
+name: >>(>)
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 8b 00 00 00
+#
+name: STOP [] (V)
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 8d 00 00 00
+#
+name: << (<)
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 8f 00 00 00
+#
+name: PLAY/PAUSE
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 91 00 00 00
+#
+name: REC
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 92 00 00 00
+#
+name: RECEIVER
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 93 00 00 00
+#
+name: TAPE A
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 94 00 00 00
+#
+name: TAPE B/MD
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 95 00 00 00
+#
+name: CD
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 96 00 00 00
+#
+name: LD
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 97 00 00 00
+#
+name: TV
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 98 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 99 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 9a 00 00 00
+#
+name: CABLE/SAT
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 9b 00 00 00
+#
+name: LEVEL MODE AUDIO
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 9c 00 00 00
+#
+name: LEVEL MODE SURROUND
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 9d 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: NEC1
+address: b8 b8 00 00
+command: 9e 00 00 00

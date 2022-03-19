@@ -1,0 +1,464 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 00 00 00 00
+#
+name: 1
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 02 00 00 00
+#
+name: 3
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 03 00 00 00
+#
+name: 4
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 04 00 00 00
+#
+name: 5
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 05 00 00 00
+#
+name: 6
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 06 00 00 00
+#
+name: 7
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 07 00 00 00
+#
+name: 8
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 08 00 00 00
+#
+name: 9
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 09 00 00 00
+#
+name: Q
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 22 00 00 00
+#
+name: W
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 23 00 00 00
+#
+name: E
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 24 00 00 00
+#
+name: R
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 25 00 00 00
+#
+name: T
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 26 00 00 00
+#
+name: Y
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 27 00 00 00
+#
+name: U
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 28 00 00 00
+#
+name: I
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 29 00 00 00
+#
+name: O
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 2a 00 00 00
+#
+name: P
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 2b 00 00 00
+#
+name: CAPS LOCK ON
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 31 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 31 00 00 00
+#
+name: A
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 32 00 00 00
+#
+name: S
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 33 00 00 00
+#
+name: D
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 34 00 00 00
+#
+name: F
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 35 00 00 00
+#
+name: G
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 36 00 00 00
+#
+name: H
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 37 00 00 00
+#
+name: J
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 38 00 00 00
+#
+name: K
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 39 00 00 00
+#
+name: L
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 3a 00 00 00
+#
+name: CAPS LOCK OFF
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 41 00 00 00
+#
+name: Z
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 42 00 00 00
+#
+name: X
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 43 00 00 00
+#
+name: C
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 44 00 00 00
+#
+name: V
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 45 00 00 00
+#
+name: B
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 46 00 00 00
+#
+name: N
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 47 00 00 00
+#
+name: M
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 48 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 80 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 81 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 82 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 83 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 84 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 85 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 86 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 87 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 88 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: 89 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: a2 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: a3 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: a4 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: a5 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: a6 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: a7 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: a8 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: a9 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: aa 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: ab 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: b1 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: b2 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: b3 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: b4 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: b5 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: b6 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: b7 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: b8 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: b9 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: ba 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: c1 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: c2 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: c3 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: c4 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: c5 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: c6 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: c7 00 00 00
+#
+name: 
+type: parsed
+protocol: Nokia
+address: 21 21 00 00
+command: c8 00 00 00

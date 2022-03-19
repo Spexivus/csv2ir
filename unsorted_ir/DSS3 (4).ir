@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CBL POWER
+type: parsed
+protocol: NEC1
+address: 03 03 00 00
+command: 03 00 00 00

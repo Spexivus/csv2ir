@@ -1,0 +1,176 @@
+Filetype: IR signals file
+Version: 1
+#
+name: D1 CASS PITCH+/-
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 45 00 00 00
+#
+name: 
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 46 00 00 00
+#
+name: D2 CASS PITCH+/-
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 4a 00 00 00
+#
+name: DECK SELECT A/B
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 53 00 00 00
+#
+name: A/B
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 53 00 00 00
+#
+name: DECK PLAY REV. <
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 57 00 00 00
+#
+name: PLAY(REV)
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 57 00 00 00
+#
+name: D1 CASS FWD >> (>>)
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5a 00 00 00
+#
+name: F.F >>
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5a 00 00 00
+#
+name: DECK FF >>
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5a 00 00 00
+#
+name: FF >>
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5a 00 00 00
+#
+name: D1 CASS REW << (<<)
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5b 00 00 00
+#
+name: REW <<
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5b 00 00 00
+#
+name: DECK REW <<
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5b 00 00 00
+#
+name: D1 CASS PLAY >
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5c 00 00 00
+#
+name: PLAY >
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5c 00 00 00
+#
+name: DECK PLAY >
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5c 00 00 00
+#
+name: REC PAUSE/MUTE
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5d 00 00 00
+#
+name: DECK PAUSE 
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5d 00 00 00
+#
+name: PAUSE 
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5d 00 00 00
+#
+name: D1 CASS STOP[] 
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5e 00 00 00
+#
+name: STOP []
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5e 00 00 00
+#
+name: DECK STOP []
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5e 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5f 00 00 00
+#
+name: DECK REC
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 5f 00 00 00
+#
+name: D2 CASS FWD >> (>>)
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 6a 00 00 00
+#
+name: D2 CASS REW << (<<)
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 6b 00 00 00
+#
+name: D2 CASS PLAY >
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 6c 00 00 00
+#
+name: D2 CASS STOP[] 
+type: parsed
+protocol: Denon
+address: 04 04 00 00
+command: 6e 00 00 00

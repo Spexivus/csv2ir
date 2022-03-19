@@ -1,0 +1,230 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 1
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 00 00 00 00
+#
+name: 2
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 01 00 00 00
+#
+name: 3
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 02 00 00 00
+#
+name: 4
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 03 00 00 00
+#
+name: 5
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 04 00 00 00
+#
+name: 6
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 05 00 00 00
+#
+name: 7
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 06 00 00 00
+#
+name: 8
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 07 00 00 00
+#
+name: 9
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 08 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 0b 00 00 00
+#
+name: CHECK
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 0d 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 0f 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 15 00 00 00
+#
+name: CONTINUE
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 1d 00 00 00
+#
+name: PROGRAM
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 1f 00 00 00
+#
+name: 0
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 20 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 2c 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 2e 00 00 00
+#
+name: POWER ON (CD-2)
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 2e 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 2f 00 00 00
+#
+name: POWER OFF (CD-2)
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 2f 00 00 00
+#
+name: << SKIP
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 30 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 30 00 00 00
+#
+name: >> SKIP
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 31 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 31 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 32 00 00 00
+#
+name: << SEARCH
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 33 00 00 00
+#
+name: SEARCH <<
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 33 00 00 00
+#
+name: >> SEARCH
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 34 00 00 00
+#
+name: SEARCH >>
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 34 00 00 00
+#
+name: SHUFFLE
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 35 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 38 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 39 00 00 00
+#
+name: DISC -
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 3d 00 00 00
+#
+name: DISC +
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 3e 00 00 00
+#
+name: DISC
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 4a 00 00 00
+#
+name: TRACK
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 4b 00 00 00
+#
+name: BLOCK
+type: parsed
+protocol: Sony15
+address: 39 39 00 00
+command: 4c 00 00 00

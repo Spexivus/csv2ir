@@ -1,0 +1,116 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER OFF
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: c0 00 00 00
+#
+name: OFF
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: c0 00 00 00
+#
+name: DVD OFF
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: c0 00 00 00
+#
+name: SUPER AUDIO CD SETUP
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: cd 00 00 00
+#
+name: CD/STEREO/MULTI
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: cd 00 00 00
+#
+name: SUPER AUDIO CD SET
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: cd 00 00 00
+#
+name: HDMI/DVI FORMAT
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: d0 00 00 00
+#
+name: HDMI FORMAT
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: d0 00 00 00
+#
+name: PURE DIRECT SELECT
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: d4 00 00 00
+#
+name: HDMI/DVI SELECT
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: d5 00 00 00
+#
+name: HDMI/ DVI SELECT
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: d5 00 00 00
+#
+name: HDMI SELECT
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: d5 00 00 00
+#
+name: DISC EXCHANGE
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: fa 00 00 00
+#
+name: PAGE -
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: fd 00 00 00
+#
+name: PAGE-
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: fd 00 00 00
+#
+name: PAGE --
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: fd 00 00 00
+#
+name: PAGE +
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: fe 00 00 00
+#
+name: PAGE+
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: fe 00 00 00
+#
+name: GROUP
+type: parsed
+protocol: Denon
+address: 06 06 00 00
+command: ff 00 00 00

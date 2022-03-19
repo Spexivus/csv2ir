@@ -1,0 +1,230 @@
+Filetype: IR signals file
+Version: 1
+#
+name: STEP>
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 14 00 00 00
+#
+name: AUDIO
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 20 00 00 00
+#
+name: FILE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 20 00 00 00
+#
+name: AUDIO / FILE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 20 00 00 00
+#
+name: ANGLE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 21 00 00 00
+#
+name: SORT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 21 00 00 00
+#
+name: ANGLE / SORT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 21 00 00 00
+#
+name: EDIT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 22 00 00 00
+#
+name: SUBTITLE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 22 00 00 00
+#
+name: SUBTITLE / EDIT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 22 00 00 00
+#
+name: DISC -
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3d 00 00 00
+#
+name: DISC SKIP --
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3d 00 00 00
+#
+name: DISC SKIP -
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3d 00 00 00
+#
+name: DISC +
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3e 00 00 00
+#
+name: DISC SKIP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3e 00 00 00
+#
+name: DISC SKIP +
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3e 00 00 00
+#
+name: FLIP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3f 00 00 00
+#
+name: FOLDER (ALL)
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 40 00 00 00
+#
+name: FOLDER .ALL
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 40 00 00 00
+#
+name: ALL
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 40 00 00 00
+#
+name: FOLDER ALL
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 40 00 00 00
+#
+name: DVD FOLDER
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 41 00 00 00
+#
+name: FOLDER .DVD
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 41 00 00 00
+#
+name: DVD
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 41 00 00 00
+#
+name: FOLDER DVD
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 41 00 00 00
+#
+name: CD FOLDER
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 42 00 00 00
+#
+name: FOLDER .CD
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 42 00 00 00
+#
+name: CD
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 42 00 00 00
+#
+name: FOLDER CD
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 42 00 00 00
+#
+name: FOLDER A
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 43 00 00 00
+#
+name: A
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 43 00 00 00
+#
+name: FOLDER B
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 44 00 00 00
+#
+name: B
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 44 00 00 00
+#
+name: FOLDER C
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 45 00 00 00
+#
+name: C
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 45 00 00 00
+#
+name: FOLDER D
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 46 00 00 00
+#
+name: D
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 46 00 00 00
+#
+name: ZOOM
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 79 00 00 00

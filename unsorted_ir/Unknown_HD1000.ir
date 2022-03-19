@@ -1,0 +1,152 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PowerOn
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 41 00 00 00
+#
+name: PowerOff
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 42 00 00 00
+#
+name: Keystone
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 43 00 00 00
+#
+name: Computer
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 60 00 00 00
+#
+name: Component
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 64 00 00 00
+#
+name: Video
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 65 00 00 00
+#
+name: S-Video
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 66 00 00 00
+#
+name: HDMI
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 70 00 00 00
+#
+name: Left
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 80 00 00 00
+#
+name: Right
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 81 00 00 00
+#
+name: Up
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 82 00 00 00
+#
+name: Down
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 83 00 00 00
+#
+name: Menu
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 86 00 00 00
+#
+name: Enter
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: 87 00 00 00
+#
+name: AutoPosition
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: a2 00 00 00
+#
+name: Blank
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: a6 00 00 00
+#
+name: Contrast
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: d0 00 00 00
+#
+name: Brightness
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: d1 00 00 00
+#
+name: ColorTemp
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: d4 00 00 00
+#
+name: Gamma
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: d5 00 00 00
+#
+name: Sharpness
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: d6 00 00 00
+#
+name: Aspect
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: e2 00 00 00
+#
+name: M1
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: e4 00 00 00
+#
+name: M2
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: e5 00 00 00
+#
+name: M3
+type: parsed
+protocol: Proton
+address: f0 f0 00 00
+command: e6 00 00 00

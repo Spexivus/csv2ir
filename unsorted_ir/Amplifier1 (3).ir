@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+#
+name: MULTI CHANEL INPUT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 04 00 00 00
+#
+name: DVD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: 
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00

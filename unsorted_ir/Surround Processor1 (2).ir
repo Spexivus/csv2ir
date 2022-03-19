@@ -1,0 +1,500 @@
+Filetype: IR signals file
+Version: 1
+#
+name: DELAY TIME L&R +
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 01 00 00 00
+#
+name: DELAY TIME L&R -
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 02 00 00 00
+#
+name: DELAY
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 03 00 00 00
+#
+name: RESET
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 04 00 00 00
+#
+name: SS
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 05 00 00 00
+#
+name: TAPE
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 06 00 00 00
+#
+name: VOLUME UP
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 07 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 08 00 00 00
+#
+name: FULL MUTE
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 0c 00 00 00
+#
+name: ECHO
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 10 00 00 00
+#
+name: DELAY TIME L +
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 18 00 00 00
+#
+name: DELAY TIME L -
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 19 00 00 00
+#
+name: DELAY TIME R +
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 1a 00 00 00
+#
+name: DELAY TIME R -
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 1b 00 00 00
+#
+name: OUT1
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 1c 00 00 00
+#
+name: OUT 1 V
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 1d 00 00 00
+#
+name: OUT2
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 1e 00 00 00
+#
+name: OUT 2 V
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 1f 00 00 00
+#
+name: LEFT ^
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 40 00 00 00
+#
+name: RIGHT ^
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 41 00 00 00
+#
+name: OUT1 L
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 42 00 00 00
+#
+name: OUT1 R
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 43 00 00 00
+#
+name: OUT2 L
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 44 00 00 00
+#
+name: OUT2 R
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 45 00 00 00
+#
+name: MEMO
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 46 00 00 00
+#
+name: BY-PASS
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 47 00 00 00
+#
+name: HALL SURROUND
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 48 00 00 00
+#
+name: MATRIX SURROUND
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 49 00 00 00
+#
+name: DOLBY
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 4a 00 00 00
+#
+name: CREATION
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 4b 00 00 00
+#
+name: 1 PRESET
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 4c 00 00 00
+#
+name: 2 PRESET
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 4d 00 00 00
+#
+name: 3 PRESET
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 4e 00 00 00
+#
+name: VIDEO1
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 4f 00 00 00
+#
+name: VIDEO2
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 50 00 00 00
+#
+name: VIDEO3
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 51 00 00 00
+#
+name: VIDEO4
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 52 00 00 00
+#
+name: TV
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 53 00 00 00
+#
+name: CD
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 54 00 00 00
+#
+name: TUNER
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 55 00 00 00
+#
+name: AUX1
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 56 00 00 00
+#
+name: AUX2
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 57 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 80 00 00 00
+#
+name: L/R + (DELAY TIME)
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 81 00 00 00
+#
+name: L/R - (DELAY TIME)
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 82 00 00 00
+#
+name: DELAY
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 83 00 00 00
+#
+name: RESET
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 84 00 00 00
+#
+name: CENTER
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 85 00 00 00
+#
+name: METER
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 86 00 00 00
+#
+name: VOLUME ^
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 87 00 00 00
+#
+name: VOLUME V
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 88 00 00 00
+#
+name: TEST TONE
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 8a 00 00 00
+#
+name: CENTER MODE
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 8b 00 00 00
+#
+name: FULL MUTE
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 8c 00 00 00
+#
+name: DIMMER
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 8e 00 00 00
+#
+name: ECHO
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 90 00 00 00
+#
+name: L + (DELAY TIME)
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 98 00 00 00
+#
+name: L - (DELAY TIME)
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 99 00 00 00
+#
+name: R + (DELAY TIME)
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 9a 00 00 00
+#
+name: R - (DELAY TIME)
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 9b 00 00 00
+#
+name: OUT 1 ^
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 9c 00 00 00
+#
+name: OUT 1 V
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 9d 00 00 00
+#
+name: OUT 2 ^
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 9e 00 00 00
+#
+name: OUT 2 V
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: 9f 00 00 00
+#
+name: OUT 1 L ^
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: c2 00 00 00
+#
+name: OUT 1 R ^
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: c3 00 00 00
+#
+name: OUT 2 L ^
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: c4 00 00 00
+#
+name: OUT 2 R ^
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: c5 00 00 00
+#
+name: MEMORY
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: c6 00 00 00
+#
+name: STEREO (SURR SLCT)
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: c7 00 00 00
+#
+name: DOLBY (SURR SLCT)
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: c8 00 00 00
+#
+name: CREATION (SURR SLCT)
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: c9 00 00 00
+#
+name: PRESET 1
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: cc 00 00 00
+#
+name: PRESET 2
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: cd 00 00 00
+#
+name: PRESET 3
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: ce 00 00 00
+#
+name: PRESET 4
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: cf 00 00 00
+#
+name: PRESET 5
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: d0 00 00 00
+#
+name: OUT 1 L V
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: d1 00 00 00
+#
+name: OUT 1 R V
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: d2 00 00 00
+#
+name: OUT 2 L V
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: d3 00 00 00
+#
+name: OUT 2 R V
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: d4 00 00 00
+#
+name: CENTER ^
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: d5 00 00 00
+#
+name: CENTER V
+type: parsed
+protocol: NEC1
+address: 0d 0d 00 00
+command: d6 00 00 00

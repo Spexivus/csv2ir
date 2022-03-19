@@ -1,0 +1,392 @@
+Filetype: IR signals file
+Version: 1
+#
+name: MUTE TOGGLE
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 01 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 02 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 03 00 00 00
+#
+name: MONO:5 DECODING ON
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 04 00 00 00
+#
+name: MONO:5 DECODING OFF
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 05 00 00 00
+#
+name: AM/FM INPUT TOGGLE
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 06 00 00 00
+#
+name: CENTER VOLUME -
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 08 00 00 00
+#
+name: CENTER VOLUME +
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 09 00 00 00
+#
+name: SURROUND VOLUME -
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0a 00 00 00
+#
+name: SURROUND VOLUME +
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0b 00 00 00
+#
+name: AM INPUT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0c 00 00 00
+#
+name: VIDEO 2
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0d 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0e 00 00 00
+#
+name: AUX INPUT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 0f 00 00 00
+#
+name: FM INPUT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 10 00 00 00
+#
+name: DIGITAL 1
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 11 00 00 00
+#
+name: DIGITAL 2
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 12 00 00 00
+#
+name: DIGITAL 3
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 13 00 00 00
+#
+name: DIGITAL 4
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 14 00 00 00
+#
+name: NO DIGITAL INPUT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 15 00 00 00
+#
+name: NO DIGITAL
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 15 00 00 00
+#
+name: TOGGLE 1:5
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 16 00 00 00
+#
+name: TOGGLE DRC
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 17 00 00 00
+#
+name: CD TRACK SKIP \XAA
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 18 00 00 00
+#
+name: SKIP \XAA
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 18 00 00 00
+#
+name: TRACK SKIP \XAA
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 18 00 00 00
+#
+name: CD TRACK SKIP \XBA
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 19 00 00 00
+#
+name: SKIP \XBA
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 19 00 00 00
+#
+name: TRACK SKIP \XBA
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 19 00 00 00
+#
+name: CD \X86
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 1a 00 00 00
+#
+name: VIDEO 5 (SE-1)
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 1c 00 00 00
+#
+name: MRI PRESET +
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 1d 00 00 00
+#
+name: DYN RNG COMP OFF
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 1e 00 00 00
+#
+name: MRI PRESET -
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 1f 00 00 00
+#
+name: FILM EQ OFF
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 2f 00 00 00
+#
+name: RANDOM DISC TOGGLE
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 4a 00 00 00
+#
+name: STEREO MODE
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 4b 00 00 00
+#
+name: OFF
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 4c 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 4c 00 00 00
+#
+name: TREBLE FLAT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 4d 00 00 00
+#
+name: SURROUND MODE
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 4e 00 00 00
+#
+name: FRONT 3 SPEAKER MODE
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 4f 00 00 00
+#
+name: TREBLE +
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 50 00 00 00
+#
+name: TREBLE -
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 51 00 00 00
+#
+name: TAPE INPUT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 52 00 00 00
+#
+name: CD INPUT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 53 00 00 00
+#
+name: CD DISC SKIP -
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 54 00 00 00
+#
+name: CD \X87
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 55 00 00 00
+#
+name: CD \X85
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 56 00 00 00
+#
+name: SEEK \XA0
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 57 00 00 00
+#
+name: SEEK \XB3
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 58 00 00 00
+#
+name: DYNA RNG COMP ON
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 59 00 00 00
+#
+name: TOGGLE FEQ
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 5a 00 00 00
+#
+name: BASS FLAT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 5b 00 00 00
+#
+name: RANDOM ALL TOGGLE
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 5c 00 00 00
+#
+name: RANDOM ALL
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 5c 00 00 00
+#
+name: CD DISC SKIP +
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 5d 00 00 00
+#
+name: BASS +
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 5e 00 00 00
+#
+name: BASS -
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 5f 00 00 00
+#
+name: AMP OFF
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 6f 00 00 00
+#
+name: SURROUND FLAT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: 9f 00 00 00
+#
+name: AMP ON
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: af 00 00 00
+#
+name: FILM EQ ON
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: cf 00 00 00
+#
+name: MUTE ALL
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: df 00 00 00
+#
+name: CENTER FLAT
+type: parsed
+protocol: NECext
+address: ba ba 00 00
+command: ef 00 00 00

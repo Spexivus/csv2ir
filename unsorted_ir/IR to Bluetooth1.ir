@@ -1,0 +1,146 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PLAYSTATION
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 15 00 00 00
+#
+name: EJECT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 16 00 00 00
+#
+name: SELECT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 50 00 00 00
+#
+name: L3
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 51 00 00 00
+#
+name: R3
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 52 00 00 00
+#
+name: START
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 53 00 00 00
+#
+name: L2
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 58 00 00 00
+#
+name: R2
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 59 00 00 00
+#
+name: L1
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 5a 00 00 00
+#
+name: R1
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 5b 00 00 00
+#
+name: TRIANGLE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 5c 00 00 00
+#
+name: CIRCLE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 5d 00 00 00
+#
+name: X
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 5e 00 00 00
+#
+name: SQUARE
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 5f 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 6b 00 00 00
+#
+name: MACRO 1
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 6c 00 00 00
+#
+name: MACRO 2
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 6d 00 00 00
+#
+name: MACRO 3
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 6e 00 00 00
+#
+name: MACRO 4
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 6f 00 00 00
+#
+name: MACRO 5
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 70 00 00 00
+#
+name: MACRO 6
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 71 00 00 00
+#
+name: MACRO 7
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 72 00 00 00
+#
+name: MACRO 8
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 73 00 00 00
+#
+name: MACRO 9
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 74 00 00 00

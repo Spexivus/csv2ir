@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+#
+name: BAND
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 0f 00 00 00
+#
+name: PRESET+
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 10 00 00 00
+#
+name: PRESET-
+type: parsed
+protocol: Sony12
+address: 0d 0d 00 00
+command: 11 00 00 00

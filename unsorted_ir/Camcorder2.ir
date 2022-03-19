@@ -1,0 +1,38 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SHIFT STOP
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 03 00 00 00
+#
+name: SHIFT FFWD >>
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 06 00 00 00
+#
+name: SHIFT REW <<
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 07 00 00 00
+#
+name: SHIFT PLAY
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 0c 00 00 00
+#
+name: SHIFT PAUSE
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 0d 00 00 00
+#
+name: EDIT - RECORD PAUSE
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: cd 00 00 00

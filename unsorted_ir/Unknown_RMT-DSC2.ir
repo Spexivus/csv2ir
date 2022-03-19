@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_HOME
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 26 00 00 00
+#
+name: BTN_TRIGGER
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 2d 00 00 00
+#
+name: KEY_MENU
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 38 00 00 00
+#
+name: BTN_SELECT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 39 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3a 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3b 00 00 00
+#
+name: BTN_LEFT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3e 00 00 00
+#
+name: BTN_RIGHT
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 3f 00 00 00
+#
+name: BTN_EXTRA
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 47 00 00 00
+#
+name: KEY_T
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 4a 00 00 00
+#
+name: KEY_W
+type: parsed
+protocol: Sony20
+address: 1a 1a 00 00
+command: 4b 00 00 00

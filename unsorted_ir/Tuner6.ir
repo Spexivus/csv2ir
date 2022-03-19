@@ -1,0 +1,56 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VCR STOP
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 03 00 00 00
+#
+name: VCR FFWD
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 06 00 00 00
+#
+name: VCR REW
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 07 00 00 00
+#
+name: VCR POWER
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 0b 00 00 00
+#
+name: VCR PLAY
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 0c 00 00 00
+#
+name: VCR PAUSE
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 0d 00 00 00
+#
+name: TV (CONTROL)
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: 10 00 00 00
+#
+name: VCR REC/PLAY
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: cc 00 00 00
+#
+name: VCR REC/PAUSE
+type: parsed
+protocol: JVC
+address: 43 43 00 00
+command: cd 00 00 00

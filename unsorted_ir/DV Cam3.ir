@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+#
+name: X 2
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 14 00 00 00
+#
+name: STOP
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 18 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 19 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 1a 00 00 00
+#
+name: REW <<
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 1b 00 00 00
+#
+name: FF >>
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 1c 00 00 00
+#
+name: RECORD DV IN
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 1d 00 00 00
+#
+name: SLOW >
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 23 00 00 00
+#
+name: <
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 30 00 00 00
+#
+name: ZERO SET MEMORY
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 47 00 00 00
+#
+name: SEARCH MODE >>
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 56 00 00 00
+#
+name: SEARCH MODE <<
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 57 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 5a 00 00 00
+#
+name: AUDIO DUB
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 68 00 00 00

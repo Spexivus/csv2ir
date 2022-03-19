@@ -1,0 +1,224 @@
+Filetype: IR signals file
+Version: 1
+#
+name: shutdown
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 01 00 00 00
+#
+name: button_tab
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 02 00 00 00
+#
+name: button_1
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 03 00 00 00
+#
+name: button_2
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 04 00 00 00
+#
+name: button_3
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 05 00 00 00
+#
+name: button_4
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 06 00 00 00
+#
+name: button_5
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 07 00 00 00
+#
+name: button_6
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 08 00 00 00
+#
+name: button_7
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 09 00 00 00
+#
+name: button_8
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 0a 00 00 00
+#
+name: button_9
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 0b 00 00 00
+#
+name: button_0
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 0c 00 00 00
+#
+name: button_up
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 0d 00 00 00
+#
+name: button_left
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 0e 00 00 00
+#
+name: button_ok
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 0f 00 00 00
+#
+name: button_right
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 10 00 00 00
+#
+name: button_down
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 11 00 00 00
+#
+name: KEY_INFO
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 12 00 00 00
+#
+name: KEY_EXIT
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 13 00 00 00
+#
+name: button_red
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 14 00 00 00
+#
+name: button_green
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 15 00 00 00
+#
+name: button_yellow
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 16 00 00 00
+#
+name: button_blue
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 17 00 00 00
+#
+name: button_mute
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 18 00 00 00
+#
+name: KEY_TEXT
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 19 00 00 00
+#
+name: KEY_AUDIO
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 1a 00 00 00
+#
+name: KEY_EPG
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 22 00 00 00
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 23 00 00 00
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 24 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 25 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 26 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 3a 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 3b 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 3c 00 00 00
+#
+name: KEY_REWIND
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 3d 00 00 00
+#
+name: KEY_PAUSE
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 3e 00 00 00
+#
+name: KEY_FORWARD
+type: parsed
+protocol: RC5
+address: 15 15 00 00
+command: 3f 00 00 00

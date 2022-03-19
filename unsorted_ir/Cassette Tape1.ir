@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SEARCH <<
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 01 00 00 00

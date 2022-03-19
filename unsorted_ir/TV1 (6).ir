@@ -1,0 +1,464 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 0
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 00 00 00 00
+#
+name: 1
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 01 00 00 00
+#
+name: 2
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 02 00 00 00
+#
+name: 3
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 03 00 00 00
+#
+name: 4
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 04 00 00 00
+#
+name: 5
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 05 00 00 00
+#
+name: 6
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 06 00 00 00
+#
+name: 7
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 07 00 00 00
+#
+name: 8
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 08 00 00 00
+#
+name: 9
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 09 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0a 00 00 00
+#
+name: VOL +
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0a 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0b 00 00 00
+#
+name: VOL -
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0b 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0c 00 00 00
+#
+name: TV
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0c 00 00 00
+#
+name: TV INPUT SEL
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0c 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0d 00 00 00
+#
+name: LD INPUT SEL
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0d 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0e 00 00 00
+#
+name: INPUT 2
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0e 00 00 00
+#
+name: VIDEO2 INPUT SEL
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0e 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0f 00 00 00
+#
+name: VIDEO 1
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0f 00 00 00
+#
+name: INPUT 1
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0f 00 00 00
+#
+name: VIDEO1 INPUT SEL
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 0f 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 10 00 00 00
+#
+name: CH +
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 10 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 11 00 00 00
+#
+name: CH -
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 11 00 00 00
+#
+name: PIP ON/OFF
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 14 00 00 00
+#
+name: P IN P
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 14 00 00 00
+#
+name: CH SCAN
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 15 00 00 00
+#
+name: SHIFT
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 17 00 00 00
+#
+name: STILL
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 18 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 1c 00 00 00
+#
+name: MTS
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 1e 00 00 00
+#
+name: CH ENTER
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 1f 00 00 00
+#
+name: ENTER
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 1f 00 00 00
+#
+name: STD/AV MEM
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 43 00 00 00
+#
+name: SLEEP
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 48 00 00 00
+#
+name: MUTING
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 49 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 49 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 4a 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 56 00 00 00
+#
+name: VIDEO 3
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 56 00 00 00
+#
+name: INPUT 3
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 56 00 00 00
+#
+name: VIDEO3 INPUT SEL
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 56 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 57 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 5c 00 00 00
+#
+name: CH RETURN
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 5c 00 00 00
+#
+name: MENU SET
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 8a 00 00 00
+#
+name: SET
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 8a 00 00 00
+#
+name: MENU
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 8b 00 00 00
+#
+name: CURSOR RIGHT
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 94 00 00 00
+#
+name: >
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 94 00 00 00
+#
+name: CURSOR LEFT
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 95 00 00 00
+#
+name: <
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 95 00 00 00
+#
+name: CURSOR UP
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 96 00 00 00
+#
+name: ^
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 96 00 00 00
+#
+name: CURSOR DOWN
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 97 00 00 00
+#
+name: V
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: 97 00 00 00
+#
+name: MODE
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d3 00 00 00
+#
+name: INPUT: ANTENNA
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d3 00 00 00
+#
+name: INPUT: DVD/LD
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d3 00 00 00
+#
+name: INPUT: VIDEO 1
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d3 00 00 00
+#
+name: INPUT: VIDEO 3
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d3 00 00 00
+#
+name: AUTO
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d3 00 00 00
+#
+name: PIP CH -
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d3 00 00 00
+#
+name: PIP CH +
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d3 00 00 00
+#
+name: CC MODE
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d3 00 00 00
+#
+name: CINEMA WIDE
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d3 00 00 00
+#
+name: STROBE
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d6 00 00 00
+#
+name: SWAP
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d7 00 00 00
+#
+name: MULTI
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: d9 00 00 00
+#
+name: 
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: de 00 00 00
+#
+name: INPUT 4
+type: parsed
+protocol: Pioneer
+address: aa aa 00 00
+command: de 00 00 00

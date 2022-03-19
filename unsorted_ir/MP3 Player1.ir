@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER ON
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 44 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: NEC1
+address: 01 01 00 00
+command: 45 00 00 00

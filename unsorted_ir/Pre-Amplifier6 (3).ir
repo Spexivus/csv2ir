@@ -1,0 +1,392 @@
+Filetype: IR signals file
+Version: 1
+#
+name: AUDIO ARC
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: AUDYSSEY OFF
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: AUDYSSEY ON
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DOLBY VOL HIGH
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DOLBY VOL LOW
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DOLBY VOL MID
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DOLBY VOL OFF
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DOLBY VOL WRAP
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DYMANIC EQ ON
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DYNAMIC EQ OFF
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DYNAMIC EQ WRAP
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DYNAMIC VOLUME HEAVY
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DYNAMIC VOLUME LIGHT
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DYNAMIC VOLUME MEDIU
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DYNAMIC VOLUME OFF
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: DYNAMIC VOLUME WRAP
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: HDMI AUDIO OUT OFF
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: HDMI AUDIO OUT ON
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: HDMI AUDIO OUT WRAP
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: HDMI OUT BOTH
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: HDMI OUT BOTH MAIN
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: HDMI OUT BOTH SUB
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: ISF CINEMA
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: ISF CUSTOM
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: ISF DAY
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: ISF GAME
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: ISF MODE WRAP
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: ISF NIGHT
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: ISF THROUGH
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE AUDYSSEY DSX
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE DOLBYEX AUDY
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE FULL MONO
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE GAME ACTION
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE GAME ROCK
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE GAME RPG
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE GAME SPORTS
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE NEO6 MUSIC AUDY
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE NEO6 THX CINEMA
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE NEO6 THX MUSIC
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE NEO6CINEMA AUDY
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE NEURAL DIGITAL
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE ORCHESTRA
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE PLLX GAME AUDY
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE PLLX MOVIE AUDY
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE PLLX MUSIC AUDY
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE PLLZ H+GAMES
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE PLLZ H+THXCINEM
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE PLLZ H+THXMUSIC
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE PLLZ HEIGHT
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE STUDIO MIX
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODE TV LOGIC
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODEPLLZH+THXU2CINEM
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODEPLLZH+THXU2GAMES
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MODEPLLZH+THXU2MUSIC
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MUSIC OPTIMIZER OFF
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MUSIC OPTIMIZER ON
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: MUSIC OPTIMIZER WRAP
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: WIDE MODE 4:3
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: WIDE MODE FULL
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: WIDE MODE SMART ZOOM
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: WIDE MODE WIDE ZOOM
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: WIDE MODE WRAP
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: WIDE MODE ZOOM
+type: parsed
+protocol: NEC1-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: VOLUME DOWN 1DB
+type: parsed
+protocol: NEC2-f16
+address: d2 d2 00 00
+command: 50 00 00 00
+#
+name: VOLUME UP 1DB
+type: parsed
+protocol: NEC2-f16
+address: d2 d2 00 00
+command: 50 00 00 00

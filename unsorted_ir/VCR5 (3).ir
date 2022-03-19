@@ -1,0 +1,152 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SURR REAR ON/OFF(-)
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 05 00 00 00
+#
+name: FM/AM
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 0b 00 00 00
+#
+name: TV SOUND
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 10 00 00 00
+#
+name: VCR
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 11 00 00 00
+#
+name: AUDIO POWER
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 17 00 00 00
+#
+name: FADE MUTE
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 1c 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 1e 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 1f 00 00 00
+#
+name: FM/AM 1
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 21 00 00 00
+#
+name: FM/AM 2
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 22 00 00 00
+#
+name: FM/AM 3
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 23 00 00 00
+#
+name: FM/AM 4
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 24 00 00 00
+#
+name: FM/AM 5
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 25 00 00 00
+#
+name: FM/AM 6
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 26 00 00 00
+#
+name: FM/AM 7/P
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 27 00 00 00
+#
+name: FM/AM 8
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 28 00 00 00
+#
+name: FM/AM 9
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 29 00 00 00
+#
+name: FM/AM 10
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 2a 00 00 00
+#
+name: FM/AM 10+
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 2f 00 00 00
+#
+name: PHONO
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 3c 00 00 00
+#
+name: CD
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 3d 00 00 00
+#
+name: TAPE
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 3f 00 00 00
+#
+name: SURR DELAY (+)
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 48 00 00 00
+#
+name: SURR CENTER MODE (-)
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: 58 00 00 00
+#
+name: SURR TEST (+)
+type: parsed
+protocol: JVC
+address: a3 a3 00 00
+command: d7 00 00 00

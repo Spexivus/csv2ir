@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+#
+name: +vol
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: b0 00 00 00
+#
+name: -vol
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: b1 00 00 00
+#
+name: +P
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: e7 00 00 00
+#
+name: -P
+type: parsed
+protocol: Panasonic
+address: a0 a0 00 00
+command: e8 00 00 00

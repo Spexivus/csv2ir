@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PHOTO
+type: parsed
+protocol: Sony15
+address: b9 b9 00 00
+command: 15 00 00 00
+#
+name: START/STOP
+type: parsed
+protocol: Sony15
+address: b9 b9 00 00
+command: 19 00 00 00
+#
+name: SEARCH MODE
+type: parsed
+protocol: Sony15
+address: b9 b9 00 00
+command: 2d 00 00 00
+#
+name: DATA CODE
+type: parsed
+protocol: Sony15
+address: b9 b9 00 00
+command: 4c 00 00 00

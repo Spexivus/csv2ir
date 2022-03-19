@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: AUX ZONE 2
+type: parsed
+protocol: Denon-K
+address: 04 04 00 00
+command: 2c7 00 00 00

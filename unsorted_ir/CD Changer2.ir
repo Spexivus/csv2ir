@@ -1,0 +1,80 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 08 00 00 00
+#
+name: STOP/PAUSE
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 09 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 09 00 00 00
+#
+name: STOP
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 09 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 0a 00 00 00
+#
+name: TRACK UP
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 0a 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 0b 00 00 00
+#
+name: TRACK DOWN
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 0b 00 00 00
+#
+name: SEARCH >>
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 0c 00 00 00
+#
+name: SEARCH <<
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 0d 00 00 00
+#
+name: DISC +
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 10 00 00 00
+#
+name: DISC -
+type: parsed
+protocol: NEC1
+address: 7a 7a 00 00
+command: 11 00 00 00
+#
+name: DISC SKIP
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 4f 00 00 00

@@ -1,0 +1,194 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_R
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 00 00 00 00
+#
+name: KEY_B
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 02 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 08 00 00 00
+#
+name: END/CONV_CONTROL
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 09 00 00 00
+#
+name: TEST_PATTERN_TEST
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 0b 00 00 00
+#
+name: TEST_PATTERN_COARSE
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 0e 00 00 00
+#
+name: TEST_PATTERN_FINE
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 0f 00 00 00
+#
+name: STORE
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 12 00 00 00
+#
+name: STATIC
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 15 00 00 00
+#
+name: KEY_VIDEO
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 18 00 00 00
+#
+name: KEY_VIDEO
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 19 00 00 00
+#
+name: KEY_VIDEO
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 1c 00 00 00
+#
+name: KEY_VIDEO
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 1d 00 00 00
+#
+name: KEY_VIDEO
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 1e 00 00 00
+#
+name: SEL
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 40 00 00 00
+#
+name: BEAM
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 41 00 00 00
+#
+name: LEVEL_CONTROL_PRESET
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 42 00 00 00
+#
+name: LEVEL_CONTROL_CALL
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 43 00 00 00
+#
+name: PICTURE_UP
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 46 00 00 00
+#
+name: PICTURE_DOWN
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 47 00 00 00
+#
+name: COLOR_UP
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 48 00 00 00
+#
+name: COLOR_DOWN
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 49 00 00 00
+#
+name: BRIGHT_UP
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 4a 00 00 00
+#
+name: BRIGHT_DOWN
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 4b 00 00 00
+#
+name: TINT_UP
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 4c 00 00 00
+#
+name: TINT_DOWN
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 4d 00 00 00
+#
+name: SHARPNESS_UP
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 4e 00 00 00
+#
+name: SHARPNESS_DOWN
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 4f 00 00 00
+#
+name: KEY_UP
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 5c 00 00 00
+#
+name: KEY_DOWN
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 5d 00 00 00
+#
+name: KEY_RIGHT
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 5e 00 00 00
+#
+name: KEY_LEFT
+type: parsed
+protocol: NEC
+address: 18 18 00 00
+command: 5f 00 00 00

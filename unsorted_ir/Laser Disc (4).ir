@@ -1,0 +1,230 @@
+Filetype: IR signals file
+Version: 1
+#
+name: STOP
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 00 00 00 00
+#
+name: OPEN/CLOSE
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 01 00 00 00
+#
+name: SCAN <<
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 04 00 00 00
+#
+name: SCAN >>
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 05 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 06 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 0a 00 00 00
+#
+name: STILL/STEP >
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 0c 00 00 00
+#
+name: STILL/STEP <
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 0d 00 00 00
+#
+name: 1
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 10 00 00 00
+#
+name: 2
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 11 00 00 00
+#
+name: 3
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 12 00 00 00
+#
+name: 4
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 13 00 00 00
+#
+name: 5
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 14 00 00 00
+#
+name: 6
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 15 00 00 00
+#
+name: 7
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 16 00 00 00
+#
+name: 8
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 17 00 00 00
+#
+name: 9
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 18 00 00 00
+#
+name: 0
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 19 00 00 00
+#
+name: AUDIO SELECT
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 33 00 00 00
+#
+name: POWER
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 3d 00 00 00
+#
+name: INTRO SCAN
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 46 00 00 00
+#
+name: REPEAT
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 47 00 00 00
+#
+name: A-B REPEAT
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 48 00 00 00
+#
+name: SKIP <<
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 49 00 00 00
+#
+name: SKIP >>
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 4a 00 00 00
+#
+name: RANDOM
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 4d 00 00 00
+#
+name: TIME MODE
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 55 00 00 00
+#
+name: FP DISPLAY
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: 91 00 00 00
+#
+name: CLEAR
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: a0 00 00 00
+#
+name: RECALL
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: a1 00 00 00
+#
+name: +10
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: a4 00 00 00
+#
+name: PROGRAM
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: aa 00 00 00
+#
+name: EDIT
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: ad 00 00 00
+#
+name: MODE
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: c0 00 00 00
+#
+name: SIDE A
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: c3 00 00 00
+#
+name: SIDE B
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: c4 00 00 00
+#
+name: D/A CX
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: d0 00 00 00
+#
+name: DISPLAY
+type: parsed
+protocol: Panasonic
+address: 90 90 00 00
+command: d2 00 00 00

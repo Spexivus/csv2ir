@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+#
+name: antenna
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 1b 00 00 00
+#
+name: component1
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 43 00 00 00
+#
+name: KEY_PC
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 69 00 00 00
+#
+name: svideo1
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 85 00 00 00
+#
+name: off
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 98 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: 99 00 00 00
+#
+name: KEY_VIDEO
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: c1 00 00 00
+#
+name: svideo3
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: c2 00 00 00
+#
+name: component3
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: c3 00 00 00
+#
+name: KEY_VIDEO
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: f8 00 00 00
+#
+name: KEY_VIDEO
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: f9 00 00 00
+#
+name: svideo2
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: fb 00 00 00
+#
+name: component2
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: fd 00 00 00
+#
+name: dvi
+type: parsed
+protocol: NEC
+address: 07 00 00 00
+command: ff 00 00 00

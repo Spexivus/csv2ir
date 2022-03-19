@@ -1,0 +1,110 @@
+Filetype: IR signals file
+Version: 1
+#
+name: MONO T0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1c 00 00 00
+#
+name: MONO T1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 1c 00 00 00
+#
+name: - (SCAN/TUNE) T0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 22 00 00 00
+#
+name: - (SCAN/TUNE) T1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 22 00 00 00
+#
+name: + (SCAN/TUNE) T0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 28 00 00 00
+#
+name: + (SCAN/TUNE) T1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 28 00 00 00
+#
+name: BAND T0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2e 00 00 00
+#
+name: BAND T1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 2e 00 00 00
+#
+name: STORE T0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 37 00 00 00
+#
+name: STORE T1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 37 00 00 00
+#
+name: PRESET T0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 38 00 00 00
+#
+name: PRESET T1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 38 00 00 00
+#
+name: SIGNAL T0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 39 00 00 00
+#
+name: SIGNAL T1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 39 00 00 00
+#
+name: TUNE T0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3a 00 00 00
+#
+name: TUNE T1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3a 00 00 00
+#
+name: SCAN T0
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3b 00 00 00
+#
+name: SCAN T1
+type: parsed
+protocol: RC5
+address: 11 11 00 00
+command: 3b 00 00 00

@@ -1,0 +1,32 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VIEW
+type: parsed
+protocol: Dish_Network
+address: 18 18 00 00
+command: 16 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: Dish_Network
+address: 18 18 00 00
+command: 19 00 00 00
+#
+name: RECALL
+type: parsed
+protocol: Dish_Network
+address: 18 18 00 00
+command: 1b 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: Dish_Network
+address: 18 18 00 00
+command: 1d 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Dish_Network
+address: 18 18 00 00
+command: 2c 00 00 00

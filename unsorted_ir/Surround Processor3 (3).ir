@@ -1,0 +1,458 @@
+Filetype: IR signals file
+Version: 1
+#
+name: BALANCE FRONT
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 41 00 00 00
+#
+name: BALANCE RIGHT
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 42 00 00 00
+#
+name: REAR DELAY +
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 43 00 00 00
+#
+name: PARAM +
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 44 00 00 00
+#
+name: BALANCE REAR
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 45 00 00 00
+#
+name: BALANCE LEFT
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 46 00 00 00
+#
+name: REAR DELAY -
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 47 00 00 00
+#
+name: PARAM -
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 48 00 00 00
+#
+name: MONO LOGIC
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 4c 00 00 00
+#
+name: MUSIC LOGIC
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 50 00 00 00
+#
+name: DOLBY PRO-LOGIC
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 54 00 00 00
+#
+name: MUTE MAIN
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 55 00 00 00
+#
+name: MUTE SURROUND
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 56 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 57 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 58 00 00 00
+#
+name: SETUP
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 83 00 00 00
+#
+name: ON/OFF
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 84 00 00 00
+#
+name: STORE
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 87 00 00 00
+#
+name: ON/OFF-SIMPLE REMOTE
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 88 00 00 00
+#
+name: PANORAMA NORMAL 1
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 89 00 00 00
+#
+name: PANORAMA WIDE 2
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 8a 00 00 00
+#
+name: PANORAMA BINAURAL 3
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 8b 00 00 00
+#
+name: BANK
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 8c 00 00 00
+#
+name: AMBIENCE SMALL 4
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 8d 00 00 00
+#
+name: AMBIENCE MEDIUM 5
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 8e 00 00 00
+#
+name: AMBIENCE LARGE 6
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 8f 00 00 00
+#
+name: PARAM
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 90 00 00 00
+#
+name: REVERB SMALL 7
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 91 00 00 00
+#
+name: REVERB MEDIUM 8
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 92 00 00 00
+#
+name: REVERB LARGE 9
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 93 00 00 00
+#
+name: PARAM +
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 94 00 00 00
+#
+name: SURROUND TV 10
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 95 00 00 00
+#
+name: SURROUND MUSIC 11
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 96 00 00 00
+#
+name: SURROUND FULL 12
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 97 00 00 00
+#
+name: PARAM -
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 98 00 00 00
+#
+name: SURROUND MONO 13
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 99 00 00 00
+#
+name: SURROUND DOLBY 14
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 9a 00 00 00
+#
+name: SURROUND THX 15
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 9b 00 00 00
+#
+name: BALANCE FRONT
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: 9e 00 00 00
+#
+name: BALANCE LEFT
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: a1 00 00 00
+#
+name: BALANCE RIGHT
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: a3 00 00 00
+#
+name: BALANCE REAR
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: a6 00 00 00
+#
+name: EFFECT -
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: a9 00 00 00
+#
+name: EFFECT +
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: aa 00 00 00
+#
+name: MUTE EFFECT
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: ab 00 00 00
+#
+name: MUTE MAIN
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: ac 00 00 00
+#
+name: INPUT 1
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: ad 00 00 00
+#
+name: INPUT 2
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: ae 00 00 00
+#
+name: INPUT 3
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: af 00 00 00
+#
+name: INPUT 4
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: b0 00 00 00
+#
+name: PANORAMA NORMAL 1
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: c2 00 00 00
+#
+name: PANORAMA WIDE 2
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: c3 00 00 00
+#
+name: PANORAMA BINAURAL 3
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: c4 00 00 00
+#
+name: BANK
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: c5 00 00 00
+#
+name: AMBIENCE SMALL 4
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: c6 00 00 00
+#
+name: AMBIENCE MEDIUM 5
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: c7 00 00 00
+#
+name: AMBIENCE LARGE 6
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: c8 00 00 00
+#
+name: PARAM
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: c9 00 00 00
+#
+name: REVERB SMALL 7
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: ca 00 00 00
+#
+name: REVERB MEDIUM 8
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: cb 00 00 00
+#
+name: REVERB LARGE 9
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: cc 00 00 00
+#
+name: PARAM +
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: cd 00 00 00
+#
+name: MUTE EFFECT
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: d0 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: d2 00 00 00
+#
+name: EFFECT -
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: d3 00 00 00
+#
+name: BALANCE REAR
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: d4 00 00 00
+#
+name: BALANCE LEFT
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: d5 00 00 00
+#
+name: PARAM -
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: d7 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: d8 00 00 00
+#
+name: BALANCE RIGHT
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: d9 00 00 00
+#
+name: BALANCE FRONT
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: da 00 00 00
+#
+name: EFFECT +
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: db 00 00 00
+#
+name: SURROUND MONO 10
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: dc 00 00 00
+#
+name: SURROUND STEREO 11
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: dd 00 00 00
+#
+name: SURROUND DOLBY 12
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: de 00 00 00
+#
+name: MUTE SYTEM
+type: parsed
+protocol: Denon
+address: 1c 1c 00 00
+command: e1 00 00 00

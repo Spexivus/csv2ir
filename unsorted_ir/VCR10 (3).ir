@@ -1,0 +1,56 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CAM PROGRAM
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 00 00 00 00
+#
+name: VCR2 S.Q.P.
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 00 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: VCR2 RECORD
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: VCR2 REC
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: CAM REC
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: REC
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: VCR2 REC-PLAY
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00
+#
+name: VTR2 REC
+type: parsed
+protocol: NEC1
+address: 61 61 00 00
+command: 14 00 00 00

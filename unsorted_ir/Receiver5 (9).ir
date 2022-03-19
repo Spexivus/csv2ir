@@ -1,0 +1,290 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 00 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 01 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 02 00 00 00
+#
+name: ACTIVE HYPER-BASS
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 04 00 00 00
+#
+name: TUNER/BAND
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 0b 00 00 00
+#
+name: AUX
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 0d 00 00 00
+#
+name: (SHIFT)ENTER
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 11 00 00 00
+#
+name: (SHIFT)AUTO PRESET
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 13 00 00 00
+#
+name: CD UNKNOWN
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 14 00 00 00
+#
+name: PRESET TUNING
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 15 00 00 00
+#
+name: (SHIFT)DISPLAY
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 1c 00 00 00
+#
+name: (SHIFT)MODE
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 1f 00 00 00
+#
+name: CD 1
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 21 00 00 00
+#
+name: CD 2
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 22 00 00 00
+#
+name: CD 3
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 23 00 00 00
+#
+name: CD 4
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 24 00 00 00
+#
+name: CD 5
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 25 00 00 00
+#
+name: CD 6
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 26 00 00 00
+#
+name: CD 7
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 27 00 00 00
+#
+name: CD 8
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 28 00 00 00
+#
+name: CD 9
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 29 00 00 00
+#
+name: CD 10
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 2a 00 00 00
+#
+name: CD +10
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 2e 00 00 00
+#
+name: (SHIFT)TIMER
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 30 00 00 00
+#
+name: SLEEP
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 32 00 00 00
+#
+name: (SHIFT)CLOCK
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 33 00 00 00
+#
+name: (SHIFT)TIMER ON/OFF
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 36 00 00 00
+#
+name: CD SRCH >>(UP)
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 3d 00 00 00
+#
+name: CD SRCH <<(DOWN)
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 3e 00 00 00
+#
+name: TAPE STOP []
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 41 00 00 00
+#
+name: TAPE MUSIC SCAN >>
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 44 00 00 00
+#
+name: TAPE MUSIC SCAN <<
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 45 00 00 00
+#
+name: TAPE REC/PAUSE
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 4b 00 00 00
+#
+name: TAPE PLAY >
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 4c 00 00 00
+#
+name: TAPE REV PLAY <
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 4d 00 00 00
+#
+name: (SHIFT)SYNCHRO REC
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 56 00 00 00
+#
+name: CD PLAY/PAUSE >/
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 70 00 00 00
+#
+name: CD STOP/CLEAR []
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 71 00 00 00
+#
+name: (SHIFT)PROGRAM
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 74 00 00 00
+#
+name: (SHIFT)EDIT
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 75 00 00 00
+#
+name: (SHIFT)INTRO
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 76 00 00 00
+#
+name: (SHIFT)RANDOM
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 77 00 00 00
+#
+name: (SHIFT)REPEAT
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 78 00 00 00
+#
+name: CD DOOR
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 7b 00 00 00
+#
+name: BASS +
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 87 00 00 00
+#
+name: BASS -
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 88 00 00 00
+#
+name: TREBLE +
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 89 00 00 00
+#
+name: TREBLE -
+type: parsed
+protocol: JVC
+address: 9f 9f 00 00
+command: 8a 00 00 00

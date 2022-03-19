@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+#
+name: VOLUME UP
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 22 00 00 00
+#
+name: VOLUME DOWN
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 2a 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 32 00 00 00
+#
+name: VCR A
+type: parsed
+protocol: Mitsubishi
+address: 77 77 00 00
+command: 44 00 00 00

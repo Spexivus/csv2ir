@@ -1,0 +1,194 @@
+Filetype: IR signals file
+Version: 1
+#
+name: MODE DSP UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 18 00 00 00
+#
+name: MODE DSP DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 19 00 00 00
+#
+name: INPUT SELECT UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1e 00 00 00
+#
+name: INPUT SELECT DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 1f 00 00 00
+#
+name: SPK LEVEL UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 42 00 00 00
+#
+name: SPK LEVEL DOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 43 00 00 00
+#
+name: SPK CHANNEL SELECT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 44 00 00 00
+#
+name: MODE LISTEN MODEDOWN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 45 00 00 00
+#
+name: STANDBY
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 47 00 00 00
+#
+name: MODE STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4c 00 00 00
+#
+name: MODE SURR WRAP UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4d 00 00 00
+#
+name: MODE THX WRAP UP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 4e 00 00 00
+#
+name: MODE ALL CH STEREO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 52 00 00 00
+#
+name: SETUP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 53 00 00 00
+#
+name: RETURN
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 54 00 00 00
+#
+name: DIMMER
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 55 00 00 00
+#
+name: DISPLAY MODE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 55 00 00 00
+#
+name: MUTE ON
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 84 00 00 00
+#
+name: MUTE OFF
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 85 00 00 00
+#
+name: SPEAKER LAYOUT
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 88 00 00 00
+#
+name: INPUT DVD/BD
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: 8c 00 00 00
+#
+name: STANDBY/ON TOGGLE
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cb 00 00 00
+#
+name: INPUT HIDDEN 1
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cd 00 00 00
+#
+name: INPUT HIDDEN 2
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: ce 00 00 00
+#
+name: INPUT HIDDEN 3
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: cf 00 00 00
+#
+name: SETUP AUDIO
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d4 00 00 00
+#
+name: AUDYSSEY 2EQ WRAP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: RE-EQ/CINEMA WRAP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d6 00 00 00
+#
+name: LATE NIGHT WRAP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d7 00 00 00
+#
+name: AUDIO SELECT WRAP
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: d9 00 00 00
+#
+name: MODE THTR DIMENSION
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: dc 00 00 00
+#
+name: SPK SUB LVL CONTROL
+type: parsed
+protocol: NEC1
+address: d2 d2 00 00
+command: de 00 00 00

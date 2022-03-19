@@ -1,0 +1,176 @@
+Filetype: IR signals file
+Version: 1
+#
+name: KEY_PAUSE
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 00 00 00 00
+#
+name: AB-Taste
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 02 00 00 00
+#
+name: Stumm
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 03 00 00 00
+#
+name: TurnOffOn
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 04 00 00 00
+#
+name: KEY_VOLUMEDOWN
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 07 00 00 00
+#
+name: KEY_VOLUMEUP
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 08 00 00 00
+#
+name: MixText
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 0f 00 00 00
+#
+name: KEY_RECORD
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 0f 00 00 00
+#
+name: PauseVideoText
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 12 00 00 00
+#
+name: KEY_CHANNELDOWN
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 18 00 00 00
+#
+name: KEY_CHANNELUP
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 19 00 00 00
+#
+name: Taste1
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1a 00 00 00
+#
+name: Taste2
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1b 00 00 00
+#
+name: Taste3
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1c 00 00 00
+#
+name: Taste4
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1d 00 00 00
+#
+name: Taste5
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1e 00 00 00
+#
+name: Taste6
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 1f 00 00 00
+#
+name: Taste7
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 20 00 00 00
+#
+name: Taste8
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 21 00 00 00
+#
+name: Taste9
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 22 00 00 00
+#
+name: Taste0
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 23 00 00 00
+#
+name: AdvNum
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 25 00 00 00
+#
+name: OffText
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 26 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 27 00 00 00
+#
+name: ShowClock
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 27 00 00 00
+#
+name: KEY_BACK
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 32 00 00 00
+#
+name: KEY_PLAY
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 33 00 00 00
+#
+name: Vor
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 34 00 00 00
+#
+name: KEY_STOP
+type: parsed
+protocol: RECS80
+address: 07 07 00 00
+command: 36 00 00 00

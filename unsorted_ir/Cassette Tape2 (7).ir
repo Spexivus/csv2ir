@@ -1,0 +1,38 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 19 00 00 00
+#
+name: RECORD
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 1a 00 00 00
+#
+name: PLAY >
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 1c 00 00 00
+#
+name: FF >>
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 1d 00 00 00
+#
+name: REW <<
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 1e 00 00 00
+#
+name: STOP []
+type: parsed
+protocol: NEC1
+address: 87 87 00 00
+command: 1f 00 00 00

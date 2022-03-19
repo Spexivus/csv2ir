@@ -1,0 +1,188 @@
+Filetype: IR signals file
+Version: 1
+#
+name: CT 106
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 00 00 00 00
+#
+name: CT 107
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 01 00 00 00
+#
+name: CT 108
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 02 00 00 00
+#
+name: CT 109
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 03 00 00 00
+#
+name: CT 110
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 04 00 00 00
+#
+name: CT 111
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 05 00 00 00
+#
+name: CT 112
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 06 00 00 00
+#
+name: CT 113
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 07 00 00 00
+#
+name: CT 114
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 08 00 00 00
+#
+name: CT 105
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 09 00 00 00
+#
+name: CT 115
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 0b 00 00 00
+#
+name: CT 100
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 10 00 00 00
+#
+name: CT 101
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 11 00 00 00
+#
+name: CT 099
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 15 00 00 00
+#
+name: CT 116
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 16 00 00 00
+#
+name: CT 124
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 1d 00 00 00
+#
+name: CT 097
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 26 00 00 00
+#
+name: CT 098
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 29 00 00 00
+#
+name: CT 121
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 2a 00 00 00
+#
+name: CT 125
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 30 00 00 00
+#
+name: CT 120
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 31 00 00 00
+#
+name: CT 126
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 46 00 00 00
+#
+name: CT 102
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 4d 00 00 00
+#
+name: CT 117
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 4f 00 00 00
+#
+name: CT 122
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 50 00 00 00
+#
+name: CT 123
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 58 00 00 00
+#
+name: CT 103
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 5a 00 00 00
+#
+name: CT 104
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 63 00 00 00
+#
+name: CT 118
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 64 00 00 00
+#
+name: CT 119
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 65 00 00 00
+#
+name: CT 127
+type: parsed
+protocol: Sony12
+address: 07 07 00 00
+command: 68 00 00 00

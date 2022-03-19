@@ -1,0 +1,314 @@
+Filetype: IR signals file
+Version: 1
+#
+name: tapePlay
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 00 00 00 00
+#
+name: tapeSearchBck
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 01 00 00 00
+#
+name: tapeSearchFwd
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 02 00 00 00
+#
+name: tapeStop
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 03 00 00 00
+#
+name: tapeRecPause
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 04 00 00 00
+#
+name: tapeRecMute
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 05 00 00 00
+#
+name: tapeDeckAB
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 06 00 00 00
+#
+name: tapeDirA
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 07 00 00 00
+#
+name: cdPlay
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 08 00 00 00
+#
+name: cdPauseStop
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 09 00 00 00
+#
+name: cdSkipFwd
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 0a 00 00 00
+#
+name: cdSkipBck
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 0b 00 00 00
+#
+name: cdSearchFwd
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 0c 00 00 00
+#
+name: cdSearchBck
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 0d 00 00 00
+#
+name: phonoPlayCut
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 0e 00 00 00
+#
+name: vcr1mon
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 0f 00 00 00
+#
+name: tunerPresetPlus
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 10 00 00 00
+#
+name: tunerPresetMinus
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 11 00 00 00
+#
+name: tunerABCDE
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 12 00 00 00
+#
+name: vcr2
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 13 00 00 00
+#
+name: phono
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 14 00 00 00
+#
+name: KEY_CD
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 15 00 00 00
+#
+name: KEY_TUNER
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 16 00 00 00
+#
+name: ldtv
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 17 00 00 00
+#
+name: tape1
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 18 00 00 00
+#
+name: masterUp
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 1a 00 00 00
+#
+name: masterDn
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 1b 00 00 00
+#
+name: muting
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 1c 00 00 00
+#
+name: KEY_POWER
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 1f 00 00 00
+#
+name: tapeDirB
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 40 00 00 00
+#
+name: cdDiskSkip
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 4f 00 00 00
+#
+name: delayUp
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 52 00 00 00
+#
+name: delayDn
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 53 00 00 00
+#
+name: effect
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 56 00 00 00
+#
+name: KEY_SLEEP
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 57 00 00 00
+#
+name: eqOnFlat
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 5a 00 00 00
+#
+name: presetUp
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 5b 00 00 00
+#
+name: presetDown
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 5c 00 00 00
+#
+name: RLup
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 5e 00 00 00
+#
+name: RLdn
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 5f 00 00 00
+#
+name: FELup
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 80 00 00 00
+#
+name: FELdn
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 81 00 00 00
+#
+name: CLup
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 82 00 00 00
+#
+name: CLdn
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 83 00 00 00
+#
+name: centerMode
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 84 00 00 00
+#
+name: test
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 85 00 00 00
+#
+name: prologic
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 88 00 00 00
+#
+name: enhanced
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 89 00 00 00
+#
+name: cnctVideo
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 8a 00 00 00
+#
+name: monoMovie
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 8b 00 00 00
+#
+name: rock
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 8c 00 00 00
+#
+name: hall
+type: parsed
+protocol: NEC
+address: 7a 7a 00 00
+command: 8d 00 00 00

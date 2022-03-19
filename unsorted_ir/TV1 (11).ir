@@ -1,0 +1,62 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER ON/OFF
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0a 00 00 00
+#
+name: CHANNEL +
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0b 00 00 00
+#
+name: CHANNEL -
+type: parsed
+protocol: G.I.Cable
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: POWER OFF
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: 
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: ENTER/OK
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2e 00 00 00
+#
+name: POWER ON
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 3f 00 00 00
+#
+name: SWAP
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 4b 00 00 00

@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ENTER
+type: parsed
+protocol: Akai
+address: 04 04 00 00
+command: 0b 00 00 00
+#
+name: RECALL
+type: parsed
+protocol: Akai
+address: 04 04 00 00
+command: 0f 00 00 00

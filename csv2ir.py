@@ -37,6 +37,7 @@ def main():
                         irFile.write(f"type: parsed\n")
                         if row[1] == "NECx1" or row[1] == "NECx2" or row[1] == "NEC1" or row[1] == "NEC2":
                             irFile.write(f"protocol: NEC\n")
+                        # JVC : https://www.sbprojects.net/knowledge/ir/jvc.php
                         #elif row[1] == "protocol_here":
                         #    irFile.write(f"protocol: protocol_here\n")
                         else:

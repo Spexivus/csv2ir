@@ -1,0 +1,74 @@
+Filetype: IR signals file
+Version: 1
+#
+name: PORT1
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 40 00 00 00
+#
+name: PORT1 TOGGLE
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 40 00 00 00
+#
+name: PORT2
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 41 00 00 00
+#
+name: PORT2 TOGGLE
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 41 00 00 00
+#
+name: INPUT 1
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 43 00 00 00
+#
+name: INPUT 2
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 44 00 00 00
+#
+name: INPUT 2
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 45 00 00 00
+#
+name: INPUT 3
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 45 00 00 00
+#
+name: INPUT 3
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 47 00 00 00
+#
+name: INPUT 4
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 49 00 00 00
+#
+name: INPUT 5
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 72 00 00 00
+#
+name: INPUT 6
+type: parsed
+protocol: RC5
+address: 0b 0b 00 00
+command: 73 00 00 00

@@ -1,0 +1,92 @@
+Filetype: IR signals file
+Version: 1
+#
+name: SELECT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 06 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 0c 00 00 00
+#
+name: CHAP>
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: CHAP<
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: FWW
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 18 00 00 00
+#
+name: REW
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 1c 00 00 00
+#
+name: RIGHT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 40 00 00 00
+#
+name: UP
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 44 00 00 00
+#
+name: DOWN
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 48 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 49 00 00 00
+#
+name: LEFT
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 4c 00 00 00
+#
+name: TITLE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 4d 00 00 00
+#
+name: PLAY
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 57 00 00 00
+#
+name: STOP
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 5b 00 00 00
+#
+name: PAUSE
+type: parsed
+protocol: NEC1
+address: 00 00 00 00
+command: 5f 00 00 00

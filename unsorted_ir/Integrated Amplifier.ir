@@ -1,0 +1,38 @@
+Filetype: IR signals file
+Version: 1
+#
+name: ON/STAND-BY
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0c 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 0d 00 00 00
+#
+name: VOLUME +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 10 00 00 00
+#
+name: VOLUME -
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 11 00 00 00
+#
+name: INPUT +
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 20 00 00 00
+#
+name: INPUT -
+type: parsed
+protocol: RC5
+address: 10 10 00 00
+command: 21 00 00 00
