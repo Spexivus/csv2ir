@@ -1,5 +1,6 @@
 import os
 import csv
+from re import sub
 import time
 
 
@@ -21,7 +22,7 @@ def main():
 
     if input("\nWould you like to set a custom protocol? (y/n)\n") == "y":
         customProtocol = True
-        protocol = str(input("\nEnter the protocol you would like to use \n Currently supported protocols: NEC, NECext, Samsung32).\n"))
+        protocol = str(input("\nEnter the protocol you would like to use \nCurrently supported protocols: NEC, NECext, Samsung32).\n"))
 
     os.chdir(csvPath)
     csvfiles = os.listdir()  # list of csv files
@@ -52,8 +53,6 @@ def main():
                         functionName = row[0].replace(" ", "_")
 
                         if customProtocol == False:
-                            protocol = row[1]   # Protocol row
-                        else :
                             protocol = "NECext"
 
                         irFile.write(f"name: {functionName}\n")                 # name
@@ -62,26 +61,25 @@ def main():
                         irFile.write(f"protocol: {protocol}\n")
 
                         deviceID = row[2]  # Device row
+                        deviceID = (hex(int(deviceID)))[2:].replace('x', '0')
+
                         subdeviceID = row[3] # Subdevice row
+                        subdeviceID = (hex(int(subdeviceID)))[2:].replace('x', '0')
+
+                        command = (hex(int(row[4])))[2:]  # Command row (in hex)
 
                         if subdeviceID == deviceID:
-                            subdeviceID = (hex(int(deviceID)))[2:]  # Set equal to deviceID if subdeviceID is same
-                        if row[2] != row[3]:
-                            deviceID = (hex(int(deviceID)))[2:]     # Device ID to hex
-                            subdeviceID = (hex(int(subdeviceID)))[2:]   # Subdevice ID to hex
-                            if len(deviceID) == 1:
-                                deviceID += "0"
-                            if len(subdeviceID) == 1:
-                                subdeviceID += "0"
+                            subdeviceID = "00"
+                        elif row[3] == "-1":    # Check value before conversion
+                            subdeviceID = "00"
 
-                            irFile.write(f"address: {deviceID} {subdeviceID} 00 00\n")
+                        if len(deviceID) == 1:
+                            deviceID = "0" + deviceID
+                        if len(subdeviceID) == 1:
+                            subdeviceID = "0" + deviceID
 
-                        else:
-                            deviceID = (hex(int(deviceID)))[2:]
-                            if len(deviceID) == 1:
-                                deviceID = "0" + deviceID
-                            irFile.write(f"address: {deviceID} 00 00 00\n")
-                        command = (hex(int(row[4])))[2:]
+                        irFile.write(f"address: {deviceID} {subdeviceID} 00 00\n")
+
                         if len(command) == 1:
                             command = "0" + command
                         irFile.write(f"command: {command} 00 00 00\n")
