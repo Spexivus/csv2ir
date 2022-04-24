@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: TV/VIDEO
-type: parsed
-protocol: Zenith
-address: 05 05 00 00
-command: 0d 00 00 00

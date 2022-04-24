@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: CD
-type: parsed
-protocol: RC5
-address: 14 14 00 00
-command: 3f 00 00 00

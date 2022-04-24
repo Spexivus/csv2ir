@@ -17,18 +17,22 @@ def main():
 
     if input(f"Place .csv files in the ({csvPath}) directory. Should I open it for you? (y/n). \n") == "y":
         os.startfile(csvPath)
-    input("Press enter when you are finished placing files. \n")
+    input("\nPress enter when you are finished placing files.")
+
+    if input("\nWould you like to set a custom protocol? (y/n)\n") == "y":
+        customProtocol = True
+        protocol = str(input("\nEnter the protocol you would like to use \n Currently supported protocols: NEC, NECext, Samsung32).\n"))
 
     os.chdir(csvPath)
     csvfiles = os.listdir()  # list of csv files
 
     if len(csvfiles) == 0:
-        print("No csv files found. Exiting...")
+        print("\nNo csv files found. Exiting...")
         time.sleep(2)
         exit()
 
     counter = 0
-    print("Converting files... \n")
+    print("\nConverting files... ")
     start = time.time()
 
     for file in csvfiles:
@@ -46,37 +50,44 @@ def main():
                     for row in csv_reader:
                         irFile.write(f"#\n")
                         functionName = row[0].replace(" ", "_")
-                        irFile.write(f"name: {functionName}\n")
-                        irFile.write(f"type: parsed\n")
-                        if row[1] == "NECx1" or row[1] == "NEC1":
-                            irFile.write(f"protocol: NEC\n")
-                        if row[1] == "NECx2" or row[1] == "NEC2":
-                            irFile.write(f"protocol: Samsung32\n")
-                        # JVC : https://www.sbprojects.net/knowledge/ir/jvc.php
-                        # elif row[1] == "protocol_here":
-                        #    irFile.write(f"protocol: protocol_here\n")
-                        else:
-                            irFile.write(f"protocol: {row[1]}\n")
+
+                        if customProtocol == False:
+                            protocol = row[1]   # Protocol row
+                        else :
+                            protocol = "NECext"
+
+                        irFile.write(f"name: {functionName}\n")                 # name
+                        irFile.write(f"type: parsed\n")                         # type
+
+                        irFile.write(f"protocol: {protocol}\n")
+
+                        deviceID = row[2]  # Device row
+                        subdeviceID = row[3] # Subdevice row
+
+                        if subdeviceID == deviceID:
+                            subdeviceID = (hex(int(deviceID)))[2:]  # Set equal to deviceID if subdeviceID is same
                         if row[2] != row[3]:
-                            row1 = (hex(int(row[2])))[2:]
-                            row2 = (hex(int(row[3])))[2:]
-                            if len(row1) == 1:
-                                row1 += "0"
-                            if len(row2) == 1:
-                                row2 += "0"
-                            irFile.write(f"address: {row1} {row1} 00 00\n")
+                            deviceID = (hex(int(deviceID)))[2:]     # Device ID to hex
+                            subdeviceID = (hex(int(subdeviceID)))[2:]   # Subdevice ID to hex
+                            if len(deviceID) == 1:
+                                deviceID += "0"
+                            if len(subdeviceID) == 1:
+                                subdeviceID += "0"
+
+                            irFile.write(f"address: {deviceID} {subdeviceID} 00 00\n")
+
                         else:
-                            row1 = (hex(int(row[2])))[2:]
-                            if len(row1) == 1:
-                                row1 = "0" + row1
-                            irFile.write(f"address: {row1} 00 00 00\n")
-                        cRow = (hex(int(row[4])))[2:]
-                        if len(cRow) == 1:
-                            cRow = "0" + cRow
-                        irFile.write(f"command: {cRow} 00 00 00\n")
+                            deviceID = (hex(int(deviceID)))[2:]
+                            if len(deviceID) == 1:
+                                deviceID = "0" + deviceID
+                            irFile.write(f"address: {deviceID} 00 00 00\n")
+                        command = (hex(int(row[4])))[2:]
+                        if len(command) == 1:
+                            command = "0" + command
+                        irFile.write(f"command: {command} 00 00 00\n")
 
     finish = time.time()
-    print(f"Converted {counter} files in {finish-start} seconds ({counter/(finish-start)} files per second) \n")
+    print(f"\nConverted {counter} files in {finish-start} seconds ({counter/(finish-start)} files per second)")
     print("Auto-quitting in 5 seconds... ")
     time.sleep(5)
     quit()

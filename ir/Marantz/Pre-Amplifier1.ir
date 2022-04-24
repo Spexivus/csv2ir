@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: AUX1 AMS ./..
-type: parsed
-protocol: RC5
-address: 00 00 00 00
-command: 0a 00 00 00

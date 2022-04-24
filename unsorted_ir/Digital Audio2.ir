@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: POWER
-type: parsed
-protocol: NEC1
-address: d2 d2 00 00
-command: cb 00 00 00

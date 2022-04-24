@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: RECORDER 1 (CD-R)
-type: parsed
-protocol: RC5
-address: 1a 1a 00 00
-command: 3f 00 00 00

@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: MUTE
-type: parsed
-protocol: RCA-38
-address: 0f 0f 00 00
-command: 3f 00 00 00

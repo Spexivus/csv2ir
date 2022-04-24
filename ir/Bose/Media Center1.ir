@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: TV INPUT
-type: parsed
-protocol: Sony12
-address: 01 01 00 00
-command: 2c 00 00 00

@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: 
-type: parsed
-protocol: RC5
-address: 0d 0d 00 00
-command: 60 00 00 00

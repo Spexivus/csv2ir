@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: JUMP BACK
-type: parsed
-protocol: JVC
-address: b3 b3 00 00
-command: b3 00 00 00

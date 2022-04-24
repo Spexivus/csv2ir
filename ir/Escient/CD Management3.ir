@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: 
-type: parsed
-protocol: Sony15
-address: 5b 5b 00 00
-command: 01 00 00 00

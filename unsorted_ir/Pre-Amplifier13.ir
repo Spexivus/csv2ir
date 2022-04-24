@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: 
-type: parsed
-protocol: Sony20
-address: 1a 1a 00 00
-command: 2e 00 00 00

@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: 3 STOP
-type: parsed
-protocol: JVC
-address: c3 c3 00 00
-command: 3c 00 00 00

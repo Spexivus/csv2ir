@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: TAPE POSITION
-type: parsed
-protocol: Panasonic
-address: 90 90 00 00
-command: 2b 00 00 00

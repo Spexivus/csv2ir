@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: FF
-type: parsed
-protocol: RCA-38
-address: 0e 0e 00 00
-command: 1c 00 00 00

@@ -1,10 +1,10 @@
 # csv2ir
 
-csv2ir is a database / script to convert ir .csv files to .ir files for the flipper.
+csv2ir is a script to convert ir .csv files to .ir files for the flipper.
 
 ## Usage
 
-Run the script, follow the instructions...
+Run the script, follow the instructions, profit?
 
 ```bash
 py csv2ir.py

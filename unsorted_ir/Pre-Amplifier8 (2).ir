@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: DAT/TAPE MONITOR
-type: parsed
-protocol: RC5
-address: 17 17 00 00
-command: 3f 00 00 00

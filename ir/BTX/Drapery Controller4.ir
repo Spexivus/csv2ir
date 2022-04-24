@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: 4 CLOSE
-type: parsed
-protocol: JVC
-address: 94 94 00 00
-command: 6b 00 00 00

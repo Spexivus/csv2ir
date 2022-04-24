@@ -1,8 +1,0 @@
-Filetype: IR signals file
-Version: 1
-#
-name: 5
-type: parsed
-protocol: Denon{1}
-address: 04 04 00 00
-command: df 00 00 00

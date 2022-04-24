@@ -1,5 +1,0 @@
-functionname,protocol,device,subdevice,function
-VOLUME UP,Mitsubishi,119,-1,34
-VOLUME DOWN,Mitsubishi,119,-1,42
-MUTE,Mitsubishi,119,-1,50
-VCR A,Mitsubishi,119,-1,68
