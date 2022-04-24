@@ -2,6 +2,8 @@
 
 csv2ir is a script to convert ir .csv files to .ir files for the flipper.
 
+For a repo of .ir files, please see https://github.com/Lucaslhm/Flipper-IRDB
+
 ## Usage
 
 Run the script, follow the instructions, profit?
