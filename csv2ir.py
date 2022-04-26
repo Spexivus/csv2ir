@@ -69,9 +69,7 @@ def main():
 
                         command = (hex(int(row[4])))[2:].upper()  # Command row (in hex)
 
-                        if subdeviceID == deviceID:
-                            subdeviceID = "00"
-                        elif row[3] == "-1":    # Check value before conversion
+                        if row[3] == "-1":    # Check value before conversion
                             subdeviceID = "00"
 
                         if len(deviceID) == 1:
