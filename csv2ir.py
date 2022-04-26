@@ -8,6 +8,7 @@ def main():
     mainPath = os.path.join(os.path.join(os.environ['USERPROFILE']), 'Desktop') + "\csv2ir"
     csvPath = mainPath + "\csv"
     irPath = mainPath + "\ir"
+    customProtocol = False
 
     if os.path.exists(mainPath) == False:
 
@@ -61,12 +62,12 @@ def main():
                         irFile.write(f"protocol: {protocol}\n")
 
                         deviceID = row[2]  # Device row
-                        deviceID = (hex(int(deviceID)))[2:].replace('x', '0')
+                        deviceID = (hex(int(deviceID)))[2:].replace('x', '0').upper()
 
                         subdeviceID = row[3] # Subdevice row
-                        subdeviceID = (hex(int(subdeviceID)))[2:].replace('x', '0')
+                        subdeviceID = (hex(int(subdeviceID)))[2:].replace('x', '0').upper()
 
-                        command = (hex(int(row[4])))[2:]  # Command row (in hex)
+                        command = (hex(int(row[4])))[2:].upper()  # Command row (in hex)
 
                         if subdeviceID == deviceID:
                             subdeviceID = "00"
@@ -76,7 +77,7 @@ def main():
                         if len(deviceID) == 1:
                             deviceID = "0" + deviceID
                         if len(subdeviceID) == 1:
-                            subdeviceID = "0" + deviceID
+                            subdeviceID = "0" + subdeviceID
 
                         irFile.write(f"address: {deviceID} {subdeviceID} 00 00\n")
 
@@ -84,8 +85,8 @@ def main():
                             command = "0" + command
                         irFile.write(f"command: {command} 00 00 00\n")
 
-    finish = time.time()
-    print(f"\nConverted {counter} files in {finish-start} seconds ({counter/(finish-start)} files per second)")
+    finish = time.time()-start
+    print(f"\nConverted {counter} files in {finish} seconds ({counter/(finish)} files per second)")
     print("Auto-quitting in 5 seconds... ")
     time.sleep(5)
     quit()
