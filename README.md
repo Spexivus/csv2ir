@@ -6,10 +6,8 @@ For a repo of .ir files, please see https://github.com/Lucaslhm/Flipper-IRDB
 
 ## Usage
 
-Run the script, follow the instructions, profit?
-
-```bash
-py csv2ir.py
+```
+csv2ir.py [-h] [--protocol PROTOCOL] input_path output_path
 ```
 
 ## Contributing
