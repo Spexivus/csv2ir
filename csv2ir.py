@@ -6,7 +6,7 @@ import csv
 
 def convert(csv_in, ir_out, protocol="NECext"):
     with open(csv_in, newline="") as csv_file:
-        csv_reader = csv.reader(csv_file, delimiter=',')
+        csv_reader = csv.reader(csv_file, delimiter=",")
         next(csv_file)
         with open(ir_out, "w") as ir_file:
             ir_file.write(f"Filetype: IR signals file\n")
@@ -19,11 +19,15 @@ def convert(csv_in, ir_out, protocol="NECext"):
                 ir_file.write(f"type: parsed\n")
                 ir_file.write(f"protocol: {protocol}\n")
 
-                device_id = (hex(int(row[2])))[2:].replace('x', '0').upper()
+                device_id = (hex(int(row[2])))[2:].replace("x", "0").upper()
                 if len(device_id) == 1:
                     device_id = "0" + device_id
 
-                subdevice_id = "00" if (row[3] == "-1") else (hex(int(row[3])))[2:].replace('x', '0').upper()
+                subdevice_id = (
+                    "00"
+                    if (row[3] == "-1")
+                    else (hex(int(row[3])))[2:].replace("x", "0").upper()
+                )
                 if len(subdevice_id) == 1:
                     subdevice_id = "0" + subdevice_id
 
@@ -53,7 +57,11 @@ def main():
         for input_file in os.listdir(args.input_path):
             if input_file.endswith(".csv"):
                 output_file = os.path.splitext(input_file)[0] + ".ir"
-                convert(os.path.join(args.input_path, input_file), os.path.join(args.output_path, output_file), args.protocol)
+                convert(
+                    os.path.join(args.input_path, input_file),
+                    os.path.join(args.output_path, output_file),
+                    args.protocol,
+                )
     else:
         convert(args.input_path, args.output_path, args.protocol)
 
