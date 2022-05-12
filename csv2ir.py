@@ -1,7 +1,5 @@
 import os
 import csv
-from re import sub
-import time
 
 
 def convert(csv_in, ir_out, protocol="NECext"):
@@ -63,22 +61,10 @@ def main():
 
     if len(csvfiles) == 0:
         print("\nNo csv files found. Exiting...")
-        time.sleep(2)
-        exit()
-
-    counter = 0
-    print("\nConverting files... ")
-    start = time.time()
 
     for file in csvfiles:
         if file.endswith(".csv"):
             convert(os.path.join(csvPath, file), os.path.join(irPath, file.replace(".csv", ".ir")), protocol)
-
-    finish = time.time()-start
-    print(f"\nConverted {counter} files in {finish} seconds ({counter/(finish)} files per second)")
-    print("Auto-quitting in 5 seconds... ")
-    time.sleep(5)
-    quit()
 
 
 if __name__ == "__main__":
