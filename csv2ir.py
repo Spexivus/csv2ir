@@ -1,93 +1,70 @@
+import argparse
 import os
+import sys
 import csv
-from re import sub
-import time
+
+
+def convert(csv_in, ir_out, protocol="NECext"):
+    with open(csv_in, newline="") as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=",")
+        next(csv_file)
+        with open(ir_out, "w") as ir_file:
+            ir_file.write(f"Filetype: IR signals file\n")
+            ir_file.write(f"Version: 1\n")
+            for row in csv_reader:
+                ir_file.write(f"#\n")
+                function_name = row[0].replace(" ", "_")
+
+                ir_file.write(f"name: {function_name}\n")
+                ir_file.write(f"type: parsed\n")
+                ir_file.write(f"protocol: {protocol}\n")
+
+                device_id = (hex(int(row[2])))[2:].replace("x", "0").upper()
+                if len(device_id) == 1:
+                    device_id = "0" + device_id
+
+                subdevice_id = (
+                    "00"
+                    if (row[3] == "-1")
+                    else (hex(int(row[3])))[2:].replace("x", "0").upper()
+                )
+                if len(subdevice_id) == 1:
+                    subdevice_id = "0" + subdevice_id
+
+                command = (hex(int(row[4])))[2:].upper()
+                if len(command) == 1:
+                    command = "0" + command
+
+                ir_file.write(f"address: {device_id} {subdevice_id} 00 00\n")
+                ir_file.write(f"command: {command} 00 00 00\n")
 
 
 def main():
-    mainPath = os.path.join(os.path.join(os.environ['USERPROFILE']), 'Desktop') + "\csv2ir"
-    csvPath = mainPath + "\csv"
-    irPath = mainPath + "\ir"
-    customProtocol = False
+    parser = argparse.ArgumentParser(description="Convert .csv files to .ir files")
+    parser.add_argument("input_path", type=str, help="Input file or directory")
+    parser.add_argument("output_path", type=str, help="Output file or directory")
+    parser.add_argument("--protocol", type=str, default="NECext", help="IR protocol")
+    args = parser.parse_args()
 
-    if os.path.exists(mainPath) == False:
+    if not os.path.exists(args.input_path):
+        sys.exit(f"Input path not found: {args.input_path}")
 
-        os.mkdir(mainPath)
-        os.mkdir(csvPath)
-        os.mkdir(irPath)
-        print(f"Created main directory ({mainPath})\n")
-
-    if input(f"Place .csv files in the ({csvPath}) directory. Should I open it for you? (y/n). \n") == "y":
-        os.startfile(csvPath)
-    input("\nPress enter when you are finished placing files.")
-
-    if input("\nWould you like to set a custom protocol? (y/n)\n") == "y":
-        customProtocol = True
-        protocol = str(input("\nEnter the protocol you would like to use \nCurrently supported protocols: NEC, NECext, Samsung32).\n"))
-
-    os.chdir(csvPath)
-    csvfiles = os.listdir()  # list of csv files
-
-    if len(csvfiles) == 0:
-        print("\nNo csv files found. Exiting...")
-        time.sleep(2)
-        exit()
-
-    counter = 0
-    print("\nConverting files... ")
-    start = time.time()
-
-    for file in csvfiles:
-        if file.endswith(".csv"):
-            os.chdir(csvPath)
-            with open(file, newline='') as csvFile:
-                csv_reader = csv.reader(csvFile, delimiter=',')
-                next(csvFile)
-                filename = file.replace(".csv", ".ir")
-                os.chdir(irPath)
-                counter += 1
-                with open(filename, "w") as irFile:
-                    irFile.write(f"Filetype: IR signals file\n")
-                    irFile.write(f"Version: 1\n")
-                    for row in csv_reader:
-                        irFile.write(f"#\n")
-                        functionName = row[0].replace(" ", "_")
-
-                        if customProtocol == False:
-                            protocol = "NECext"
-
-                        irFile.write(f"name: {functionName}\n")                 # name
-                        irFile.write(f"type: parsed\n")                         # type
-
-                        irFile.write(f"protocol: {protocol}\n")
-
-                        deviceID = row[2]  # Device row
-                        deviceID = (hex(int(deviceID)))[2:].replace('x', '0').upper()
-
-                        subdeviceID = row[3] # Subdevice row
-                        subdeviceID = (hex(int(subdeviceID)))[2:].replace('x', '0').upper()
-
-                        command = (hex(int(row[4])))[2:].upper()  # Command row (in hex)
-
-                        if row[3] == "-1":    # Check value before conversion
-                            subdeviceID = "00"
-
-                        if len(deviceID) == 1:
-                            deviceID = "0" + deviceID
-                        if len(subdeviceID) == 1:
-                            subdeviceID = "0" + subdeviceID
-
-                        irFile.write(f"address: {deviceID} {subdeviceID} 00 00\n")
-
-                        if len(command) == 1:
-                            command = "0" + command
-                        irFile.write(f"command: {command} 00 00 00\n")
-
-    finish = time.time()-start
-    print(f"\nConverted {counter} files in {finish} seconds ({counter/(finish)} files per second)")
-    print("Auto-quitting in 5 seconds... ")
-    time.sleep(5)
-    quit()
+    if os.path.isdir(args.input_path):
+        if not os.path.exists(args.output_path):
+            os.mkdir(args.output_path)
+        if not os.path.isdir(args.output_path):
+            sys.exit(f"Output path is not a directory: {args.output_path}")
+        for input_file in os.listdir(args.input_path):
+            if input_file.endswith(".csv"):
+                output_file = os.path.splitext(input_file)[0] + ".ir"
+                convert(
+                    os.path.join(args.input_path, input_file),
+                    os.path.join(args.output_path, output_file),
+                    args.protocol,
+                )
+    else:
+        convert(args.input_path, args.output_path, args.protocol)
 
 
-main()
+if __name__ == "__main__":
+    main()
