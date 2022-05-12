@@ -1,4 +1,6 @@
+import argparse
 import os
+import sys
 import csv
 
 
@@ -34,37 +36,26 @@ def convert(csv_in, ir_out, protocol="NECext"):
 
 
 def main():
-    mainPath = os.path.join(os.path.join(os.environ['USERPROFILE']), 'Desktop') + "\csv2ir"
-    csvPath = mainPath + "\csv"
-    irPath = mainPath + "\ir"
-    customProtocol = False
+    parser = argparse.ArgumentParser(description="Convert .csv files to .ir files")
+    parser.add_argument("input_path", type=str, help="Input file or directory")
+    parser.add_argument("output_path", type=str, help="Output file or directory")
+    parser.add_argument("--protocol", type=str, default="NECext", help="IR protocol")
+    args = parser.parse_args()
 
-    if os.path.exists(mainPath) == False:
+    if not os.path.exists(args.input_path):
+        sys.exit(f"Input path not found: {args.input_path}")
 
-        os.mkdir(mainPath)
-        os.mkdir(csvPath)
-        os.mkdir(irPath)
-        print(f"Created main directory ({mainPath})\n")
-
-    if input(f"Place .csv files in the ({csvPath}) directory. Should I open it for you? (y/n). \n") == "y":
-        os.startfile(csvPath)
-    input("\nPress enter when you are finished placing files.")
-
-    if input("\nWould you like to set a custom protocol? (y/n)\n") == "y":
-        customProtocol = True
-        protocol = str(input("\nEnter the protocol you would like to use \nCurrently supported protocols: NEC, NECext, Samsung32).\n"))
+    if os.path.isdir(args.input_path):
+        if not os.path.exists(args.output_path):
+            os.mkdir(args.output_path)
+        if not os.path.isdir(args.output_path):
+            sys.exit(f"Output path is not a directory: {args.output_path}")
+        for input_file in os.listdir(args.input_path):
+            if input_file.endswith(".csv"):
+                output_file = os.path.splitext(input_file)[0] + ".ir"
+                convert(os.path.join(args.input_path, input_file), os.path.join(args.output_path, output_file), args.protocol)
     else:
-        protocol = "NECext"
-
-    os.chdir(csvPath)
-    csvfiles = os.listdir()  # list of csv files
-
-    if len(csvfiles) == 0:
-        print("\nNo csv files found. Exiting...")
-
-    for file in csvfiles:
-        if file.endswith(".csv"):
-            convert(os.path.join(csvPath, file), os.path.join(irPath, file.replace(".csv", ".ir")), protocol)
+        convert(args.input_path, args.output_path, args.protocol)
 
 
 if __name__ == "__main__":
