@@ -51,7 +51,7 @@ def main():
 
     if os.path.isdir(args.input_path):
         if not os.path.exists(args.output_path):
-            os.mkdir(args.output_path)
+            os.makedirs(args.output_path)
         if not os.path.isdir(args.output_path):
             sys.exit(f"Output path is not a directory: {args.output_path}")
         for input_file in os.listdir(args.input_path):
