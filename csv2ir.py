@@ -50,18 +50,22 @@ def main():
         sys.exit(f"Input path not found: {args.input_path}")
 
     if os.path.isdir(args.input_path):
-        if not os.path.exists(args.output_path):
-            os.makedirs(args.output_path)
-        if not os.path.isdir(args.output_path):
-            sys.exit(f"Output path is not a directory: {args.output_path}")
-        for input_file in os.listdir(args.input_path):
-            if input_file.endswith(".csv"):
-                output_file = os.path.splitext(input_file)[0] + ".ir"
-                convert(
-                    os.path.join(args.input_path, input_file),
-                    os.path.join(args.output_path, output_file),
-                    args.protocol,
-                )
+        for directory in os.walk(args.input_path):
+            output_path = os.path.join(
+                args.output_path, os.path.relpath(directory[0], args.input_path)
+            )
+            try:
+                os.makedirs(output_path)
+            except FileExistsError:
+                pass
+            for input_file in directory[2]:
+                if input_file.endswith(".csv"):
+                    output_file = os.path.splitext(input_file)[0] + ".ir"
+                    convert(
+                        os.path.join(directory[0], input_file),
+                        os.path.join(output_path, output_file),
+                        args.protocol,
+                    )
     else:
         convert(args.input_path, args.output_path, args.protocol)
 
